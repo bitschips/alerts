@@ -1,0 +1,56 @@
+{
+  "updated_at": null,
+  "source": "Google News RSS search",
+  "window_hours": 24,
+  "categories": {
+    "accident": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "civil": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "terror": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "nuclear": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "nato": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "cyber": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    },
+    "weather": {
+      "status": "pending",
+      "error": null,
+      "articles": [],
+      "count": 0,
+      "count_is_sample": false
+    }
+  }
+}
