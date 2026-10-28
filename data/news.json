@@ -1,55 +1,2090 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-10-28T23:44:23.881274+00:00",
   "source": "Google News RSS search",
   "window_hours": 24,
   "categories": {
     "accident": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
-      "count_is_sample": false
+      "articles": [
+        {
+          "title": "What We Know About the Deadly Train Crash in Spain - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XRS1xeHFXTW9uaXpWSnhhVzF1ZjFWTVN5U1h3WVBQMURWYS04Z3kwSjg0cUpJQmJNWF9PU3RJRGxHa1BtREd2WU9VcG9oLXBKanFZMlU1MHVaems5NFJHbFJPNGNMeUZuQkwzQm51bWxMbDEzMmwxTFZn?oc=5",
+          "published": "2026-10-28T21:19:40+00:00",
+          "source": "The New York Times"
+        },
+        {
+          "title": "At least 68 people dead in Spain's second major train crash this year - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUl92blFTT3BtRmEwUW1tNWNPX09pUzNYNEhrSUZreGM5bWRIdG5FaVRYal80MTR1MHBkeEdQak5sNzNwdmlwc3d6YWNPUEd1U1ItX2gxaGJSRk1LWGt4MDFhREVINXFvZWNTQWdIV3B0YXhPQWZKZ2UxUEpWTk9YbjdXX0doZEJfcC00TUlSOVhYaUNQWllyMU9QVkxOZw?oc=5",
+          "published": "2026-10-28T19:35:43+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year - AP News",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNejlKVDZEb2JQZ1lKZzBJSEZISTlCUUJBTEJYdVFJNmRTbi1wY011V1JrUFJRY0k4RjNYaHoyZ2VnRjUyZzJjWXVlNXRKOXU0NmJ4TndFVElHSFJ1WDZkQlFDZmJuVlJPRXRfMXVFbGtCVFl6bVNGd1lkRDFxWkc1QmFQVzlCS00?oc=5",
+          "published": "2026-10-28T18:49:00+00:00",
+          "source": "AP News"
+        },
+        {
+          "title": "Another deadly train crash puts Spanish infrastructure in question - The Economist",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGs5TV9TUWxzVU5JTG95YWR2U0xVRlB1Z3pxT3FuSDdkY2tPMndTWnExZTJHTldHalI3VVhtWmkyaW4takRSczY0ZnVGdFAzdVBlNE9jNlFhbTZHMFpUZTBlMEJkX0dnYWs5dmI5UnVINmtSNnNfeGZHbkdtdFhYY3RIR0QzUzRaV2hnWmZjSFh3TWxod29ZQl9FYjR6elhaQlE0c0ZTaV8tcjBzQXZj?oc=5",
+          "published": "2026-10-28T20:57:31+00:00",
+          "source": "The Economist"
+        },
+        {
+          "title": "'Inexplicable' order probed as cause of train crash that killed at least 68: Official - ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
+          "published": "2026-10-28T20:40:22+00:00",
+          "source": "ABC News - Breaking News, Latest News and Videos"
+        },
+        {
+          "title": "Oct. 28: Deadly Train Crash in Spain; Pretti’s Parents Call Out Feds & Mel Robbins on Stressful Times - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1Z1aUhvUGlLRGloTFkxRWt1X2pPelJNZDlOdHdKeEVqRkxOaTdScXVGai15MTR2NlJaN2FHLU5Nc3JhRVd2MnVRZHJGaEFjRUVWZVdicnBoWjR5LThTNEtHZHVvdkgtakZTYm1DMVRjNjBGdnI2SVpPZGdVLTRhX0gxcEdRNldiWGdSay1feGhCZWd6NkNJU1Mzck5pb0hVTHZiOFJVaGlSVll1SEw4eVNwOEpOV0lkNy1McU9IZ1BsdFZOMWJNWjFKbEhKWTliZjE1di13?oc=5",
+          "published": "2026-10-28T22:58:10+00:00",
+          "source": "NBC News"
+        },
+        {
+          "title": "Spanish Town Rallies to Help Victims of Deadly Train Crash - U.S. News & World Report",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW1aekZXcTNhV1htSkFBNDZhY3RaVjJBMUY3d01Bal9qZk1UQldTWGp5RWFWYzdFMFB6MVBlT3VmZEZ4akR4b2VxUlRuNzhNME9pUjZxUk1oOXNMR1lCUVJPY29ib2hOX2lDVU1LeGh3OUg0c1h5UmVjSC1DZWdYWUgxR3lvOV95cEtJaHY4aVlSdXZOLW5LaVNOV0t5U0NTbFNNTEVCdnlOWm9samowa3Rn?oc=5",
+          "published": "2026-10-28T19:21:26+00:00",
+          "source": "U.S. News & World Report"
+        },
+        {
+          "title": "Jacksonville firefighter, nurse wife survive deadly Spain train crash, then treat the injured - firstcoastnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSW1uUDM3bGRQbnJRdmNNRWVFR1QzREoyU092dUNCa1FBTjh1Y0xyZGVBdHIwaGszZmE4ODdkcG5oTF9PM3Y4bkxRbGRLQnZiUGppNm9VMGJJZjhiZEVuMkFNck1mWGVWQ2wxMEJHZF9URU5BMWFYR3R0REtYcDhRaXFvcEVSWjZjQzNSd01aSWR0WVI4djNQTXZRc1dpTXF3bFd4RWk0V21uOFNucjl5dGstWFZyX3JaZzRPM1V2cUFndk5ranZpSHN2YUlOSU91MFVRX3BDdllzOFBUY29TXzFYZk1ndw?oc=5",
+          "published": "2026-10-28T20:42:00+00:00",
+          "source": "firstcoastnews.com"
+        },
+        {
+          "title": "Spain train crash: At least 68 dead after high-speed trains collide near Madrid - FOX 5 New York",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tMUhPbmZHOE95bnpIQ25HUnRpWHVYbU9qak1fQy1fUnJIbGl2c1F0dGJZZHNERXpyX0xldk0xQ3c2eVh5QTRRNjFPWXpkZEhXUm44c3FydjN1d21nSEHSAWNBVV95cUxPcEx4VzFRcWp3V2xWUDRIa3NLM3BMV0N1a0J5UjlxMnZtNklNdDdzNGxXb1ZxYTlFWUhMT3FUZmc0Q21zRUpVcENNTjQ0R3UxdmtkZmU3NUIwcUdxc3Z6YnZubXM?oc=5",
+          "published": "2026-10-28T21:59:09+00:00",
+          "source": "FOX 5 New York"
+        },
+        {
+          "title": "Here’s what we know about one of Spain’s most deadly train crashes - Northeastern Global News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40YjM0aFVuWmczMHNHQ2FRY0tYZl90RHFidmFmMVF1N3puZWotRWluQWhiMUM4RzZveE9SUzBvemF4VF9BVXpLUWFWU2VhU3M2Z0E0RW1MREFfV1hGZEFvbWhaVDdBMnI5OGRZa2JYZF9OUTA?oc=5",
+          "published": "2026-10-28T17:46:45+00:00",
+          "source": "Northeastern Global News"
+        },
+        {
+          "title": "Spain train crash: Sanchez declares 3 days of mourning after 68 killed - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTElfWWI4MWZGSDJhc1IzY041ZFJySWVUdVFzOEVFVEVXbXYxeHFMT041NFpzQXYwT2dBYXJUQkF5eElpdUM0SjREclVhNWJ1eWdKMnY1UmMxN3RxaXk0ZUxSWDhxVFU4Ry0tclA2VUlxUE1CRFNzRFZnWS0wczFReUwyTlQ4V0lKTTdRX293UVZpWEVrVGt2UGF3aDFEZFFoYThYYTlkeTk5alZ5ekE?oc=5",
+          "published": "2026-10-28T20:27:14+00:00",
+          "source": "DW.com"
+        },
+        {
+          "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes - AppleValleyNewsNow.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUTRzZXc2Z2QzU3I3dldJNnE0SlpwWWVXSTZXS1VEWVpZbVBhS2R0eWtTTmZRVDJSeUtRcDRwZVhlNkQ1QW5PMlJVbDFDTm5UMWJjaWI4UGJ6NW9FY2l5YmJJTmpEc1RtNkdKSjhaVmdCTEhYa1pTWE1mbEhTdlVuRHA4bzh0aG81RXFrdkpjWjgzQ2EtSDBaRjloLTRpYlBfM2ZmZllTLVJlcmZCX2hfWkxOdnZXZmxOdXhMRk04TVlMMGJyYk1XdlMxTmZkMmV5YVlSSHZnUkZsWUcySFV1MFlQY3R2Y010dFNwVlpaLVFiNzVja1hsLTdVQVdUMndXNnFoVGRkYU4?oc=5",
+          "published": "2026-10-28T21:26:03+00:00",
+          "source": "AppleValleyNewsNow.com"
+        },
+        {
+          "title": "How investigators determine the cause of a train crash - qz.com",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qa1R3SWtjNW84bDYzZGJSdlVxM1ZnZmYxR21SNWoxaFpRSE5Ob2J3Y0Q1bWJpaG1Jcy1Ndmt0MXp5QTk0a2tLRGRWcjNGQ21wZFY1QTlQZUVwT2ZTYnJtNHBHbmFjMzQ?oc=5",
+          "published": "2026-10-28T22:36:51+00:00",
+          "source": "qz.com"
+        },
+        {
+          "title": "‘A Twisted Tangle of Metal and Wreckage’: Spain Train Crash Kills at Least 68 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHpydWd4SVhWZHFYakNHS2dXTXVyQWJDZDByU2xpM1BKWVl2Y3Z5RGFvY1FDSld3NkltaVVCa3ZZdzZWcWhxckUzcjEzcGZuYW9kazQtbkhORS1BWHRMZVNjaDdXLS1INHVObnIzMUNVVEpMU3ZOMllsQl94cTI5UnZ0bWsxMVNQVkM4a2FB?oc=5",
+          "published": "2026-10-28T20:26:04+00:00",
+          "source": "The New York Times"
+        },
+        {
+          "title": "What caused the deadly train crash in Spain? What we know so far - CNN",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVzR0akhER3FqcmVpeEJQTFZqYVdhLVU3U2FiNWgtMDdYa0c3em11My1ORnlEdkxCY3ZoWnVDcFZBZlgzY2Ixcm1ZREo2UlVXMzFTWUZEcnB1VWlRcTBzdVZsaDBCYUNTVnJhYlQzR2NSRlE2MkllWjR0NHM1MUdHZEFXWDFQdw?oc=5",
+          "published": "2026-10-28T17:57:06+00:00",
+          "source": "CNN"
+        },
+        {
+          "title": "Spain’s Transportation Minister Said Incorrect Instructions Led to Train Crash - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3ZzQXp2SmhQaXQzWHVtdDF4c0dUbkZjNFNkZmZQSzA0NmVXd2VHVVAyMG5ibkRmLXpKZUZlbloyT280bl84SkMxbFNpZS1UM0lpdWgzZUxvQTM3dFFRb1lSRlBoWXY1aHlldXpLaXh5Y0F3R1pQaWZhem9FMjVwUFp3?oc=5",
+          "published": "2026-10-28T17:36:08+00:00",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Dozens killed in Spain train crash, rescue crews search for survivors - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWFIUGJaUXEtVlBqLTV4dUxQWUV2UGIxVmNJZlVrT0dyMk4wQjJuTVNjb1RKWXhjb1N3Uk5CekNlT0NJdldvYUR0NWJVZlZCVWNHWGcxMU9jUFl6RFhGNFk5ZjJabUVsUFpQSFFSeUg0ZU5TS2wtVURyNkJQOHhwWHJZN3hlVjlDYXZBSnlhS1pWelBmWHBLRndUWHFMbnVLS1ZuRUFrTnlOdw?oc=5",
+          "published": "2026-10-28T21:12:00+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "At least 68 people dead after high-speed train crash in Spain on Wednesday - 13newsnow.com",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeWpicVhDbTloSTdPVXlTNTBGcURqU2VqQzlyR3JVeThyQ2FVNEVRM3ZDazRIMk5WNGZhR0pkX2ZsLUxnSjRaREo0VkRRblpMNkZxSUU0S09wZ0hXdVgzTmplcHdCU3UyckVwbU1KQlgtdU9PanNtd09XdU9YTVRmdXNNbEVkN3VzS2RrVjdhd0dQR3dSbjh6SVp1TFI2Mm15RlVaWUltTHRUMjlpeHlOeUV3MVRYWjh4RUR2UXVDOUtZSmtQWi1HRFAtR1pDMEEzeURYYk5nVXNPeVZUTXhNbXVHR2l4ajVrSTk0aUNwOGdoUHdoblR1NQ?oc=5",
+          "published": "2026-10-28T21:43:00+00:00",
+          "source": "13newsnow.com"
+        },
+        {
+          "title": "Casualties and causes of high-speed train crash in Spain - WRAL",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV283cWdWTFRocm5LaXJoOWszUTVYVjhOV3hWSE9vSzFDMlVKeFNNMHlIbkZmXzRNQ1JqcXNUR0xwU0FXOEJId3lmcmt2RzFJOVY2aDJral9COTliTDZ3dm9JcjYyV0Z1S0VYblZPbEdPY0I1OVdDZl9ISmxVMlA3Tk1HU1AzZEp3bWZPVm01azQ4dzF3TGtVZTYydFdZZw?oc=5",
+          "published": "2026-10-28T22:04:53+00:00",
+          "source": "WRAL"
+        },
+        {
+          "title": "Spain’s second deadly train crash in a year leaves 68 dead, prompts safety crisis - Deseret News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1hHelFaSXVsbnhlSVFFdkR0VlpFX2oxM2VyUXB1UlJfSGdvWTg4S3k0UWxuZ0tydWlZRnkybnIxMWNfWlV2QS0wNzM5S0xqaXl5a3BMY0d2emJBM0trd0ZnS3FKUTRWS2Y0a0V6OTkzaHFqUlpZSm0yM3pHRllHaEZRZVhnaTZjLXpPb0tpNA?oc=5",
+          "published": "2026-10-28T17:39:32+00:00",
+          "source": "Deseret News"
+        },
+        {
+          "title": "Spain train crash kills at least 68 in second major collision this year - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTk9tbmdGeXU3SkhZNFlDZEw0cEgtSkQ0V3ZxZG8yZzZ0YXhSWjVSOWxGV2lya0pUenlUX05UcWpKT0RwZ01PS2hIMG80Uzg3cW4tYmY3UlQzZGVFQkxtQXdTcE5rTi1KcHpEWk5pMFUtN0VtRlNrdXYtVlQzUzJpTkluZjdnZGc3ZVlFT1k5MDFaSXJyMXZZ?oc=5",
+          "published": "2026-10-28T13:52:00+00:00",
+          "source": "NBC News"
+        },
+        {
+          "title": "Grade A Recycling owner visits UPS plane crash site, reflects on tragedy 1 year later - WLKY",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR1ZaSUU1b0hRVTBBZ2xHNTE0cGNoeEp2U3B3TXlqRHprUDhDZTFPTVl3WEFTZEdSazVOWXpFb08xRWR1NlhwVU1yd1Z4X200VTE3a3ZPeFRzM05TNXNDMWRtalRDSWt2U1BjczhGdjVPQ09NOWFfbTV6Qy1Ya1JlMlUyUDU1QVJLN0pkZDBmWTNJUW8?oc=5",
+          "published": "2026-10-28T21:56:48+00:00",
+          "source": "WLKY"
+        },
+        {
+          "title": "Exclusive: NEPA Woman Recounts Surviving Plane Crash on Dog Rescue Flight - fox56.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVIyTGVZSjE1UTJBYktlMWFwRlQ2N3FyN2hwREh5NGhGNzlnZHAxZklHNmlBYVRaRG93bWZuMl9mOVZxb09DN0l4ZGVVQzlZNDNuQm02WlM5TUVtNl83LThJTW5DOFd5WHkxb29feU1QNmhxQ2o3LUNIODc2X3VGMjMwSTVDOTZtaXB0TkVldUFmTm1QOGRwVDJkU2h3R3ludXhr?oc=5",
+          "published": "2026-10-28T22:14:17+00:00",
+          "source": "fox56.com"
+        },
+        {
+          "title": "‘It all happened in a split-second’: survivors recount details of deadly train crash in Spain - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbHd4MHRrTkZ5bWtsenB0dVNSeE5EQndCbG4zX3NjTTY1eFlTRXJxaXZQMnRLNEE3NDNQaHFWbkZDQ0p1UnhWVDY4eUhiNHF0UVB0ZkpCQ1Y5UGhhTnd1Rld0ZTl0WWVvWTdEUFlTUDMwZlJBckNvZllZUnYtWXFlcDFNbDJxU2R4NnRxeGx4NXYzc1VtWUdIUDdKOXpuU1ZTZHNKcGFZWXpXWlhPMzRHNWh0TThZalpqY3k5VlBMbm9jTUJja213S2VwYUlnMFpvRmtkbVBLeDFiQTRhb0dia2NPRHJoaW5LR0E?oc=5",
+          "published": "2026-10-28T20:57:00+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Spain high-speed train crash kills 68, injures over 100 - AFP.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2twVlVzenlvWG1UWjlNVktIZ1hfaFo4dVVzTE45NTEtc0Y5dWJlYUkxYzUwSnZHXzZRNmF3Xy1QQmVyYmN2T0RFLUotejRhMWpiRzRKSkYybHViWnZScnJWVDRrRVJRNTY3WU9kNEN4NUlnazR2cGFEMERZVURXQXF6bw?oc=5",
+          "published": "2026-10-28T18:33:45+00:00",
+          "source": "AFP.com"
+        },
+        {
+          "title": "Breaking news. - High-speed train crash in Spain kills at least 68, over 100 injured - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkFQS2pmRFBzQi1RQ3RVVWMxME42b0VQWTI2bElGeDJLeENhbkZmNVR0c1JjT3Fmb0VxSmNBVS11OEUybm44a09IS3FEeUF1czBfVS1BWnAzdW5BWHl3RXFhWGcxWGg2OUVUdmoyY09OYkZKZXd3elhpSkF4TzdxUU5qVGRrOTFqM1hTSHRvZW9ubjMxRWphc1dpN25GT202eFFCeXE2WnBVblV4bXc?oc=5",
+          "published": "2026-10-28T21:25:31+00:00",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "New details emerge on what caused deadly Spain train crash - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0ZSajdjYWRqeDVxMkhDMFdKSmhTbXNCZXRQakx4Z0lHOVI3WkxmTklsbTB3ejFYMkNVYnJ1U0tORU50MVVNLWZ5ejA5d2ZhZWRFbFBUZEtEMlZBMmpJSWFXUThlSDhQMGhNZVN0U2swV1pxSXBhaG5QU3dGcnkzNU5NaFUyRW1yZzVwYV9pb0hsNHdmRlR0VWU4SXlOQXpjcFJBckdfT0F6a3I0?oc=5",
+          "published": "2026-10-28T19:39:15+00:00",
+          "source": "NBC News"
+        },
+        {
+          "title": "High-speed train crash in Spain kills at least 68 - WORLD News Group",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdUJzMzdHV1RRR2FfWDJsOUtqbGNobUk4SXo1TXB0M3BTYTJFcVB1a3NUTkIxaE50a0k4SnVSV2JjUHQ4ZHo4YlplUHNwYmtkemZGdnFqNm5lNllWY3JzbzVRV1MwUFV5TFlkX09NMmQxc1ppWUMzWEVNZXVZSTRoY0FzNzFINW9N?oc=5",
+          "published": "2026-10-28T17:25:00+00:00",
+          "source": "WORLD News Group"
+        },
+        {
+          "title": "Dozens of people killed after high-speed trains collide in central Spain - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3hwZFNVWXpqeFU2NnJtX3k4dDBncGp6T2VjUVBDOVNsVXd1dExqV0xxUDVXaHZKS04yWVZTdUtNblJRa3lYZ3JSR0E2VFJJcnRWVGl4Zk41cEU4R2FsbDhMcGR2a2l5VzZHUHp1Um15a2tiRjNlWlY5TTlycmVUbUdhU2dzbm5NRDUxMnJad19WUzlwV1RkSlJiMzdmRW0zaUlVTFVvaETSAagBQVVfeXFMTmF6TmtJZ0VMNEZ3TkVJMkhUVm90NEFYTlFXWTVyNUt6S084dWJhNmVQRUlnMGhILVlHVlZXRHVZa1hNNTQ0aFp2U2xucXBxVlNCQW1iT2czT2x5VWtvOWk5NnNQQlZSYVVxbGxMdmJxc3lzVXZsWF9yVlhBb2RDT3AwWXhPZkdTOVU4YnVtQ1JEdXlXeV8wQWdrQ1RDVk9IR1Y4VFhaWUhP?oc=5",
+          "published": "2026-10-28T17:12:13+00:00",
+          "source": "DW.com"
+        },
+        {
+          "title": "Spain’s Second High-Speed Train Crash This Year Leaves Dozens Dead - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlNUUkhsMkJEb2UzSEItWS1sWTFsTG1IWHFTYmYtNTVtSC1LOWp6R1c3dlU2b1RTUVZlVUhZVFZ5Ym1mOW9OczhDY09LVlk5c2tiNC1Bbmp3Q2hRMjdTdGpYZTZvelBzOGNoaTEtYklBU3dZbGRZUGRUcTBZcWl0Ymk4Y3pkZTM3cXd1ckxCbnM?oc=5",
+          "published": "2026-10-28T16:03:00+00:00",
+          "source": "WSJ"
+        },
+        {
+          "title": "What we know about the high-speed train crash that killed at least 68 in Spain - Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSDhvMXlrcFI2ZVZYMzVTQlltMkFTUjFnZEVuTDlxcE9wTmhlb3VjTEhic3ctanVvSmJjR2VKeV96dGdiSWFTQjN4VFRja3hzMnAxZWJtREk0ZlY1YV84aTlUdGhjb2VVbGxobzY5MjBxUndpeGo5bURabE9faDZHZFNydVV2aXFSWmZsaGtpVHk5MUlXWkZHdlhnU0Q4eTVfYVhIVWdrdUQxMnNHbjBXZWlvSTFxZVI4YnZTREQ4b9IB0wFBVV95cUxOSlpmVFpGVm1Hd3pxS3hIZVNjR3dYbUpnX1NuQkFPNVM2aGlNS0k2MlRzZHRkVXo1RHVQa0dnRjhrSEdLbmhiZHRKeWZ4WGc0UXprNHduVHZ6dnlJbUNYRGNNVnJ2cm1FU0xsQXhOMGM0X0x0YW9lR1V2SkJLZ1NKT1pFV3Fwa3lpUWMtSHpiUGFYUi1YWFJUZVhqN0JaQjNfdjVhMmJBOHQ0MnJFTDZwdG4zU28zSnFEOHdoSmx6SDBMWGpKN2NpWHNTemd2cThZUm00?oc=5",
+          "published": "2026-10-28T15:19:00+00:00",
+          "source": "Cleveland.com"
+        },
+        {
+          "title": "Video. Spain: Madrid mourns train crash victims as rescuers work through the night - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0JCMVhkbnN3VHZaY3djMUxqdnpVNG5aVFRFbFpBX1ZwM3R4TmFwNDRQSU9pRzBPQ1B1cmEwZGYxcHZBcFVjY2ZnRkJXX2FmcGhsUHVvOEloOGVsRVA4U0xXZWVjR3ZKazU4d3NGd0lyaDRmNFV0ZjFYNTJOa2ZCTkJoeXA2Q2w4RlRHVXhkZjRoZEJtbGdyR090b3FYbEFueWY0cnJDbzIyQUplR2RidWExblpNbU0?oc=5",
+          "published": "2026-10-28T23:10:38+00:00",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Copa del Rey matches postponed after fatal train crash in Spain - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFBpMFRHd3JYQVFWOGxDVTAxNEluRl9RSkpVM1JDeV96a1NwSWY3LXNuYW56T2JmUEpybGV5UW91MkpiZGFqSHZKR3ZaOTVRemJDVk9DMmM4TnZVNTl6TzZYaVZ6S2FUUW0tS3N5ZFBmWklvak9IaDVqc1E3WEF2aFU0WkNkYTVqeFpDVGIyNkRQdDV6Mk1pV0s4T3U5TmgwRjFOTHN5aVdCdjhKMHhXTzdZWQ?oc=5",
+          "published": "2026-10-28T13:06:00+00:00",
+          "source": "ESPN"
+        },
+        {
+          "title": "Spanish Church offers condolences after second deadly train crash in 2026 - Crux: Covering all things Catholic",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlRKRnRpckFCaWxVNEVOYldTWTVjcnZiS1NkU3h2bnY3b3BBRWRYR0I1SG1OOGItN2tpc0FtRDBtdGRvd3NNV1lsUEFPYWROVmN2TFF3MVZVOUVvUi0tNU9NRUJlRGk3eU9EY2pmUFpSVXlkSkJjRUlXYm4yMkE2cWx0N3BVaTR6QWxDTHIyVE4wZk14VFhsNy1PcVdqMXIzdGppTHNPOWtvNG8zcURDOFNwVUZnNXRHbkpR?oc=5",
+          "published": "2026-10-28T16:25:40+00:00",
+          "source": "Crux: Covering all things Catholic"
+        },
+        {
+          "title": "Spanish town rallies to help victims of deadly train crash - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbk9selVldHZkRWVPNzhqNGpHdzI1dl9YWlJjanhIbDlBQnQ2QU1UdGxud0xmMzBsc1c2a3ZaYVBnUzdPMUctNXlXZUJYLTNvOGg5MzFlaXBTNzFDaVg4TDFvYXZOYUdKc19LQWRvTWkxcnk5VVJVTVNheDBrUkJLTWZDa3J1UzNjaDVBN0V0NHlNSjBIaThKUjJn?oc=5",
+          "published": "2026-10-28T19:03:50+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "Train Crash That’s Killed at Least 68 Blamed on ‘Inexplicable’ Order - People.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1NzWU40ZHhoNFVPSE9CWGhmYkRWeG1mdTh5ZGNNY3FwNlVJd0tEZlhIYVhQSnRSRGdDMi05SldtelVYQzdUWS0tMlN0NVROY2hnUEJpR2hhTUF3WC1ZU3VQQ3YtNXNCalY1aFFhcFZpcHg5X19hUE5TS2lrdDZsMXk1cGFGMVVnRTlNUmZIcDZBdklOUDNwcGlSaUxObFNiYzIyUEJ3?oc=5",
+          "published": "2026-10-28T18:04:12+00:00",
+          "source": "People.com"
+        },
+        {
+          "title": "Spain high-speed train crash kills 68, injures over 100 - France 24",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeTZzdEl1ZW1OSnl1ZW1MUnZlTGYxOTY1U2pHeUFqQUQ2eXFtQkVEOEFvQjBKVXgxWEJueWhuenlWN2xrRDYzVkJIZEd1c1h4YVlzQmwxdklVYTF6ZlFyZm5IWkhGZ0VNS3I1SE5QRDlQdjlaUGt6blNId18ybExxOXNuamx4bld3cGc?oc=5",
+          "published": "2026-10-28T19:20:15+00:00",
+          "source": "France 24"
+        },
+        {
+          "title": "Evangelical group calls on churches to support families of victims killed in Spain train crash - Christian Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMndURXJLY1dpNUtjMU9GbUhpSHVsZW9TSGFWZWZUUVg0anFuVWRYcVhJZVFPX0ZDTjRXbHc5NS1CckZsX2kySDB1eDZLVzNxVE5BMk5oZEx0c04ySnVtM0ZzN1Y1cnhscE1xSmtkNk5GVE9KaWMyTkYzZ0w1Qm5GaFhySXRwVDhpSUdpRHNSdVlVYnlmamVKZ3E1YkdoU21qd2ow?oc=5",
+          "published": "2026-10-28T21:15:30+00:00",
+          "source": "Christian Post"
+        },
+        {
+          "title": "Deadly high-speed train crash in Spain kills 68 - NonStop Local Billings",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFpGY2R6dTNOMUFPY2pNTEtkZHVpNXhsNEY0ODZUYjBsZXZHOGIxRjRYZk0tdDZ6dGJ0MkJJMEF1UFVJLU5XM0hlMEFJaVJGMjVhX09jY1hELU9ZOTJ3RWV0RHdkbm4ycjkyRU85MUc1bkVjNGx4elZaVVhHdmJvRGlVRk5KSHNaRklFeGxYWDRKUi1mX0xOQUstbFZiZTRqU3JhRlpfTVI2NmZZNktOYXdsN2hmcVJN?oc=5",
+          "published": "2026-10-28T19:26:37+00:00",
+          "source": "NonStop Local Billings"
+        },
+        {
+          "title": "How did deadly Spain train crash happen? Here's what we know so far - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDY2ZVRxTHNjc1FkamhDcENhS0dNOW1lS2pwZE84QTRvd2IwcDZ5dkh6SE9MT3dJaWItRmxBaHQ3MVRNbkpMSF9VbF9xSEd2VFEzd3p4Vjc3SFNBTHJrcmI4ZUE4R2labF9fNkRxZkozSzVldW1Uekx4N01kNGpUeC1XWGVkSkNwS1FxQmVMWkJuTGhSMXJ0ZGVWXzRwRVU4a2NaS2NSaTdydw?oc=5",
+          "published": "2026-10-28T19:09:00+00:00",
+          "source": "USA Today"
+        },
+        {
+          "title": "At least 68 people dead in high-speed Spain train crash - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfRFl6WmZqOFVDQjg1NU5IbGJOZlA0Nm1UeTJfWUpiR2Frcjd1ZU9CeUZBVHZQN2hpSWFTQWNqaUJXZVdnQWxmMVNZcXNMa0NLNW5vcU1iZzZVUXNrWFAtcVg2YldaWFg4UEc2dFhpSU1NbmvSAXhBVV95cUxQV1FtLXNuMEUwdV9KRVVhU054RHlNTmh3VTRiS3ZVdlUtdjlEQjVzOFlzR3ZoNV9RbFVWNFNkSHpLN1RtN19GTWY5bmRGV0Jzanh1N3g1STFHZGk4ODZzX09PUWI2QUx2VnU5N3RNT1EzN1pDakVQVms?oc=5",
+          "published": "2026-10-28T09:35:17+00:00",
+          "source": "CNBC"
+        },
+        {
+          "title": "'UPS Plane Crash: One Year Later' | Streaming on Nov. 4 - WLKY",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPclhUbldjUDU0Tng4MXFjOS1OLUlZUE9aazhWYW52TjdrZGdXWGtNMkNITkN2ZzItSUdtbHpsRWt1MjlsazFhOThQR2RibHlQd2NndkxsMHZSZUF2WnkwWVVNY3RuVHF4V3lUQTVTLWJNVHNkTENsTzNEZVlWVURmUk5HRkZXUFZoNXhnUA?oc=5",
+          "published": "2026-10-28T18:14:00+00:00",
+          "source": "WLKY"
+        },
+        {
+          "title": "How a high-speed train crash unfolded in central Spain - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zaUtUTXAxQmdJaEticHJiRTJoeVQ3MVNEN1JRRWNhdzZpa21tUWxsX1NmSE43NW1jNDJzVzdteHBOUlJGbWtqMWZmZ3FtU3VxSFVzUGlOQ3pDa2s0alVIMnlHTVBMbk5Ycm5zNg?oc=5",
+          "published": "2026-10-28T16:00:00+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "High-speed train crash in Spain kills at least 68 and injures dozens, officials say - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOGZRckp5R1B4ZS1qakUyZ0liUmVhd24zRUM2dGN4Q2hRYm5MMG1YN25HZTV5S1BuOWdFM0h0VWlUVHNxYndzT3A4d05IYUhiOE1oNkgzNEppbm5hTTZ0V2pXckNjTEhDZFgzdWMtTlEycmNqWHctSlFOUVRjek1tbFJNdnFycTRhMWdOU1JsaU51WGdGdzVyY0VDVjlwaUdGZ1VpRGsyY1RrMHRLamJDRWF3cHpGSFRHTXNFRUhPYTNfUQ?oc=5",
+          "published": "2026-10-28T20:38:00+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Dozens dead in a high-speed train crash in Spain - San Mateo Daily Journal",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTctUS1wRXZfUE9mUXZWdkVsYmxDcVJBMmthWTJzTWVvd0Q2MUxmRUVEWVVqRnlWS2xxMk1VTFRBZ2FoMEZtSk1NUnN4WkVYZnhoRm8zZkF6SzJuREZBVl9jVzRTYkpWWi1DUFNSQUJwaFByNnJvcExXZWtwU1FCMDByN2QzbC1MYkVDRWUtbUVQeDdNNVFPTzM5alZNcEF1QUlBUDJUZVdVd25XMmFkeHU4YTB5OEFOOVNxd0UwQmJ4am04ZFBSRGZkN3ZyVGtmeC1iMw?oc=5",
+          "published": "2026-10-28T23:00:00+00:00",
+          "source": "San Mateo Daily Journal"
+        },
+        {
+          "title": "At least 68 dead after train crash south of Madrid - WQAD",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSTRaSTRWUW9jQzJpdC1ZUElVaWpHX0ZpZUVPdURIcWVvT0pmZE82UFA3ME50aEdUX25mY3dYbDQ2V09LRDFfOHZPT1JpX2FrRl9FM2dCdGFxdFNLWjM4RWFyX0dmSGdOd0NXdzVTQTU1cmFPMUFJcUF5elRrdVh5NW55Z3ZzQTVwa25teHdXMVZnTU9tU3NJb3FvVU1UWEJZY2tCb3lReEZDbW5Oai01MHFRSkJ3RTdfZlZSMkdqUTFPNk5ZSVVMNDJwcmc?oc=5",
+          "published": "2026-10-28T21:13:00+00:00",
+          "source": "WQAD"
+        },
+        {
+          "title": "Exclusive: NEPA Woman Recounts Surviving Plane Crash on Dog Rescue Flight - fox56.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFhxN29WcWI5dnZiT3pjXzBSV1pZdkRwU1Fhek1xSG4zOVdBVUhwLWFCVGp3SWpaRDAzZVRldkF4LVdRTlh6N0Ffb293NGc5V2Y0TmlFQjg1enVPbGRneVh1SnlKRmo1NzVqM3FINHBDTHNWVXQwbTlfTzRQdmtmR3VLYzNjdm1lNjRTSXRKMzE3eDZkWmxHTGIwVHVZbXR1cnJ1NUx3Zy00Y0p5V2c?oc=5",
+          "published": "2026-10-28T22:14:42+00:00",
+          "source": "fox56.com"
+        },
+        {
+          "title": "Newshour | Dozens killed in Spanish high-speed train crash - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GUWFDekVCZ3NQUUhvQkFUM25IbW0tN1Y3WFN5TnpVVUwtVndPNll4emdxMkUxbkU5N2FWb0lPX1dkalhydTBWbEI3bENrN0lvX1NaYlQ0YklJUQ?oc=5",
+          "published": "2026-10-28T22:21:48+00:00",
+          "source": "BBC"
+        },
+        {
+          "title": "Train crash in Spain kills at least 68 people - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNTRTN0Y5MGdzX1ljbWt5Y1oydGZldFZwWWQzUHcxcl9fSW9RTUdZT25ua0RudERtV2E1dDV5aTR1R1pYbVBYMTN0TVFBaWlHLUQ3cjJlZVo1M3haTU1KVUhkZ2JVVFE4YVpxYlF6NVZEX1RwTm14Q2VndGxteFFiSHJwdW1PMks4Z0xLTVdEVWtNQlRWQVJtQ9IBngFBVV95cUxNcHN0OFNkMnEwajFVTkxDaE5SOGxpWGVkbmVxaTVIaFVodjlITkQzNmR6VjdoZFY5UnRxUE4wS0tTUHM4Q0dHWldaTEJCMkJYUXRoam1PeENURW1ITWhVU09rQWd0aEZOb1c2SkFFcTdwQkxzU282ZDJaR3JLQ2VpOWVVM0R0dTNCd082UXVOcFhLcWdJaVpOaVZGX2sxdw?oc=5",
+          "published": "2026-10-28T16:30:19+00:00",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Spain train crash leaves more than 60 people dead - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTnpkYzZ3eFU1T1kzSzV0OGxySENxNURNMTNDRlNfS2lnQlcwdl9Zd3ZqdHd4eWoyVGdlbzZkYjBwWV9mVVJ1aHBUd3hheXphamFiV05meUNVaktMeGRDMmxjaFphbi1kUnYxSlIxTmNHVkNndXk1dS0wQUhGWkZkZTZ0QUZzdDBQbENaVjhqem4?oc=5",
+          "published": "2026-10-28T16:05:00+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "APTOPIX Spain Train Crash - TelegraphHerald.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbk1XUTNxZjBaRm0tblRkSi1oLXdacktSLVl2Y2JRTXFKU0ZsM0RacVIwcUY2a19RZWpzcXY0ZXdRWmhTbjFsOFZHTjk0TXZoczRUYk4yMjZ3X2lxd2FDOFpnNnRrd0wxZHJ6Nk9GeXowZmpta3Z1X2dKV3N4S0otNTg2ZTZjVUJSNEc0Rmw3WnpnazJrWkRISw?oc=5",
+          "published": "2026-10-28T22:40:03+00:00",
+          "source": "TelegraphHerald.com"
+        },
+        {
+          "title": "Spain Train Crash - Post Register",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVdJVVFXYnQ0UkM2OFVoMDViUDBUTlhZRXhHX2RMMGVnRW9UTVFPVFBRRGFIRnFRMnBKc3ZEUld4Z2pNT2lHRzhkUHlWR2IxSWdjM1NNZkxmQmpNY3dEWWNOaEEzeFpXRmNka0JPV29LOUNOSjFJNEViNS1IdkVreFg3OEdDNWkxNDZZaEVsSjJ3ZHpCU3RnbEZqUzc3bjU0Y2lPUURmSUM?oc=5",
+          "published": "2026-10-28T17:46:02+00:00",
+          "source": "Post Register"
+        },
+        {
+          "title": "How did deadly Spain train crash happen? Here's what we know so far - Detroit Free Press",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmxicEdRNm5aZUhlSmVIWUZCVHpCMVlYbkJMWndxZzlOQ0FablpybjRMOEYxY2hlSDJoTGdKenFCcVB1d0tqMGhNN2ZKaHZIOHU4R1ludnQwM2tkYjZISkNnRnJCVFZFRk1fdXFIUUpLN08zR3lDOXo2czE3THR2aUV0ZGpIV1hYT01GaktYajJIbHhGLWpVZk4xdlI3UjkxUGRMYzlB?oc=5",
+          "published": "2026-10-28T17:11:51+00:00",
+          "source": "Detroit Free Press"
+        },
+        {
+          "title": "Deadly Fort Worth plane crash - officials share new details - WFAA",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQVBTSjVoV2I5VTV2elRtemtQSUZZdzVzbXRrSFdxcWZvNkd3VTVjNFZCUnlhajI3Vl9xTW1SRGNZbHFLNVZleXFGUUNuZHFjS1oycXNhZ1VUZW5kYTUxQXg1cUdZSHFRcGZMWml5VUdVTUwtWFZ3cmZrX3Zka1I5eTJPMHpWY1pSRjIzNE5nVTRuSDlDZ2k2QmQwSUUyU3dwT3NUMjNxelVqQjlYMEpIUUhOMWlBczZJbE5BSjlpZG9YdGJDZ0VXeWJ1eERLMnFXT1E?oc=5",
+          "published": "2026-10-28T21:33:00+00:00",
+          "source": "WFAA"
+        },
+        {
+          "title": "Spanish prime minister says Spain in mourning following deadly train crash - AP News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHRSb29TdlRQNHJVZExrSWYyYVRFT2MybXV3bUJVVENvRGRCWWdXa2dISVFjYTRtbXd3cDc0MEJRYnR1bGd4SVlaYWt2OFVWbDBuMUc5S0N3ZzVBZnRGbWFyRDBqXzJYWmlMeTBwelowczduR210Q0diWnB1SU5ESkVpYVltRHJ6ZkE1YVJyVTEtV1N1OTNQdUhBbmROWEcyZ2tDWGpUSGVYeVpLN09kY1M1R0I2d243TlEwSGRiaWdoVk5WOXpCREFHN1o?oc=5",
+          "published": "2026-10-28T18:47:00+00:00",
+          "source": "AP News"
+        },
+        {
+          "title": "Passengers recall Spanish train crash that left dozens dead - CNN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEF5Mldkeks2MjVQalpQX3I1bDlPR1ZBR21PQ0x6b3pIZE5acG5oV3R2T3c2cUhwOXhVU0NacXFVT2Y1ZjVORTZUajIwZWUyc3cyRDJHVEVqR1lfVU5fd1cycEtDUUI5bFNiM3VqR3JCUTZFeS1FV1piTzM3RU8tYVdlc3ZuR0FXU1hVX0FSUk9kZ0NhMGIzUlo0ZVZ5THE1MnZNeHRlQlpXRmlMQXludW8tb1VJUzJYakdqLUlKWQ?oc=5",
+          "published": "2026-10-28T16:31:00+00:00",
+          "source": "CNN"
+        },
+        {
+          "title": "Copa del Rey fixtures postponed after fatal high-speed train crash in Spain - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWhTRjJqNmU3aW1maUlqQWg4UVliclg2QWVZcktQWENGaVNBVVhjMnVhNUlSNDZtUzR6U21fb3k3WkQ5WVpSbnpuMUNIb0hDdVpvODBsZHdzS0pvZkJIUklEd2lJTU1saUJRcUNucnNVajROb0NTSTFnUktfYzVpd0d2a3hOUE1FNkZjMzNFNGNKOHRFb1ZlSjdUaw?oc=5",
+          "published": "2026-10-28T16:04:06+00:00",
+          "source": "The New York Times"
+        },
+        {
+          "title": "2 Luzerne County residents injured in Ohio plane crash - The Citizens' Voice",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcF92MkNUWVVZbVRyUkZnVzg4aFJ5bW83LS10VXRlVGlXZVE4YkdFV1BjWGR2Zy1CZ0Eyb0wyWlAwdXEwOUM1UUotOHBFMnNlUTJIUXQweEx2RTJ4S2x2Nk5QcTVFeDFxOUg4Zk5ZX0djSkxlbXI5ajhMQ1dXbmtONm9WaExIU2tFdVZuTXU1MmctUTNVTXVFSnA3bFo?oc=5",
+          "published": "2026-10-28T14:17:59+00:00",
+          "source": "The Citizens' Voice"
+        },
+        {
+          "title": "Spain train crash caused by a mixture of technical and human error, officials say - NBC News",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUd4YnZ3SXoyZHRvdVhyWjJKMGpXckxONlA0Ry1DdjN1RVFUdmtvbmdFSVBpVHE3VG5UZVRRRV9GekpLendDSmRkY3FkblBKQTg1OHNGazNPbUVrRHU1a0NMZ1VkX2c2QXM5cE5MakVoUVh0Q1pKT1k1elV0emwtYWhVRV9LT21uMEUtWTNnUjkwUWZwYnp2ZmttOWFodEpMNzBOYmtnTTZRUnY4UDh4VlFpRUxZTnFaMjlqOFpJd05CVXp2Rmc?oc=5",
+          "published": "2026-10-28T16:45:43+00:00",
+          "source": "NBC News"
+        },
+        {
+          "title": "Spain’s Deadly Train Crash Rocks Sanchez’s Tough Reelection Bid - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYlIta1kyT2xYdnBvaWR1YzZNUVFpZ3BMejVrMkp5N3daRE15WUdneXd0TFZ4SlVPNnBzeWVvWC0teWVaTVpwalU0RlRQNGplQXN6Z0RxdVdJanNPVS1wblRIbTQ3c3BSRnZ0WnBPTXI1a1VtWGJJSTVFMm9HQ0FsZDlKRzZwN1dUYWxsZUd4c2VNX0RzU2Fzcl9kc0o1V0gxaVdmbW50N05sNm92UkVtY29jUlhOWWJ4aFBoQVpqQ2s2dVdCOHpvZ2FyU1VJX0c0?oc=5",
+          "published": "2026-10-28T17:57:08+00:00",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Spain PM at the scene of the train crash - CNN",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanJpV3RKdFBybHptVVNrNE9qYjFBLWc5VzZtNGQteWFtYWVSUnl2X05lWF9MaTEzQmdSQTBfTl9lSkV4b080VVQtS2JlOGxsSG9JSHJudGdEYUdGLXh4NnRkMjI1SENKX3oxOFJQMXBWc29IWW9QeTdHVEt4REZVT1I1Zw?oc=5",
+          "published": "2026-10-28T16:05:00+00:00",
+          "source": "CNN"
+        },
+        {
+          "title": "At Least 68 Killed in Train Crash in Spain, Officials Say - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5",
+          "published": "2026-10-28T10:12:33+00:00",
+          "source": "The New York Times"
+        },
+        {
+          "title": "At least 68 dead in high-speed train crash in central Spain - AP News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbHpMNmJ6cHF0SXRWQlRCVk02ZU5od2c2LXhLSWVMNFRDNTV2cDR6R1U0d0ZUcTQwMm5CNDBjZzh2bHA4Z0JlN1l1aHlCUGI0NFZraWVMTUZubmNnZGtfN0ZfbHdJZWJ6SVdJcGtHMzFsTmpHWVFwM1Q2WFdFajBleE4xVHFnalpiVUtRbGlnSkJFQm5VUlBGT0Q4RE1aUjdxVlJHOFNlZ25JR0lOS2haR2J1TkhuT2Rp?oc=5",
+          "published": "2026-10-28T20:51:00+00:00",
+          "source": "AP News"
+        },
+        {
+          "title": "Spanish Train Crash Kills at Least 30 People South of Madrid - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSEtjZWVQYmJQbGE4NHdrQzFCNlNDTWxITFBBSWJWMnpuUkZhdHhVcWNoNW9Vd3U2NmhjRk9QRUpnTzktMWtJT2pHX1ZCaWdKd1M4Z2pWM1A0dXA4enNUZ2c4MGtYTENHQW5vUTVoSjVvX09hSnF0Y0hWMVd0cDNyQWRKR0NyeUN2Y1hUTXc4YzdrLVpxNkx6bER3?oc=5",
+          "published": "2026-10-28T14:20:28+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Computer communication failure possible cause of train crash in Spain - WHIO TV",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNjFhc0QwdXFmbkx2MS1DZzREbjQ0SS0xWEtjazgtUTRwTjJSMkJXLVR2d3prWHdwaExSLUNjelYydGlHSVcwc2twbzRuNUk2ZTFsSElCUVF6WGJ0YjZiWjEzdGR2RUxBRUY5bGRGSEFSaDcxeWNwUmpnSktSb254UENQWTB0aUhyb21nWHhBSGxjZk04VXZ2aXNWQTNoU1J5TWQ5V3E2ZEhxR0U1SjJKY1RQNHJMRU96RVNhLTZHdGxFRThwNmc?oc=5",
+          "published": "2026-10-28T17:48:05+00:00",
+          "source": "WHIO TV"
+        },
+        {
+          "title": "More than 60 people killed in Spain train crash - WFSB",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWF3ZXVZcFhGUFdzdUhaX19RLVV2dkxjYzZrTFotSlp3dWxiZWdaRFJTbXN3WnpfSGMyaENhSmk3Z0p0b0JfR1dDVU4zSG5xS3ljOHJ2QmNRaFZhV2VFLUFIdkRVODRIN0VmVS1UNlFNS3hqU1VHZ05BcWE2TFNzRnZ4UHpvODFFQk1Z?oc=5",
+          "published": "2026-10-28T15:29:54+00:00",
+          "source": "WFSB"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - KEYC News Now",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTnBTLWlaMm54Q2FXMnZkblgwZkR6c21TYW00QThibFZCUXA1ZVNLVWd5RkdNRGloTlgxdzhvSlllUGRiRjZDdVRocENBYi1LYWJhcGMyYUdKRzNPc1JocFJHc3ZSYkRFXzBLVjRYb3kxakUtNWhGMUplaXBLS2Z1V0ZjRQ?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "KEYC News Now"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WLOX",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPemdKNGlfMEhvbV8zQkxUbXhGS1NxdXN6TjQwNTBYUXV2MjduSUdGd29lZmtCLUNCTjZGaF9oeW5NbG5DYW94VFhWYnhHYzNRYXltRVRKYmpnYXV1Q3RCRUZoZVRXT3hjbzRXX3JhVkVyWElhMmdzcUVpTDNSSjR0M21udw?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WLOX"
+        },
+        {
+          "title": "Morning Mail: Dozens die in Spain train crash; Menindee Lakes levels at a low; Obama and the Cheesecake Factory - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVQ1WWxLWkdOQkktYi1sTk5YY2lxT3JfZ3Nid2l3MlBGODBnT0lvQTNHSUZxWWw3SmIwa1ltZ2hZbko5MmZoUE01ZndXZzdqRXNNRi1kS1gtZW9jNVpTaEFmR1h2V1FuM3JFSWdTQTl6OVMtQmJFM0s1VWhUVWJjOElTd0pyc2VydHBv?oc=5",
+          "published": "2026-10-28T20:13:00+00:00",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Copa del Rey matches postponed after devastating train crash kills at least 64 - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObDVlQ1c3T0RUNVZiWmdReEJ1Q2Z3c05CMlFadGpkcVB5YXFLZkhKSjBzZmxlcE5BTkpVVG9oTy1TM2JyNzA3M0dIUVVCNXdEUmVlY00zVU1jcHBvYnNfZFhGX2tOUm5zSHVpVUpuQXA2SHdkY3dKX1ZBaXFfMWt2YlJhSmRXRlFjLWJlMEpuTTg?oc=5",
+          "published": "2026-10-28T20:53:10+00:00",
+          "source": "Yahoo"
+        },
+        {
+          "title": "High-speed train crash in Spain kills at least 64 people - Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBickEtdWVIaDg3QTZWT0tvQUJ1b25uc1F4dVRWOGQ1N2p1MUNCSGtQVkxXV2k2SThpQVJxUWpXaHdDS2d1Ml80eXlQLXR5emxGcHFoNkJrc2tSdm5XbEhpalVWSnp3bXZtU2o1QkszeHdFelJ1WG5qeQ?oc=5",
+          "published": "2026-10-28T16:00:00+00:00",
+          "source": "Taipei Times"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WCTV",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2VBSmNHMlJ0dmMxbGpNbGFfZTZUOEd2Ymx5cXYyeGVMZXBxakxVZmRHS3JQei1WMjEtbC1mbDZwa2kwYzh2WlQyRkR1dy1aMTlEalVqN0ROQjAwU3pLdWxLR3MtLUU3WEMxMjFpZTRpWFI1SlRnVnJsQkNMWUFSTGVR?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WCTV"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WTOK",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd0taTExZVlRZTVRTd0tXejRHeld4VlpJd2FWelVYV0ZvOUxQeE44MlZuWFFkd0ZucVZndlgyNXNCU2QwQzhxSDBESnJQMXFrSER2QjdfaXFPeC0tNEVzYjJPTWxLb0Jyc1RDSzNMZ2dkQW01Y0IwYXZnTUwtSW0tQWdncw?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WTOK"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WHSV",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkhPcHU4aTVkWkFyU1BjdkppMXZpNXZSdFQ2djM4REU0elZNV1dRYl9Ub1lhSmRrVm9CX2lXUzFBNHQweFNGcnNGZk0tSG9BZlI3UXB3VE1GVUE2T0Fsdzk3Z0ZvME5iNElsYlZ3WFhCeUEzazJfeDZYR1lNaWNNZ2ZROA?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WHSV"
+        },
+        {
+          "title": "High-speed train crash in Spain kills at least 68, injures dozens more - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXBmbTNoS3JWRFhreUh4dHREbC1YVllzWWU0VWxMUEhZSlhNYnA3U2hPT2ktcTBWa1A4RF91X0V6MGpiM3A4SjJtVzJPWFpnR3dmRGl6eXdhNTAzQk5Hb2FnUlEzWWw5aEJNUi0yUjJVM2RzRnUwVHBhRWhaUm95dmpJTTROb25QazIwSFh3?oc=5",
+          "published": "2026-10-28T17:39:32+00:00",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Spain’s second major train crash of 2026 has put the country’s railways back under the spotlight - Monocle",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lU3dtZ3lKSFJ2bE5PbjM0aG02bkdVc2V6cHBiNXdXTEFaODJVTExTdXdzT3EwS1RxUnRDdFVvX2xucFVKclE3VXVnSkFYWk9RTzVoQlEtZWVzUQ?oc=5",
+          "published": "2026-10-28T18:15:03+00:00",
+          "source": "Monocle"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WFLX",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOW00cm4zTmxyUTFsR1pJR0ZYa3JSWG5ISzNEWHNQcHkzQl9lWFNvTXFnZzF4eDBXVFYtUHQ5MWc0MjBpNG1pUTRsemtmR3dPOTVGdlctRG00dDNRV081NmtuNk9wYVBwR213ZlloZ3o2clZWWXk2TkVPSjFUNzBtZkJzQQ?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WFLX"
+        },
+        {
+          "title": "How did deadly Spain train crash happen? Here's what we know so far - Kansas City Star",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvNWFWVHV2UkZxcjFUM09Yc19PU0RjLUtYaUNETWtPWnBmY2FVY2otckQzei1ZbWxmVzdtdDc1T2hpNHcxUUZpaXM3QzlnLTlnOVhNOVhGY0Q4OWVkcldIbExWVGNlckViQkpmR2pKMA?oc=5",
+          "published": "2026-10-28T17:16:00+00:00",
+          "source": "Kansas City Star"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WBKO",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdWhwa2N4aEs2cXNtRHU0RGoyYnZDNGNqbkM3c29WZFJYSjJnSm5GMm14TjlBZFlpMG8zRmR6ZjNOTnUtSlFrbzNqSlJWaUpFYmZvaWxsYzNsNWlEWExFYUkyY2s4ZGxuTjNtWmNSNHhHeTdvc0U3SkdoOFBzRmFaZWRyTQ?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WBKO"
+        },
+        {
+          "title": "Spain high-speed train crash kills at least 10 - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01dXd5ekpvSEhUczJsU2JndWFUOVA2al9lZmd5R0JkYnotYWRVQlpKaVVFT2hGMF9Mem5jYlJ2eENxZlRRQ3VfX0pCcFFfcXRDeEd0VGI3NlZQd05MZ0NfSWVfR2d2cUJqcDRmS2VVRF9tSFk?oc=5",
+          "published": "2026-10-28T11:08:48+00:00",
+          "source": "Fox News"
+        },
+        {
+          "title": "At least 68 reported dead in high-speed train crash in Spain, authorities say - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeElWZ19oUDVvd3Y5TFdiYVJPOHBfelhMVnFjdHotcHI0ZXNKTEVQUGhzWWthcTJzMVF6ZWlPTjhmbkV6MTBIYl91cHZQNFpmVXNGVkc4RUQzSzNKYlFmVUczcDlyOW5qQ1pXUUg5ZElZWGNNYjcydUkwek5WcVp5Ylc5TEJ3NVdWZlJCczFMWnI3bjNEdGFDUHIwUWtZVFlSYmJZTi1YeG1LRnJYd3c1WWVqOUtLZw?oc=5",
+          "published": "2026-10-28T16:11:00+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "King Felipe and Queen Letizia break their silence after deadly train crash in Spain - HOLA",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmE2Z19fZEJiZTZSYXAtUEtjNDczQ3g5NUtKYmlTekU3dGhnMGRwMzlYV2gzRmZqRElteGdScXp1VndLbTBwNmlmQV9BMnhzRDM2SHVKLUtXWUpJd2JURXZxa04wSVV3ZlMwQTNLRlZPS0JEbURNMHVvZGFmc0pBSmRKMDh1Wnhxd1B5cnU3ZE1Ob2w0UDJrQmhGT0VhTHNBd1R3NXVBRklXT2NmRDRIUA?oc=5",
+          "published": "2026-10-28T15:51:00+00:00",
+          "source": "HOLA"
+        },
+        {
+          "title": "High-speed train crash in Spain leaves at least 68 dead, dozens injured, officials say - CBS News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwdmZRY0xhenh6OWZHUnhhZVNqZlU0eHU5MldOTGp5SjFwUWFCNUhaN2tnV3JaQXdtdl83UGpnVGZ1REVQdUZLeldybjY0ZUVYN1B4bnVnOXFjMVlmT2pyWXdzMmVIakE1Y2x3?oc=5",
+          "published": "2026-10-28T09:17:00+00:00",
+          "source": "CBS News"
+        },
+        {
+          "title": "Spanish soccer federation postpones 24 Copa del Rey games after train crash, clubs show solidarity - myMotherLode.com",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSkVNNkRCVU9SV0FXUjdCN1N5eDN1S09tekgyQW5DaDRXWEFQZmNfZW1helZUUFppeVpVV3MwbDFyNG1heXRSQUtZUGlLeEV4MlQ5MHNvOG1jeExWN2xiYmczd2U1SXhfY2U3Wk9ocXhjN2wwUUt0Q0hsRzY0MTB5eHlramd6SVZ0VEFfbmJDLUVkdW4zLXVNZzJkTDBoa0QyLUd0OGdVYV9TNXFqaktkbEJJVHNRQ3kwVURVS3R0bXFOeWZZQ2ZhelVabWgzWUgzc2J0NC1JTHpWX3RoREJGYXhWRERLU1NtT3V4elhmbWZmbG1BSE45RkFmd9IB-wFBVV95cUxQSkVNNkRCVU9SV0FXUjdCN1N5eDN1S09tekgyQW5DaDRXWEFQZmNfZW1helZUUFppeVpVV3MwbDFyNG1heXRSQUtZUGlLeEV4MlQ5MHNvOG1jeExWN2xiYmczd2U1SXhfY2U3Wk9ocXhjN2wwUUt0Q0hsRzY0MTB5eHlramd6SVZ0VEFfbmJDLUVkdW4zLXVNZzJkTDBoa0QyLUd0OGdVYV9TNXFqaktkbEJJVHNRQ3kwVURVS3R0bXFOeWZZQ2ZhelVabWgzWUgzc2J0NC1JTHpWX3RoREJGYXhWRERLU1NtT3V4elhmbWZmbG1BSE45RkFmdw?oc=5",
+          "published": "2026-10-28T17:03:48+00:00",
+          "source": "myMotherLode.com"
+        },
+        {
+          "title": "Aerial footage shows aftermath of Spain train collision - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkhlNXQ0d1J4RVpJcWU4ckNKM2lBei01eFplVTNPN08tV0FTSnEyRUN6dW9RYnZEOC1GY0RpTVA2UVB0WE11alFVdE93RWo0LTdmcGhlMGE4TXlfYzR2QkxxLVFJeG5vSC1Dek5nbWdhT1BTVl8yWjVLQXljcFFab0t5SGNxZ0djTnhrbDJYRHlYV2p5WFgtRG5oYlVHUHNMU1VNTUdfTl9TZ01Y?oc=5",
+          "published": "2026-10-28T17:13:00+00:00",
+          "source": "USA Today"
+        },
+        {
+          "title": "At least 68 dead in central Spain after high-speed train crash - MS NOW",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rLTBNb0NBcTRLWFg5ZGJUQzlzOGJQQXpQUDVqakZWZ1pLa3Y2YzFBQm9hM3otZ2Jkd0RYY20wcHY4eVZralZJZWx4ek9lUmMwQmJONTVXT2dyekNuU3lGRWQxaE5HM0JzMkJ6N2h0MFFITjdZY3VGWjZBc0g?oc=5",
+          "published": "2026-10-28T16:14:39+00:00",
+          "source": "MS NOW"
+        },
+        {
+          "title": "Passengers recall Spanish train crash that left dozens dead - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONk1oWWpkbVVuM05zS19QMUY5VHM0VFE2RjNZNFpOcjF1SGlFTVBxV0lFRFZBRVVxQmpkazlBU1Fralo1S0dQMGJ4bkpqak1xZlk5NGt0RVVCbjdlemx0SmtzUXBMZC1HcmFKMWd1bFJjUF9Na080RFJTUUVRV0tHZjFkLWtfLXZQcThmWmVSNDdhNU9uUUU3djFrSV8zY3psdjlwZFZWb01UdXVKU0dfT1lsUzRZcjVPNnc?oc=5",
+          "published": "2026-10-28T16:31:00+00:00",
+          "source": "CNN"
+        },
+        {
+          "title": "At least 68 dead in Spain train crash blamed on control center error - Boston 25 News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3NIODhkQXRtc0lIelhBbUJwQzlpX2tpTmlLdVRBdGozOS1wRnlkRW9DQWphdjdVRFRzQWxTWmNpTGlxQjR1cm0yMHdjWl9OWGxEbDF3Z0tUdG1XUGtxYzZKQlJja2xiaWJyWlJLNktZeXFzcS1ab1JRTkJ5eTMyQmRGeUFwRWtCQ1BaY21CRy1PRzEtSjljRXlqNkt3UjNnTUJfOFRPV25IdWR0MUo4U00zM1ctdTg3MGw0VGZWYjJBTFFOdnN6QnVZaw?oc=5",
+          "published": "2026-10-28T17:37:48+00:00",
+          "source": "Boston 25 News"
+        },
+        {
+          "title": "The Spanish Royals Share Their Sorrow Over Deadly Toldeo Train Crash - Town & Country Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYmhqblNaMG56cUdqS0J6NW1aX2wzNzFPWG9KQVU5eFNDVnR1blI0N2t2N2pRd0pGUDlpZ2FuN3A1M2hKejJSVDlCclRVWXREanRqR0t4dUE3OG5qVVN2VERlYlBEalp5dVRDQWFlWEREOTNuVVJYWUlmUlZoTW04a2YwWXdHYzdUQk9NSlkzZ1F1bVRPb21SLXRQelZZZ1hCYlNaODlhOE0?oc=5",
+          "published": "2026-10-28T14:54:00+00:00",
+          "source": "Town & Country Magazine"
+        },
+        {
+          "title": "WFTU Statement on the Train Crash near Madrid - WFTU",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82TTlFWWtxendGQ1RPMHNjWThsemVPS0ZZeHNXS21TbThZbzNmdF92RWk5Slh1c2lvREhrY2s3QV9HZHJJTENCMlRrTGdaT0hsWk4tOGowVVozSzlLeGh5MjlrMGxvZkJmNXc5OWxYSzh3VldOMTd2blZuTE1yS0U?oc=5",
+          "published": "2026-10-28T17:27:44+00:00",
+          "source": "WFTU"
+        },
+        {
+          "title": "‘Inexplicable’ order by control centre investigated after Spain train crash - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZTlxdHRNeUZiXzJZS295OXFJbUpMUFpScGNLVzVENEt6VWk2WXI1WThxbG1Jb1QxNjg2SEdEVUFnTUhoR2ROOEJ2a1U1cXVvekhTU09rUS10a2FEZ2lSZWkxcHpwNUJWcGpVQWhVZFZ1eHJyb1IyeHpJTEtFZjJGbUMwSDhVcVNDRG5nYk1xWHpGYVozbW5vdzhiQ0RpdEJ1VXhjZU9RSWU1QmF1YXc?oc=5",
+          "published": "2026-10-28T16:53:27+00:00",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Spain: High-speed train crash kills dozens, rescue operations ongoing - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeWViNFB5YVlrSU8yUkxsZjNpRW1YckRxdjZCZWUxV2FaLUFmaXR5QzlQdXJMZEFZblBYSE5SeXlpbkdVc3hIN01jZmRHbkdyQ0dvRGZfdDAwVlBqWjBGNmdLLWx3RTRKMkIzQWtqSGlJTHZuN2FUSjhIbHU0R2FpRGRSa1NPVWFMLWlGdzZSLS1zTm9INXV6aDhraTF6M1dzVDBYQmJtMkdkRk81M0g0Z3FEYTdTLW1QcWRPanJEZjNoemNfMjlhWTFpYTQ?oc=5",
+          "published": "2026-10-28T13:41:15+00:00",
+          "source": "DW.com"
+        },
+        {
+          "title": "At least 68 dead in Spain train crash - WFAA",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWppdXJOcWJTX0NfR1F5NFNlcGRZLUtWaW5ELUFoVzBPdGFnQVVaN3ZpZURrQVZLMFA5eGNGbHcwbS1DMVBLOHhFZDREWExXTi1BMTEtY29mN3k3LUJUQ0cyeFphRTZmWGc3VXV1WHJFWkw2Nkt5Wm1hRmR5SmFkSVRQcEtvdG14eFZXWjJMOUxTVFY1ZWhSNjJWX0Q1LWtYYk5qN25JS3JRV2gwbVRVeGhPMkZ4QTFKR2V5MzJ2OUw?oc=5",
+          "published": "2026-10-28T22:13:00+00:00",
+          "source": "WFAA"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WILX",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWhPdWhlanJBM3N6Q1ctZm9WM3IzMWFCTHpBRHQ3VGMzbGVJaENWci1wSl94NTQwRVRrLVY5QVk0ZEVwT0ktOGg4V0NpRmVRT1hFV3Y1dVp1TzN1bm9US3RNSE1taFlmOE1CUEVaX1hZbW1NT2IxYkFhMTBGUDRmckQ5MA?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WILX"
+        },
+        {
+          "title": "At least 64 killed in train collision on high-speed line in Spain - 6abc Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEs1T2FjZDlvd1NER0xqUnFDZFlKZW9CT2tGc2Q2dDVqWjdWdlY2cGxBckl5eDhEOG5NTkZFWG11T1V6UGhiY2V3ZGpsV19Ta1hwbDRxMUU5c3JLTW9nc1E3U3djYzdzX0lZY19lWnAxSFd0VWNwZDNybUpob3pDQ0RiOEpqczlpemZSa0Zobw?oc=5",
+          "published": "2026-10-28T14:56:52+00:00",
+          "source": "6abc Philadelphia"
+        },
+        {
+          "title": "Spain train crash: Death toll rises to 64 - FOX 13 Seattle",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01Qmg2ZXQ1bjl1UlpIazd5dmp2MFNNXzZ6dlQtSzJDYWwwejRKaXhvVmpKb0stNjhvV01tSmZrV2ZlUjJOcjFEM2puNGVxQUwyTkNiTEhwODc5V1c1b2d4Y1lBMVBUZ9IBa0FVX3lxTE91MWlWbGFyWGdFUFhuR1hxRGFfZHdzdGlWNzdMc3doOVVSX2NnNl83X2NKVGJ1UzJSZmozTnJHSlZlbWc5ZjR2Yi1ZMjVMQ0ZkRHo1NHR1TTY1eF92TWVBb21rZTVxd21OY2V3?oc=5",
+          "published": "2026-10-28T14:27:47+00:00",
+          "source": "FOX 13 Seattle"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WSAW",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSllubjdfSmJiakpRWW5ha21KODhzOE5ET3NEMldPdjBHSFdRY0ltVWJLa29PMlcyR0hpbTNwdXkxbVRPa3UwY3NKbFVMbU9TdW15MlBHTEpVczJRZnZwNTZrVmU0TzZRNHBVVENXRldlazJNWmtZYTBIbEQ1eGVwM2ItNA?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WSAW"
+        },
+        {
+          "title": "Spain train crash leaves at least 30 dead - WAGM",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVm5zTlM0dUxCQ1JJZmREUTRrVFVrdzAxbHIwSzNXRkkzbHp6ZkJBLWxGdWkyZ3BLN0JFbHlkbDZVa013UkV0RkFpQmFpQjBCaS0tZF83RXpTaUk5MjdyNGJKVXpLeTdsWUJmRTBnVU5xVDktcE9qVGdoc3A2SWtUVTFZd0h3UQ?oc=5",
+          "published": "2026-10-28T13:04:00+00:00",
+          "source": "WAGM"
+        },
+        {
+          "title": "No Survivors in Small Plane Crash Near Crested Butte - Heart of the Rockies Radio |",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMkJJY05aWERTeEJQenk5dms2a2hfcmJtQlBHbk8wd3R6ZXpTMG5RYy0wSm4wOWd0TGk5Szhpc1QtVV9fM3dlZ0ljVkJCREhmWEUyZTIyeXJZRzU5aS1LQ1ZSZ1k3ejlSeWJzQWtiVS1KN3RxZkV5YV9EUzB3TlZITWYzY1dXUlByWDdmajN1cHRNdw?oc=5",
+          "published": "2026-10-28T15:43:46+00:00",
+          "source": "Heart of the Rockies Radio |"
+        },
+        {
+          "title": "Spain’s 155mph high-speed trains crash, killing 68 people — country’s second such disaster this year - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTZDWjBMR3A5azB6RzZEYVBSSG5yUTBxSVZTR2FiNVpnUXNYbi1OaXNoUHgwbktkMDcwQlE2UXJQaUl5SnNiZ1JHNE1NNV9vSkZiN0M1dWZ3dkVpSlZISlBUWk5mSTc5YmR6TlFoeGVMOXN1UzJYcG9KN3ZmMzkwSzl2eUIwSUwzNUZ6OHlySGM5MUR6Umc?oc=5",
+          "published": "2026-10-28T20:18:03+00:00",
+          "source": "New York Post"
+        }
+      ],
+      "count": 100,
+      "count_is_sample": true
     },
     "civil": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
+      "articles": [
+        {
+          "title": "Haiti: Heavy rains and flooding in the Grand Sud – Flash Update No. 1 (as of 28 October 2026) - ReliefWeb",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2Fwc290b09hWHFtUzF0LVlLNTZxNWFmdkRtOUNLd2tsUXNHSGRna3E1LVVXenhZQUJ5YkRBaUQ2UTNrQkVaSWR0SHQzRGVDS2ZBUmlubW1sUmtSVHBHV0xzOE03WmNicTh5MGNOYkFSOW8wZTdTS0otQTB1N01maDJORmkzeFgtYmljNXViOG44N2owWENZdHAzOEhsUExyTElGOEFNblFhWW5CT3c?oc=5",
+          "published": "2026-10-28T14:56:45+00:00",
+          "source": "ReliefWeb"
+        },
+        {
+          "title": "High-speed train crash kills 68 in Spain - TVP World",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHlZekZPUFNCaHQ3NTNsUFZ0Y0xaSEZHUXpxMVJYcmpOaF94ZzBERUlZdHJjU2pnOW9pWjFfVERzVmdGUFNFNXZvV3FBanZYOGFwNWtCdjlWVWlLS2pidkRHSGFXMklocnFuTkJORzhSTW9ENWRoZ2UzTE9ZWUhDZ0ZwUzJfdw?oc=5",
+          "published": "2026-10-28T20:47:00+00:00",
+          "source": "TVP World"
+        },
+        {
+          "title": "At least 68 killed as 2 high-speed trains collide in central Spain | Daily Sabah - Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDlLckRsYWZRd0tlLTc3eUhlLS04WS1ObDRiaHc5ZDdUUkM5dER3M3MxX3RjajA4bHgybUxGUk0tc2xUdGVLa2J5aU9lbDJoSW5wNXMySG1VQndnLUtLaEpYSERvWUM4aHF3SFBIYTFfdThVYW1ZaGJfSnF4aVpTS0xMZWRwU0RGM1ZvZjRwUmJvWkJIOVE0V2M3QVFOV3czVGgydG44d1FBM0NYd2FN0gGvAUFVX3lxTE5kOUtyRGxhZlF3S2UtNzd5SGUtLThZLU5sNGJodzlkN1RSQzl0RHczczFfdGNqMDhseDJtTEZSTS1zbFR0ZUtrYnlpT2VsMmhJbnA1czJIbVVCd2ctS0toSlhIRG9ZQzhocXdIUEhhMV91OFVhbVloYl9KcXhpWlNLTExlZHBTREYzVm9mNHBSYm9aQkg5UTRXYzdBUU5XdzNUaDJ0bjh3UUEzQ1h3YU0?oc=5",
+          "published": "2026-10-28T18:13:06+00:00",
+          "source": "Daily Sabah"
+        },
+        {
+          "title": "Flooding follows storm warnings for eastern regions - eKathimerini.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZjRJLVNkNXF2S0NWVkhEaUNLc2FObDlQRHpTczFEUTFGTmJzWW1xX1N3NFA1STc3TWRvVl9vbnIxSG4zbEdFclhtRUhuT21na00weUp6eWNwTWEySllSbDk0YVhpU21SN3pVeE52YkFIQnZpWnM4TW9RdGc0YndreG5UZjM1WlZqbW5janJFRzhnVVdkUUg1dnpseVBLUkExdnBodVFvbFQwRjg?oc=5",
+          "published": "2026-10-28T18:22:43+00:00",
+          "source": "eKathimerini.com"
+        },
+        {
+          "title": "Two bomb disposal experts killed following detonation of Russian munition in Sumy Oblast - Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SVGUweV9YMk5mam96ZzlWNExELWI5S0g1aVUtR2FKbWhGRUVMd1ZzLTNoUkF1RV9uTXI0Q1BjLVE5Y1B3SHpDdGpNcDI1R2V2bG5VUDUzMmhndmZteXNRNTZXQWVPYWVwMFl2WmhkWVPSAXBBVV95cUxPUlRlMHlfWDJOZmpvemc5VjRMRC1iOUtINWlVLUdhSm1oRkVFTHdWcy0zaFJBdUVfbk1yNENQYy1ROWNQd0h6Q3RqTXAyNUdldmxuVVA1MzJoZ3ZmbXlzUTU2V0FlT2FlcDBZdlpoZFlT?oc=5",
+          "published": "2026-10-28T16:49:00+00:00",
+          "source": "Українська правда"
+        },
+        {
+          "title": "Disaster management: Why a volunteer registry remains controversial - Table.Briefings",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX005bkRhTHFFN0NRX2lRZkw1S2wzSWdVOW1vQWlQbG9BclRzd0NmMEpvakJRSUk4ZDdUeTV3NFBFQVRqVEZ4cWdfVlQzVDNYMFN3c2ZlMHpWRXdSQ0ZHTThPbF9Fcl90QnBrU1FGSHpkd21QekpRYndadk5ia0hBV2hoNW9IaVVqa0diNXNHZU83WTJnUUZuektoQk50UHh1S3dlZHpB?oc=5",
+          "published": "2026-10-28T04:33:23+00:00",
+          "source": "Table.Briefings"
+        },
+        {
+          "title": "Civil Protection Director General takes part in 27th session of ICDO Executive Council - وكالة الأنباء الجزائرية",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaFIwdGg0aG1oWDROaWowRWx0c0MyUWc5QXlxNm5vR0pCdGpjbXk2dmVkcnkxNjdtekFqcWlmX0lRTjNMWVMzTUNZMzJmVGZmTW9VQTNwNTd3ejN1ZW0yNlAxY3B1TUdlMHI4Z3pwcC10YzF4eHFpUnF2VnZELXRpNzZGZzRHc1laMXRheFYwN0ItSGpjNUhvNG5OSjNPX2lSTGVWeVBzM0VRYUZqOFVhZUJBTEFkQ2NDeDJxQUtzX3FUQl9SQ1dUcnRoTGVBdw?oc=5",
+          "published": "2026-10-28T09:03:00+00:00",
+          "source": "وكالة الأنباء الجزائرية"
+        },
+        {
+          "title": "Spanish media, according to civil protection authorities in Castilla-La Mancha: At least 50 people have been killed in a train crash - MTV Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdkhNcDBodmlETW9qcFRiRDNBYTBlWUdvczlmT1ZEbU95eTQ4X3FmMFhmNXZRWC1yYXZOUllSQ0x5WTRocFpqcm41NlByaWVSSi1FRWRkZDVoYlJfd3YzM21JOTIzOE5zc3A4S1V3SmNZN2RURFRYd3JqQ3lUbGhZVG9iZmNPZVlQNGV4V3I5cTVlU1FTUzltWDRrVTE4S21RZzg0Wnp2QW1HSkprc09mWEpQVG82UVVmUEJ4aDRmeFg1eHZ0N1I2bzI4Xy15R0tVc2w5ZkhjUHB1OGw2blFQRGZqdmIxYi1iVk1LSXo4cFhUZEFocUl0T0V6bkcwd0RtN2tXeGNiVTNvcUdrUExxcVR6bw?oc=5",
+          "published": "2026-10-28T11:52:23+00:00",
+          "source": "MTV Lebanon"
+        },
+        {
+          "title": "Heavy rains in Haiti leave four dead, two missing - Caribbean National Weekly",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNEZ2FucUp6SGpsQVZSQkhpT0hUOWZidDc1U0RmbWNMRmY3Mm1SY3JZVjZ0UGZVWHZldERLZEFFbi1USm9mRTZVazAxMkpBYk13M3d4UjFlTVF2WkhMSWM2bXlhUEhUUExCQk8xdlRhTk9TLWJaTHMzUFhMcUFqcTQxQmpMWmFXVURFRXZDSmMwTG9VRnItS25n?oc=5",
+          "published": "2026-10-28T05:20:24+00:00",
+          "source": "Caribbean National Weekly"
+        },
+        {
+          "title": "November brings rain - Madeira Island News Blog",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01d2NYTTZWMl9CaWdRQzB3ek1QUkNuNVJMUWZsM0RLaW9mU0lCcmxJWHVJa0RoZWFWeXJpTS1ncGd5dFdiLWNXbVk1dTVrdUZtSVpBX2YtY19CQVhwbE9NeHUtbkUxVk81Y3Q2MEpsVU92azNKWkE?oc=5",
+          "published": "2026-10-28T17:42:22+00:00",
+          "source": "Madeira Island News Blog"
+        },
+        {
+          "title": "Sappers Oleksandr Kovalchuk and Denys Sydorych killed during humanitarian demining in Sumy region – SES. PHOTO - Цензор.НЕТ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWc5VTlXRG9keG9YTTNGcmJENmx3c3BSUmpOT2hGS0ExSU0wQ3hhdzJ4YWVCcUdmbU5VNExObGl5UkhFcG9HQjNUZFJhcTdJUnA0azBSc2w2TGc0a2JsMTc2UVhhSmZaTEhHb2pvUHNlUVJBa0VjT29RVEJCUEVRaHdFODFrWHdKVFpQLTZBOUxpZw?oc=5",
+          "published": "2026-10-28T20:13:00+00:00",
+          "source": "Цензор.НЕТ"
+        },
+        {
+          "title": "Madrid Community Mobilizes Resources for Train Accident in Toledo - La Voz de Madrid",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGY4Q2M1Ny02d2V1R3VVMlhPczFaOUVvSE16LUV6NUpOX1RyRWJlT2VaM3lhMzM3SllhMG1MVEU4LUtGdm1ka0YyYW5XYk9LcVFhTlZyMmJWZWNUQWdxdnhVdkctVTE2enZrTWxIYnowUzR5OEJWdWtMU3FPaFl1M1JvWVY2aHl1ckNRQzNnazA3UVR0OGFTaExnTHowZzZweFRLVVNpaUIwTUhRaW4xLWR1NA?oc=5",
+          "published": "2026-10-28T12:24:32+00:00",
+          "source": "La Voz de Madrid"
+        },
+        {
+          "title": "Progress Toward Safe Reopening of Line 2 Tunnel - Il Mattino",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3V6cUFpTWY2bU9PSE5WdmRzUFV2Zmdta01RWGtGa0hxN1RDV01HNHNlVkFkc2hJNGpPRVo0dy1wRWw2UVczSExTZ05WVEJYc0UyZl9HS0ExU2FKWnBBRmhsT2Y3bXpJVlVGSjF1UGg0enBlQm5nVFozd1ZVdVhXd2JOeFVSc21ZV1RQaTBSOHNLQdIBlwFBVV95cUxNTE9KOGplVi1YS0Q3OF9RbmdSQUhhcXdsbHJodnhLY01mdHc2a254LXFpYlJhZUd0ekVpQU9fZkpzNTIxaE1IazhRSzhENEdHUHY5TVgtTktueWxOQmk5OUhTM3FCLV9pdmhkZGZrNkdQaTRxM0IyWndDSnBnSWE2a0VkODFPT0RPTDJaVDhKRUxWSzlkSi1v?oc=5",
+          "published": "2026-10-28T21:51:49+00:00",
+          "source": "Il Mattino"
+        },
+        {
+          "title": "High-speed train crash kills over 40 in Spain - TVP World",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORHZ6VDJwVUw5T09WT295TzlkLWhjd3dvLS1LS2VvTjQ5Wk52SWI0Zm52R1BsU2FQVGQtak1hSExMU0g1UGJWSTdvazFJMEVfYzRmYV82amJlM21NbndUX2docnBiVFdnX05rRG80d3g5ZlJvRXNHZnV2OFp5b0J4WGoxQlJVS291S3E3MnRR?oc=5",
+          "published": "2026-10-28T10:03:00+00:00",
+          "source": "TVP World"
+        },
+        {
+          "title": "General Directorate of Civil Protection Archives - Jamaica Observer",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWpDVEdFOFpsVnBlaEpBVlJSam1uaUNfWC1fSlZ0ZllETUNEcy0yVFhVS09GZ21OdkRUTzlCS1ozbW1XTmY2ZzI1S1lLZDRNYzJaTkhjcTJKNGtEU3dzbmMxTjIwVEprNkhwamM1NmJwSzR3RmRrWnQxNzBiMURua1pn?oc=5",
+          "published": "2026-10-28T02:52:12+00:00",
+          "source": "Jamaica Observer"
+        },
+        {
+          "title": "\"It will be a very complicated day\": the Government recommends looking for alternatives to the train due to the train drivers' strike this Thursday - Diari ARA",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUjE2VUxUdE4ySVpCUU90T1lDSXh2MEN5Ql9oa0JJOXRUd2ZmaGNwSVV0ZXhSZ0hHRzVTcW93V2QzMGdNSmxnbm1EbXZCUmI1b3haOUpDUUs0NHZ5V0xJU3lLN0NPOGpSSG1JVktsWkJuNVplY2VBcEQ3SHdESVhCc0R2VXlwS2d6bUQza0tfNlR3blU4aTZDSDdCX2FmZ25wTHhaTg?oc=5",
+          "published": "2026-10-28T16:36:30+00:00",
+          "source": "Diari ARA"
+        },
+        {
+          "title": "Houthi missile fell in Aden airport perimeter before evacuation order: Police - LBCI Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekNsNnlOeEx4WHFEcFB1RjcxWVQzVXE4c256aUhWaEh6cjNRUlVNV3cxdUJnb1RFdUpZQktlclJnUUtEVlJaYUxPYjI1UTRmaXNtR0hZM1hZRC1SWDBfMmFNR2lmYkgwbGVEbWRESDhTbnVXTlNlSk5JdmJTZ3MtTFF2WWN1X1NmMlJxTkxTREdvaGZ5Xzk1TEt3cFRIZ0c3OV9BRDFhQUM5eS02VU9GSFBYcWs1LVBOdGx6Ym8xZW8?oc=5",
+          "published": "2026-10-28T11:23:10+00:00",
+          "source": "LBCI Lebanon"
+        },
+        {
+          "title": "Spanish media, according to civil protection authorities in Castilla-La Mancha: At least 50 people have been killed in a train crash - MTV Lebanon",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWU1hQ0w3d2xQLU82dXI3aUNwLW9ES0pacGxJdXh6Z1lLTTB5UHZBYWVEbWdPZ2lFOFJXNWc1cS1qRUVvZnhkUGhuWlJ2bTZ3TW9YOHBtR1Y?oc=5",
+          "published": "2026-10-28T11:52:24+00:00",
+          "source": "MTV Lebanon"
+        },
+        {
+          "title": "General Delegate for Civil Security Participates in 59th Executive Council and 27th General Assembly of ICDO - الوكالة الموريتانية للأنباء",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EVUp6V2Q4a05xaEVSLXhKeWlkRXdiOU14dUxod29VaGJkTEdQTk5SZkl0cTdPVHJyeXpvallWUXNVR0FsajJv?oc=5",
+          "published": "2026-10-28T11:39:24+00:00",
+          "source": "الوكالة الموريتانية للأنباء"
+        },
+        {
+          "title": "At least 64 killed after 2 high-speed trains collide south of Madrid - Gephardt Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPck5VV3NYOWl4cTdyb1B5bXNia1VaQXJJZzVrNGU0VVNhTzhwazVtUEJyTkNBR19RbFFjMFEzVlZick4tVnF4dGFCRDU2eFFIT05Xem1wT3NTNzdFeXZmckNUZ2JURzl0YW1GRWFDbzlYdlNzVi1uS3BEQUhSZHdjdUlOb1p5UG5XZ0luXzNQZ1BfRnNOZnJVelhOT3hpUjRveENKekJObDZsYjg?oc=5",
+          "published": "2026-10-28T19:33:26+00:00",
+          "source": "Gephardt Daily"
+        },
+        {
+          "title": "Four Killed As Heavy Rains Batter Haiti - Caribbean Today",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXNweE9Ec0RfdVVfQTB0YWxfcHRHbkI5RDFYQVBveWZRa01rdUFUYTNQR0NOd0psbVRCdFkxYTVpUGg0M1lKN3hfQ2VjcjFGUGwzSGlBNXltMW9fMTAzdEJydlNQMEc2UG9VY1hsby1CeWRxNm9ySEN6b2dUdTlqcTZRSE5kWkZFbTZJUG13bW9ZcDFCcEE?oc=5",
+          "published": "2026-10-28T19:45:31+00:00",
+          "source": "Caribbean Today"
+        },
+        {
+          "title": "Ukraine, Moldova | DG ECHO-funded humanitarian assistance update - DG ECHO Daily Map | 28/10/2026 - ReliefWeb",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkxzOWdPSnN4SXA2MG11SUhXbFl4Y1JKMENfRTFlOUdZY2RUS1RQR29PZ0ItVjU4cWh2V01WSjhIS21QZXNTMExYX3hvcm9BQmh5czYxSDNXSkpqRGprME96U2RoWnhGMGRZN1lPdjlxdXNMX3hzekdwZE1UNlFWeVo5aHIyLW9SbDBBekl2dVdRQzFMMFZ3YlU2X0I4Tm5IMHA2VUJRa3l2ckxRU1k5MTBXRWYyUnl0WnFQRVhXZw?oc=5",
+          "published": "2026-10-28T16:17:26+00:00",
+          "source": "ReliefWeb"
+        },
+        {
+          "title": "Urgent: Death toll rises to 46 in high-speed train collision in Spain -- local media - Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMURDOG9Vb2diLVJoT2NQemNJQk05LW9OYXpmRFM3QngxeHpJRzFoSHVWWFdBTWROckRYYmw1OVhOY1F3WmRud2JVYWY5YmhSaDRlVVY5X2ZQZjBTd3BDMWthYm9XQ0JFX1JqSWFBU2VwREdyWG1qU3ZfeWxaWXMtcG5CQnh6Zw?oc=5",
+          "published": "2026-10-28T10:17:01+00:00",
+          "source": "Xinhua"
+        },
+        {
+          "title": "2 trains crash in central Spain, injuring an unknown number of passengers - WFTV",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQemtmSWlJSDI4V3AtV1RnVk5ZLUw3ODFJZ3VxRmNEazlYbGNsamJpU0ptV3c1cWhtR2lfb3p2clJXRXhINVVSdnlxa0RMQ2owZllzMERIUG1Db1BSOFJGOVVDek93cG9SUzREVDNNbng1Q0JzWGlodzhIcEpZMnlEaUZkVdIBlwFBVV95cUxNTU1vX0ZQUFhQZElKb0JhMi1rSUZDWFZ4cW9rSkJ5MjZBMld2UDlJUHhKcXFSWUJmb1dLVjZzMHIxMFc3UFVyWlhCLWNMcjVjRHdCaGF2VjFKTG1hNzBIaW1UZ3J1UlRSdlJSVnpiTWdPWktXOG1NNG1OSHprVEtmblZ6djNwLUZKYVV6LUN0c1JreUxiTkRJ?oc=5",
+          "published": "2026-10-28T09:14:17+00:00",
+          "source": "WFTV"
+        },
+        {
+          "title": "At least 10 dead after high-speed train rearends stopped train in Spain - NEWS10 ABC",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUERXcjJzZTlwM0puSVBTb19sZkd3ZVNwVXhJdUw2X1VkUWk5c3lOWlUxMDVaVHlUdHUwYjJoNmN3amNvR1BZZjUzR1FRNzF4WEZ0dF83MG9YQUZ6QzRMRTMwd2c1WFNaNkdFZ0NORmgwazVIUk9IMUh6ODVOU3JOd2dXZ3F1UHNSQ0g2aGZvLW9ma0pyaWFZdzB6RktQc0VlSGNsSk5HNVhtcngxeE9R0gGvAUFVX3lxTE5QRFdyMnNlOXAzSm5JUFNvX2xmR3dlU3BVeEl1TDZfVWRRaTlzeU5aVTEwNVpUeVR0dTBiMmg2Y3dqY29HUFlmNTNHUVE3MXhYRnR0Xzcwb1hBRnpDNExFMzB3ZzVYU1o2R0VnQ05GaDBrNUhST0gxSHo4NU5Tck53Z1dncXVQc1JDSDZoZm8tb2ZrSnJpYVl3MHpGS1BzRWVIY2xKTkc1WG1yeDF4T1E?oc=5",
+          "published": "2026-10-28T06:45:59+00:00",
+          "source": "NEWS10 ABC"
+        },
+        {
+          "title": "Castilla-La Mancha activates level 2 of the Territorial Emergency Plan and requests support from the UME after the train accident in Toledo - El Constitucional",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQc1FKcHBZWkhBcmFSMVdkdnI4QnFfZ21qTGNDQnlKZk9uNlNpTkF2bVVXZThIakFYcDl3LVduMzMtMWJ2bUtpdEJidHNycmVtVVAxTXRGZ3ZhVGQ1WjF5amdoLUFYREZSZnhTTDJPUmdvVS1ITWFiU01felRSeGNrTHcxWk5Bd1ZPaEJBeVBUc1UxSm5XYVVqSEFTcWdCUDIzMlFBLW9vbG0xTWVYMzNYdFZKYVNxYTdqXzhkeE1yeXo4allUOXB2dnkzSTF3SFV5WmdZbEtrWWRWNzZRaGRTZ05DMF9Rc1hRd3ZkcEI2ZXB0cXA3MFpKZmt2TzRVazlhYVJOVG84N1hKb1AyRmpqR2lpNkRiQ2V3WWNOdnllejJaYWM?oc=5",
+          "published": "2026-10-28T10:17:06+00:00",
+          "source": "El Constitucional"
+        },
+        {
+          "title": "High-speed train hits stopped train in central Spain, killing at least 10 - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFB1OGt6d252RzR2WTNrQUdJT3VBcWFhUlE5VEdWR0tRWkRIb1BsSnZzNTR1WFNmZGUyZ05qSWsxdDNmOHVRUFJoUWRpaTNQYnloOEUyaHc4TXZ2R0xReHpnS2NYcVQ3ZWlJanQwelZfQnRNc3REYmpQX2ZlZGQtSGdtUjhFWFdkQkdZYmVjZmpQVkxUUzEzUEFaWTBpcmVlQ0xuLWVSNTBzY015NmVTQjdHc3VPaFRENTk2RnRuWUJvU25iRDhMVFNha3rSAcwBQVVfeXFMT3hQdThrendudkc0dlkza0FHSU91QXFhYVJROVRHVkdLUVpESG9QbEp2czU0dVhTZmRlMmdOaklrMXQzZjh1UVBSaFFkaWkzUGJ5aDhFMmh3OE12dkdMUXh6Z0tjWHFUN2VpSWp0MHpWX0J0TXN0RGJqUF9mZWRkLUhnbVI4RVhXZEJHWWJlY2ZqUFZMVFMxM1BBWlkwaXJlZUNMbi1lUjUwc2NNeTZlU0I3R3N1T2hURDU5NkZ0bllCb1NuYkQ4TFRTYWt6?oc=5",
+          "published": "2026-10-28T10:32:19+00:00",
+          "source": "Khaosod English"
+        },
+        {
+          "title": "A grandmother raising her two grandchildren says their mother banged on her door and threatened to kill h - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOWkRwWFF1YjMwNDUwX2U0dXl5anBtbkFjTXBJdURybXZwLVgyc3A2YS1la1NTMVRjbE15RWZjdEk0VlpiTmhlMmhsTC1HS0ljYm9FQ0czS2FqbTB0WDE3cVU3QkFsaS03bXhwQjdIczdzeG5HM0htQ1pReTY4VUNmTjR3UzQtSGt5WENZQV9uZlh2UWNqNXVyMjNiUS1UZDlTcThLVGpwSGRpN2xKUXQ1alU1Rktna05YVThkRjY2Ml9EbGg2ejJ5RXVqaDRlXzVTN1pRajlOUFp4MGt0eWctWTNpM3ZJWjh0eGhxN3ZoT0V1emV6VHNhUWpSY01xdlFvVEpMVWNDbFRySnl3VDZqT0hSaGZSQzZZTG9PTW5oeENFZk9pQUZ0Y2w2dm5FVUdMOVVRbDNoZ2J3UVhhX01fS0JyVkFTNnRmWnNPLWtnTDVUdUZSa2x3YUpHWXJoWHFsVFM5Z0s2cGdkWWxDZ0s5S0k2VVQ4ZVRobHJnU0F3MFhnXzZVZEJtREp2SHlaTXBTNHJIaHJKNU1qQ1N6MnE5OVFvbGtwa21FSGFpMmdRMFBMMTNjcFFRNWpmNS1ZRjRDeXg0S9IBygNBVV95cUxPT0poWkxYem9tZ3VaMXVCMHBJQldGcHpBcXRwU1ktY2ZYTVp0Z1J3SUNjVHJjR09oSkVsWnk4TnFJQVBreVp0clI0dUJNWkR1Nkh4blo3VDJuU1dzZnNpdXZiUEowdEJ5eHFIbWdJQVBfUGxienVscWFfdHdUUFpIa3dZU3d6cUlGQWZxa3E2OFNvTkl3S2k4OXljdmFxZU9Gb2EyZC1waXpjVk1XZlh5OW5MMExZTG9IemtFaDJlc2NFSVdxeHJjcVdRRkI1Z0EwQ29uMEszcHFoUkpvcVRqaTJIVGpKYUsxdzVOZGRZa0FNdVFZLVg0YzVzM1NvbFRxSkhvenZDTEdmWDQtMF80aUVwa2VBX3JqY19YQjJKYmtNYWx2TU1wbndNUnRvMVZLcjA2UVFEMVFkZEYyNFF2OEJJOGliWHMzYi02NVllYkhjUUhIWFk1ZzFwcHBTOEJHbHJIaVJzYmZUemRFS1ZjemhPWXd4ZDNCQ3ZXOHYzSWVjVGdXNXJCbDM2RmJPSDF6QUVhMVg4VFdrOFQ3TWRqbHQzNm5pcTVORGIxNXNhRmVkd1FwQzZjTjVEVHZpSFVIenJyRUhOb2d4UQ?oc=5",
+          "published": "2026-10-28T04:35:00+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Israel exit polls: Neither bloc wins majority - Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42VDRlN01yeGU0Q2N0ajZ3eGdDckVISzBTYU5DMVU3LWVreWQzS3JxYVVZakJ2VnZuQ2hnZ0p6OXl0WlBkdDU1QnF0NU5rTkw1REZNZDQ1azFPZGM?oc=5",
+          "published": "2026-10-28T08:22:16+00:00",
+          "source": "Anadolu Ajansı"
+        },
+        {
+          "title": "At least 30 dead and 80 injured in high-speed train crash in central Spain - NBC4 WCMH-TV",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVG9HWk5TQ0h1dnN1VmdZMXcyelZSYS1WZlJMaDBocGlaYksxRkhidjR5ak1vUnNQenIwcXYwdEVIOHVBbGNxX1EtVnpLRmx6dlM3T245RmJqQnFqNG5lMHpOVkxhVmlUX1VLMnpQS094OEl2YWF3RDFwVnhuMEpOWnRpdUVVZXVvdGlNaXEwWHBzalV4U3YzQkZVZFBUdHpETXJTVkVmU0wwTGVPSTdtZFZXMzBVaTY5cVhxU2ZDeVhmbUdSWGFmdktHWlQzcVptbUHSAdIBQVVfeXFMTVRvR1pOU0NIdXZzdVZnWTF3MnpWUmEtVmZSTGgwaHBpWmJLMUZIYnY0eWpNb1JzUHpyMHF2MHRFSDh1QWxjcV9RLVZ6S0ZsenZTN09uOUZiakJxajRuZTB6TlZMYVZpVF9VSzJ6UEtPeDhJdmFhd0QxcFZ4bjBKTlp0aXVFVWV1b3RpTWlxMFhwc2pVeFN2M0JGVWRQVHR6RE1yU1ZFZlNMMExlT0k3bWRWVzMwVWk2OXFYcVNmQ3lYZm1HUlhhZnZLR1pUM3FabW1B?oc=5",
+          "published": "2026-10-28T08:42:50+00:00",
+          "source": "NBC4 WCMH-TV"
+        },
+        {
+          "title": "What we know about the possible cause of the Spain train crash that killed at least 68 — the country’s second in under 10 months - El Cronista",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaDduaVpBOGJkOW5saVAwOElhSW42ZXZraXg5bTRDdnlfSU1sYWFydXRCWHVXaHd4T1NoUmUxU3RmYUthbGVXNXJVbE1wckZGd1JUd1JMVzl0UGNEUjh4Nk9EblBjSVh5YU1obUNoaXJVQi1hX0tPbXE0TVAxUFUyNTJYSlNGd2xOWk9UbXpabkhodHEyVnJ2elZ2WkJnOHM3YUV0cW5JaHU1ckRBdk5VUFFiemR2T3NJVVU4THBUZl9XTl9ibGFPVlJUcnJDa0pwbEt2dFZwQmdWczNqaGh1Mm5aOUxnWkdmYXl6RUpBTm5jQQ?oc=5",
+          "published": "2026-10-28T21:05:53+00:00",
+          "source": "El Cronista"
+        },
+        {
+          "title": "At least 50 killed in Spain high-speed crash - RAILMARKET.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNnFFVUFkb2FCd2J6WDFrblpwLVBDSFdhRzJLSkZ0TE4wNVdJWHRsNnNINkZTakQ1WlBLLThadDNKR1E1TDBYdkdHYXFqbGVaY3Rvbm1USi1MVjRZa0g4dUFnRUI5eS1kZkFqNjR6dnBJVHNqUmhacHp3b0tnczlwNzZaZjh4RFRpOE1rWXVZaldwMUppeFdnVg?oc=5",
+          "published": "2026-10-28T10:37:00+00:00",
+          "source": "RAILMARKET.com"
+        },
+        {
+          "title": "Death Toll in Spain Train Crash Rises to 64 - Kıbrıs Postası",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEtLSFd0UEh1YlBnZEw2ckFrN05raUItc01zU1ZVc3BvQVlfSDBUVUIyajZ0SUp0STd2OFdOc2JiakdVWG9JbkZwcmtEdnI1R0doc2RjWVpZUlY2MXZWSWtDSTVjR0VTU3FQSEhVcVlLMF9XeDNJNExVcUNFTGRpMWN5MkVucXFsLXdDeWNxTmo1c3hGR1JVVV9HaENfQQ?oc=5",
+          "published": "2026-10-28T17:34:00+00:00",
+          "source": "Kıbrıs Postası"
+        },
+        {
+          "title": "L’Oréal opens its second community salon in Milan - Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmJ1NFQ0U2NYNXpCdDFaWnoxMmhCRGNIOTVaajZ4aTRVTWw3UjFRUVZkdlROTVhTdDcybkdMb3BRTk9MOHhIN3VmOGV0UGt1RVZSYjRqa2VZN1hWT252azRpam9SVEFvVHdjemQ0N19SVE1ETUFBS0VSTDhHQVhBNU5oOXlRMElqenc?oc=5",
+          "published": "2026-10-28T15:06:19+00:00",
+          "source": "Il Sole 24 ORE"
+        },
+        {
+          "title": "Kiev: the Government extends the state of emergency – aid can be sent to Ukraine - Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXlEbm03WFhSbkJvNTZNUFNOMzBscVJWU2Z0QnVOblRoMXVvZGNEdHJ6NlM5cnN3LVNvT0FNWUVoYm9CZ1dNMUY3U3l1R3RFS01SdTl2RHdYcy1CUWtlWU1jTTFhWTZRT0ZueHQwZWZ3SzI4S0xLOHRKbXcyZFk0RTdSY0wzVFpaRnJuVzVVMjFtNWRHVnd3a1I4Qi1INkxvNkxWZGhfMjZhdXdTeVNOWFM2SQ?oc=5",
+          "published": "2026-10-28T20:47:04+00:00",
+          "source": "Il Sole 24 ORE"
+        },
+        {
+          "title": "Spain train collision kills at least 64: authorities - 香港電台新聞網",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxMlh6emJZQUdmczRCTk8tR3pDWEcwVUpkMEtieHJkS1pSZW93UDcxUGdvblZRY1luMzlyeFk2TDFhX1Fha19ZOUxVRG5CM0poMVg1SmhPbUt5OGZQV3NLV1Itd3VqR0tfODhTYm9FWQ?oc=5",
+          "published": "2026-10-28T09:55:00+00:00",
+          "source": "香港電台新聞網"
+        },
+        {
+          "title": "46 killed in Spain high-speed train collision - Banglanews24",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93WFFWT01veGR4dkRLcXJ0SzdnNnlrQk0xLXpYMXkwa2tuZTBtaVV0eEM0Qm54R0ZQelBIZ2dYdUtvbm5wN0VHbGhzNzFXMjF2MWdQOWFxS3g4WVlYRm9SLTc5MUctSFJkNkt0S1ROdmVOUQ?oc=5",
+          "published": "2026-10-28T21:12:46+00:00",
+          "source": "Banglanews24"
+        },
+        {
+          "title": "Severe rain and thunderstorms threaten Greece's 28 October parades - Areas facing the worst weather - ProtoThema English",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KdFNUNUJ5YXRBSjBnU3ozb29remZncUk0WWNnSTRGQ292TlcwR0M1UV9CbHBKay1XbERJWlhEWWVhU1ZlNUhoS21CZXhpczR5QUo0NWFB?oc=5",
+          "published": "2026-10-28T07:23:17+00:00",
+          "source": "ProtoThema English"
+        },
+        {
+          "title": "Washington DC appeals court expands civil protection orders to custodial grandparents - https://streamlinefeed.co.ke/",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWkNaV1lDLXNnYTFvV2tCYjJKNHdXempMbGRCV08wU1dURTlPNFdQYXp4V0ViVmVjTlRBbFQxYUVudGxlYmFlbnkwOW05QkFnVXR1SFhfYnNhU0JaUXQ1UUJTU2QxaExNM2p3TGtoNFl0VnctRy1xWk12T2FrcUJKaU1Db1JWc0dpYU5iQXAxekJCLTZjRFNmNV9vU2t1V3N2Zk1CdldYcXRMcVlHN01jN0VrT29wM2s5RVo4?oc=5",
+          "published": "2026-10-28T07:00:00+00:00",
+          "source": "https://streamlinefeed.co.ke/"
+        },
+        {
+          "title": "At least 46 dead in Spain after a Renfe AVE collided with an Iryo train in Toledo - CiberCuba",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFpKV2xTOHhSZFFBLWpzWFlyX01MRmM3bUFUSUZyRDhidEIycUtVb3hJNzlya1E0QU1CY1JoSldrOXEwTUVfMFB3Tkc1MlBEWGIyR3dXMnFwQ1hwMzBOUzliLUV2anR2bUxuY2xJT0FnYkNTNmsyLVZkSWZvWDROdEQwOTN0T2hoS1B0WVlqNDNmdkFzTVpOME9uTmdTR2E4ZmVBcjVxUEtweGhVN1pLTlhXWm5HNUd4X3pwSA?oc=5",
+          "published": "2026-10-28T09:36:21+00:00",
+          "source": "CiberCuba"
+        },
+        {
+          "title": "At Least 46 Reported Dead in High-Speed Train Collision in Toledo, Spain – Video - cedarnews.net",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWm8xVjA3QmJ4ckE2enhqRkZvRDNWc2ZVYjluMXJHZGlXUWtjMlZyUDVkMGFWNm1YRjhyMk5SZ21oSlcyODNJaUVaMl9TbkRscEtlN2RFV25zSmxOd1R6Ul9JSExoNWdDRVJ3U0o3elgtZUptcTd6Wi05ZEwxd1dXZWh2VExWeFRvWllVaFZvc0pmc2tLQnlfT3lNTmRUeEdkSnNFOWxrVksyVTJRQmowb01henUxdExva2c?oc=5",
+          "published": "2026-10-28T09:44:33+00:00",
+          "source": "cedarnews.net"
+        },
+        {
+          "title": "Fatal Collision in Spain Involving Renfe and Iryo Trains Claims at Least 46 Lives - CubaHeadlines",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53QnI4MHMzOTF5NFBLdHBxMWZJT3dST0FsSTEtandXYlZuRkVnMEVfVEFmcHBpYmZxVHhoZ0tzc1ZrWVpVNEhYTWpycUlFaGVodGlYMjlFVFM?oc=5",
+          "published": "2026-10-28T15:03:12+00:00",
+          "source": "CubaHeadlines"
+        },
+        {
+          "title": "Hailstorm wreaks havoc in Beitbridge East - Herald.co.zw",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rN0oxTVNmeXM5a0IweFFDeU53Q0FaWUNSMWh2cnRpTlFmNE9PQzZJTW9zXzg5Qk1JUHRlV3lUVWNQY0VLSHdTWTZqb0VCWGNnWTZHbEhydzZmRGc5TWw3QUIyY19td2VTQXNMNmp0WmpPY1dVV2JCdk8tRWxZQQ?oc=5",
+          "published": "2026-10-28T15:09:31+00:00",
+          "source": "Herald.co.zw"
+        },
+        {
+          "title": "Spain Train Collision Kills at Least 46 - Sada Elbalad English",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aX2h5aGVPTmd4aTVwQ3I0M01sWG41VHhFRzVxWTBFdld2MExhdUd6U0JjS1lyaXFPYXJJc3lFNnRMcU5UMzN1U1dnNVEzU0lFd3JPWDJLTGE0ZXZZdXNQRVF0OEFiZ0k?oc=5",
+          "published": "2026-10-28T11:57:05+00:00",
+          "source": "Sada Elbalad English"
+        },
+        {
+          "title": "Severe Weather Forces Cancellation of Student Parades Across Greece for Ohi Day - https://streamlinefeed.co.ke/",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2ZXa0tCVWQ4bV8wY2kxM01HeHpic01vUHFuXzY5R3Zac0czMWtleTQyMlpOaGZDQ1ZwVDZ2MDdWMnMtallud1JhMmNPTWp2UXBqdmx4OGxIM0NrLXFESHRrejgtOVRYeVpqNG5DOTg0Q04xUW41UXlzMXpqN01sV3hGaGE3czdBQ0VpR2xCNG5VT2lwSk1EUE9WOU1lbmNrc05BbVkxVFNlbmZyc0ZmemFkOA?oc=5",
+          "published": "2026-10-28T09:15:57+00:00",
+          "source": "https://streamlinefeed.co.ke/"
+        },
+        {
+          "title": "Hailstorm damages buildings in Beitbridge East - Herald.co.zw",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2FUb194aHFVeTBhdDJmc0MwdjVTRDNwSlZ3RGJ2RE90eHpWSVZaQkowVWhtYng0VGpJYldXX24wVnZiRXJKYnZVOXhPOWpIR24wRGJvZkJPN19keFBXTUl3TnZwcXR3MVpsWnhHY2VrSmdhSVBPN3VCMXlBUjdKUzVWOVY?oc=5",
+          "published": "2026-10-28T14:24:02+00:00",
+          "source": "Herald.co.zw"
+        },
+        {
+          "title": "Toledo rail crash revives scrutiny of Puente's Renfe sketch - RUSSPAIN.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMDBnOWl3UHRFeEViWjdwYnN4bl9aQVVEV2dpRFZCVUJ3T2VCeGlvYk5TeHRVQ0VLby10eVZpMzJUUlhBRXR3V25uRzhncERrNjFsaUk5alRWSUprMFI3ckZTaktsT2E5YlNEaG9pMWNGS0g1bzh2aG15aTZMelMzQk1qNzF5UXlTN0VvWGtzcHcwbUlyM3poQw?oc=5",
+          "published": "2026-10-28T16:30:00+00:00",
+          "source": "RUSSPAIN.com"
+        },
+        {
+          "title": "Spain declares 45 territories affected by disasters ᐉ News from Fakti.bg - World - Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEh6a2pjekRBUUNQa1E5R2hlam41VUJ2THJobXlGbW5MMVpxZXNzRTVSUDFiWGcwbmlheGNUWXRDbld0ejhWbTVrM2hwN1FCQWg1dXJxdXhjenFOQnRGUWt2dVE5UmdSdlBacTZGU0ZseDUxNHN4b3gzNC1aVDlxVTRZc0NRbXJBSEtjZ2hLcw?oc=5",
+          "published": "2026-10-28T02:28:00+00:00",
+          "source": "Fakti.bg"
+        },
+        {
+          "title": "(SpotNews)SPAIN-TRAIN COLLISION-DEATH TOLL - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQi1iemJXdUVHeGZyaUZiQ29oeEZCdlh4aWZVc0VScmJwZmMxOFFNWHlrdjJFMTVSeFhad09uUV9YMko1bHYzTXZkZEw3NFpoX2prR0xFaElIRDk0ZFdRc1BUN3ZUU2ZlaWgtUmFuNGZrR25iSldVWmJGaDkxQ3RrV05lUENmclJCamJYdnpobw?oc=5",
+          "published": "2026-10-28T11:32:00+00:00",
+          "source": "Big News Network.com"
+        },
+        {
+          "title": "Spain train collision kills over 40 in Toledo, rail services suspended - NewsDrum",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2xQTl81ZGVuTUliUXBIdWt3SFhHTGc1c2ZDbkduQ3UzYkxoZ0Z4bXUwSW9qMGpNa1BDNXQ1VnRMQ1ZCbWY3SzJ6MWNpbnlTdjRkWTA3c2QycEZrdWRLWWlrUUo4c2J1TDU4SmFtVHJMT3pnQXJzbUtEYk9yWUliODhwN25faGpLWWxCd0lJNzMzem5vZWVSUS1jQjY4SHpVVzVzWFpicHBPZmNWSXM2SEhiLUM5R0HSAbcBQVVfeXFMUF9sUE5fNWRlbk1JYlFwSHVrd0hYR0xnNXNmQ25HbkN1M2JMaGdGeG11MElvajBqTWtQQzV0NVZ0TENWQm1mN0syejFjaW55U3Y0ZFkwN3NkMnBGa3VkS1lpa1FKOHNidUw1OEphbVRyTE96Z0Fyc21LRGJPcllJYjg4cDduX2hqS1lsQndJSTczM3pub2VlUlEtY0I2OEh6VVc1c1haYnBwT2ZjVklzNkhIYi1DOUdB?oc=5",
+          "published": "2026-10-28T10:48:55+00:00",
+          "source": "NewsDrum"
+        },
+        {
+          "title": "Spain Train Crash Kills At Least 10 As 2 High-Speed Trains Collide In Toledo; Rail Services Between Madrid And - Free Press Journal",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWkV3c1JkQ1lBdktBYU5UZGQtV2VBdmRuYnlTNlpqZ0tsaDhFZTJVcDVNeHh5U1lHNWd2RjVNWE55OWp2VUNFZ2VhMklpVDVydE9PaXNLLW9HOUU4WVVMRXh5RDJlOGVSaE9BWUIwalRmLXZ2VDBKT0F4T3FtTW5NQmlDWFNuRWdYR1pKVzUyNXVqU0g5R1hXVF8waGJUbDJlLXZza21HT0R6SV9RRl9MQVNaTGVCeURPNmZGdUFZR2hDSzhXWENqemxVUHU5N3UwY3dWY2VPa3ZWeWEyeFpiTzZhUkdWelo0Y3ZwSTlFZ1BCb0JCZ0ZaTEl6Nzlza2syWGEw0gGIAkFVX3lxTE9YRXdiRWU5LTNUN2xRZUpPZ3Z5MW1CUExfaFJ1Nmk1S1VORHRlSFBiNXM1cFJtZHVXOE9FQnBiamZhVXplVVhkcEduZDRrZGI3ekVwOTRJTUkxLUR4aXkwSDc1Z0lRTHlJVWdnM00tYi1JWTVCaS1nMVFjLV9vNUZjNkdRUDZxYXpIdFJWUnJBWDJxVzBIMjJTeDBzRG5LZXZ4NE9WNEhHM3J4OGRubFpfS2NYSmVuV3o5WDFNUHhnT0sxNDBKcUU0bklBeWFqbEZUUGtsVTJVMmtzYlFmYy1fVGpPZmg4UW5EUlYtbUsyNlVYRFFZTURqenlGUF94T0xGOWxKQXpTRQ?oc=5",
+          "published": "2026-10-28T09:37:55+00:00",
+          "source": "Free Press Journal"
+        }
+      ],
+      "count": 51,
       "count_is_sample": false
     },
     "terror": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
+      "articles": [
+        {
+          "title": "Knife-Wielding Assailant Killed After Terror Attack Outside Israeli Embassy in Belgrade - The Media Line",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd1FFYXkzZGxUZ1FzNEZrNEd0cERmVEl6aENIa3RuLU9jZDdaMHpSRzZuc183TjVzWVpRVW5YeTUzN0RFUm1sajY1Nl9BLVl6cEhBX0FQTmw5U19Xel9QRHRuLTdYcEdaSFV5Yjlwamozd3lrVWhTa3JBUlZLallTUDQ3S1VCUVVCTVQyWTZucWxPcFJCMS1KNFVxMWpiak0tVk0xdFE0YVhQRFpic1FOSHJOcFh5QjJoQ0NOcHlkZkI?oc=5",
+          "published": "2026-10-28T09:33:54+00:00",
+          "source": "The Media Line"
+        },
+        {
+          "title": "Prosecutors ask for more time in Chanukah Bondi Beach terror attack case - The Jewish Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQklidGprM2RUQVY1RVZuejY4TFF2VzV2WHd3NDJVVWd4ZkZ5WEtOdDFhY1YycE8xbWVKZXJieTF1Nl8tWVFKalhZNkpBX0FLUFR1dnlCUW11VG44VkpUSF85VjhiOHUwZDlKeW5OTHc1c0ZZTXVFNVhwcTVLYkd4eERodXdRRERfa1I4ZWJLVDZ4N08xRGltd2hzaHJ5cUhJVnJLMThZOHZuUGxqb0RNNWpVWlE?oc=5",
+          "published": "2026-10-28T17:17:48+00:00",
+          "source": "The Jewish Chronicle"
+        },
+        {
+          "title": "Palestinian arrested in West Bank for saying he intended to commit terror attack — police - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmxYakF3T2JpSHpqSkZuSjdybUxCQzl4bk91RlBJMEtQMFhOWVFBSlp1TnFlSVFXTFdMbG02cFk2azVGWl9CdEx4blRraXcybTVsSmQ4SzluMEVmX2p0M0kwQWlZLThpWkZNX3JKb2k5NU5yM0RuV2dsMVI3OFdOSUs5VmZXSHJ6U0JfS1NCQXdnM1ZYUkZER0lLOHk5NjcxN3lORG45ZzFmVHhHdTNESTJyQ0kxTHVMTXV5aVF4cmtFYUxpVFA1alVTQmQtdw?oc=5",
+          "published": "2026-10-28T16:25:12+00:00",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Man charged with posing as Sydney Hanukkah terror attack victim to get compensation - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnlzOTg2dVlndGl5OTRhOUpkNjhFUERIcmVDTm9CLU1teUxxRUZMMklrbV9xekVGQUJsNG4tNkJRMk9mNkNxLWxwREx6WjFnYS1UVUhvQnlwdDBFQzFUU1Uxd3drd0RUZzJCUGk2dFFWN09uZEhiNHhrOGRLWWdBN1ZDNHBvTno1dXkxUlU0ZFczVjRNTUdTMnVHTWlObThvV0djN0VONlRkU1RmanBSNDhXTjZRUDRUQlZ2ei03d2YwSnUwU2ZkeWRVT25oUQ?oc=5",
+          "published": "2026-10-28T08:30:00+00:00",
+          "source": "New York Post"
+        },
+        {
+          "title": "FBI says it stopped a Mall of America terror attack by a teen after agents sold him an assault rifle - Hiiraan Online",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQzJ0T1hSTHgxQ3hMYTBIS2I3Yk02NDllQ0UxbU04d24wckZLM3I1bzBMRFBsdW9YWmFHZHp1R3pmM0h2bnFOSV82R0w5S2M2LTB6WC12WkJjbG9VZTdRZGRpTTlhT2dRYXRfWkpXSng2R2tkeGhmOUtGTElzR2VqZVNMU1JFYzNXR1B1bEU3djhTd3ZGb21KNEJqWEJkbDZJNFFrNHN5cUhFdnFTZHkxdDZxV2ZYcVY5NUJacnlKallVa2xYOVh2VW80Yk1sN0kzWEUxTXRVUU54U3JlR01qelhNSGFvUQ?oc=5",
+          "published": "2026-10-28T18:42:44+00:00",
+          "source": "Hiiraan Online"
+        },
+        {
+          "title": "Indian national accused of faking injuries following Bondi terror attack - chinadailyhk",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3Z1JHbl9FbTFRSTNGV080RHBxenZLbmI2cHJwcjdGbHF4emZhS3RMMG9sbFNtcHJsRHg2MUhlcEM5QVZyNzJSVGZWY1AxNk14bi1naW81WkU?oc=5",
+          "published": "2026-10-28T03:26:41+00:00",
+          "source": "chinadailyhk"
+        },
+        {
+          "title": "Man charged after allegedly faking being victim in Bondi terror attack - SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFkxTk1MN1FKMDRERlVOTkNpelc5bjY2Z2FWdFZiaUlpQUpSX2RnOE9RckxGN3hfRmxXdmd1YnRXcERWbl9pd0VpYmVjdFNOUGs3enlpWWxrbFo4VHF5OWlYc3NSVkNDYTJrRTJ0S3pYTEowWS01dlhnTksxcWRBTEhIS0F6QUpTTEEzZUtSdzBxLXFFSkdWRTJCRWNmZDVuUWJmbWo5NndHaU1JY2pJbDZOdGRTdVVkbFliVHh3RU8?oc=5",
+          "published": "2026-10-28T07:41:06+00:00",
+          "source": "SMH.com.au"
+        },
+        {
+          "title": "Terror attack at Israeli embassy in Serbia - Israel National News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RVEpjaUpPd1VCdnRDcTIzUDdnVzlOcEZuMHR3SGdhNVdQT1J0cWljMVNBLTE2MFdfdjhMUFFSOXJPQ2FjMzVXNlU4dVNvWXZ0TGRpMC1UQ25IZw?oc=5",
+          "published": "2026-10-28T06:32:00+00:00",
+          "source": "Israel National News"
+        },
+        {
+          "title": "Simulated Terror Attack Training Boosts Medical Students’ Emergency Preparedness - Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXFBX09sMUxWZ1dqUUVKelZ2WmR3VzE2V1lwNWhJQjhKdVhRRzB1YVktWDAzdWpNSEpSRWdwR0VySmpJUTljV2ZKdkYzZ29ZclFQYmJ5ZnJYWk5KbGtkYV9pQ3phWXpCWHhHMWtkWTZKMVJqN2JMWDhVY2kzN3VoclhPNmdYZXRidkVYMUppa05EYlZKekRnbk43UGxFWkpqLXFTc08tdw?oc=5",
+          "published": "2026-10-28T00:33:11+00:00",
+          "source": "Bioengineer.org"
+        },
+        {
+          "title": "Serbia launches 'terror attack' probe after guard outside Israeli embassy in Belgrade attacked | World News - Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWC1jT0paX3I1cFJJQUlDOE4ycnZrZ0hKNWZUeTNVcEIxcDVtbFlQbWtHQi04V1FBUXpSNTNBUUx1S0s4dW91cjFlSi1hV2ZNYWtvTjM2YmNzM1lrZGJRUUR2N3o2OXEwSlYzX21BZ3ZRLVZ1MXdhWXJrbVI4dl9UdWxXdDRiNTltSll5OW1RdlA3QnpwQzhJUHNFb2EyR3c3T1Qzd0VHOTRGM29MMElqNjVEZG9RelNEcWtjZVlWLTV5VVA4NF92c1MyNGR1WkxoRDZxekNSQ2FmRlJ5MzlUVWQ1dlA1NmVKR0lXNzRfcjdCU2ltM0x6S21icGt5RldUNjVYLXJ0c9IBjAJBVV95cUxOSHhmRkhJQUg3cFJ0T2VaUDlNbW4ydllrWHVfQ3hCWUZ2T3pSN3piQmRnTTdwaC1icGwzbThmQW5PZWFZaEd4MHp1STF0Z0Jic1YtQk1JSndYNkhicXI0NlFtUC1Sbjl0OFo4Y0d1V3VzUjdJTzVkaElQUmRxdHhmNVA1ZFFBVWVFUFR4UTAwT3ZMSnlQaVJmMXo5dkp4N2Z4SjN3d3ZOa0R2VVkyT3c4LUk1QzRMaGtBTDAwa2VLdWZvZUNpaUpGQ2lsVWJjYnlfa0xicFlZN3k3czU5VlhrRnRQdm9lcEhCN1JhM0VNNGo3M0RSNUlJMV9YNl9KbnpVRlJ5SDlRejZWdHNf?oc=5",
+          "published": "2026-10-28T06:37:44+00:00",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "Foreign Ministry: No embassy staff injured in attempted terror attack on Belgrade embassy; incident under investigation - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR1lrRU9QeHdlN1VyWU9MWnBNSjRKZ3l4Uk1LVVkwOC1UdUxoZGNPbWRlM0w3MEpIUzMwLU85QS1GODk4cVFtYlhLLUo0SHFRVXpSXzI5R05UQ1BXUURHNy1RRzRYZm03dXVlNkxteTRENEpmem1kZFhzUVVjdkZ1VjVMcGhTVFppOHY4am45cEhPeU5mS0d6dkY4cHduSmxVWXpMQjlNSkJEb3BuR2xnV21xM0JCTUZQRUNrZTFDRmJjY2ZmeGg4OHp1Q0xfWktqZUdKOFBnMDFrS01mZTdvbi1nSWtULVdNejA0dmwzbE9BWEE3QlE?oc=5",
+          "published": "2026-10-28T07:34:38+00:00",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Shocking ‘fake injury’ charges after Bondi - The Weekly Times",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbWplY2xHYXp6YXBtY29oMmNtMjVvYTIxU0YxZ2xyYnh3MjlPRzJ4eXYxMV9OcElJSUtnRHVGSE5CVmJBa0FORjFqX0hWWHRSVmlJWXpCV1JBdzk0eHVkRjZZdEdiUXN6NFdzMXhDQ2o0cEFHaWExM0dqYzNhQ2x2bUdITjNNazdHX3BsTVRkald6aHBvN2xJV1VveWlpVXRlWVQ5Z0ZnTEdHekJVQ3ZHT1RfZkdhazIyd1BJQ2NDdHdMNzRhSEtEOUlxdTZsN1BTM2M4cW84TnRGMUxyMkFyVzNSME5JaVNReTFDejU2MUZhS0NQZ1VkSUpPTkU4OUpkSDE0M0t2b3dXZEhzLVE?oc=5",
+          "published": "2026-10-27T23:48:45+00:00",
+          "source": "The Weekly Times"
+        },
+        {
+          "title": "WATCH | Northern Cape-born pilot among those receiving UAE medals for foiling mid-air terror attack - https://novanews.co.za/",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWW9pcE9GYUJaYm1Ed2lwNm1yS3VyNkpxT2JuQUJ2VHR1QWlaV2dhWEM1UzZOSlBQaHpuZGMyVWh2SjktQXB6dzl0M3A0WEJwS3dKOWxhT2dMbmFxZE1MVXJsbGRGcVl0Y2Jibzg5d2VjUzNGb01PS3kzel95LUl1TmNXTzRTcHk0NHVSdFhFSzMyVkVCOV9DcDdUZV9IYy14OU5sM3RyLUxxV2piMm13ZWpTeDFVVHRHUERRZ2Rn?oc=5",
+          "published": "2026-10-28T11:52:54+00:00",
+          "source": "https://novanews.co.za/"
+        },
+        {
+          "title": "UAE honours Indian captain Smit Machchhar for heroic role foiling terror hijack plot on Israeli-bound Flydubai flight - Organiser",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORl9VaU83Zm9UbFRJZ1dwdEhOaDlvTV9INlkxZGlNUTgta3B0QzJxUm85X0prNGp3cnR5QmtzV1VVMkRsZDNBZnEzWnRkcDY1bFRDdm8xVnMybVJ6cGdBcmJUQmhNdk9Bbm41WU96cnF1ZHZsMHJtRTNQLU1rSm1Qb3BrbE1LeG02WHQ5YTlQbXZjcVJjSllLT3VCaVoyMTFTRjAzM3F0OU5LOTluXzJJY0Ywb2VuVGZnTHRNVW9VQkFOUkZOcy1OLVV6QjNzQkRYeGJIQjZBeG5mQ1pwYTMtc2VKNEotX1Z6X2NTMWlxWGVWbGVqWWpr0gH8AUFVX3lxTE1QSURDTHJrQzVYaDdyUTNPSWxkcW5OTEVRQnJXOU1rVnRwd2pydWR0MDFtR193cTBKaXRLb2h6Z1BXeE5KRW5FMEpkT0FudEZlY09WTjVEZ1ZhajlLaVczekFCQkNfbjc5WTVKc2RlRHBvQkMtZFNqV2NpU25BYS10d19oQ3dGdzk3aUVkblZQWEpZdFk2TmF2U2dodkY2blFTRXdNQ05xQUxZd0RkbFNGWV9YZHo5VW5YaVZWMGE5ZXh1UVY5bTl0ZmhKU3F0OHU2R3Z2U2ozT0FxYlo3Y1ZNTzVleFpLX1dTZDA4STNyWlpYcG5Cb2hXNEpSVA?oc=5",
+          "published": "2026-10-28T05:13:29+00:00",
+          "source": "Organiser"
+        },
+        {
+          "title": "Attacker shot dead by Serbian police outside Israeli embassy in Belgrade was a minor; security raised after 'terror attack' - The Week",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcEpkTnh0UXBlNVdGNmltZ2tOVmRCLURpaDhTdzlQR2s2M25VZG5aa0RtUjl5cjJac0p3N1RWSGtieTd4TFFZdDVfT2VYRno2Tl9wWlIyQzM0ZFA0cDEyRWphRHNmN19oRHBJalkzYVZnb2VyWU1VX01WbEppQ3p4cHVuaDNyeERWMEduZTFlVU1leDhBRjNJZV9YMHQ1TV9VQzQ2RXo1QV9ha1RHM0ZWZFN5eXhrV1NNRGk4eHpSUHBLZklpQUp0R1pGSHliM3UzSWxkRWZzUGVHQ28yOVg2em81QzVHZ19ZZ01lN9IB8gFBVV95cUxNbThQeEJPbEdGWnJ0QmtBcU5QVjhPUi1FS01kajBkRHJNR0FuVVIydTRoNG9fWW1BSU15T0JjQWdxZ005ek1sM0ZLNFV5YnczVl9yX3MtbE5QTS1FbzR6OGJuamxXclBaMF8tcDV6cHlDWmVsc09DYUpWYy1oNFhzODZ3c1pCYlZFeW1iMHJxNTJJQzFuekkzb0Nzc2Q4MDdDZ3J4bkQ2bEdZa2g1NEVEd3UtVzdFaG90NHByQU10QlFpaTZCWmRRdEhsdVY0WnhKeHZneFhfTTR1VExmMW8yX2hqT1hUMHpYY3dmTkFFcFU1QQ?oc=5",
+          "published": "2026-10-28T09:41:21+00:00",
+          "source": "The Week"
+        },
+        {
+          "title": "Minor attacks Israeli Embassy in Serbia in attempted terror attack | Serbia raised its terror alert to highest level | Inshorts - Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc08wb1R4bE5TSWw5UVFJNVpnSVVfRU9yUk9LT2lyd09pbHJONE02MXBqT25zTy11akdKQmpxbFFFMjZnck5uYVJOVHNWdkM1UjVpYjA4RkJTNU5kMFNJSDZnQmRQXzdLQ2Vic1EyeGJHQk5PelB4dV9jQjF3aTA3dVo3dU5sVGszaE1WeVFMa1N6eV8xbVJDSDFhQk9WdVR6ZVNuQUNTOFVFNlhXNkkwRjBHa9IBswFBVV95cUxQc08wb1R4bE5TSWw5UVFJNVpnSVVfRU9yUk9LT2lyd09pbHJONE02MXBqT25zTy11akdKQmpxbFFFMjZnck5uYVJOVHNWdkM1UjVpYjA4RkJTNU5kMFNJSDZnQmRQXzdLQ2Vic1EyeGJHQk5PelB4dV9jQjF3aTA3dVo3dU5sVGszaE1WeVFMa1N6eV8xbVJDSDFhQk9WdVR6ZVNuQUNTOFVFNlhXNkkwRjBHaw?oc=5",
+          "published": "2026-10-28T09:00:51+00:00",
+          "source": "Inshorts"
+        },
+        {
+          "title": "Knife-wielding minor attacks guard at Israeli embassy in Belgrade, is killed; Serbian FM: 'Terror attack' - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR1hyT2NiNnpFclhORnRZQWhlNkdlQzM2WEF2MVlKT2huSk5zRjIteGV5Vll0ZjBHaFNrMXpBdWpIWGZUWHRzTFplbHFIUGo1WkM4Q3FXUnZvZVRaU0l6TDhYcjJQN0xhX01aUi05RmlSdGRYb281elo1R3VWUTBoR0NTa2xFZE44bjlCTmlBU2tZU1ZPN08tUjhuTjAwRzY1TWRWYVZialhHc1lncjg3UkJfdld1NXAxcmc5dDRrVVpGY0xaQW5qVFB3dWs0bHY1UTFNYmp4QQ?oc=5",
+          "published": "2026-10-28T06:49:38+00:00",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Israel's Serbia envoy condemns attempted terror attack on Belgrade embassy, thanks wounded guard - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0lJcUloSW9rSXdldGxTM3FseE5uNG1aRUM3aFkwQWZFVmhQc2FjV1VlN3RPUExBUFNaVThNOG51NnY5LUVjRFNkX3lVREpoMmtRbHRuMVc5VWswX2NKMjVhaUdkR0NzT29vMllveEZ1T0wwcWpjbnl6bEI4cEhWQ1dmc3pZUmRaNkdSZWg4eEhEbGtwaXhDNjh4MWNhUnh5aExyTFRhN0J5LVR2eXZaTlg0cF9CRkRnMUpnNTBhUHNNcElrNjZLR3ZLc1pJMWVyYmhVWExHMA?oc=5",
+          "published": "2026-10-28T14:10:10+00:00",
+          "source": "The Times of Israel"
+        },
+        {
+          "title": "Seoul Metro stages complex disaster drill simulating drone terror attack - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yVjdqeUNaS2FYTWhIQW96aXUyN0RiMnJNa2J1a2ZIclBqdFVsMFR0THF6cThLNTNuUDc1VkswUlh6Zzh5NFBTTXRKdkx5cXktZHo1SkVlZw?oc=5",
+          "published": "2026-10-27T23:59:03+00:00",
+          "source": "헤럴드경제"
+        },
+        {
+          "title": "Man charged with alleged fraud in wake of Bondi terror attack - Inside State Government",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkdEVExpVHoyQVlhR1N3V0NNSE9hNnBTZ2ZUQVhMMjRpYjJjeGhGMFFCeEJWZy0yb0V5MHR2V3pNbjZaU3JobkdIRFQyTXRkRDhoX244RFE4V19zdEl1UFNPaThhNEd3RG51a2JaS0FBc0pkc2lMemU2aFdrbktRWmM2LVAwUm5raERlQk1GUWhrcV9tYTdxbFUtQXZLemhobXlLRWhR?oc=5",
+          "published": "2026-10-28T02:42:44+00:00",
+          "source": "Inside State Government"
+        },
+        {
+          "title": "Watch TODAY - Season 2026 - Man accused of faking injury in Bondi terror attack - 9Now",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRFdOajlPMHRtSVo0TTFMMkRMWEtaZ0Z6SlFlNy1DQ3pJbDRlbVc1ZFl1Q24xNWFDUGczYUs1QWN1azFPekRwQU5iN0M5eXpwN1ktOXhzTVp2dVlQa0dvT3VvV1FObi1ZVFRLQVJrZE1wRGhnejVYdlBJNWU?oc=5",
+          "published": "2026-10-28T00:35:56+00:00",
+          "source": "9Now"
+        },
+        {
+          "title": "‘Illegal migrant’ charged over Bondi terror attack ‘fake’ injury claim - Townsville Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWUNUc2dEZmpfa1lHOTJhQm5nVGJfeWV3WUlyTUxaOGUwOHkybjl1bWxJUFZHellvQ3EzUE9aRVh0UlJiWlcwbTRIUndkYjJDd0RreXlkb1lDZ0NBVmdTSExfeDRvQ01TS05uRzk5YXVUbDFtYTM5RXMwSTV0VUl3eVEwVk56LWFqcENIT1NjYzV1VnVQUnhvd3FLWkpOZVk5NkFwNGc3dF9GNjFzbWIyS2Q5bE52eEVIRlMxLWNXWDk4eUZfREVqa0ptSGg4dmcxU0R2Rm5VVktJbm5oajBFU3ktSl9udzdIR1ZEVW9tUHZqUnp4S3UxUWVkdVVtdERvUkgxZk5jYzdpck1oVEd5VzQyOEpLZw?oc=5",
+          "published": "2026-10-28T01:45:34+00:00",
+          "source": "Townsville Bulletin"
+        },
+        {
+          "title": "Kartik Aaryan to star in Vivek Agnihotri’s ‘Operation Sindoor': Film explores events after the Pahalgam ter... - Bhaskar English",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2d6Wnh6R3ZoZ1hKWFU1Q1NlZWZmWEp2Ymh5amZSQ0J1d1NIcGhHbjlSZERJb1VjcmhiYjg4UUpiV1Fpbk00ekxkejN6MEZxSVpXYnpUbTBIdnJDLS14RXRiXzJaaGk1UG83OVp6NHZRaklBaXZFT0FkVVNfYjlBeXdEUzI3SnpNQ3JkYW9mdWZ2WS1OakY3c2tFOE5nek85SjBNSlF3emJ6M2RPYzhMX0ZXX2RDZ09vUVgxSlYyMmtUVElvTGZF0gHHAUFVX3lxTFBrZ3paeHpHdmhnWEpYVTVDU2VlZmZYSnZiaHlqZlJDQnV3U0hwaEduOVJkRElvVWNyaGJiODhRSmJXUWluTTR6TGR6M3owRnFJWldielRtMEh2ckMtLXhFdGJfMlpoaTVQbzc5Wno0dlFqSUFpdkVPQWRVU19iOUF5d0RTMjdKek1DcmRhb2Z1ZnZZLU5qRjdza0U4Tmd6TzlKME1KUXd6YnozZE9jOExfRldfZENnT29RWDFKVjIya1RUSW9MZkU?oc=5",
+          "published": "2026-10-28T08:59:57+00:00",
+          "source": "Bhaskar English"
+        },
+        {
+          "title": "Jordan hits back after terror attack on church left six Christians dead and 28 injured - GB News",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EaUpqNmN5UTlyVXZGa0lOa0h6aTROcTA0QVFTVEdheE9xWjZfV3JrUUJKakdteGdCRjRMMDJ4bFVzajhtaG1aYm1CQXZQRWw4azZrazdZYXVTMW9iSkdaeFczcXpRR2JyM01qWFB3ZW93SnY2TUZB?oc=5",
+          "published": "2026-10-28T17:53:35+00:00",
+          "source": "GB News"
+        },
+        {
+          "title": "Kartik Aaryan To Star In Vivek Agnihotri's Operation Sindoor; Film Based On Pahalgam Terror Attack Aftermath - - Times Now",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUHFqbWRQM3BQdzJyYWpzaWJROGZockxnZEZyY1FwOU00YlgtSFVBQ0wxaW5WeGltci13dWw4Uy1HUjlmUHJXc3hQSGVTM0oweWhEZlEwZGdYd3ZrbkFVOVVxRjZZNmY1OTNTSEJvMmRyTTYweWk2MjJOUFNZY25SQzd3b1Y4RDBibDFCZExNenRvb2prQUVwMGNWSkJjeXd2MmlBZEJuX1RZSloxcGFfbU5LaGNBb1FyS1Y0eEkwcHdPRnBhbzUzVF9RLXVEZUFfbEg1NTNYSHFWMlFKWjhSSVl4WGVGbU9CUVFRVkczZUpsbkFfR0lNeVJNNUVnb1VOMmJTNDdIT2YxUU51emfSAZMCQVVfeXFMT0N2Z1VJV0JmZVFuaVBodmlRZEM2SlJ0Q1JnZ3E5OVFxOEtIUUZTUkFoaG42djlkdU1ZNTgtVWJQUDNzR3ZwT19XZV9FN1JXMmFFdzYzdVlMeFJFLTZhZW5ST0JPY3dGbEU2RE5nVjdWcERmLWNLMFp1bUItYkF5UlZCS3pxUGUzaDloeWp6MmFPOTZ1MkNBNkE2MWVYdXlVVFJzdnI5S2ZiQVBSMDdybTFXcnBYVnl6VDdxOVJZSEFhWGE1cGpoX3dTSkhnNVduVUFaR0RKRUR2Q0hTUjVHelJNRjZVcDFuNl9Cd0VFa2hEckRxZmtPbWl4N2NyaDdOakI4VF8zS0RIZ2hiTWhlSlFXMVU?oc=5",
+          "published": "2026-10-28T10:32:40+00:00",
+          "source": "Times Now"
+        },
+        {
+          "title": "Serbian Police Kill Knife Attacker Outside Israeli Embassy as Minister Describes Suspected Terror Attack - International Business Times UK",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmxzc3ZYcGZxcjRWMDY1NURKSGJXZ0hNbmNrRFVlanFkRjkxT1NXUFF4ZUxyZDJ6Y2lVMVdLdWFzZkdBcUhrZS1mM1JqZ09Eb09oUWZmMTFWY3Nnazk0WWppMkwzOV9sSEJubFBOQmk1MXV0amRTa3Y0OXpDWEcwclNtR0V2aFMwSGFlcXVpQQ?oc=5",
+          "published": "2026-10-28T12:41:00+00:00",
+          "source": "International Business Times UK"
+        },
+        {
+          "title": "'IS terrorist' shot dead after slashing cop in face outside Israeli embassy - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE00OGR6SmpmMHlJaHNFT3BESDdyLW15TnBRZkx1dnliZFdubk45RF9PLXFWanU5d1lFelBCN0FEb0dveGhxQlhZa0gxcjVOSG5EcEV1Yy1TQ2xMSmdQY1dlLUlweWR4WDhPY0kwSVlGR1FSenVtZkFjbjhUUkJWV2JRa2NqcEZP?oc=5",
+          "published": "2026-10-28T07:57:00+00:00",
+          "source": "The Sun"
+        },
+        {
+          "title": "Pulakeshinagar IED blast case cracked within 72 hours & arrested 3 Assam native an outcome of personal rivalry not terror attack - Country and Politics",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZ3NtTkM5MTVmU0NzX0drYWZ2a2ZQSzJuOU5aX3R4MDJyYWRtS3BmTWlNckdfci1FN28zaEpCSE5FdWdiWEMwTEI3MGxoTzZ6SFVsTDlFeXNBUGlXZWtVLWY2dGJQckQzSnczUmNkdjlWSVdTSUg0bHZNV2lOSk5xMUJlYXpfYUdiUGpkcEpGWWUxbkc0eDF2Y2NzZUJTNlJHZzMtNEFFNEJoMkNMR282QWEzSXVmcUVkclVtZjdjaVFiZHVDNGVlM0c5X09TdHNxVWFyeTZFZE8zdHJBZHhwcUxkX3dESGJXdHJ1RHdxWTNnVHFPWjlhWlo0T3BtbjJDQUE?oc=5",
+          "published": "2026-10-28T07:28:16+00:00",
+          "source": "Country and Politics"
+        }
+      ],
+      "count": 28,
       "count_is_sample": false
     },
     "nuclear": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
+      "articles": [
+        {
+          "title": "Federal nuclear emergency team conduct training exercise in west Las Vegas - FOX5 Vegas",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUldOWWZLbEdQcEtMdVMtaldTQ2hMN0x3U0NWYXpWLWZ6VWxTZm5Ya2QxeG03OEVuX2V3S080a3FSQ21CNHdkQUcwRnM3UDBubmpvT0c0b3FfUHZ6MGs4YnQ4WEh6SHVabzQ3T1dHY09DZDhkVjVqUUhQTTczeW5id1ppUHBrZ0VrLXg5MDVhelBQQmFRQUk2M2EwNnhzOTJOQmNrQVZ1UjBzWUtYUWc?oc=5",
+          "published": "2026-10-28T17:18:00+00:00",
+          "source": "FOX5 Vegas"
+        },
+        {
+          "title": "Gabbard questioned on whether Iran posed 'imminent nuclear threat' - ABC7 Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMipwtBVV95cUxQUE5BcFdFQ01BVjZDQmFaN0hRbjF0ZXdXRWc5X1gtcHZoamdXQzdoTGdNU0NzNmhpamdORzgtOFVJbVBYaTk3blpyZG1oU0RkWDFkSlBsQWVpMWNwUU5Kd3BoOUJZOGhMRGFZNkZxcHZhNzdubmxmd2JnS1QzWVFGUC1iY29odG1sTXUwaGJjaklXa1hTZDd4M1g1eWJjTHREU0o3VjhfUi05d0tRU3lVTlBIbmZrMUg3eXFOU2djZTdUNjBaOXhWS3ZHS2c3c0l1RVhveUpBeGNGZm8wcTZ2cmprZHduLUxPSGZWdVlBcXdNY1YyaEVLN0Y1MDNucWdlRDlobGM5bVFvUXdaaTlaM0toZ1BQaVJ3QlN1ZHJnakNsNEcwa1diZkUtUkVTZDJtdVEyRlRjdDFrdFZSak5henRLWnk0OUlmczFFUVhYRWRENUFNTHBuVG9SUVF1UlBZWklKYzdjT2JyRnJwd2wybXZQV0NKdjY2MmpCUHN6SHJ3NlVmZWlRWG5ha2hwdVp0ZWlmTm14UWxTVHJPSU1NUlRIWUdaRnJ2R0tzaDFsLUozU29TVDFXVnFUQmI5WXB5R2MxakZNNWdmMk0zWGxpcjNIaFhIVlpUVmNRdWlKU01Walc2a2NlT0FTbFFzUFRxV2dJamF5dDBFWlpITHZhdFktbnZ2ZkNZaVBSS3E4cUpWWUJpaE1EdWU4Q19SSGNiWXpsTkhteVhoZmhYWHphdDAwcGZBcnhSbll0VjlIYmtPVHBDdFNVaVJ2REFveXViNVpDTE8tR2xPMUFZNGNPYWVaZmM2TVVDV1pwT0pfRmFmVThKNG02OXNDQUY1NzFFWmlNTFlnSU1Tb0hhYlhmOF92R2ZrUU9OSU1hT1hDNE9TRk51U1JmcUExd2libHMtb0FOWFhPUWdPWGN5Ni04UFlDZmM4Z3puTjZfdzZBVDJLT1JaNXpteXdnVEpTV3VLRm1sdUNGMVVYWDJCQmwwQV9PbVRIWXBaRkNjRkstWUJHSEp1NHU0R2tsdWU5dEhsWG9WLXR3Rkg2RFQ3Z2EydnVHVGhwSjdjVjY1S1JJeWU0Wk9WRFVTVXVTVW9vc1lmYjlBYm12VW1ESWg1SjFLcUtfYlN1Q0hITG9VemhaRllKT09RaEFxSGhrTi1TN3dkYnBoNGR2ZVZrVUNTcXMyeXZ4SGhMeGhMQVRnLUZiUXBkczZ5aUdBdHp6RmRwUXdqY0pZdEhMajhOTktDM3dqdnc0TGpfUmFYR0RIY0tUOTFkZUV0MGFOVzlzcnZ1NnhiSnJldjNXbzVfNVBYWjQ1S2hFNGtfYUpVc0JHOFV1N0dOOVVPVjJvNkZEWVVWVmhaSFVGeldVMFZGVkFRa1ZqUng1MXBzSWF5aUdwVnN3N2hKNEFOdkN6SThTOWxfdnFJZjFWaXllWUh6ajdCWFgxR2JsX0lYWXAyRktDUE1zUjBlWEJiQmwtRHNSRkF6bEtJOVRwWDM0a1lHRTJGb1hTVnBZZHNBa2I1ekxlSExaRThkWnk1VzBSS1JCNm0zTzRReDVmYUs4czljbU9Qb0kteERvWUhNTVRYVGRJckNEeEdlWnQyY25YcVowQ0lGOTVpZVVWUTZwNE1KOVRPLW5nS2ltLXNadDBERldKSlNuaC0wUnhOdUk0VFhqV1FUdnZhMGhDNWRycHFfV0lhNE1pdEJPd25ZVmZNZXpsOEVjblBlbFRISjdhWjNiNENpMGR3XzBNMGJrVjJnWXlCNmpIdHRKYW9CdUdYSlIwVzBXVjNBY2NOTmI5LVVPNUVOVkJNcGJuTnp6c3M2dTlSLXJEbFZXRG1RQ3daOENxS2VsOEJZdXhCZ21YcFRkQjEwQTFONWYxSG1BUTZ6cHA0dklGNEREdmFDYmR0WVdTZXlFZ1VLSjI3VFN3?oc=5",
+          "published": "2026-10-28T09:39:39+00:00",
+          "source": "ABC7 Bay Area"
+        },
+        {
+          "title": "North Korea's nuclear threat leaves Seoul with no easy choices - Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmtYQWhsVUxsMExYTVhvS25zZlBXM0dTLVFkM2Z5R2paOGpmSXNrOUtjWUlsLXdOUHRyc19HRi00QUJUNG9YanlTczQ2ejRBbjZQNkpOQnAteHpPTklBOEdfcnlRNjYxVTBXT2VzRVV5RmtkeUl2bUhhUXd0aTkxeTU3dE1aS1BNdl9NTjJpRlA1dkxUM3RlSXVLQVY?oc=5",
+          "published": "2026-10-28T20:51:40+00:00",
+          "source": "Korea JoongAng Daily"
+        },
+        {
+          "title": "Why you might see emergency training around Las Vegas this week - KSNV",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlNuRVNvODFUX1lSODVIVUJWRTUwQmZoV2ozcVgzRTlaSTkteDJ4OFc4UW54X3JndHVPWlVtYWpNSUpGSkFBNkdnS0hHYkE3dzMwLXVSOC1YbTdtTG5VblpLd0hUVklKWXNrMG1MMGZGOGRqV3d1eXllUHY1MWZmWnh5NXJPQ3hDVV9EN3o3RXVNaXh4ZHhzWHdaQW5KVlpkRi1MLVhITVktU1NaZjZjWXEtNUhrc2FSZGJVREx2VHVZSy1sT3Fr?oc=5",
+          "published": "2026-10-28T22:25:52+00:00",
+          "source": "KSNV"
+        },
+        {
+          "title": "Trump Says He Will Hold Off on Fresh Iran Attack in Hope of Quick Deal - EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFV3b1c2bDFfbC1GVGo3a2V4YklXYUU5b1FoWHRob3ZEbkhGMWNSRksxeWlBc3RIenh6WVd1UGNLeHhEUHRHSWJhNkRlTzNrVkhZMzZnc2FyY25fc3RHZjJ1c2x5d0l0Q05UTFZsVkZWNTNDb1hfUHBQMjlnWVVuU0FwODhuTnoxNW45UmJrV2NkeFVRTnRKYWc1VFhjeGxLdXZV?oc=5",
+          "published": "2026-10-28T02:56:28+00:00",
+          "source": "EnergyNow.com"
+        },
+        {
+          "title": "WATCH: Iranian media terrifies public, airs nuclear attack preparations - World Israel News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlVEelBUTHlTMHR1Q3lCNF9fRGhHYjZjOFQ5OTZBLTAxZXFsRDZSdGhLLVlYcmhnSG5MdmRoMHpIektaTk5Bck00Z2NMVzZpZUNoYkhHeUFZZXU1VEJYeTZjeXloZk8yVkJDa21NWHJJU2x0enc2OG44a1V2WkstNVZLdjZSSHFsOGx0aURIWER5Mk80NTJaZV9DN203aE4xU0hUVNIBpAFBVV95cUxNQlVEelBUTHlTMHR1Q3lCNF9fRGhHYjZjOFQ5OTZBLTAxZXFsRDZSdGhLLVlYcmhnSG5MdmRoMHpIektaTk5Bck00Z2NMVzZpZUNoYkhHeUFZZXU1VEJYeTZjeXloZk8yVkJDa21NWHJJU2x0enc2OG44a1V2WkstNVZLdjZSSHFsOGx0aURIWER5Mk80NTJaZV9DN203aE4xU0hUVA?oc=5",
+          "published": "2026-10-28T16:00:45+00:00",
+          "source": "World Israel News"
+        },
+        {
+          "title": "Iran hasn’t rebuilt nuclear sites, according to nuclear watchdog - BizPac Review",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDk3SFhfdTE3SDVWQ0FhdkRXdWhZbXp5ZUpUSVA4eV9jUUtfOWxNQXRFYVVzejhwNEMzeDNWWWlBNVBTN3V6UWVrYWpicmtvdUo1U1lDbDd2RTVrUFZsRTFENTNuY0dpVEZMclBBUmJub2NxcFIyaDUtdUg2azBNcmNlcF9JZm9DU0RRbnRVTHBRR0VzM1JPUURoQVF0WHVkeXgwZkMtZnBtbzh3eU5nNg?oc=5",
+          "published": "2026-10-28T22:38:14+00:00",
+          "source": "BizPac Review"
+        },
+        {
+          "title": "Trump: War with Iran will end when I decide, we didnt start it ᐉ News from Fakti.bg - World - Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUxPNU1hakRoT215cWVSNUpsMTJ2RlA4MEY0emZHZEd3c3hWdHlFVE13c0k5cnBUY3J4ZTdhc2phcGtLd3huZHA4Z3pWaW56TURIZmFrYWtUZkVuWE56WE9NVjRld2lXcFZnNVJMN1hxODUtSE56cF9USE1wZUlJMmtDajFZRlBKSDcyQWNkRmdGd3I5R1dZSjlGYw?oc=5",
+          "published": "2026-10-28T02:09:00+00:00",
+          "source": "Fakti.bg"
+        },
+        {
+          "title": "WATCH: IDF demolishes terrorist homes, destroys 12 monuments glorifying terror - World Israel News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmVUdmhnU3NzNWtxdGpHUHgxTHpiSlFoZkx1TFhRenVxZjhyM1NCbWgxYmNyN0ZTZ2F4N2NNM1JLalVaMnRzSFNJc3ZIYWdGTTEwbDNmMGxWcm93Q1kxeFk2N1RjaExyRW1nYXVJZTVBUDRlRjdUbmpTWktKcTNPTkVEWFo1UWNDWVdaNktiRVVjd0RPendzdkQwRFZ6ZHpBRlM2WnhCbkd3RmtIX1HSAa4BQVVfeXFMT1plVHZoZ1NzczVrcXRqR1B4MUx6YkpRaGZMdUxYUXp1cWY4cjNTQm1oMWJjcjdGU2dheDdjTTNSS2pVWjJ0c0hTSXN2SGFnRk0xMGwzZjBsVnJvd0NZMXhZNjdUY2hMckVtZ2F1SWU1QVA0ZUY3VG5qU1pLSnEzT05FRFhaNVFjQ1lXWjZLYkVVY3dET3p3c3ZEMERWemR6QUZTNlp4Qm5Hd0ZrSF9R?oc=5",
+          "published": "2026-10-28T17:00:15+00:00",
+          "source": "World Israel News"
+        }
+      ],
+      "count": 9,
       "count_is_sample": false
     },
     "nato": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
+      "articles": [
+        {
+          "title": "NATO Confronts Growing Black Sea Threat as Drone Attacks Target Commercial Shipping - EU Today",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RSGpEMF9ZaTB3enVIV3VjdWprMEhoVGdTWmlYMjZTX01xYVdERVVoRVJNQUpwUlpXMGV1djZIUGJUQmo3T3c5bjBCUllGbnVZUGxnaXE5WHBCMFhZUzZTdUhaXzA1Wm5LcEhDdVZ5REgzdnF0RUdER2dFNXc?oc=5",
+          "published": "2026-10-28T18:56:01+00:00",
+          "source": "EU Today"
+        },
+        {
+          "title": "How—Not Just Whether—the U.S. Retrenches from Europe Matters - RAND",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kcWVIei1GUUhYSXhvbkFYR0xSTXRER3FYbGMtN3JoWHBuaUdERGw4Y2c3aXQwVTR1cGstQjlHNl9wMFJsNHVfN0pxMDBYN0NpckZCaFZMRW1yNExrTkJLS0FVUDZxVnM?oc=5",
+          "published": "2026-10-28T14:15:24+00:00",
+          "source": "RAND"
+        },
+        {
+          "title": "Alliance response must be credible if Russia uses nuclear weapons, former NATO Director of Nuclear Policy says - Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSlJoZDFGR1AzZG9wZS1wS29kMXFBYnlsSGRSdGRRemdXOFhuR2ZqNVJyamlaU2xXZl9FSWs0cVJJOEFfaV9Vb0p0V2RzMjg1WnZ1QWpUMXN3UUppVjNVdW1ERmtGeS1XN2Q3STJBX1hEOVN0QWlud1pIc2FYenE1TjdXWlNBSnEtOXN2TG5XY09yMGl2RE5oOW1mZUg4VnppQ1ZfUnRHMnBpVDRKVHFhbGRsaUJIcWZTcFhUSFJkZlpiQ0REcHFrN0ZOVnBNanJPQmhvd0tPR0FsQ3ZvTjNuNkRrc0dwVHpkdFdCNS1hZEhpdG9JTlliRElQU1nSAfwBQVVfeXFMTUpSaGQxRkdQM2RvcGUtcEtvZDFxQWJ5bEhkUnRkUXpnVzhYbkdmajVScmppWlNsV2ZfRUlrNHFSSThBX2lfVW9KdFdkczI4NVp2dUFqVDFzd1FKaVYzVXVtREZrRnktVzdkN0kyQV9YRDlTdEFpbndaSHNhWHpxNU43V1pTQUpxLTlzdkxuV2NPcjBpdkROaDltZmVIOFZ6aUNWX1J0RzJwaVQ0SlRxYWxkbGlCSHFmU3BYVEhSZGZaYkNERHBxazdGTlZwTWpyT0Job3dLT0dBbEN2b04zbjZEa3NHcFR6ZHRXQjUtYWRIaXRvSU5ZYkRJUFNZ?oc=5",
+          "published": "2026-10-28T19:51:00+00:00",
+          "source": "Ukrinform"
+        },
+        {
+          "title": "ANRA Enhances NATO-Tested Counter-UAS Technology with Airspace Intelligence for Drone Threat Detection - UASweekly.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1FGRi1GaDNoX1c5cS1INWw1T29CQW1HaXAwbGdmd2VlMU42SGpWTllNNk9hM1BUeXNnOTNVU0cwdzFsOUFrdEcxbU4zSnRUZWFNNTRFdGhOaWtNanF4OXVMTm5vVFhqVkdOZUFnMkMwdEJiVW01QU51dkxEMXJGd3AzOHlqdkZkdnFmelhlX2FBQ2ZjUmJsSWoxeVlhMTVQbnQyTnRUelVMaEVPRGhwSG5CXzY4M1FEcUhXcktENUJ2UmNuWVh3QzNxMUNIa3dPUkE?oc=5",
+          "published": "2026-10-28T11:40:18+00:00",
+          "source": "UASweekly.com"
+        },
+        {
+          "title": "Ukraine's Zelenskyy irked by US-Russia-China summit - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2E0SFBHS0ZLNW5zT29MY0x6alRNRkZKSmRENm11akpYMkF3clZuUS1QNmdCOGxMZmhZQkhBVXNXQ0NldnV6Y2dDSTRlNUd5Uk9vWERKV3RDcUlycUQwd3dEeHplQ2tmN1VySzBSSFV2OElvYTFGaWJKMzN1Y3N5RVhEaFQxLXVJNXBj0gGLAUFVX3lxTE5Fb2RPby0tekJHSzhLNUFYM0hiU1NyUWpFX2RkOU9zdnRvLS1yaHJKMnFkQ3oyY0wzYkxCUXNkX0g4MV80eEhpSHdtQkpScjJTdGRHRU9YbFVqQTBtcm1zdEJQYUo4TFJfQ1dpX1hqTU5iaExoa3E4WVY5RkJsalNJZVAwQUdyT2ZabkE?oc=5",
+          "published": "2026-10-28T15:51:27+00:00",
+          "source": "DW.com"
+        },
+        {
+          "title": "The CIA Director’s Position on Ukraine: How John Ratcliffe’s Loyalty to Trump Calls the Reliability of U.S. Security Guarantees to NATO into Question - Robert Lansing Institute",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNd0s4clh6aWl0Z0tNTU4ybXpZck1BTWU5OXh3UUIyUnAtaTlJOWx4cFhXNkdtT3hUTUY4ZG0wNzgxbk5XZTEtS3lqQVFINDlYU3NPa0pQS0JGOG56ODhWc0VIZDRoMjRfWm11cXRILXFlUF9HbWxoR0pFbUg0dm05d2hsSlZrVngyMndLSFRNbXFSLVk5bWE1VjdoVFRUZ3RBY2JaeDc2cFJlY3pqdFNvTkhieHBlMjlrTXFqbnBrSUZBOFpGcEtSWlhiQ1JrSmIwRFBySnZzSEVNQzVnZWxreWYtQ2JpYXFxWmRTUDFpaTMtU09BVThvTDE3cUExR0hGMERvSFZYTlVrV3NldmxDQUR1c20?oc=5",
+          "published": "2026-10-28T17:22:38+00:00",
+          "source": "Robert Lansing Institute"
+        },
+        {
+          "title": "ANRA Advances NATO-Tested Counter-Drone Technology With UTM Airspace Data - Dronelife",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMGpyTWVieGVNQk51UFNwd041RlRSMUJQWlAwQ05xbEpuWVJGWS01RHdOMWI1NGlSWW9kbE50ODN6MExFSlM5MGdQdzg3Y2MwT0UyVW9xU1RnZDkwNWtOTTllLUJfYTdIcjA5M2ZLMUtROGVxRkpIamxDWnd6VV9lb1J2VUtpYXFYc3R4TThRMlJsVUJ3enpuOWNLRXBRWVUzZFcwV0N0dFpDYWc?oc=5",
+          "published": "2026-10-28T14:21:34+00:00",
+          "source": "Dronelife"
+        },
+        {
+          "title": "Turkey balances NATO ties with regional ambitions - TVP World",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcE5UdUplbTBZVk9obklVbmk4enhMbkRGbm84cnpZQ0draVEtTmh0dDZURGhQS29rVS11UFVNRjBKeHJ4ODlrSjVpelVmZHdPZTlycURlOEVDVEs4TVZNVUxSWF91Zkw4dGR1a0xjNURBYnl3U0cwOUdsa2dFVzU3TmdlR2pZcDlFSTFja2RyMlU5SHBfZFVfTw?oc=5",
+          "published": "2026-10-28T20:03:00+00:00",
+          "source": "TVP World"
+        },
+        {
+          "title": "Estonia will build around 150 defensive bunkers on the border with Russia - Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0NRNHdJT0U0enY4ZjMzNmE4alZmTkR2cnRhTWJjUVhOUXJlQ2hzRWJ0a2VCOFlNZkx3MTR0WU1BSV9pbm1yZjJoSVFRdHpTNVp3M0prMXdoQ0h1a0plaHJ1NlN0eVJ0cW9uZzBnRGJad05jeHduLXVNNk1uaXR3MVEtc1VqOWE5aVBsV0FKTjhaTzBvVmk4S3J0cXfSAZsBQVVfeXFMUFdndnVzQXRjZUNKZktrOG5hZU1OQThJaFZkV2dHdHZiVWhYaU1YSUlNWFBZbVVJU3hxXzN2Y3RQSlo0WjVjaFpaVlM2REFPbUNlWEViYUFROTNmSnRNVHhtMW5udGVwSm9zbXVTUlpLTTBENGx3UF9hWkR3VE9DU092WEdYeEt6NUsyRFNSNWNidldiNE1EdDhaUlU?oc=5",
+          "published": "2026-10-28T22:17:58+00:00",
+          "source": "Українські Національні Новини (УНН)"
+        },
+        {
+          "title": "Trilateral Black Sea Talks: Coordination Agreed, NATO Command Undecided - TURDEF",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZlMzNFh1YWZlQ3dYTjF5LW1UQ1dJOGs3YjRId3BaMnNEbzlvVzF5QUdaX0JnZjk2Y2Y4aHVwRWFQc1kzcHFUUHJKQ3hTLUstYUN3c1hNaE9JWEdLZTRyb0VuNFFFQ3E1VjQ0LTFUTjVzY3p5LW41TFU5cEM5U2E2RGFoOGhoakQwWkZNUmlObkNiSk5rWElwVEMwbUE?oc=5",
+          "published": "2026-10-28T12:40:10+00:00",
+          "source": "TURDEF"
+        },
+        {
+          "title": "ANRA advances counter-drone systems through NATO interoperability testing - Unmanned airspace",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlVoRXAzV2NJbUdKVC1YLXdQV25Db3gtRzdpdmFxU1hkbUwyY08yLUphbHlBUVR4RHl6ZnV4QlowYWdOUW5wdUNUc1JUcDFjREFVNHBVRTdpSWRpQkszSUprQnI0ZWJJVmVRSkZhb1BULTJiUFVfZ0NmNWNNeFU2M0VxZTdIYkpyNUIydGJGRE1aZGhHOUpwUU0tY2RqNHBNYllRaEhuY3pwdWxFbmpLcWxPcWl3SUxRN0tjQXZkQ0N3UUdyX1ZzbTNxS3BCUUM2TEx1OW5GRmU?oc=5",
+          "published": "2026-10-28T10:47:47+00:00",
+          "source": "Unmanned airspace"
+        },
+        {
+          "title": "NATO explained why PAC-2 and PAC-3 missiles are no longer sufficient for Ukraine's air defense - LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUY4QkRfLVptdXlvT0xQeHNKUjN0bmp6ME55NXJWUFdjS1RNTEpBb0d2NUNiQWhrTUpoZGFLX1Zkb0g4cWpId1FjUXF0VzAxc3NGZ21rdlc3VjhiZTRJUnRNZDk0dkFuWjU0d3lVclJUQjlrMC14MHVIX2dRYXRzM051S2pHakZmY1JKVnZTdkhIeEhnU05iMTI0SUtTRlBoMXBBM3M2VGhzV2R0TVVxT21GUjdWYW0xdGljTFlERjdPTGxEVHfSAcsBQVVfeXFMTzd4TmRmRGhKTmRkSnFoTkdpaWhqTU82TmhVSTR6NE1fd014RXdEajFDUE1fWHc2ZGw3a0poN3FUQlh3OExUQnBQTzdtRUZIRlM0TlF1THpHOFJkQ0ZtZ05JSHlodEFWLWRybDlWcVZVZENMekVIa3RZYXZuUHhxR1pNeUROZHZweGlOckJpYlNTNXJmUEJ4UlI5UzhuMm9GdFVTa0p1U2dXX0ROYmZQbXpnTGZPVTNnWGItMjdjaHJvV29GZTM1RERmUkU?oc=5",
+          "published": "2026-10-28T21:01:22+00:00",
+          "source": "LIGA.net"
+        },
+        {
+          "title": "Drone shot down by NATO jets in eastern Latvia / Article - Latvian Public Service Media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHF6WFpSbDM3TmNRSG16alNsYURwRHQ3a1RPM3ZGMmtTVnNpcGtfRkRjZ1JkaTN5bzBaY2FkSEM5U1NpX1BwZVF1Sm5Cd0lIMmxURUNtMWJodzkyU3dpU2pYTlhHYVJfNlZndDFHbXVSTWwySEdWc0RFRFNEYmdYZEVOQkJyWHRXNllwb2tpRnhHTk5qUVJXNkUtNDQ1djF5QUNfWXdsQ1NzWHhtT1E?oc=5",
+          "published": "2026-10-28T10:04:27+00:00",
+          "source": "Latvian Public Service Media"
+        },
+        {
+          "title": "NATO In Chaos? Nordic Leaders’ Putin Calls Expose Rift As Europe Fails To Agree On Ukraine - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN1NNTndyQzhLNTNldms0UDBlR2hHOEh4T2tsVnpmdDZpdDJEeUpPSTBELXZtaFk0WEcteXVOWGJTY3ZDV3BqMFd1SUJIejNoMjJITmcxa3FiWGw0YlY5S1dFb3dDWGFuUzBzaWJLUEFuaTV1MU5lY0EzVlU0cDJYOXlEVVI2Y1RRaVhGQjV2UDZweTdtV0VDcnNZajRDUTJ2djl0amlBSzRERHd0b3k3VWpEWGxjVk9fLXJOZTZISkJ1OGhYaTJRTVBjTnVuZnM5TEtmcC04aWpVZzBUUHNhZ3A2aHBWT3FLd1Z3bTI4SFd4WWtMQjlmeEJtZS0yQdIBgwJBVV95cUxOOVRCSnVybnBfTnJ5cFZlOHRGbkRHdEpyVEVpOEg3U0x4azJBVHJ0ZlVmRmVhTnVXbVg3T1pyeVhPYy1oTDJ4YTBaV3RVd0dvUVFPR0w0WDA3WWtrUS0tTzZpbmt0ZmlzYVRLUW51c3BCYkN3Zzd0QVhYblBvV29PTXFlcEh6ZmcyS0xxcXQ0Sm5Ddk1vQnFnTGZWQmF5QXJoTXl2eUw4ZUxrY0lEeG5VNzdOWXVWRk9oZDQ2ek9WWUpoZUZfQ3VRU3dmN2hKRTdCVjgxc3ZsQ2xPUnRqNjZWaS0tQTdBOHVtVGY1cHZlODFwZXBDS3BsajRwdFNPSGhub2Ew?oc=5",
+          "published": "2026-10-28T14:58:20+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Jim Stokes, former NATO Director of Nuclear Policy - Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZjFVMDFLOEEzdTczaWlfZzYyTFFiQXRjSGtoc2JLWkE3eUlRUzhqYmhvTXJxVk1VZlp2NkdPaVZOUEVDaV9rUE50TVVQUFpMRjZ6NjRYMHhpZUgwWGJiMUhmQk5QbEJUWHpBM3lhWlZxdXF2Z250VE9PWDRTUG9KRHNscWVyVElwNXlhS0JIcVdTZFhZR0RWaXlVQWoxcU1zMzc4WlFaMNIBrAFBVV95cUxOWmFteld1OTF1a3JWbXpzbjBaSzQtdWxFd2w5UjMzNUQtb25IbkRBUncyb0FZWDJFenY4SXcxT2tlT3JncFRiWE0xd2FsNENmOFJGbVlZbVhIUU5rbEpaQXBod3JveVRkcV9peEZqWGRPTlNIbXBTdEVXOVpMZ04yTzVQV2Y0MzNRV1VfYU5VeDQ2RVJQYWplcUpON1d6LW5udXpkY2RBd19VaHVW?oc=5",
+          "published": "2026-10-28T16:00:00+00:00",
+          "source": "Ukrinform"
+        },
+        {
+          "title": "Russia Accuses NATO of Heightening Military Tensions in Baltic Region - خبرگزاری اطلس",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzVrTmZKczV5UnAzUXRHaGpKZHdMUDRGekhjVGwxY2dSTl9FQVdvZjN3aDBuQl9kVkJhY0lSWktwd2tROFhOT1JqNHVtWFE5NVFPWjdjSGp0YVFNV2ZlV0MxckR3a1BMaF8yZ0VDeWZQOW5ualA3UFp3R2RLS19uVXpaaTVyX1hkZUNxSU9Xa2pDdTJwREdlckFKaWhGV0FuSTRV?oc=5",
+          "published": "2026-10-28T09:33:29+00:00",
+          "source": "خبرگزاری اطلس"
+        },
+        {
+          "title": "In response to the threat of Chinese and North Korean ballistic missiles, the U.S. Army activates an air defense battalion in Guam - Zona Militar",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSXBjc2ZDbjFNQ1Z2LXd6V09fbE1LN2U0c2tQT3VhN0hPVVU2WThHUDk1NmF6NzVkdVhQbnVjMVBIZEpoVWFlZXQ0eUJ6cE9QT1IzYTltSWoyNVdxRkNMZHNVN0dMYlhzcllmZnNKbUw0TUc5MUhUWWZYcHFTaUNFTWlyLURoS3hFWklHcnhzc2dVZXFOc1JHMFV1czIxajVrMDhCczM2R05lNXNiY0lDSElMb0NZWWZPZmZOMDViek9mRUtwcWhNY0lKS1R4MzMwY3ZmWWpyNGwxZHNKdkctQ3VlZXFCYWx2WEx6NVkxNGtfNU1hOEpHQU1oXzZqMnJJa0E?oc=5",
+          "published": "2026-10-28T03:05:00+00:00",
+          "source": "Zona Militar"
+        },
+        {
+          "title": "Can Poland insure itself against Yalta 2.0? [ANALYSIS] - TVP World",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSE5PTVctaF83TVI0N2JDZDJOZVh0OE1zdi1UUGhZaVRxZ0hCcHNoUjAzV1F3ZFQ5ZTUzOVA4aE41X1pERHVHbVVJeUMwWkg3aHlzT1NhRGhva3N3V0xYQmJacmRxN3gxX3plQXNtYjFPU1p5MVNnTG9KVUZQYlJOcG1RQjBta2t1Q2VJWjZLUFlHUlJH?oc=5",
+          "published": "2026-10-28T14:25:00+00:00",
+          "source": "TVP World"
+        },
+        {
+          "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTktFTGVqTkdhWFBvc25rNGRvTTBmMXp3emlmOGEyMzY2M2VNVFktc2tFZ2ZBRVJKM3pWUVlMZW1nR25pU25jSWxqV2NfUUZHREUzLWg1X1BiNHdFb1ltWExtVEFuYkd4d1pURUZsZjhrT19JeWFhVXlzZVJKbVpySG41ZHV5VHlnSkFQM21LR2pabjFKbE5XdDIyU2xMaS16cGhJMVR5eEZrOWwtRFc1WWhKNkRSNFpxMi1IVjU3RXJQY0xTRDhEOEg4WWx5VnFLYV9JZnhrbw?oc=5",
+          "published": "2026-10-28T07:43:15+00:00",
+          "source": "DW.com"
+        },
+        {
+          "title": "[Arctic Maritime Strategy] NATO’s Northern Defense: Russia’s Northern Fleet and the GIUK Gap - https://economy.ac/",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VbXR2cDBtemJBLWI4bzhxSVE5dTk0VTVub2NkVHNldDZYOHd6bGc4Z1otU2l6MTRqQkU5SnpXLVBoNkVjMS1VS3pTWjFNVVA3YzRKSl9aU3RUUQ?oc=5",
+          "published": "2026-10-28T03:35:10+00:00",
+          "source": "https://economy.ac/"
+        },
+        {
+          "title": "John F. Kennedy’s Call for Peace: An Urgent Warning Against the Threat of Nuclear War - Countercurrents",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjd5QmN0b09HTmZ6bjY0QVh5Q2hLeHRwQU1MNTNDVy1SMHU1S21WZGFBNlo3VHk0MkNmV2tmTmdLTXo2SXR4emktV3YwLTJwMzVhNWQ0MUxmS0pWMWU2RkwxOHdKLTBjeE1GSlBoSEJsNGd2OXotemVhbW44SkNRRUhkMkFnQWg4UmU3MUxQTVZKZmtfdU13YUYwdkc3bDBWbHVqbktZaWpYN1RKUWF5blE4NC1uOHF5Smlj?oc=5",
+          "published": "2026-10-28T03:16:53+00:00",
+          "source": "Countercurrents"
+        },
+        {
+          "title": "Pro-Russian hackers caused disruptions at critical infrastructure sites in NATO countries — Bloomberg - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFkwOWJCSndjSTdYY1BVaHp6RXhfbEN1ZzR4N0lqS2xNWWpqdFlDLUZSVF9zb0lyazk5cnVMNEFHREc4ZXZUeUxzWlhBbXZkMFQtTzdGS0ZFV182TDBqWmNTV2NyMG1jUUJrdWN1dXFyeHBqRlNCcEllOXRibXF6a0FORFBmejh3SUxOYjlzbE1VdWhXRFM1MldPYUg1N2E5VElMYURzZjFKUmlYWmV3ZWZKeGZyMW0tNWI0LWhkM1dDbDFs?oc=5",
+          "published": "2026-10-28T17:51:37+00:00",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Zelensky fears new Yalta at Russia-China-US summit - Oman Observer",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdmVVT1QwYVNfN0ZLWVllSXFhZVU5bTRSNTZjanFMUjFQclhveXFqMkhhMWpLdTcwWU80VFdTOVlYbWR2SHRqblJxMHU4Q1N3SjdjUkZiTzV5Z9IBWkFVX3lxTE9SdmVVT1QwYVNfN0ZLWVllSXFhZVU5bTRSNTZjanFMUjFQclhveXFqMkhhMWpLdTcwWU80VFdTOVlYbWR2SHRqblJxMHU4Q1N3SjdjUkZiTzV5Zw?oc=5",
+          "published": "2026-10-28T17:48:44+00:00",
+          "source": "Oman Observer"
+        },
+        {
+          "title": "Katie Zacharia Eyes White House COMEBACK? Ex-Press Secretary's Trump Job Return Plans Revealed - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUVRZTDFJX085NFlTM1llZlU2TjVHX2xJZ0VRZl9yS3pRQWZPWjBLNUROYlgyZFhCS0NNRGpmWFFjcUg0b0VqSjAtMzJZVWdYblNWMGprSTVudEZpM2FMWS1Vc2h0ek5mdmVmaW1vNTVFbG16MlI2ZDgwSkFMQzk2ZzB0eWhvcVh0S1lhNVVCb3pVTUxLSklPUEFxLUwwTkxnTkE3cm82UWtCanJWb3M1aGgtNlV2M2tyaG9yczAxbHRZWW0tNHNFRlVvMzRwSDg4Z0dLU3FpcU16Sl9iY1M2eEZ2MzhINlZXd2tidExiWThNaXNERF9LWG13REU3LWhfQkxR0gGIAkFVX3lxTE5VR1JWb2hDWlFDX1JnOVZEZ0x4ZlB4SVVDVVUtbldoNV9ZQ2Q5YTRxUFdKVGIxVlREWV9zakZCOUlUbVZSbm5leEpmbmRMc0hCUVNCbEtkS0ZfV3lnNzJFQURmWkUxbnd5THVpTldxMFF1eWdPa3RWWENXX3FUVlVxUVJhS3VZdERzSXBEXzRzOTlULVh1bmZMcDdvcUtYb3Vzbm1kdF9OZlRfMTBkcUtoazhEUWM1azNHbzNjWWU5aHVubzFiY3BubEZZTmtFNm1QZlJpYnVBOThMWk91OTFfanppRTNQNlpvN2QtZFRlLVd1Z1JERjJrWHhsMm5aOEFKMUgxODlRZw?oc=5",
+          "published": "2026-10-28T19:00:00+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "'Not Like Western Predators': Putin Pitches Russian Jobs And Local Processing To Africa - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLWVPRld6VzdXRVhwbU9DNDFTNWlTMGt0Nzd3RmtaOHM4Y04xU0RxZno1d2k3ODV2N2VQRE5LY0lWcEYzUnFOX1k5LW5UckwzMGp4TnVxTkZmZkJDRTlPeHZOM2pINVl3TkJ5YjNvQTliQ2J6M3B3SXJSNmQ5NHVHUlMza3pQQ1I2Sm1xYXpDQllyQUUwaVJnUnliSHNPZGRPbkhfVjUwZVRaS3NtNTVhNmtteUduZXVsUjRrZzVBNkxWREtTWnFxTkpncU5XeGhQMXA3RkRydDVOS0xIdnZsTldlcVQxNmtLcFRjM2ctWjVObndpUVNHNtIB_gFBVV95cUxONWJodjc0MGQxRzNlUjVTNjd6ejBCazFndHpKTlJZUDhfdU9vdTNpRWhjay1XSUxBZTVPdklUcElvYnpqSW1qN2NvZlhycUtBODU2dGdpcUk4WGtNUXJVSGlpNURuQUJqT2x6TWtQNjAybjRYZmloQUN3TUY5RWZYZm9HTUpLcjFrZk9QM0FkQWFhRTRnT0E4b2ozZ255QVpBTkUyY0ZZc3FuaFRLUUNIZWlhM3JYaXo2d1F1WkxTNGsxdTFrazZlVnpGSF9tMEU2SHhNWkMzWjVpLVlMbm1OYVpxYlIzdGRLeGl3RXRkazVSb2wzd0lNRjhfZjdaQQ?oc=5",
+          "published": "2026-10-28T17:56:15+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Defeated Bolsonaro Flees To US, Trump-Lula Showdown Next? 'Travel Ban Defied...' | Watch - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONUZ4WW1rNC1tV050SFZxQjUxTHhtTjUyU09ERlhQaE01bEYwN2t2dHNOSThqd2tjTFVZLUpOWFhoRWVYRzNMYWZZUjlxdUVfdlBhMm85OTIzTG5BV1BGQUZLck9fdXlVa3puWG5iN2N2RUJONWdidEcwcDlVWGlfS3ZjU0ttWWdJdVZSNGE1allNRy1PQXJUNzBBOUhCX3gzZDZhaGJsRldsUU9MM2tYMUtQcG5CM1dvbHR0Rzd1QlBRbXJVNGN4WkR6dFFoUFItcTdGSDFhdk9TX0ZscklMeXA3MnpOc252c2NVQUhITWFEZ9IB9wFBVV95cUxNb2k4LVRYcE9tdEQxRTloVDRyQ0RMYl9rc2dyM3FvUE1jMURhVWxrdzVqZ0VpTnlydllyM3lGXzZrRU4wTGRiVnVwY0ozcmpYTDkzaVFYUnM2M1hxTU1JaHJDMTlWNlYwdG5KZVk1ZHlfdTA3SU9sLVIzZmtaWFdiVTZYdHEzSVAzZzkzQWdiRzk1Z09VLU1RdjlFNERLdWhhbENNSGZDbDVqUGY1NUx2ZWJtc1MxSmZoQ1pvTUtnLWN2ZjZJWGVROE9zd01qaEZKbWFzYmZBdjBoX3lGWG5mYVBtNTUwX2lQS2hSMFVBMjIzODd1WUtz?oc=5",
+          "published": "2026-10-28T17:33:21+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "E5 Reaffirms Ukraine Support, Names Russia Europe’s Leading Security Threat. - Ukraine Business News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFVNV3p2d3BJQThlRXJzZndzb0Zyb0VNVHNjRDBaSndoNFpsaS1MTzFrLU9ITWZPdkxkQ21MamQ4LWR0WTJjYm5nSy1tSDZwdTNwSEpxWjhEYmhCUkxtVFZjN3NpUThldmg3cENFVmhlZTBLZGZVcXNsRnZLdU44WWVZQU0xY1lZenRZU3ExMUpOT2VBemfSAZ4BQVVfeXFMTUJjcENmMndYVDRiZ0ZZMTd6MDJ2X25HV1NaVEV4SHlOeWtVbU5mdmVBTHp4bE1VX1hicEFjX2dSYXNUSjc3NXdoNWN0UWtRMmZXMGRySW9vT2ZkUEZzZEQyc0Y1bzF2QU1Ic1M4Q0dLWEFNNE9DbnJVN0R4dW9fWTA0ckVDVlVfS0JCWWhkQ3BPeVJLREpTTVd5YXdKVEE?oc=5",
+          "published": "2026-10-28T00:07:45+00:00",
+          "source": "Ukraine Business News"
+        },
+        {
+          "title": "'YOUR BODY WON'T QUALIFY!': Trump Mocks MAGA Candidate Ken Paxton After Bizarre Anatomy Rant - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOb1FqeFpGVUh4YkRMWU40M2d0clVUOThQMGgzY3NzeEdsZlFPRXhyWkhOWm5Rc3ZDY3RaVHF6Nlp0UWpPdjZQdEw0WDNmZTdJb0ZEQnlzNHVXRGplYk4zR2tCWldaaXo2U1B0UDE2eUN3NkxIQTJkMHlIZENDeDFZbl92TnhoOUFGR3Q5MnNNNHF1cXRBbE13RDFrLThSUG1Dd3pYSUYxd1Rxcmp4b0FrdTZEMFhtQ3BGNmh2OEM0RDB6WXg5WHlMd1ZJUExJN19HcnozZDZjMjNoU2wxZWtQOW1LMVg1b0gtRlV4MEl4T0hVVFEzR2Q3RTNIVDPSAYICQVVfeXFMUHgySUl1TXpzVEJMRnFMcU5DY1UySWc4ajE2SVE3TzF2cUNMUWRfelZQc0o0QlVLR1ZJQVh3OGptaWJ5UVhldks5N3MwV185Rm8tZngwMFlKMXozVE45U1FKQ0FQbm1iVi1RNVBsN1dvUUE4LVZqeFhYcFluMjIyaHNVQXVRVW9ONTc3QVhIMV9xNUtQTHVmV1ZUSkVUbnVjNzJZbWFBME8wczMydzNORXlCM1Mxb2dfMjd4ZXpDaWVNRDZuVXhVY3RHUGhWMzQxQ0dRQW5hTVY0YS0zbXF2UHlGWEtTRE1kaTRYaFJ1M3YzLXo3d0FtM0xUZl80QS1NRjR3?oc=5",
+          "published": "2026-10-28T18:07:50+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Russia turns Black Sea into world's deadliest shipping route - The New Voice of Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFlKc0dKMVEzTWFpSnpYZmR3YS1hMWVWT004SzcxT284b3JoRklwTER4djl5TDRUSGw5RWo1Uk9hdzBVTW8zd1FiMzFoaFBRU0NQdjV1ZVdLSWV5SzNnX25aQUN6VzVGVk45dEVxd1BLZ3ktMmhadEo4SGNzcjNrQnIwUjRxTGNqNUVQTUUyY3U2Y1poT1NSLTRxRWM5UzFNVWkwSXVaR09HZ3ZyZ0dOV2NodXJiVlHSAbMBQVVfeXFMTTFjcFNCZjUyRU9HQmlYVUZaX2RsSndWcUFvQXRtdTQ5a29QdXRwZkNyTWdwYkF0Ty04UFgzZ1lrdUJDX3lRT1Fnb1FRSnBXOWpkMzJFZ3pVcVRuOXdnWGpmLXVvcFhncW10NmNKdWZUdGhrOXY0MWtwS3FDV1hGSTdEbUEyLU50cUhoTnNUaHNxYWNBTXVtY2tuYzJ6aUVNZU9CQkkzVWpaVEJHUldzbUw1Qmc?oc=5",
+          "published": "2026-10-28T08:34:00+00:00",
+          "source": "The New Voice of Ukraine"
+        },
+        {
+          "title": "Russia-NATO Tensions Flare; Putin Men Stops German Cargo Ship Near Finland Amid Wargames | Details - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPc3dlZHJ3WENMR2FOb0xya2dUVVducVBER1I5Zkd5M1d0NUVZTnFDR21HN3ROQVQ5c0ZFS0Z0WWdPSnNYWFhxZndjcVh5YWt0b0VKQWtoSmNkMlkwRDRHWlI3YmFaejU0LXdmcXphcGJQZmZSQUppMUY3NXJxbTRCWV9CQ2VtbVB1Q3hRdFUzb1RzR1pJNGpCbzItT05YbHJaOXVQS2N1SFN6Ni10ZU9iZERfeDk5ZU9QaFB3ZFdEWjZMSFkxa185bGg5bzBsMzVFT2pmS24wN25RUG4tOHZ6cXZmRFQ5UEo1ZXRxX0hGejJpV3hzN1h4aWx3WGs5WWNRSVBGTzhvc9IBjAJBVV95cUxOS1J0RkU2dGR6WEZGSE9QeUJiWllpcFBiSWlEcUhxWmxrcG50b19SQ1JsZWpTa0ZNNXlOd1YxaG9OcE5WSGdVc3Q4cFRUOXdCYnk4b0NjOFZFUkdQNkFxZGZNU211TDdtbGpvN2gxeTR0VW1SRUxmeWIxZE1DcHhjbk9teDVEU01TWnZlbDhtQVduXzNqUldiZGN2TVhWTm4ta0V1Rk05RmdpZVZpLXRtb2RKdWdFeV9hYkItckI4dXlOLVFMcXRLaUNiek5obGl2bVg1d3d1VE9qX1lVLWxnNGtzY19vVEtWYm9kS2Z2RXl2djNGTEVMZ1otTFpIZUtVSkZReG9ITHZtV0Ex?oc=5",
+          "published": "2026-10-28T01:00:00+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "'New Round Of Heavy Strikes':Trump’s Post-Midterm Iran Plan Revealed, Gulf Allies Put On ALERT - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMElWUk00bzhhUDQ5S3VsUmhKRHVwQVVDRjh6dWlMYmZKZXdrcWxVcTJGUXNRR2hWVnNQNC1aaTg0ZVhCN2pQY2l1THZkdnFNUkJ2MmdKeExoOFZzdW9laWhIcWRwazRqTmtDNk84b285dWRyZ0xRV1k3ZlJiQ2hUOFMtRFJoYnUyMzh0YlJDNW5sWmNuQWdDQkM4QVd3dDBkQVllY0g1UWdhZzg1ZWQtQ0JYQ2ItcDYwTk1uZF9TY0NBdHpBWlJsYUpFelJIcW95c3VCWUJVVHBCV1ZOZGNoRndoZjdkcGJZTnBTWWxPTTJKR3FDYkg2WkkwMVpCbUHSAYQCQVVfeXFMTVBoWWRlOTZ1blpYS0Y0T1BVX2hqRjFIek9kaDlrTkNYeGQ0cW1oUWpQbHNTdlBuTDRDLVFZenUtT0U5N0w0UDc5Nzd2SmhOa2x4aWdwam1ORDB4bTdnUDRJR2tzWTZmQU5FUEtidF9RRU5tcEVlbHdDS0IxUTQ3R1JFWGJSX0MwMm1zaWNmaWV5aVRqMEd6TzZXdzB6d2RhczE5UVZ3WjF1M3BnZzQ2bWM5T0pod09DbzlYRmtkUzJ5TlVrZkd5dHcxaUlRYmE1TmcxSE5VY2lxYU1sY1lUYUtSandhOTFPdVRZRHY0OThHaFB2dEFqRU5fOU03eGlsS2RKMTc?oc=5",
+          "published": "2026-10-28T06:26:40+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Shooting Outside Israeli Embassy In Belgrade As Security Personnel Foil Attempted Attack | Watch - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbkFyS0Q4ZjJ5Qi1GSy0ta24xNlAySHlSWjRoOXpoSGpJcUZUdnYxcnExLVoxSXhnT2Q4VjNoMkhuTk53M1k2eHZTQUZjajFkLXM0RHJ1UFNyX2ZIMkxoM1hJcG5YY2UxcEJrT1ZnTjk0ZndDRHhBTXRwOU1oWTdCQlJjbk1mUzg1LUllOWZqUGVtVjJ5VElRSlBUOU5JbnZlc0hNMEN3dEhUR3BDTTNNQ3VucDNmWEhpXzgxQU9wb0JGM05yOXpldWRKUm9RNldXUGo1OWxTbkdQTHlpTXA2a0ZCQ0NUU3Jmdko3X0RQOE9OLWlCR3FfZjcwZXl4WTgydzg2UWxn0gGLAkFVX3lxTE90RGJjX3JBSG5IRWZfUG1OWFlLbWtraXZESHBjNUt1TWJRTldseEdYREZyUmlrd2otenBPT0xRX3pZcUkzMF9jV0loMjVrWnJsVTBCd2tfdlZzQ2xpbjRwRWNEZUp6dUdtZEtvM1hRUU5vcHJWWlFPZXMwcFlLZkw0NS1RZVRJdUt2NTBOYW9jYnVBNHRHV19aZnp5S3VmZHBwUFctUW9rRWpXaGtVdGlJRjlDcVlXcXZRbWttYlBWaXVDY0Y2WmRxR0JoQXRFVVoyOEMwak5sakV2cEx6T0pkY2xreVdUcVBhdzg0emdlR21Zdy1VazlJSWZlS3JEN010NzBGQXZtUGp0RQ?oc=5",
+          "published": "2026-10-28T09:31:55+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Bibi’s Ouster Confirmed? Israel’s Arab Parties Emerge As Kingmakers, Join Oppn Call To Topple Govt - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOei15bWRxYlZGcHlXNk5SYmgtdmtyUHJ6RTVxX0N1MGRwMjRkcU9kMzRfcUNLTHpNemdRaHBETndJSVZLUnVLNS12MnZpeGh2YlFhSFpweVBrb29TRUtjRGRKS0VDVHMtZ1JJNDBJRC1sTEktWklPTk02dmhtOW5RbTFZUUdVdXlSbkthUXcwemluanVITHdlbWlud2VYQ3NsZnkyemM4azB6UFR5OUpONXNoR193a29MaDlfZkVPLWIyNlNkWUh5ZGNMRy1JZ3h1NHY4VDJBNEs0aTlITm9xNGc4M1h2NHdGWjNJWmZNV094VXZnZndaQ1ZlM1hWUXdVajdtSmd30gGLAkFVX3lxTFBtMmFzekE5SWZBVVZYUEZGRGo3b0F6eENUbFdGSW1GdWpRVkdBNnVmcFlrZ2lxYTg3VDZQNGd1NXY1UDJVQVFyU3VBR1FQZXcwZlB2alNfbXFVY3U4Y3hqLVEtMkNTWXpDVVVuSlpPOGVkSVpKU0N0RWRkbWhCNmw1dzFwMlpwV185czBVeVlhblV2XzEzRHV5RmptSXR1Yms5NW1sdEtrU3FtVlR1eHFCQy1yWklPUkVKZnpWcjBLODN2QXNuMlpUXzVBclFPVTFJaXByM19vclJ5ek80VWhjbVpFdDFucmI3RkwxLU5NWkw4OFYwMVR4S3R5R1V0RXJVc0pETlFScUFuOA?oc=5",
+          "published": "2026-10-28T16:13:11+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Three sea drones attacked a container ship off the coast of Bulgaria; Ukrainians are among the rescued - LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT09LUnUyWTR5SzNpbEl5alg5SHJ2aVNCWndhUHVxSGhYOEpZSjRoT2ZwSjlzaWxrMkN5czlfLVJqQV8zWTBQZG81ajQ3bU8xYlpiLWRpWDV4LVl1WEVqVDZUcUg2QWxlYUNSSl92SllUR1ZKRHd5bjUzd3RySzFuM1B6LTVEM3N0dWtzbWp4ZDR4N1lDOERjVFN4Rm1PeXlFTnVyMUMtLWVkT2J2Zkh3RUJDS3pxQU9iWFdwdVVOQ3lSVEJmdFJhZE9IaXdXNnVF0gHWAUFVX3lxTE5nUm5xNFpTVEJadDEySUxGazhzZERuTS1uLWdpR3VLQjNNRzNaYmNJQWNjRHpGaEEwOVppWkFRRFJVMDVWZ0NmMjZEb3VQQjNJZWZiQ3dSRHJaNG5CYks2MWxuYUdJendKNF82UnNmcGVFMFpWbFFuWm5LX0VQZ0NtdDN6SE9RUXdOWERyVEZXUmVYc19weFpxOFhrWHozMWZlakxBVDZKYTJqQ0xSVDhOT05xblQtdHVCLUptX2E2c041Rk1iNC1RWmdNSzdYZ1dfVldKS2c?oc=5",
+          "published": "2026-10-28T16:36:00+00:00",
+          "source": "LIGA.net"
+        },
+        {
+          "title": "'Puking.. Sick As A Dog': Trump’s Strange Rally Performance Goes Viral After ‘Meat Love’ Jibe - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbm9mcWZpd0U2X0FaV1AwZUFvUk4wa2dlTHVJVk5XQllKOHBIMHEzRUc2MVI1WnY0ZjN1LUh2bHJwVjFDaWhRUWM3ZFY4dXhlcmY2Ti0yZzlZeFJJWGMyeXlkbEtUUUUyWEgtaWhmbTRwVVFuX2ljU3FsbTVUank5UzRPckxCSUJfc3pwcDhQS3RtUFlhSTFHakljTVVPYm5sMG0xUDNFbzJCUjBfRE1ibzZmM3BXTW9wRm5XdXM2TDZFSkxyd2lsVTc2Qm9LODNEQW5DN2o4aDBlTm0yX2lWcmVtYWtZekhmWkVjTngtR1pHUXRLYkNMZUtR0gH_AUFVX3lxTE9VTFh3Uzd6d29uSVVEcExXNjdPVG03WVBkNWFMMDY1YWFSZTZIeHMtenliUlBhRW0wNEd6YmVDMF9qTGYyUFM1dWxYaVhpN1VNSC02bzMtY2VKWU5udHNMbTlob0FxS1E1RVhyNjZrSDEyNXdBanJaUlhZbmZ3WnhTY1dCNEdVeVlUWWdqR1ZLUk54UE8zaENGYVlZZ0d3VkpxWlhVS2JVVWJzdmE0MUZxNUtFZ1JvVm5jNTRYU2hnU2NwMTljaEoxNkpEYlM4TkptYm1IQUdkd1hBZy1yMVhlZjl1OGoxd21vN203RFI1OGFmeXQwOWMtd1hiV2JVNA?oc=5",
+          "published": "2026-10-28T04:45:10+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "'BLOODY AMERICAN BOOTLICKER': Lula Clashes With Trump After US-Backed Bolsonaro Flees Brazil | WATCH - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPdGZVci00bHN1bGRaR1Q4STlxVmlnMXJfMDRtajlta25McE8yaG9mVGpJSHZITWg5a0kwdXZENUN0OHZXTDVvcU82QkFHcms4SEg3S2EwRE9WSlctRlhLX3MtaE15M0lTZnJVU1ppOTRsTVhlc2RUTDVNbGR4X0VlLUF0Y1lmbngwSi1kU25QcW0tTU96eHJjcW5yS2w3RnYzQjBiT3dBUUNId1lvdEhWcXpHTUtPdW52NUZKcldPazRwMUlBbTh4SnBIc1JzN3Q2cHVkdURGWWtWWFl0bGFCcm1rSVNUdlg2YmtEWlROdUhDcVFuZVpiaXY1T1hIS2dKZndnVkxtRdIBjAJBVV95cUxNb0ZjcFJPUEtZM09xSTZZVGlLQnQ3UGJRVVpkS1dRdDVYMFo5TjFkRkVaRFgxQTZ5X3d2cjc1Nzg3RWZVSXFBUjRSX0ZGdENxSDc1S05fSmxXUnZ1cXlQcVAtem1sU2N3MllJd3BEaHdKQVJqM1ViNmdHNHR5LWE5ZktQa2hGRThtSUVkdW12ZE1fcDdQZ2ZJVFpjNkRaZTU4ZmZoYnN6bk1qeTFLbTFBMUViU1UtOE15allZTm5ULVRacFRrTkR6YzJSZFB4dlNkWW1hUHY5T2x6dnM1Z0t5RUFWQWdwU3pCSUp3M0I1NVQxaUpVcmtmRkZvX0t0Tnh5QXhZcjR0LXJydGV5?oc=5",
+          "published": "2026-10-28T03:15:21+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Hormuz Embargo Breach Turns Deadly: Oil Tanker Catches Fire After Hitting Iran’s Naval Mines - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZHF4TWV2azBlWHlSajlkZU1pZG9vR3RRVDlSdHJURm8wLS1raG5kU1dnSzZGdDNaU1lpelRTdTk1c2FwRzJlczgzcDVya3VIOExBUEVjVFlfQld2dFBzNnU1ZXh4Z0Z3T01VaHIzTDYyY2hiU0RvNWZhWUpld2NzNkpSTkVoR3d3WFp0V3lWam56UzZKYkhTMk5TQ0RKVjJkR3FwQ3F2Ul9Dc3QxR1ZrY0J1dHZCQm5CbnFZU21MNUpjZEJ4MzJtUlNMQTVWQV9KQ0ZzUUVfNmxlRFJhZUxaMUhtY2JUMFBuMTQ0dmFhUjlWeGtkUzNMNFphSE9wQTRG0gGGAkFVX3lxTE1WMUJhUzJXczliMzc0ZVU0SmhzM1Z2eE5sa1hveXp6OERlMldNcGRqaDdxUmZXTnFuYWJ6a3ZBcWdrc09PSF9VTzVWcmtfeEZ0cFBrdmViXzBDR0dQZE0tc0lRWHRUSVRMaW9EUGFwLVR5Y2Z6aHpVOEJkN3QtR19RY1owNmxQWENlTUZGSVFZLUpLcTZMS2UxOWlNaWxKWm5qVnZhRmUyaWQyWWJPZXY3U24zUk5SVzVwRExBYzdMT3pUMUlUcWctWHFrRXdHUkdzWjhIakVCT2QxUFV4Uk50MlFhVzRLWVBFOV9HSDZiOTV3MUxtcUd6UkdzaDRlamVvbkU4V0E?oc=5",
+          "published": "2026-10-28T02:57:00+00:00",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Piraeus Bank Increases Financing for Business Energy Independence. - Ukraine Business News",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnBUYVc0R3lNZmdsVzFoY2ZrMHZVY2Mybm9uZlNhN0ROcVAwaEY1ZkQ0LXh3NU5IQk9uMnJQRnhJN2VqRjJad1pYQjltcmNWUnhsSGxkVVBtcHlYSTlKajU3X2h5bVVBNWsySlVqdWY0b1VOTFlrbk5oZHBiTEZjd1B3eDJsdTFqaklpRjI1d3otSVFXMm5zQmUxSVfSAaQBQVVfeXFMUGJSY3NtLUxmc0JOU19Pb3V6c09WZUM3TTUwTVhJWWNzSnp1VHV6bFk1N0tJVGZBcmN3NzlpSDZnTU1EdHNQS2pzQWhuekI0bEw3czRCclFHZmE0djAyZ29RV1ViOHQ0NzU0RzZGY3g5ejBkcW5palItZV9wWE4zQ09TcGhFS1hrTG92SWtaYkcyR0o0X2l1blpHcGlvNEFvMXlnMzM?oc=5",
+          "published": "2026-10-28T00:07:47+00:00",
+          "source": "Ukraine Business News"
+        },
+        {
+          "title": "Nightmare scenario as French nuclear-capable Rafales eye Greek bases amid Russia threat - Bankingnews",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMXJleXN6LThpZ3ljR3ViaUEzVDVULW93SFhZdW9hOG50RWVVT1pyUmJHZjdtSHJzajdVUHVoOExDVlN0M3U0cGNSLVdWUHc4UVZTU25tVGZuYnQ3cG9fZXZXbzRGY1g1UUt1a2JfRklkOExRaFRwWEdNVzZQenF3Q2kzOXVwaDV1dnIzNFp5eDlNTWxleDNGSG9JN3hfRnVGcWtvNDU2UlplcXlsZFJaWVJSc2FJZHFIemRsV3dOV2M4X2Q0YnJGMzdLOWZFWVY0cUFrU0stZk5heThlMG44Z3JQOVg5SUl4WXRUd0lvV1ZINFU?oc=5",
+          "published": "2026-10-28T05:01:09+00:00",
+          "source": "Bankingnews"
+        },
+        {
+          "title": "US Deploys Marines To Russia’s Backyard As NATO Braces For Undersea Sabotage - The Daily Caller",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkJwckV2Ui0zQ2lXaUxuMHNlVjlpaVdKbzIwRmVwdU40Rm9OVzF5Q3B0ckNKaFFDQVVnRUl0OElNdEJQcFAtQ2EyYWhsWl9CODlvRTlSbWVQZTU1bWFFNkY3OHc0LWU3cVZSRFRyM3JiR3ptZEVIU3FaQnRfbUtIRi1BTGI?oc=5",
+          "published": "2026-10-28T21:31:00+00:00",
+          "source": "The Daily Caller"
+        },
+        {
+          "title": "How will NATO respond to a Russian nuclear strike? Former director reveals key condition ᐉ News from Fakti.bg - World - Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRzRZcVB0QmhuNDBWSGdUTUtpU1NFbE5SRktUaXN5WHRkc1QxOTFYaVgzNnM4dHZWUS15VE1qaElwSWxCYXNFdldKSjYybHBoSDZGXzh1NkpPNmd0R3hzc05BejlVejhPeWhVZXI4WDc5UkdUeEpMRzhrQnM4OW51U0piOVUyWE01MFRWQWlIM2ZxdzlEckRWUlRuYjlWY1NkMmc2RF9HNEFvUGRYQlljOHNORm1EckIwLTdNWGhB?oc=5",
+          "published": "2026-10-28T20:38:00+00:00",
+          "source": "Fakti.bg"
+        },
+        {
+          "title": "\"NATO has 32 countries\": Expert explains why Russia must accept the new reality - Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWlvWGpmeVZVUHROTXQydjJ2Ui1aTDRHOEVzRGVoX2ZPdlV5TGthdmxlTVJqUlBtNFVaSklXY1VKZjUyUk1jVDkxX05CRGxfVlpqVHczTW5YbWczLUJNWDcxN0VMUnNhX2RnMm1Sd2ZtcmNnQ2E4enNMVWVueEQ3bmpvdjJlNXRYdnZyeVVzQjhDaHdPNDJjOWdIZl9Fb0lUcGpYeGZZallQbU45bC1V?oc=5",
+          "published": "2026-10-28T19:08:00+00:00",
+          "source": "Fakti.bg"
+        },
+        {
+          "title": "Expert: Russia Must Accept Reality Of NATO's 32 Member Countries - Menafn",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYkZnc2pvV25hcU1QSHdQaS1kdmhLN24tYjVWZDFhaXNjQVpZdzd4Xy1uelJNT1c4c21ZOHNnTDhLYjZISlprZU8wRXBXNG9ZTVNrTHZGaElSVXF2a3RaN0VOalZvZFA1Z3hXbTRkSzBUSHVSbXFJamxheTg1eF9xNHhURU1WRWNLV2VWemhIUkNvRmtVbGxj?oc=5",
+          "published": "2026-10-28T07:07:40+00:00",
+          "source": "Menafn"
+        },
+        {
+          "title": "Now Zelensky hits out at Labour's 'delay' in ramping up defence spending as Chancellor prepares to kick decisions on meeting NATO targets until next autumn - Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLW5mbnQ4el9sRWVVeGYyUEdBbHh6ZG9IQmpSeEdReHFUeW5fXzd2S0NhbFBCY0gtcUlRTWRNT0hoWkdfV2pabUpoUmZfTWJpN2c4LXFQbnd2WEl1dmFWT04ydHNDX2lIeFF3cXBCOENNY2FKVGl0VEwyTTNGbEJVWldIQ1VqUGROcHhpOWJSeURuaF9DYVVSUlZYazU0YWlzUmJRTV85emROMzhkaGptc3VzWUlnclEyZkUyUnJsMGhJeVVockN1UVVlVXVYMUpLZ28wUmlLeFVxVzFqS3lHMXN6b3JPV2MtMUsyUGJtU0lEWWtvNDU3YVYwRTBXbXlJelHSAYcCQVVfeXFMTUpUc2dJblNhTkhub2V0Wm5NYmRNT1ZFaVktMjhsbFMxc2h2NEppODY2T0VkbTdxd1VSNkZDNnpvX2ZKeEpNQzlYanE1VHdoLUJ6YmpHNUc2N3Zja05fdVk5Mm10UUYzOGk4TUZtTWlyTi0yWVJMcFJ3dDA0aDBZOHZPbDZQTjFzUXk4NWRORXVKLUZ1RHFGMWZpZGtkMkhGdjk3WlVDVExSa0IwQUdBbF9jVVpJdEY4emd5YlBVZzJlTDBLWHkwckh1UmFGeTU4Qjlub0UwRTRDNmJqXzFGbWY4NUk3Tk5MeWI0RE4yNTVLSzBEeDZfeG5fam1ibjBaVk9WN1VUVkk?oc=5",
+          "published": "2026-10-28T10:15:32+00:00",
+          "source": "Daily Mail"
+        },
+        {
+          "title": "E5 ministers set shared European security direction - London Daily News",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWJlZUduOHRlMHFlVWdSWmxzbUtIb0ROOXJ1bTJ3VTltYWNzUzdRU0JIdVl6TjRhRmlKV1U1WWtyTlZaWlh1QjZrazlhb25aNDhTelVOTEhTRUFNeHNUd0hPWkwxWHNXMVdzdWtqNHh4WGg0MnlscVZST0hmRXhERGFNY1lKTU11?oc=5",
+          "published": "2026-10-28T07:49:01+00:00",
+          "source": "London Daily News"
+        },
+        {
+          "title": "Streeting: NATO is ready to defend every inch of its territory ᐉ News from Fakti.bg - World - Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNG0wTy1yckMzR21XTXpNNWJRR0RZVUxkOGd2aWVzVUJxOWdNRlNVaXl4Y0JBcUp4VjFTV2dLTDNfS0ptV1ZBUFdZMG9QT0d4TFlJVlF5cWpJUXAwSEw5OFRaaGN6WDVyZU95Q3hkQkNra2NaVDBNeGdxbWQxVTVGYzJrb2RfdnliTWlEX0t2OG1nZDZoTVBCcExybw?oc=5",
+          "published": "2026-10-28T03:44:00+00:00",
+          "source": "Fakti.bg"
+        }
+      ],
+      "count": 46,
       "count_is_sample": false
     },
     "cyber": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
-      "count_is_sample": false
+      "articles": [
+        {
+          "title": "Belgium tax agency hit by cyberattack, shuts online portal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTUFNRDhyTkhSOUMtUGpZNXMycjZXSVl1VW9pMTNoclk1Q3N5UmxIZlJ4ZnZzRHUyRmRodUloY0hpdjV5RDRYbGIyRkJOY19JY1dScnVhT05yMTgzOUw3NVhlX0haWC0zWF9JX05kN2x1Z1lYWlI4VGZDb0EzVXBEcmh6d01BOWs2N0xlWVNMcFRtS2toRVl2bFEzU0lLU0twUzlyODAta3NFZ081cG9z?oc=5",
+          "published": "2026-10-28T23:14:33+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "Technology outage slows CSX operations; security team rules out cyberattack - News4JAX",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0tVcDQ3OUhQN0FQUW9vNThNRzdaUDJTQzNkOV9RbjhCTG12Vk5VWDNtS1JDLXY1SDYzUVdGWHhBSDRrdmhoSXZvaTA4UGxmblloak9QN1M4OE9KUDBOY0dKczBZYkxGdHhLbTl6bTNpNEk5UWxheDgxYXZEWUZwSjBIWXUxUU13ZFptY0NYa0stcE9GU0JYLUhqQktfTlAtQUFmR1NUTVpHTXZoSUFNdDN2blh4UnZyZmhvSkt4dw?oc=5",
+          "published": "2026-10-28T21:02:57+00:00",
+          "source": "News4JAX"
+        },
+        {
+          "title": "UNM Health issues safety warning following cyberattack - KRQE",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFllOW41c3pvVXpWY2ZRYmlyVmN6SjgwRUhuRjUxZkRFa01jRHprUVZ4MVBLMmJGMldxbzhyUlVLYXo3dncwYnJucTg0aWFyQnAxX1drQ1B2eDRTYVBYSHFlTnRBb2FqeFFPWTBSOG9LeGFWM0NnS1dIb2lQTF9DOHdSaGptRlZlVUZqbXNDLWVFRXlFdWRzeXRiTC1mVWJ20gGmAUFVX3lxTE5XSUNLcFJ2X3ZXOXl2bC1QUmpJVzVHZVNtLTAyM1gxVVE1Q0Q4NG5DU3J2all3cDBPbThVZEVSY3lTR084YlpuTEcwSjcwdGxPRTBRVjgzUXo3dW04RVJQblVJMnI2R3VjYjEwcXJaRU1KdlNVR3VNZllpWFBhcWtUYWhZR29wbk1mODRoOTdJajJBNVc5TXNzMTZRRlBRS3cwYU43MVE?oc=5",
+          "published": "2026-10-28T19:02:36+00:00",
+          "source": "KRQE"
+        },
+        {
+          "title": "Belgium's finance and tax agency hit by cyberattack, filing deadlines - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSHlONGpSMTV2Wm9KYnNUNXc1ckwybnRVVS1BT3hlU0N1STVRWkN3RDRvLTFscWhEcVFjRFJhUUcxVXY2bXpuQzIxb1pvcmJ1TXRTU0VOcjBvTmlPSmZKNlU3cU4yaTJITERJanQ0d1Q2RW5reXN4MWVGMFVOaGxkdzZEVVZyYlh3dGo3VkxRWQ?oc=5",
+          "published": "2026-10-28T20:11:48+00:00",
+          "source": "Euronews.com"
+        },
+        {
+          "title": "Boston Scientific Cuts View Again After Cyberattack, Other Challenges - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1EwSlN6N0xZMGxFQ3ZqRHluTUhBUExmTnFNdEtTLXEyNUxRclJNM2pPTTVFMjVKbm9XZEhuelF5am1PUGphMWJCekNNd25zTHNwdVBZSEtLS25JTXprNzU4TFJlS096eldPMUFoMWVpRUF3Mm9oUUstOGhFb1Y3RUs4WTRQeE5pLWYybWtYeXpWVXFOYmZnQ0M1VkNlX1FsU29YdmFHdEhXSmEwMFJPUHVwLW52Zw?oc=5",
+          "published": "2026-10-28T11:30:51+00:00",
+          "source": "WSJ"
+        },
+        {
+          "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus - The Register",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUhoMVRJY1ZPdm9ueFE2U0tXWDI4Mzd3VjZTcnhoWWJ5QzYzZWlWR01SbVZDbWxTQ19oeDVYOUdCRW0tM2lIX0FJUFpINVZwVHFVSnFUZXNmMllwS19kNm94b1NKcUdnV0ZVRmU5MGNKdDBEcldYbDAtTzNOU0NpQ1hIeTBzZmlrYzZXZjdiWHYwQXg4MlNiX3REVTFKNUFtTW9XckJuZHl1UWpqOXZXNVZ5U0hqMVU5VTM1UHB5MDc5bkpJeUEyNg?oc=5",
+          "published": "2026-10-28T11:45:00+00:00",
+          "source": "The Register"
+        },
+        {
+          "title": "China-Linked Cyberattack Forces Tampa’s ConnectWise to Shut Down Services - TBBW",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsTGJNVEIyNEg4VXZsdTJkaXZOSGFob3NEWXkwVGk1cHlIOFFITVc3U2VWZUdfclhUallENnlTYnlvb19adnBER2lZM3pHTjdCRDRXbUlvd0NkOC10dWNVS0c5QzFpdw?oc=5",
+          "published": "2026-10-28T17:58:34+00:00",
+          "source": "TBBW"
+        },
+        {
+          "title": "Moldova investigates possible foreign involvement in major government cyberattack - The Record from Recorded Future News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcFlxMDRkRnEzRDcxbzh1Y1JIQmM3OG9pMGRWT193Ukt3bTdCa1FFUUVtTWIzdUpIMjVLbmZBOWE1aFhuVXNUVXVpZmFsd3VtUWxLeUFwN1ZlWE5KN1RuV0xjUlVoUjdNZDgzMUFsTVpkWWFrMmtJdXZsenVZXzZpeUQ2OWFuR0R4UXg5bG9VSQ?oc=5",
+          "published": "2026-10-28T16:44:12+00:00",
+          "source": "The Record from Recorded Future News"
+        },
+        {
+          "title": "Boston Scientific Warned You. It Slashed Earnings Guidance After Cyberattack Hits Business. - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHpFdFVSNzJKM25OQnk5RXA3Wm84Y1ZmTnR5N0E3a0YtS0ZiRGJZRl95S1NOamNKQm9sejBKYXNqU0NvNWxwaWlsRTBWdXJqN1FZbXB1RlFDbXYwUmd3QVNtVXF4dDI4NDg5ZWR3WVpiaV9tdk1RSWhUYjN5RkRZSmRDNVFaZVU?oc=5",
+          "published": "2026-10-28T17:49:00+00:00",
+          "source": "Barron's"
+        },
+        {
+          "title": "UNM Health has not made concessions to hackers after cyberattack, officials say - Albuquerque Journal",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcXBjMUZCU1hyaUdaSFVBb1RJcXpQN25KTDZCMFlzZDRXOXNCV1dkM21odnhYckhvLVI5c2JLZkVHWGhyb0ZfTnJJRVhreUhPaXUyNHVBMVBhcjFadldyZGpSN3BvakNnNzRXakVsTmRQSjdKTndobTdaNUlRa2poRXF3dG9zYVlIX1ZmN1EyME1fVERFX05jQnJCU3AtQW9IZWtKWEVFbzI2U0xSenZpU18wQkVHcFlqaWc?oc=5",
+          "published": "2026-10-28T19:59:44+00:00",
+          "source": "Albuquerque Journal"
+        },
+        {
+          "title": "Jaguar Land Rover cyberattack was state-sponsored, ex-minister says - Business Insurance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2RmSzVlMVMxRUw5bG55Z3ZHeFRQT1RVNVdXTEVtMDBuM0hCb0FLc25UaFl1MlJKbkhlY21sTmtMTlJkWkUwZVAwcXJhNmh5RFVPSHh5WU1nb0pZblJKNWFwQk1ReEphUmd1bWlZNmRJY2NVQWkwUDAwckZyN29sN01vOHNQeWdRZERfRm44a0JCTGZseFQ4UjhVUERUajU1aTJV?oc=5",
+          "published": "2026-10-28T14:36:00+00:00",
+          "source": "Business Insurance"
+        },
+        {
+          "title": "Boston Scientific cuts guidance in wake of cyberattack, sees rebuilding years ahead - MassDevice",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU0YxZU42TExRaXVDMk0wOUk2bmxtTUpGN0drYU1EWlMyV2lpZ0VldFFiQnhROU9LR21ZOFN0X3BQZkZZOTdyc2UtQmV2a0t4UlVBVzJsSUw0VzNDRnB2Mi02ZExWQUV6V0t2TjhiaHhQOU5YR2pEQndVcHBzM01iVjZMY1pEa3FIajl1bGhYM2pRVlQ2N1YwV1VzOHdNZTF6RExyS0RJTk9FNHpmX0doVlJLQ2RnZw?oc=5",
+          "published": "2026-10-28T14:42:55+00:00",
+          "source": "MassDevice"
+        },
+        {
+          "title": "University Hospitals says most appointments continuing despite ongoing cyberattack disruption - Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcFZ5a1VBblB2SWk1Z2VEREJEVFY5OFdmUHE4amRRdFVoZVFmaUVJcHFNQWNJTWFQcmJmeDB3ZVBhTzFGOGZYaWVLbnBMenA5TFpXTGNCRDVra1NueWFKZmQ3WlRXaVJ4bDFMcWpobThWenprTVlfNVlLY0Qwc29SSGh3Y1BpcmxqcEpURWZlV3F3VE1FWi1qOFdaNjRiOHR6WjV3WGY1cnVjeDJTRWpkbDlZaS1HaDB0Y1JKS2tGTGU2YTFpWGlHMmNPdlR6U1BkRlNN0gHnAUFVX3lxTE9JLWVWZmVNZ3ZwcDVZQldFbm5aSlNVbURUUjlWSFNwV0JyRTlLYlRLWk1jZ2swQ2NJTDEyUDk4YVBkTlBHeDZGUWtFTmpLb3ZrSHVUQVpKMkRsWEhQZ2xLRUZ0aGpnUEpjdlhlbHNqamNVamQ1RXQ3bzJycHZjTDdvUVFjQ3dfYk5kVU1uN2N2M3VUMnBjUkYwSjZNYXlBX1NyT3RLN3NKR3BiZzBQbFc0WnRhNE9CbC1nMUVadzVidjY0RWRJbEJpUUlXdHB6VzFWNWtlZ1FnVmlCbUpuMUZJSk00NnZZWQ?oc=5",
+          "published": "2026-10-28T16:22:00+00:00",
+          "source": "Cleveland.com"
+        },
+        {
+          "title": "FEC Restores Filing System After 41‑Hour Cyberattack That Hid Last‑Minute Political Spending - Forth.News",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NdlNoMElYVUprZWNQaWlKMk5uS2xvUzZybXN6RURKREpScG5aQ0hpZEFSd0FRV0NOeWZUaE9ja3I1UDFBTC1NUTlOblNfMWZDdjRFQWlpS0pQaW1VblB6dG13?oc=5",
+          "published": "2026-10-28T22:39:01+00:00",
+          "source": "Forth.News"
+        },
+        {
+          "title": "Cyberattack concealed political spending by big donors before US midterm elections - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnZZTVlBNFp4UHBwR0dYQ19GaGtNXzFtcExQamE5QmZkX2c0dGNkUkdtRXlHWDB6dnJKUDRWa3ZFeVliUmNUMlY3cEpEei1sWE5OX2ZYcnEydlozWFZ4b0p2M1dPQUR1NXowNEtuRmVhSl9RQVo5T3JSNGVyMWw0QnFkX2JiTjhycGVjZVFOb3ZzN3RwUWo4WlNvY3JmOFpPSVlTZHBQTzR1ZVJ6NUxCbjV4Vi0tQUhG?oc=5",
+          "published": "2026-10-28T22:42:38+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "UNM Restores Health Systems Following Cyberattack and Warns Public - Campus Security Today",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeEtWVld5M2NsNWhCY1FlaFZUZ3dPaGNmWUJHcU1PdW04dGZab09GbTMxQnZ0cllNMjc5dHNoM1Z1Tmc1SS0zRXFXLUlzcHhHaTFjdmEyVVBPOEg3WDFKeUEwRVlqaVJHZUk2dndMY3FGQmczVGhMaUlyLV8xcnpIUTFJT2dOb3hMTjc4N1pPS3ZKOUlaZEktb3pROFlvbnZDeHQ5c2lKeHFjby1WT3M5eC1EZ0x0ZkxpQ04zbFR1TkM?oc=5",
+          "published": "2026-10-28T21:46:40+00:00",
+          "source": "Campus Security Today"
+        },
+        {
+          "title": "PolyU uncovers new cross-domain cyberattack risk targeting electric vehicle charging navigation systems, supporting secure operation of power systems - EurekAlert!",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwN1VFaG5rX0lXYmhkdWJIQjh4SUl6dFBPaGRhQkxvenM5ZkowNmJfbWptTWpZQ0RsSmFLZTJPOTZkVGt3REFzQXAyUFZfNlNGc0dsQ19jd2JSOXNX?oc=5",
+          "published": "2026-10-28T14:43:05+00:00",
+          "source": "EurekAlert!"
+        },
+        {
+          "title": "Federal Election Commission systems taken offline following cyberattack - SC Media",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGhMZ1V4LTIwbmUzWUg2UF9VNHo5emFFbHp0emtRdWxNNWpmcTBEaWpyQWdKMlo4TnFXYUlIU3FlbnoxZWlySVVsd0RlUGtLYTcxamVWVjZxWUZldVpVci1QM3B3cUxkbl9LUENVSGVuT1o0MFd1Um84VEpKaEl6bmFHcFpaQUc5cE5fR2ZEWVZURzBocnp5TjNzd1NHQ1FGLWVv?oc=5",
+          "published": "2026-10-28T21:33:09+00:00",
+          "source": "SC Media"
+        },
+        {
+          "title": "345,000 email addresses stolen in cyberattack on Germany’s far-right party AfD - Help Net Security",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51WWRZUGRTYzVkWnVMOTUyVDhtNWwwdlk1cGJVZjFOMGs2VWhYTlZ3Z2MyRktXdE5Vc1dJel9LZEItemNmYzlKM3ZQNFVWNU1fTUtxMnBxMG9ZSktPNWZmdXgtNDFUejkzSkNjS0VlN0xJb2hadDdDR253?oc=5",
+          "published": "2026-10-28T14:28:43+00:00",
+          "source": "Help Net Security"
+        },
+        {
+          "title": "Researchers warn of surging law firm cyber attacks fueled by AI - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0NpSE52aDNEemJLcUMyWmxhQUxGY01IZjd6Wlg3c3k5azJZNzdJcHR4UXl4QktGX1hFQ0IzUnlNa243S0FYRy05dnJyWm1MRHF4TDhwTV9NVzhIdkw2dWZycjhLOGI0UHJyTlo4UlZHZVhMa1c4N3lZZWRuWk9zUE5LYVkyTTZVVEZJT1NYZlA3Smo1RDk0VkZnWFRsOEJWSDMwMDFMWDhLUDRWaElMWkN6dw?oc=5",
+          "published": "2026-10-28T12:19:18+00:00",
+          "source": "Reuters"
+        },
+        {
+          "title": "Cyberattack on Italy’s parliament highlights hybrid warfare risks - SC Media",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1ZiY3JCUmNUMFlBUTVEZTJYNjladWJZZmd5R0Jka2RqSFFVXzFTUW05MmhWNGliLVFBeFNNamVzM215SzdJWGFqY0I3Z0NkUGFlbGNpTjJXbHg3X0FMSlFoYUFFY1RRaVlLQ2s0ZklCU1dkdmREa2hJYnBfUVdicGctV0hPNV9FLXNPYVNUWFF0XzloUkRlWVB3?oc=5",
+          "published": "2026-10-28T15:53:51+00:00",
+          "source": "SC Media"
+        },
+        {
+          "title": "Colmobil cyberattack exposes vulnerabilities in Israel’s connected-car ecosystem - CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWDNBTlU2eV9qNnVmVGNNbnVCb0hJN2NNQTJoLTNJMWxYTHZobzVvR1pheTJDNFA5bVV2RFlPWjhOYUp5SUQ4STlaS0E4eTJScHo0QktpQUhwa1l3Q1Q4MVpDb1V1dVU?oc=5",
+          "published": "2026-10-28T09:36:00+00:00",
+          "source": "CTech"
+        },
+        {
+          "title": "Kingdom Come: Deliverance studio hit with cyberattack - Bitdefender",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdnJhRWJYUzBaZy1yTTZvY3RXZ0NQR0NQVGRpUXBtUlBONkM1MkRIM3Y0aWZJbDJpajFBT3E1VzVZOFBkbDJXV3c4OFZpVXZwTk9PSUNDa1VzY29Uckp2S00tUk9aSUtaaHVxVkxTM0x5aE1xNVdhakVSbVFXbDBwOHN3OXMyd2M2X2lwVUlmQXhHOGNx?oc=5",
+          "published": "2026-10-28T14:52:51+00:00",
+          "source": "Bitdefender"
+        },
+        {
+          "title": "Boston Scientific Falls on Sales Hit After August Cyberattack - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXlINktQdU5yUFpVWkJCNm90bTZoOC13c0FKVEJoNFJGSkFsTThJSU5GYlpRc044ZmVsSDk3dzZ3MTZLakp2WWEwRVg2cWtpMGx5QmZUbmJ4QkNaVmVhSkhYZHFSSnM5N3hnYU15bzZudGNnMXFJaFlzb2FOVDJJdTJNNjBxeDQ4d2ZJbFA5ZnBzTFU0bjY3TWZB?oc=5",
+          "published": "2026-10-28T12:56:24+00:00",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Cyberattack Diverted Ambulances From New Mexico's Only Level I Trauma Center as Hackers Claim Patient Data Theft - Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNTZlYUhjTWNfX2gxRFM0VVYtYXE5M1l2NmhXRURpcG5XSXlqZVpEZGpia1hpdUV3TTRxVTN6N3hHYmdhMjhMcVU5Rk1YWEVvZWdMNUpmYUdlVVliU2VfcnBEZU9WdmQzM0hWMW9HaVU3MFpieTB4cHM4elo2VlBLbDJGTUduNXUzNEljb2k0Uk1neDJH?oc=5",
+          "published": "2026-10-28T15:26:49+00:00",
+          "source": "Medical Daily"
+        },
+        {
+          "title": "Ransomware group SETTRA behind cyberattack on Israel’s largest car importer - CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TNVVJaHZsUS1OOUhPWVNndWtsZnZMZmRaWlFvTE00ajAzaDJpaEVIQmJIWnBDY0g5Q2lVZVJKZENYS0RZNTB1U3o4UEZaeDlOakZZTk9SNm1KWnBaSEgtbnJiLVhpUkE?oc=5",
+          "published": "2026-10-28T09:20:00+00:00",
+          "source": "CTech"
+        },
+        {
+          "title": "FBI involved in investigation into RPS cyberattack, officials say - Richmond Times-Dispatch",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnNCRFBxSFIxdThybVhRM0FEMUdfU01IazVheHJxeUdvT2I5am1DeVhIYmx4M3IteVk0b1ZHTWo3Zlh1ckNITXRqaDI2c3VoQ0FFNU80Q0twQzZ4NTJRQS0wYThkakFxckdNX1lQRkNlZ2NCSmJTbkVrVDYtTXFqSlVydjV0OTlpZUtEbklrQ2pqLWlmc0E?oc=5",
+          "published": "2026-10-28T19:30:00+00:00",
+          "source": "Richmond Times-Dispatch"
+        },
+        {
+          "title": "Boston Scientific Falls on Sales Hit After Prior Cyberattack - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnUyUG1tM0lRR1hDbGJRTnlDRUUxSmNjYlFwYThUMkhEUG0wR09PeGIzWEgyLU16Y0JzLXROb3RfVE9nSU5HT0RoQ1RzYXlzUFlndlZMU0FuMUNrQU1XczRzWVNURTdGdHNacDJKOGhoNWFFUl9ITno2Ulp3S1MySlRHNVpub2RUbTk5U3ozbEhhSEE2VU1nUzRyYkZjUEtQRHJXMExkYXFJNkZmc2R3b2VB?oc=5",
+          "published": "2026-10-28T13:33:56+00:00",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Ohio Auditor of State’s Office targeted by cyberattack: What to know - WKBN.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOElmbDU1bFdla2VwX3QtTFFBbk5hVDVLUnBGSkxNTEUzbzhQVnJqUEdLanBmNmpRajI0WVdwMFNIbThfTE8xUW9vY2lUT0ZOQmlKNWJvejZvV3YxU0diVXRaYXFOOUprOHE3TDZpanFtX0tXQ3hFdGlWUVpaT29qcEhKc1pqOW1ZUlRHTXhRbkpoWjhsU21feWpnUlItbHPSAaQBQVVfeXFMUE1rWnd6T29SMDdiOC1aSzhsZ0Z4cFNQbFBqTVZsRWNwb1dXdmVGYVlodEs5VTVpVS1DczJfcFRySGJQSVZSWm5xUWl3NWp1dGloT2dlVlZYZVQ5OG1iLUZBMGM5M1N0cGRFUDB6TnQ3ZUFmRHlhX2VPM3QxZGoyS2xXMXJfMFplbUhMcG15ekxNTTM0RjVvRmpjTmdPN2wyOEVvMmM?oc=5",
+          "published": "2026-10-28T15:57:53+00:00",
+          "source": "WKBN.com"
+        },
+        {
+          "title": "Cyberattack-hit GMO says website with purported customer info taken down - Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkUnd4dkFaNUZfU0FIX1BEYWNpQ21ydWtHTzlVWF8tLXJ5Qy1aLXZrRUEzQWMtZHVPZHFUaXBoUjRTYTQyOTUzcWFJTEtZbDM3NlplTXIzTVhaQQ?oc=5",
+          "published": "2026-10-28T11:36:46+00:00",
+          "source": "Japan Wire by Kyodo News"
+        },
+        {
+          "title": "A security flaw in these widely used barcode scanners could open up warehouses and stores to cyberattack - TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTFMYmEzdFF1NEdRNDUxak03NXVERlpVTzFiemlTYndQTDBGSDFqWEpRTFExb3V2U3F4RDEwSnhYbHpScS1GaW5zZUVnRGhLaVJIakxlaUo4WXEzQV8wOXdtV01jOVVhejhlMF9vZFM5NXk3UmtmTTdRczlVcl9ydkktNG50WFVQZXFRcExyY3NCY0l2a0FjdldnUmQzZ1ZQV0tfYS1VRC1EYjFzMldyQzFiaVRLZGdpUzVkc3V4QU9WWG5xNFVNMmdTVHVubXp4LWVYeEVxQ0NBc28?oc=5",
+          "published": "2026-10-28T17:10:00+00:00",
+          "source": "TechRadar"
+        },
+        {
+          "title": "Boston Scientific Lowers Full-Year Outlook Amid Cyberattack Impact - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUi1vdkU5TUFFa0ExdVFFY2drTGs4R0JHeEpvQmZZVDQ2aEhvMHR5UjRCUDE0ZF9nLTBpMVROdVV5WHVkbDhkTlRGLTQtcUlidVplTmhsVkE1QVZ0NnA3cE00cTlCbDJyWWhqeHZJLXp0cDdUcmk2VGc3X3ZRODF1dl9jNTNsQkxnNXlWS1picw?oc=5",
+          "published": "2026-10-28T14:55:11+00:00",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "SETTRA Ransomware Hits Colmobil: Oct. 14 Attack [2026] - shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYmxfVERrUzZoZDRDVU5xbWxHYU0wbVlHQTZFR1hlbzFnY1ViUWRabGtJeGxyZmVRR2Y2T3VWWHdma0pXbkIzNkZ1NU9NZlI0QjY4Y3Y5SmJSVnVVYWtHREJIdTNKN1YxSUs2cmhFTWJiVEowVF91eHUwR2dheHBiTV9SOTNISEE?oc=5",
+          "published": "2026-10-28T18:20:35+00:00",
+          "source": "shattered.io"
+        },
+        {
+          "title": "Stock Market Today, Oct. 28: Boston Scientific Slips 6% After Cutting Q4 Sales and Full-Year EPS Guidance on Cyberattack Impact - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQN01Xc2FuMG85TDNidGxOaHVydXlZUDA2bDduMWFaRzN6ek50UEQ5Rm1fakQ0M0NPcVBYTl9NWFZxNkZTZ05VMWd0OTh4cWRNdGRFdF85dVdnYnl2UzM5T00wZU91ZUJKZ0lWTjJDM2hZWEhCTW5uNWlmcDdzXzFaenVUa3pZREx6ejl6SnVFckY5Mm45VWROSlphOG5Edy1lR2x3UVQxUTFEc1RFOXdHRkpjWHVhaG9zOTl1SzNEd0R5enNYUlZENnZrU3EybmlfcWhCQXdyaWh2SWJ0eFliblJMTkQxTk1hVlZNZDkzZGNQSUlvWnVqUEVMTjB5SVQ5NEpkZ0tuN1piVHowNkw5Q01n?oc=5",
+          "published": "2026-10-28T21:00:23+00:00",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Most University Hospitals appointments continuing ‘as normal’ amid cybersecurity disruption - FOX 8 News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjg4SVRYZjhsVzc4cWN6a3NuYk1fOHh5aXpTTmV6ZXltWnNSNG5yY3ppdDBCMGdheENrVTY3VFlHdEZhVURSWi1SVkxNY2RfM2thN0pjQmlyaHBtbjBseFZhdm9jWTN0SG9CWEk3YkljOVpmdTRJVlJlQmVDV2dBQnF4MWI5dFVNTXR1MVdXQ2dkTzlnVHpYZ3pxbGNTWG5jZUpXT1l5WGp2YXlSM3RYZTVR0gG3AUFVX3lxTFBmdmhKUlBMV2lIdXI0TlgybGdxSS0tWGE5TEV3cGhkbUN5YzNfWlVmbHR2S3A5X2VoWkd6TmVmZmtRSU14dk96bnl6cV9TdlZIb3Jhc1VhRS1QSFRuaTBzanBpU0x4bTlsaVRMS080c3NTRkxSdGVrN2twal9fUUotLVl6M0pwX3dOTUh3T3duUy1YN3Z5Mk5XQjFXaTd5Rk16ejY2Rk4teHVBT25ZcUlieEwyWUwxQQ?oc=5",
+          "published": "2026-10-28T16:32:07+00:00",
+          "source": "FOX 8 News"
+        },
+        {
+          "title": "University of New Mexico Health System Diverts Ambulances Due to Ransomware Attack - The HIPAA Journal",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2JTWXpwaUxwSWcyaU1uWmh5OG5LcWNoN0U1TDVYLVVud1dFR1o4NGRPa2RUbzMxVlNwWnRfNmlqRGlOc1AyanRkYm8tZkpXdDBhX2JqVDdPMXdXbHYzY2Jaa3dSV0NLRUktU0hVYVpvU09fQzBlNXRIa2RqM2Zmb19tZw?oc=5",
+          "published": "2026-10-28T10:11:47+00:00",
+          "source": "The HIPAA Journal"
+        },
+        {
+          "title": "Columbia University $16.13 Million Data Breach Settlement - Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVXYwYkZfU2RTaENoTkdGbDE1bmNpNEE1U1JncVRMejd5MHYxRTN3MFd6a3YzclVqUzQwTURzQTl1VUVNNTZ2b193c1E1MVZyampGNXBQampXdGI4OTNNVlFMSDlSaXZRaVVpR0E0NnZteGtBSlQ1aDZlcElKSkE?oc=5",
+          "published": "2026-10-28T19:21:27+00:00",
+          "source": "Claim Depot"
+        },
+        {
+          "title": "Warhorse Studios Hit by Cyberattack - VGChartz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFdYcFJfd0JyN0JUZTRlcjdMM1MzbWhNenN4emJfZmRrVm1WSWh3Y0NsbGZEVkpoZDZWamNfNk5TZXBjcVB1U1ctOWoySG15dlR0Q3hVX1lCNXpmdGR4NmJSUEhVSGxFMFdwNFBQaTNlSXVrY2VVWDVINU5rNkNTQnRn?oc=5",
+          "published": "2026-10-28T13:57:13+00:00",
+          "source": "VGChartz"
+        },
+        {
+          "title": "King Family Medical Cybersecurity Incident - Data Breach Class Action",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd3VZeWxuTFplN1lsSzVIMjZNNVJ0NFl2dXJ5eXR3NFAxelpVU1hyaG9oU3VQR2ozb19lX2ZDNmdUdVNVY01HNDVIUjNXWW5qX08xTlljWEk2bG5DaHhyV1piSXZXcDZ6aE9JaHRLZDFMc25qZlJZSmczcXM0OUp0eVRSdWZrRVlHVFJ0YnRoYkRfUndEekEyMXZ1Nl9SRzJnTG9xWHd2YTRLZm8?oc=5",
+          "published": "2026-10-28T18:33:45+00:00",
+          "source": "Data Breach Class Action"
+        },
+        {
+          "title": "UNM Health briefly diverted ambulances and canceled appointments after a cybersecurity event. Hospitals reopened, but claims about stolen patient data remain unconfirmed. - Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkdXUXktdFpMZzYwVzE0RVloZUVVa3k0S3dQV0pMTVBjUzBoc2ZNd2dYQlJFdnVKQUVud2dLaFJ3aWF2WjI0Q3lhSV8tNUVlMlRpY0tnMFpxYlkwQnNhTm52U0RkamtfUUpKNWlGUlFvNER6NjdGMW5PRVBHMklJRHZzczRyMjFhLVJ2cGN3NA?oc=5",
+          "published": "2026-10-28T12:39:42+00:00",
+          "source": "Medical Daily"
+        },
+        {
+          "title": "Japanese internet provider tells customers to unplug computers amid major cyberattack - The Independent",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpqWW9KUWtydUE2LU9rYnRBb1hKY3BmZUxYR3NSTGswYXp3cmtFODdFWXY4ajVFNnMwcURMb2dOVkNNZkhxQXlCOXhzOGRzcTJhak85NnZWalJMMGpCbWxQYXVTMzdieTRrLUZCUWxtdDE0VlEzdS1tREJFbU1ZWG1QSVFNa1pzWXp3N281SXNIcW1GSkNHU0RCbnNZZTQzSlE?oc=5",
+          "published": "2026-10-28T07:10:00+00:00",
+          "source": "The Independent"
+        },
+        {
+          "title": "ZH Healthcare Cybersecurity Incident - Data Breach Class Action",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTUNOSk1iOG8zSTZJQXc2SkptaXhGMEF0SlRrQlRrWnpnVlBidGdPZ3pfMHhvSkk3MURGZjZhUHNISDNFdVlzQmNHYXkyZ1BLWHNwQjA0bHl3U0VKb2dkZHlKU0ZldXNSSlBvRkZzY3FtWjFPMnAxRHp6eFNvNk5Laml1dlcwbk93MEVfbzFpajU0dnVzS2JoNG4wQ005NFA5d2dV?oc=5",
+          "published": "2026-10-28T18:12:10+00:00",
+          "source": "Data Breach Class Action"
+        },
+        {
+          "title": "KISA Unveils First Dedicated Vessel for Maritime Cybersecurity Testing - THE ELEC, Korea Electronics Industry Media",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XWDNGOXItc3h6VWZQdnd5alBqMXZLWGhsdnEwMjF3SEFtVVlhSFpaeC1zMEVEcmZnWG53akJTLV9fWHdYS1RRc09WZ2JXUjRTTkZCSmhIaU56Y2pJZHA4TlAySm92WDA?oc=5",
+          "published": "2026-10-28T23:27:09+00:00",
+          "source": "THE ELEC, Korea Electronics Industry Media"
+        },
+        {
+          "title": "TAKKT Q3 2026 slides: cyberattack clouds stabilizing sales trend - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaEFvajlDR2VyUkh5VHVGUUFLMFZRVmpLU2Z5TTVuSWQxRkxrcjEySVk2VFVveWE5aUtiMmRpQUNaalNqTWNPMXdMZ2FqRXVuX0VtU0hFbHhxRGtiTUdkVmFIaDhGVmZzd3plWnpOcWRrTjdDclpZVEVrRDZJX2cxbVlQcV92V2VFQnE1NWFLQ0JTUTJReF9UdWk4TlhmS3JaRmJIblJMMTdrOGdlRm01blZIWDZrMXV5SHZiNw?oc=5",
+          "published": "2026-10-28T14:39:00+00:00",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Belgium tax portal shut down after cyberattack - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWRsWWMxSENwNlk4OTdjUzhrR0ZQVzJmYjhZblJNcjFva2NGOFZvUy1RbU5nWU1UZGtxbU90SlZkTUlPcU1ZeEJvbWNfMkJxNmlQSmhOcGlVME1xV3VlN1B6UlA2RG8zOTIweURfWWxKazV5eW5XcmdjVmtlZE5YeXRycm52blAzMnd3ZkFOWmtIaVBoNEk2TlBHdE9iTkxYMlhCZTVR?oc=5",
+          "published": "2026-10-28T14:52:57+00:00",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Odido CEO steps down months after major cyberattack, cancelled €1 billion IPO - NL Times",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3JjM2M5eDRSQnRydDRSLS1BUGt1UG1LMmFwaDB2cnVNZFhDdTRKeVdmTXJOd2swLWI3ZVJLd3hpcVBkYjZJN3NaZ3lrWjU1OUZySUg4ZHBoa1pRd2xkcGZlTXRJVVU4cTgzZm9IODd6YzZrMl9IVTNYRVJGa1RPcV93U0U0VGN1V2Y3c0lrbGdqTTNndk41aE1QWmY?oc=5",
+          "published": "2026-10-28T16:00:00+00:00",
+          "source": "NL Times"
+        },
+        {
+          "title": "Moldova cyberattack exposes personal data linked to a quarter of population - IntelliNews",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGh0dnRHRmZFT1BBa2dsb09zdHg1emNuWmpUdlhyT2VTVXAxdmdOQzRzTk5iN0stTmNGNS1rNW55Uk9rS3lrMmtWZkxsSmtBZTZ4MG1uVU5ZVUxqQ0FDaWxNYmVQLTQ3aUd6aEJiWmc4alVCOGxIWjZZeVBhVVJIZzVNMFpFNVZxd25EWHlXWS1ua1N3SmxTUDNNTm9aaHYyRFhtaUJaU3BGZm53QlVXeg?oc=5",
+          "published": "2026-10-28T09:54:01+00:00",
+          "source": "IntelliNews"
+        },
+        {
+          "title": "Belgium tax agency hit by cyberattack, shuts online portal - www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZUc0RUh2OXQwYVlWWnBQZHJRNjdoeGF2dWJKZmtHaHZrSExLdDdZdXdCYWs2SjVsWXNoR2NlbDhQaUNoQ0oxNGhfdUswZmdYclpjcWUwNmV0aEVUWUZZamtHMHJCdW0yU2hFZzM2ZWJPNEMwS0tSNXZvaDF1bk5hWDBVajdWYnZuWkQ0ZUJNV2pzc0QxREJjVWl5aWN5U0tnSXNkaWVPeTlRcnNqYm5v?oc=5",
+          "published": "2026-10-28T18:26:32+00:00",
+          "source": "www.marketscreener.com"
+        },
+        {
+          "title": "Warhorse Studios confirms cyberattack, is investigating breach - MMOs.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmR6S2wwWHFFaXp5eWdiY1hfUFNYM21NVnd2OXdGcG9paGNKaC1xMlkwV05iWS04NHhjSW5RUmNYT1hTYzEyQzdSM3owSlJCaWp4YWxWcXdPWWNKSm1VekIzbV9US1RYNWo3LXh5QTlyYV82QVFNR192T1h3eTlYVGdTZUdvc0J2WmF5OE8xVHMzcHotcXhr?oc=5",
+          "published": "2026-10-28T10:40:48+00:00",
+          "source": "MMOs.com"
+        },
+        {
+          "title": "News - French supermarket cyberattack exposes the risks of ageing operational technology - teiss",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWYzMzFCUU96Z01zN0N2ZGg0dDJTajRSeXNGY3pVZ0NRM1F6M0FmUmJmcHpudm40OF9OdnVaVko0ZlZSV0IzdzB2VjhBVnRfa0FDSWFnRWZUZGRpUUhQMjhYMVdVSEZ0c3N2bWJtVGliTC1POVBnbk5XcGlPbFBFT0ZXaWstLWR2NUZ0eWhJcXBQVVBiSXRPa2tvaG5DVnFMekw3THFRYmhqYnowQk9ybDhheUZ6Y2c?oc=5",
+          "published": "2026-10-28T11:18:08+00:00",
+          "source": "teiss"
+        },
+        {
+          "title": "Weaponizing the Cold Chain: What Retail Cyberattacks Mean for Produce Security - The Packer",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmUtVzFmcHQtQ3lzMEQ0azBuYVVqVFJMUGNMbjlvcG8tdzgteVhfSGVrdHY3N0ZvbmVhUk1Ecm9uNGZOTFJDR25NaU5XV0xPREVRY0NZenc4QUs5Y3BEX3NhbDJpWkZhSXhjWjhFcVI4SUx5aEZhc1ZKTmNFSWFST19PTS1zOXM3bGJFZUVTNWNxZmQ4R0NtQlZjZThCVVhaMEpyZHRqNnItQXc?oc=5",
+          "published": "2026-10-28T20:14:00+00:00",
+          "source": "The Packer"
+        },
+        {
+          "title": "Odido Names New CEO After Cyberattack; Data Breach Details Unfold - Global Banking & Finance Review",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnlocGNPOF9wbV96aE9VV0VicVVTTWtkeW4yRmY1bmtsQ1RUSFdiQ0xkY1JMMG4ya0h1WGVFdEFmWk5uUERfbkd5YXhqMWg4MlQwV3hBOTluOTRCV2UwQkJlNXhqbkZTV3dRY0J0V1lYelFrcEloTjdiSHFlSjQ4UjRRcC1SVG4yN0JxdUVwYXVNQnZZY0t1SDlINFZnQUJHYVZ3?oc=5",
+          "published": "2026-10-28T14:19:49+00:00",
+          "source": "Global Banking & Finance Review"
+        },
+        {
+          "title": "Belgian Finance Ministry hit by cyberattack, MyMinfin and other services offline - The Brussels Times",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0s1TlFtVVBMU1oxZHpkWHR4N1FlTWplTDZRWkgydGNmQktBcHp6UnU3MU9wal9PaEVYNklYOEZqS3lBaHZNM1N0LVJOc2ptbUpXZHdfc1psYlA2cTg3ZWd1ckRENklVYXFkYzY2dVhtc1lnWlZoLTBmMDZzM1lTWlBPekVpa25pM29TV01RTWM1Tnh2c0YzNmJnWWhOUjl4eU51Q0dVaE1ISVZ4UGQ4Nkx5aVFTcVYw?oc=5",
+          "published": "2026-10-28T15:11:02+00:00",
+          "source": "The Brussels Times"
+        },
+        {
+          "title": "US FEC Cyberattack Delays Mandatory Campaign Finance Disclosures - The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDc5SkZta3dkUEVkOVJQdjFOdDIzdnRXZGFaNG1ETEYwS09pVVJXOTVGdGJQSWZYZ1I5OXRiZXE0cnE4NXFjaDg3RDdSTTFyNTZ5RDlSZ1g2LXpmZUtfSXZXZC1aVHI1XzF2eFlGQlhOa1hyNmFGT0VWUU41Q19uTl9FX3k?oc=5",
+          "published": "2026-10-28T18:29:38+00:00",
+          "source": "The 420.in"
+        },
+        {
+          "title": "Risky Bulletin: Moldova takes down 80+ public services after cyberattack - Risky Business Newsletters",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb083M185eGRUZm1LZkdHUmhHb3FoNXp2M2NQYWRWVkRzNTRsVUY0Y3N1S3BieE1ZR3ItazRCNEV3Q05oT0s1NkFwMXdIc2pIXzFFT2plSDk2STVlcFdoenFGczRmZ3JQY1FnVWtCNnd1MFk0RGZ6U2tTaGRZZjE0YlhLcTU3b1doMG5aZzVLWWFlNjNLaGRNeUNB?oc=5",
+          "published": "2026-10-28T04:54:23+00:00",
+          "source": "Risky Business Newsletters"
+        },
+        {
+          "title": "Warhorse Studios Cyberattack: 5 Key Facts [2026] - shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaldYMC1zSXBjZTFnemZrQ1Y0ZTVRTzhWMXc1M2E3aXlRZ2Rrd1pNNmxGUGt3QVlHY2J6VWVvRkxYMVZjdXNQbXlPS2U2WVlST0lLS2t6aVVoY2tRdTRWaGk5eDVQaXVFY1F3LWFBdUEwTGhnQVAzNlR3c0w1ZmNkLQ?oc=5",
+          "published": "2026-10-28T04:00:41+00:00",
+          "source": "shattered.io"
+        },
+        {
+          "title": "Cyberattack wave widens across Korean financial sector - The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Eb1VzWFMzRHlNMHFDcVNvN2dZajQ4V1otcktaYzhmNnhDWmhVQlNmRGhibHJ4QmhVUWgzLXlHQ2Q5ZWVKZUFjZXhqcTgtNHUtTzFwejJzdw?oc=5",
+          "published": "2026-10-28T04:58:37+00:00",
+          "source": "The Korea Herald"
+        },
+        {
+          "title": "Warhorse Cyberattack: 5 Open Questions [2026] - https://tech-insider.org/",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHRXLUFabF95bTRqS1dzMVhpU241MWFXaU1xYjBnTWJwcTVsUmJadzdRTmZFTmJFMnpXb01ZczBDYVZjcE5mT2haY20zeE0wWDdjblVpNFE5bURLdE9xVXhCRnlmakJ3cVF1Mk9qSG5YOHVXMFM4Nmd5WG82MHItTnpDWmlfU1lITkdFZ21BX01UbjJRMlVR?oc=5",
+          "published": "2026-10-28T03:49:42+00:00",
+          "source": "https://tech-insider.org/"
+        },
+        {
+          "title": "University of New Mexico health system reopens after cyberattack forced ambulance diversions, class cancellations - teiss",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGtWc1dVSVV6V29kd2sxNnFObHpkQnNLQ0p3UDhzS29mQmtCTDlMUXpibndkU04tc29qdE9tRnBDVENKZmNsMk9oTzFMY3NNb3M0anZpdzM4Y2FPQlRCc3U4RTNHSXc3LUNhb1JRcUtQZWFXVExWcXZLZUdsU1N0N2NQNXNrVFY5Yjk2bkc3c2lFQmF6SGFQTGlfU2Y4SVBlXzZwdGl0cXYxcFdMQVo3WVFBV2hzclBBVGhWUVBNSHlGVURkTjB0S2RZcjMxRmFhc3lwM0tMUFlnOGtXQnBtMQ?oc=5",
+          "published": "2026-10-28T10:53:08+00:00",
+          "source": "teiss"
+        },
+        {
+          "title": "Cyberattack Disrupts US Campaign Finance Filings Days Before Midterms - Open Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzR5aUxPaG5QUHNxTW5xd2k3cHJxU1lIc2FITjFuM1VUeFBmajdjNElvbk9GRWhUNGxDd19zVDR4ek9oUXhTbnBPS2pncC12VmttMFo2Q2JiZjQ3aTBEZWRPMWN1WW1VNDU2RU13dGdDWms2WEkyX1dKZkZWbUtXallRNzk3V2NZRDRvTk1ZSXJncjRnNXFLQXB2VXR2NnI1N0h4dzZR?oc=5",
+          "published": "2026-10-28T02:56:24+00:00",
+          "source": "Open Magazine"
+        },
+        {
+          "title": "Latvian car registry website suffers cyber attack / Article - Latvian Public Service Media",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEdwRVc0QVZ2S3hyS3E1NUZPT2JOSkNqV3pNbHRIYW1MamNqM3M4UEZnZFRVLVdHREw3MVgwcjhjNTdLdjQyR2t2QzBnVno5X1dQdlpwSlA1RHhIVlp5MGNvcXFkZE9XMEpFRHNMN3JheEg3dVNxNTlIQ0tKYzNqd0lmQjNxa0d0Q2dvRFlUSUloaVFxT1hHZmlhSHEwamNFVHNTeTJMN0VIajNINnJydg?oc=5",
+          "published": "2026-10-28T09:18:16+00:00",
+          "source": "Latvian Public Service Media"
+        },
+        {
+          "title": "Andrei Curăraru: Cyberattack can undermine administrative reform and trust in digital services. Stolen data can be used for scams and hybrid warfare - cotidianul.md",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdEp2UnA5ZE1CbS1zYndjX0pSX3V2QmZkcHlpUTZuSVBDV01GcE5TWmQ5TnZiZWJUaHZGTjlpX2VoWnRkb0ZIUndUVEVTeGdjbWhMRUxDa0JyTjBraDd3V2NCLVFqYXJRb3FQN0lZVjBkUWxkX3o3emJTeVVtdFFycTFNazNNb3AwNFVwSkYxNjQ2TGQzcmxpS1pKeTlCcmJjX2hqOVN1aTJCZ3c0UmtiQU5VdXdQUHg0Ykx4VnZhQzN6eUZ3WFRQZGhTVk93dmg1ZTZiSHV0dFJYOUkxY0lvRXFvcmRvemZGdTVzXy13M0RTSWFKYWttN3FDVzNJRGthTFphYWdQampLdw?oc=5",
+          "published": "2026-10-28T15:01:33+00:00",
+          "source": "cotidianul.md"
+        },
+        {
+          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUl9nU3NGM0RCUkpDakh6bW1YMVBjWTJhR3ZpcXhudlV2MkdZdlBtNFE4eHRXdm43RDNjcnlLRnM5eHdhVF9XcDkwOUJOQk9oclE2aFRZekVZVkVzOENFUHJwMkdZak1wNWY3MlNjOThtR2ZDd01nX0tiSDNjWjlVZ0xRblFYUnprWHotX3hFajJzMTh0Sl90SGs2ZThIYnlaNnc?oc=5",
+          "published": "2026-10-28T15:41:18+00:00",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Boston Scientific Sinks 12% as Cyberattack Forces Guidance Cut: “A Challenging Year” - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnJCSTlETlZHRENicWVIazJJWVd2QmFDeld0TDNQY2NvSkRfa3hsV0NvZ3NhTmtOQ1M5RFgzZTRwcnNVeEQxMEtRRVFnSUF3aHBCZk5lbklHcExyWll5NDE4NUgzOTVCWThLSjhUR0NMT0V2eExISmdoQ204TV9KeEhSTW91ZFBOR1gzQ2g5QldaMFFKdld5Q2FWMlJtbjZkMGxNUkVpcFN6SHc?oc=5",
+          "published": "2026-10-28T18:09:21+00:00",
+          "source": "TIKR.com"
+        },
+        {
+          "title": "Dutch telecoms firm Odido, hit by February cyberattack, names new CEO - www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmNjaGZvUDlqejktVE94RWZzU3NUTUdzX2c5UmpUWEowSDJYeDhtMDVtdkZnZGJjdEc0cDZMU2RtMVhpQU45ZjkwTVdSS3ZfeUdnREUyc3lQQUxHSnl2WDBNeHEwRzBaMjFCeVZVOVBLdUxiam95TElOYWd4Y0tYeUlycXVZeVdVQjVKbWRnNVZETm1xcFNjQkZPdzFzUDhxRzVDcmhaZWVORTFYSjZwN3dMSjNVdzhKT1haeQ?oc=5",
+          "published": "2026-10-28T17:55:31+00:00",
+          "source": "www.marketscreener.com"
+        },
+        {
+          "title": "Exploit3rs Brings Real-World Cyberattack Simulations to Dubai Municipality’s Cybersecurity Week - Biz Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGFzWUdhcE93enptUm4tS2U2N1VYY0RVeDd0ZVVUREZLV2xWcjYzUER4TElzYkJramxBTVpOczRyX0dfWnp0WmEwM0dreHBXRjYzV1BNdGdJSEVvdHRCeDB3dzQ2VXMxZUUyTnFFdjBxQUItWFotUmh2Rm82OXJ0eElSWXc5OTI5TDJzS1BuajB0WDdqVl9Kc3VDVFpPYzdzWnlfcUpPX3dFU01nLWtmNFpOanl4SzN3ay16Q0FzZnE2YjBXZjlZUnkxNW4?oc=5",
+          "published": "2026-10-28T17:43:14+00:00",
+          "source": "Biz Today"
+        },
+        {
+          "title": "Boston Scientific Lowers Full-Year Outlook Amid Cyberattack Impact - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPck0yRXA4d1lkSnE4WUpoYWRrWl9GU2xJcXdYcG5oU0hfaXBqTkkxVGhOQUFsQ29UX05EQklZRGJaZDFQWnpCdGtmNVFRS2h5RkpINzNhRVV2clB5YUpsWE5BdE9LejF1bGE3S1RkYVhlWms1bHRtRk93YS03aUJDNW1xbmxMc1N6QUNOTHBra2tISFY2RHNVZ191YkxSTlhkTWJQYi12NklLOVY0WHpIUTRXN19NNFFLWTcw?oc=5",
+          "published": "2026-10-28T14:57:28+00:00",
+          "source": "marketscreener.com"
+        },
+        {
+          "title": "JFL Blames Financial Pressures and Cyberattack for Payment Problems Following $6.36 Million Court Judgment - The Virgin Islands Consortium",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU1RIMlIzWm44QTdnc0RUclV0eEVkWHNEZkxxT0t2SlM2WWhoQTFidEwyUUpSWF9OT2drSEs3aldHVXh2WUJ1eVZaRUhEaHpDT1gxeXkzZGtpT3BNVnVRVkJPOGc5Q29xMXpJOWE4ZXJMYzdrQ1Q1YjBKNkFCX2R4NnlnMkE0cHJ4Uk5wdHhad05zUXhhSHdBc0tSOFhrU3ljTmc4UGdkLVU5VmRheERxM0gxTlU1QzhJZlNGVnR4dzZtdElCR05USUVDRDF0djl5RGtzTmM2cm0zN1Jha0dCZUU2X283X2tHVmMtNA?oc=5",
+          "published": "2026-10-28T18:31:59+00:00",
+          "source": "The Virgin Islands Consortium"
+        },
+        {
+          "title": "After the breach: Uncovering the full scope of the attack - SC Media",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjloYlRmbGN5UHJhWnNJVTQ3NjZlZDRCdW9fRFpWMU9JX0RTUzdvaThqcnRGeTR3ZXc2TWsxUWN3M3hZTU9GNzN1RzZ1cl9zOVFvZjI2MXp4ZGZGY0pfOFc5NThxQmF6ZEdiSDZWMHhFbVJOV25NczdjUGtuMERQTU5MNEkzOWUxV3RVRm43bnY4UmM?oc=5",
+          "published": "2026-10-28T21:33:46+00:00",
+          "source": "SC Media"
+        },
+        {
+          "title": "Ohio Auditor’s Office investigates after it was hit by an overseas cyberattack - cwcolumbus.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUHlNYW03Vnp4SjlRdTR3ZE5wRUpQMzcxTjNKYkFFUzZaeEpIV01WcGhqSG9hQTlBaGJhQ1RuXzRnREg0VTgxbWdLN2V4U01SNktyTmFjQkxOVW93dlJFTTZtbWI5R0dlUXhUWndKcjFOaGdhX2dVdnRfZ2tObUlHYU5TUF80dmlCdFhpOE1tRDJ0S0lPVXc1dHlFczZjOEZFbHZzQlhteUJqZTVMQlNzWU9LRHNFZWU0VlowT0R3UjlKLWQybGlNb1UwU2F1dVUtaTZ3UldyVnVSR0Z6bXJrQ3hpSFRiS1E?oc=5",
+          "published": "2026-10-28T01:54:58+00:00",
+          "source": "cwcolumbus.com"
+        },
+        {
+          "title": "Cybersecurity attack sees information of 847,000 French number plates reportedly for sale - The Connexion",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWFNKekY5c3VPMndBeF9yc2NKd3hrckcwV25RWExXTUN0aXY1b2wxTWhzNldNU1hIY1FHN0NHLWl6dS1HUnN5R2ZMUVFUM3prMDl4SnNjWGszRWxCNFhpZkVvektRRTE4X2RqeldZSkp1STJBLXhYRS05bVhYNF9POFJaM195elNfNGY0S3Y0VldSU3Ntclo0Qm9ETGpXV21sc0gwZUJZTV92VkFWdS1vV1FmclQ4VGxBMGVENlR3OTlSeVlVZDI5dkdYb09NX3Vh?oc=5",
+          "published": "2026-10-28T09:47:45+00:00",
+          "source": "The Connexion"
+        },
+        {
+          "title": "TTK: Cyberattack disruption clouds the outlook despite stabilizing Q3 organic sales and cost savings - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWi1uTm54SW1jWWpyY0lEOThZeWZITEFjMGNaY0dqS3A4aElSVDNUdU1qM193UjdYZURWQUttbi1JcE1ISERKLU80R2NzYkEwWnh0LVZ5RkxMMzJDdEJYUllkVER4aFA5eVZvRUZRUWhZTld5SXk3M3BQT0RzcVNOczdYVk14bEVTYUVwSmctU0pSVzVpU1Q4eF8tY1E5c3hLekJCekxzcmtyUk9VOENsMlp0RWN6ejQ1MUhWd2NOVEtSQzFpSXdOZHcyVkVxQ3BzUE5FWXFDYTlFNWlnemszOExZWGpiV0k5ajBERkNhMl83ZXVGdy05eDd5S0JBbXpUSXp6TFdWVjR4aHVaNVdB?oc=5",
+          "published": "2026-10-28T07:06:22+00:00",
+          "source": "TradingView"
+        },
+        {
+          "title": "Warhorse Studios confirms cyberattack, is investigating breach - GamesHub",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekN5NHpMb0hKVmNDdXZhVmVBM3ozaG9IOWFCV2s4VFRLQUtwd3dxa0plSHRrWWJ4SmRQZUhIYXoxcTJUVXk5VGlyd0ZyNE92cmlWZzNqeFdkVndpUDNYSnBPa2lHbFZsdjdZWWQzZGFNaXFwLVFMZ0p5OG5lZnBiUEpPQWdOR1NSYTA0WjhSclp5NzFBRGVaODhnMlJ4YUh6YldQaXBrcjZJaGpo?oc=5",
+          "published": "2026-10-28T11:10:39+00:00",
+          "source": "GamesHub"
+        },
+        {
+          "title": "(Update) Tokyo Police Investigate Cyberattack on GMO - nippon.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rZFBneGhfbHZLNmZJNmVSamlMU2NRcV9EZnpWTEl6M19GajZoLWZ0ZnJFSWVZVTNPYkIxWm5oTUtHUUEtNjRqTXB3RzdYb0IyazJCTw?oc=5",
+          "published": "2026-10-28T03:50:38+00:00",
+          "source": "nippon.com"
+        },
+        {
+          "title": "Columbia opens claims for $16 million data breach settlement - Quartz",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyWFdNaV9oLUtnWXR3SG5iX0R0MWZxVUxhTEFTQjlVZDRQNUo4V1lGVUNwNWJRMV9XMnVfQmFUazJibHROS1o1b2JCUVpZWjFlVThuZEJ2b3MwWFlIZ25IUWlyOHE4NDRYN3Q3ZlAxSHVWTkE?oc=5",
+          "published": "2026-10-28T17:06:40+00:00",
+          "source": "Quartz"
+        },
+        {
+          "title": "Cyberattack shuts down Belgian tax portal — Channel NewsAsia - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2xhd2xvMGVNR1QtOG9xTjB2cl9aa0NINjFKZWFrbkNETlluUzRINHU0TjhoR1VxckNQaFVYcEhuangxbHNBSTh3S2RESGc3R2dIaVJ6X0lRdEJvWlU0elJUOGxTTTJqN1pYcUppTHFPV2Job3RSTVRJSzUzcVZ2TF9OZkRaQkVWRjFPLS11V2xTQnZ3LWQtRXFVZmc2NUE?oc=5",
+          "published": "2026-10-28T15:12:57+00:00",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Maia Sandu convenes Security Council: AI may have facilitated cyberattack on Moldova - Radio Moldova",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWkRxcGpqNUU1aUdpbGRJdFRuTU9UT0tyVWV1V1htUVdOaEw4d3k2bTJmdXFqRGVnOWdvbUFfWHkzNjh6bW01SnhoT3ZPaGg0TXVoT2h6cDhXenAyWjNDcjNyemVzRXVhYThBMURZS1lPVFhGdTdHQlZOV290eWYtRGJ5THRqQlp4a3NSemlhNjlYTmlHMWZjX3kzXzdKMkFLcnpaejVWSHpwTWZGOHZNeHhuY0RMZw?oc=5",
+          "published": "2026-10-28T20:29:44+00:00",
+          "source": "Radio Moldova"
+        },
+        {
+          "title": "Moldova cyberattack steals data of 750,000 people, 82 services off - Pasquale Pillitteri",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZkZlUklpTkJNRFlWVGJyaFNqUmR4ejNxdTFOSXVVbThtN0VrV29FNFRQTVNNcHhwbTJLclVIY2p4TlQ3N0RRaUx4VTVpZDRNcjNuQkpCS2w4ckZMaFJLdW9wU083MG4wZlBnYmlqa0dodnp6QURldS1uRnE1XzRwNkRDZjBrNFpCLXlrV19zR2NpM1E?oc=5",
+          "published": "2026-10-28T19:02:05+00:00",
+          "source": "Pasquale Pillitteri"
+        },
+        {
+          "title": "Boston Scientific Slides as Weak Earnings and Lower Outlook Add to Cyberattack Fallout - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDY2VklnT0dpRnNMS1AxVnE2SkltdWlabzBRY182R3NNdUxtTVVGcmpkc1EzSVM0aXhMclFxRjlrRXo4RHhTcm1yWkMwM1ZNNTg1Uy1seVYwWVIyRFI2bTcwUzBzX21BT1pxYUpPeTRxU1NTSnhwUEhocXdudnJuem9xT0VldFM4VkFheGhtNFBHeGhEci1NcWtHMjM4YklfNUV5QTdGS0N4NzJ1dnJlNUd5a2VzS0FUd2NV?oc=5",
+          "published": "2026-10-28T16:20:00+00:00",
+          "source": "Quiver Quantitative"
+        },
+        {
+          "title": "TAKKT Q3 2026 slides: cyberattack clouds stabilizing sales trend By Investing.com - Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMzZNYlNkcUtxb19oME9lc1gyZlhoM1JaNHRMLWVTZm5LNzZrclZpUTdCMzZFbW1rUFN4VUJQcXg0UDhTUE9UNS1wVUZDVUU3bGt4MGhQNEFLTTJrRWl1NFZIVE01QUJjZ20tLUthX2pYLWszQW5XVm1zU2FOVG1BU1RvTV9jVHdvN2tBYjM0bU9kaDA2cUEtY3haYzBOdERmZ3h2TWowSS16UTVmNnpVU0doTWJaVTg5QURoRmlnU3RFQQ?oc=5",
+          "published": "2026-10-28T14:08:00+00:00",
+          "source": "Investing.com UK"
+        },
+        {
+          "title": "Japan's GMO Internet outlines cyberattack-response measures - MLex",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVllyR21raHpfRWVac0NlblRTOFZkTzdtdm1KSmxFSVFhR3Z2WXQ5WU9zWUZEQnJwTjZqZ3dVVGFuaVZ4Vk43N1VIeERsamVpNUxtZ2RTbFQzYmtMaXdiZ2I0NjY3blduWk85MkJhODVQM2J3SzJYbXB5S0R0cndUTHE5N3FWazNzazdseWw2SVRtZGNxaEROU2lXQl9uYmpkYmNLZVpDNWRseHpXTHM0ekNZZWkzdDBtOFByeTdydWd4UdIBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
+          "published": "2026-10-28T07:18:45+00:00",
+          "source": "MLex"
+        },
+        {
+          "title": "US campaign finance watchdog faces cyberattack ahead of mid-term elections - Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1ZBN3BTdlhVWjYwdVFQdkdYU1FqYzRTUjc3M3BvNXlGN1ZsME13WnYySC1qY2ZxcDdLaXhrMjl1VXZHdHNHZFNENzhOZVJydXVkckRkQTlsODhMeTd0MkJMeEx0YnkzNFAyUFdKeERiZ05XUEhyYWVGWVFOaHB1U3NHY3k1SFduVU8wcDREWENacTdYWUNRSTFqOEpCOFBlNnN5Nlp5YkJSUWJhUVM1bUo1OHdaVnNZLWJ30gHAAUFVX3lxTE9ZSWNvalpwNXYtWWNyVDJEOHNQNVJBcklyeTNwZElBRnpqNzN2eUdQNWpyOW1pV0RfLU1jNTBCcURIX2E1SnE2X3A2TXNjS21vbHpSWUpjblhXM0o1RkNGTnZQb3UtU1Bqc3R0NGtaekc0aTJfdHRZM1JqQ0h3QWVPNW11eU5JWHVYT0VFdmxNb2QtMFAtZUNkSnJfMzFyTk44aU9PeFBsX3c3SDNFNE8ydDhrREVvRUJwc2V6ZFhLeQ?oc=5",
+          "published": "2026-10-28T03:39:03+00:00",
+          "source": "Firstpost"
+        },
+        {
+          "title": "New Age Cyber Threats Are Here—the US Must Be Prepared - The National Interest",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZWVRQ3VfMjlybDUyYW5jRWVDRjhPWGFLSmxIMXJDVXphS3czalVKV1M1djA4aTgwWl8xcVhqQ081bVFLYVhkTW1SN2h5YlJDVUpLZmgzcjFBWFR0S2tYc2Zwa1hub0hGTVpRVlpIY2tlRHJwUENERUFEaDV3XzRUbW5MMHhrQQ?oc=5",
+          "published": "2026-10-28T20:50:54+00:00",
+          "source": "The National Interest"
+        },
+        {
+          "title": "123 Reg victim of ‘AI cyberattack’, Amazon unveils latest Echo Show 16 - Tech Digest",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEFtUzVVRUtYWXVEQXVqZXlDVHdSMFZySFNXVWZzUlQ1LWRkZnNlRi1UWXFHRzJQUVhNLURSR3RxdFpncFB3T0tjR3ZyNU1JeHFCNjEtRUhKXzBQa2FXM0xWX0FlTUVpTmxwTkVrOWd2c002N1FMSlhmd0VBeWVzc0twQzlaek9LbGswbWgwNDFvcVNlQTB3NFEzQXB0akNBZmxRUW9ZbG1oQQ?oc=5",
+          "published": "2026-10-28T15:56:27+00:00",
+          "source": "Tech Digest"
+        },
+        {
+          "title": "Cyberattack threat to Karnataka’s Maralu Mitra portal; CEN police register case - The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUUFpYTItNVhpdm1HRE5YTDJZNFF5dmFfb2ZiNm5PUnROX3ZVbGJZenpUUXVuRWpVOUR2ZmRJUmJfbjZQMDNPQTNUbzV0VjkxSXFmU2dRR04yN3IwTll1LXp5Rk1WZnlIQUg4Mm1ncVZtZ3NtMklwa0p0NFZTZ29FZXF6MjJ6cHNHOVRwQlJ1OGJGZHhjSlVORUY1aHRVaDZ5amhnTHpZRlpKV2Vyc3VZVk4wRW16NElYWXV5ck9DTXZsYkN5M0hLX0dhMndseVVxcjlJNV9CV2RDYlJ3OERR0gHmAUFVX3lxTE1UUkM3aEo5N0tvcXVvdWdVblI0b09NdURkSUMwMEJIbXpFNUlNTTVxTjhSMm5DcWU3VmlMcTBmOWZCY0dLelVOMzZiMjRHNldQUHZFLWVSVnJDRDU0OEVGTzBndE43WWFMWkhOdUFodkctODBJQ1BFajh1MTN5VnhlX1U0b05mOElfbTRZdjFNMHhSbWxVWE1BMGVOQ2hNVC00dXljeWtTSTBRdHZIREFOQnFzbXpfRXJvcFN2dFExMm9lUFVHb2ltUzMzTkdrNFhHejJLaGo0UjJ5TGs3SXRaaUY1M0Fn?oc=5",
+          "published": "2026-10-28T13:47:00+00:00",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Japan's GMO Internet outlines cyberattack-response measures - MLex",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sd9IBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
+          "published": "2026-10-28T07:18:00+00:00",
+          "source": "MLex"
+        },
+        {
+          "title": "Kingdom Come developer Warhorse confirms cyberattack and data breach - Expats.cz",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDhUVGl4UC1tMkVGSWtaQWRWeHgxUFRtVzlmRlh5ZTdaVzVRYnVjbnoxeE9GcTFyOFdPOUF1ck5yVzRQM1R3ZXo2MHBETWVUV19fVEZER3dtNVJwTTV5ekJrNU9iYnpMVXlFVDhSbmh1LWRFOF9ybHVUWjk4TVo0Y3V5WF9jd0tqNlRIQ2M0NmNpdTlfZVVMRE44MFZzdlRmcUJvNzkxZFhsM3liMUE?oc=5",
+          "published": "2026-10-28T05:26:00+00:00",
+          "source": "Expats.cz"
+        },
+        {
+          "title": "Daishin Securities reports exposure of data of 38,490 clients after cyberattack — TechCrunch - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWZIVzNlR1o5YUE1a2VYNF85ZnNqVVVEeS1MYXlzSlQ4UlFJYkRVN0hRUU9zSkRhWnZxdWJ4Y1FPSVZzLXExLTlmZHVfbGg5SkNaVnVRYUM0TFdObnB4MDB5bDU1WFBIcXpKblYweTVRQTdNY0gwWVVzanJpeE9McWN4YnRDVTVYbWcybkRfWENhN1RsTG9GYl93SU1JREV2OUZ0QllpQlRGeE1CX3FmaDd3Uzd6aEpOT3F3LWVhQVB3R085ZFptZw?oc=5",
+          "published": "2026-10-28T16:26:41+00:00",
+          "source": "UA.NEWS"
+        },
+        {
+          "title": "Belgium tax portal shut down after cyberattack By Investing.com - Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVF6MUstZU5Cdk16ZVVoSnhkVGV5WHYxNEs0NTlFeHBhR0Y4WkVmZDJIeEEwSW5mcVc5elo0dnZyRDB0TER2bnpkWkRyTVFrNnFuVzFNV0YzelAyMzNXUFFYN0VEN0paRlhEMlNlUlJ6c0IyUTRpSW43V082NDJlSjZxd0d3Tzd1RmNnYzVNaU1yX2lfSGplNzk2dHBjV2F0Qm5CanRwSGF1Zkk?oc=5",
+          "published": "2026-10-28T15:02:56+00:00",
+          "source": "Investing.com Australia"
+        },
+        {
+          "title": "Lawsuit accuses Southern Co. of failing to protect private data in 400,000-account breach - The Cool Down",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMERHeEtwQU02V24wREpkTDZlcmtaZ0J1bzFtWTlhSVh0VnVOQ1JWUEVjX2RKelRFN0hFTm1hRHhLWGFuc0JsZUlNLUhPbW5DY2xkOWUzaEpVUHFpZDV4em5KanpyYXhZN0VWWVBUT21uNU95QW1qWG9JX0doQ3NjcUZzSVRQOVBBS29heWpXS1RBa1d1LXZFUGhpQQ?oc=5",
+          "published": "2026-10-28T16:19:00+00:00",
+          "source": "The Cool Down"
+        },
+        {
+          "title": "Warhorse Studios confirms cyberattack, is investigating breach - Gamereactor UK",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DZ3BZT0F2WjBxa1ZiS0x0SE5tWUNZc0Z2YWRsRTlsSjZKTkNDQnlNQjRoRUF0Qkczd1gwRThINmNoY3hBTTlGRkJGYzVMYjV1ZU1DeFRmZ0tSRmtwYVVCdkN5WEwtaUk?oc=5",
+          "published": "2026-10-28T05:22:07+00:00",
+          "source": "Gamereactor UK"
+        },
+        {
+          "title": "French supermarket cyberattacks highlight physical risks of hacking, China's state security authority warns - Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WLUNZbFZveUR3bkNiRklwWms3VkRIT0MwRnJHd1F0Vm5wYVc0R2ZlTmx4cW1YaUhpR3BvNXpsR1lDLWx3djdMdWlGa3RkWjlEQ1NQcUk2NHJzMHhyWk1KQU9B?oc=5",
+          "published": "2026-10-28T05:20:00+00:00",
+          "source": "Global Times"
+        },
+        {
+          "title": "Microsoft: 5 Digital Habits You Need to Change to Combat Increasingly Sophisticated Cyber Threats in the AI Era - Microsoft Source",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaVByTHZVcDdLMExVRDcwcHF1MGZkZXhkMmZYUW5LdEhzOG5ON2l0b0tRSklSMUR3SkMwRnBfeXlteDZqTkJudE1GNGpObGljTXlKa2Z6LUMwWE1PNU9yOFRFWmpBQVZUaTYwMTdlUnM1QVkwclRpbzhEaWhJX1FfSGJHbmJRZ2N4QjhWaXlUY1ZQRlpPd2JIc2NPWHZuNVlKYmtzTWVHS3ZHTC1DVjd6NG1lZmRmUTdoZXJCQWtFbmVHUDdMRjRNbEVURGdpU2NxLU5kaGl0aEI5NWZGdk1mRzNwNGFCVU52bFhMOE1ZT0xncVk?oc=5",
+          "published": "2026-10-28T09:15:02+00:00",
+          "source": "Microsoft Source"
+        },
+        {
+          "title": "ESET: Belarus-Linked Hacker Group Attacks Ukrainian Company for the First Time - REFORM.news",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmZCXzVzcFJseWFyOG53MlFqYlRaS0lOVHhjX254ZWpyTVAwVk9OV1lrVzh3eHk4M2VBMDd0NjB5Qk03ODVBbEZaRU5BcFlqakkxaWFMNDVpWURTeVJHN1N0VlBGamswRmZBNjl1bTVUdUxJdkVKZkUwM29JdEhCZHluaGNrM1BNQy1MajJER3Zaam5sU2Z5bENVRkU2MWJ4elhSNEVHMjDSAagBQVVfeXFMTkZmQl81c3BSbHlhcjhudzJRamJUWktJTlR4Y19ueGVqck1QMFZPTldZa1c4d3h5ODNlQTA3dDYweUJNNzg1QWxGWkVOQXBZampJMWlhTDQ1aVlEU3lSRzdTdFZQRmprMEZmQTY5dW01VHVMSXZFSmZFMDNvSXRIQmR5bmhjazNQTUMtTGoyREd2WmpubFNmeWxDVUZFNjFieHpYUjRFRzIw?oc=5",
+          "published": "2026-10-28T09:40:28+00:00",
+          "source": "REFORM.news"
+        },
+        {
+          "title": "Warhorse Studios Hit by Cyberattack, CEO Addresses Breach - games.gg",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uNk1mTC1zcWhZNWZQNlpuRGZ5Z2FUUVJvTWtMazg4VXNOaHhVbHBqSWRZQ3hvSzB1TzduSmQ1ZHVGSDFlR0cxZks5Y2J6VUhVckhkTlR0UjVEeURzTVBxS3pBem45cXBZUXd0U1pEY0ZIdw?oc=5",
+          "published": "2026-10-28T10:04:34+00:00",
+          "source": "games.gg"
+        },
+        {
+          "title": "JAL and JTA: Some Reservation Information Accessed in Amadeus System Cyberattack - TRAICY Global",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CVFdUNVI5U3dGMWVjUkdiOExORmNVWEctQlVQa3dpY1JKUjlZNkdaVjBiNktKa1Fhb3RhTGRGYmlXT19UQTJ3ZFNCTW96d1pYVUJsdw?oc=5",
+          "published": "2026-10-28T08:32:43+00:00",
+          "source": "TRAICY Global"
+        },
+        {
+          "title": "EXCLUSIVE \"We can't change our IDNP.\" A lawyer's warning after the cyberattack that exposed the data of 750.000 people: What citizens must urgently do - cotidianul.md",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObS12aXowLVktTUpVT25CV1RyRmloOFNuXzNpRFpXblhaMWxqX3lvZEJ2UWd1enh1WTh4em1MNDNQTUhQcEhReFV3aE51ZGRNblZ6bml2RFdxUkJJMGN6S0xrQXZlR0V4N0NfZ3VuWUt5cDlvZ1Y0aWU5VWlRUDB1bUdqdm9jaGxOS1NyWmRDaUFRZHFvQU00NHBYc1RpSEIzd1RVUEJHY18tTnA4V3RmdTJKNi14TTRlWlNWVEQ3dko3aW80bm5TSVEwOTBMOERuTmh5QzhYZGpyY09uTTVYa1V5LUotOEEtS3V5MEluYXdtTzZoaVd3N0V5eWx5NlBQTVE5XzU4MElic0IxYzN3LUQ3VWhUZw?oc=5",
+          "published": "2026-10-28T12:05:57+00:00",
+          "source": "cotidianul.md"
+        },
+        {
+          "title": "Tofan assures that bank card data was not compromised in the cyberattack. It is not stored on the Government's servers. - cotidianul.md",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjFkbVdLRHlGb3BmcFRYNDNzQ1BDRUZiRGRuRGlLRUdKeTdaQTlkenpJcGZHaWk2RDh2eFM4LWdKUF8zQkdPdXV6MDk0WGs5NThjUGNvd0ZTVThSVWJoTi1acDlwREdPYXZMZGRjdVJfVzR6dmszaW1ld3JIVFA0bEJ4YWtTNzltdFZnREJaMlRNRGVSVFlpc18wVmxmR215d1MtTnI1bEMyajJ0ZGRNMEh2aDNOdkwwVl90RXNBbjBjd1FDc1dIYjJuU2NlRUZPT3k1OUtibFpGWFo1d2xGREVCUGNsdw?oc=5",
+          "published": "2026-10-28T08:26:01+00:00",
+          "source": "cotidianul.md"
+        },
+        {
+          "title": "\"750.000 people, but who notified them that their data was stolen?\" Alexandru Tănase demands explanations after the cyberattack and invokes AGE's legal obligation to inform affected individuals - cotidianul.md",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNNDlzcXlFOEkwMVNpZUw2N0dpRE5jakhWZnpwLXh2ZjFyMWJraGtybFota1FYVU0xZE1YV19vTDJSWks4OUhLVHkxXzAtdmU1SkwySVl4cmpsRjhWS2lkZjd1Q1hTUl9jRXV2bnFhQjlvT1pEclJTZzlRZUtKbC1jN2NiN0dzOWRING8zMEZyT0V4elFnTUNCYVdPS0F3WmsyeFp6YndsTnVzME11X0NlZjIyeHdXZW1sUVROMVRIV1o0WTVodC1lY1Foa0lfaDVTZnRxTGxXY2VJVUtHcmdQaDExeTdieFNRM1pxMjEtUEJZNGFscnlfbkF0V1hXQnN5SURHWTlTcFEyVW9iWXpsanBHVlRUZWNTREVtMkQ4MXE0dXZ5ZkdsSXhXYWZTMlg1QUxQaDhtYw?oc=5",
+          "published": "2026-10-28T09:26:56+00:00",
+          "source": "cotidianul.md"
+        },
+        {
+          "title": "Federal Election Commission Targeted in Cyberattack One Week Before Midterms - KSLM Radio",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEJwNTRnMVVtUGJKdUlYblRMaGlsNWFyYk9tRWZoYjBHWnZ2dmxTM3lnMHRmc3hsRnM5SUh0Y2xpcVc4YTNTVTVhNTk4RHduVUZqWjBFQnptMlZybk5xNlFGamplMHotWXFtV0twdVZ5alVpT2pDV25HWjRPZXFScWN6eVUyRWRIOXNZcFpzTXBuTEhZWHp1OExVbU9YSURLYnVZS2t5cmNzS3V4bzlIZlRB?oc=5",
+          "published": "2026-10-28T02:52:36+00:00",
+          "source": "KSLM Radio"
+        }
+      ],
+      "count": 100,
+      "count_is_sample": true
     },
     "weather": {
-      "status": "pending",
+      "status": "ok",
       "error": null,
-      "articles": [],
-      "count": 0,
+      "articles": [
+        {
+          "title": "Dangerous surf, rough conditions persist on Central Florida's coast - WESH",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMGFpd3lVdDJBOXhGX00wcXhPb0NNY1liTEZOUmlRUGJEWFRHMks4OHUyTElkSVJscmdzYjlVT2kwVDc2U21vUy1EUmxUMVNKQ184NXZONUd4ZGgxSFhrdkUyZm85eG5SRGh5SmRrWEZTVVFZZVZHWGJBaDNNdVY2Z1pLQVBzV0hhb1Z2c3E2SF9FYnkyQmc?oc=5",
+          "published": "2026-10-28T17:29:00+00:00",
+          "source": "WESH"
+        },
+        {
+          "title": "Severe weather warning escalates to Level 4 in South Africa - African Insider",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGZlUEl1MURzcDBmc044NWNabXVBV0g5b19SdDFFYThOclFITDBnYXMwQm8wQXUyUk5yaGlYV2VhV2lQYl8yb2dwT1hPaHNCeXg1OXNmSzJrOXRQaXQ1ZWlQemRtbk9DdWNlTW5ONU5LVm1kS2JST2FVMXhoU0VkMWlNVzBQZmNMR1E0RFczSG5rS3l4Smt2MkU2MWc?oc=5",
+          "published": "2026-10-28T20:31:30+00:00",
+          "source": "African Insider"
+        },
+        {
+          "title": "King Charles forced to take precautionary measures back home amid Caribbean tour - HELLO!",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSl81RnBGX0dfajlVbDdxekl2ZHZBbXVRMi1HTGZKelh1dzR3bEMySFJDMmprUklSdWlNaEVXSnBWTzNrNHZadkFVb01jUU9RTFg4Um1XT0oyTVZOUmtpakRMYlVTb0JNSWU3OUlJRlAxa0xKaVlSOU9VS1VCWjRPQTQ0WEVMRjBE?oc=5",
+          "published": "2026-10-28T11:10:24+00:00",
+          "source": "HELLO!"
+        },
+        {
+          "title": "Nepal urges halt to Himalayan trekking amid heavy rain, snowfall warning - ET TravelWorld",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWRQbjZUUUVrR3EyMWJ6NTRYaUZ3Z25JU1cxaXpfVkJfdkUxLVFxR042ejZyUGxUcDJxLW9fbE9YMXlsQWQyRHBpN1BRSEs0MnVOS1lJcFk3RTUxNDAtMHJxOTN2VW1sLXpsX1Q3TnNGQ2pEOXNQR2hXTTBPVC1hcnczbkxXWmJlTEVJMVdENFlhTjN3VWZObThydjlMSWI4T2ZmbVVEWGQ3THRyZDZ4QUoyMDVuQm9mTHliR0JURFY5YXdLeDZINE5pOERGbXVFb2dQVjFJRVNpZ2UzTnZ6Yi1NbllYU1E?oc=5",
+          "published": "2026-10-28T11:30:00+00:00",
+          "source": "ET TravelWorld"
+        }
+      ],
+      "count": 4,
       "count_is_sample": false
     }
   }
