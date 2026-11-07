@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:53:31.297500+00:00",
+  "updated_at": "2026-11-07T22:24:52.861713+00:00",
   "source": "Google News RSS search",
   "window_hours": 24,
   "categories": {
@@ -7,6 +7,17 @@
       "status": "ok",
       "error": null,
       "articles": [
+        {
+          "title": "Florida Learjet crash: Grieving father of Learjet 60 co-pilot Nathalia Gadelha Filgueiras defends his daughter's reputation - ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcERQMEtzSHB1cVpHc09NYk15T3VPeTltaW93bmRvd09zYUREaVlxazNtclIwYXczekFGUkJsLUpsaFFpUWs1dHNhRzlQTzd3NXJ1aFBpQmhOQ3VOQkZRWlZEZl9DcnRGWU8wS0FrNDBzV1paYzZmZ08zc0txZGdjY2dlcGdsVVYwTGNQcmZxY0RtTzNkWHRTcTJGQnl3Z185MmZLczAyWm1kUEowQWRPNlhIVU5nT0ZsTC15bTdKQXFUZ1JtNXIzU19PbDFyaWQ0TEZlMlFkcUnSAdgBQVVfeXFMTXBEUDBLc0hwdXFaR3NPTWJNeU91T3k5bWlvd25kb3dPc2FERGlZcWszbXJSMGF3M3pBRlJCbC1KbGhRaVFrNXRzYUc5UE83dzVydWhQaUJoTkN1TkJGUVpWRGZfQ3J0RllPMEtBazQwc1daWmM2ZmdPM3NLcWRnY2NnZXBnbFVWMExjUHJmcWNEbU8zZFh0U3EyRkJ5d2dfOTJmS3MwMlptZFBKMEFkTzZYSFVOZ09GbEwteW03SkFxVGdSbTVyM1NfT2wxcmlkNExGZTJRZHFJ?oc=5",
+          "published": "2026-11-07T12:01:30+00:00",
+          "source": "ABC7 New York",
+          "related_articles": 2,
+          "sources": [
+            "ABC7 New York",
+            "hngnews.com"
+          ]
+        },
         {
           "title": "Viral Florida plane crash video claims second cousin of Politico’s Daniel Lippman - Washington Times",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXZWeG9wc0prZHBJeFpvbkhFbkhLMTVMNDlkZlA0ZFdMQl9ReHotcGpMLVh5NWNuYVhjSXN4VUJiTmZwQVJTdHVvLXNMcnZEZGZUZ2UyUDQ0NGgtZXhsdUh3aGoybXNsRUlkWk5tanJjMUlQckVVOFlPWkNhbmpDaFg4Z0VrVHA4dGlMQVZmeC1iQUdnVmdkSWlydG4yV1ZxZHJhNmdhQUVIaGtmdFVwbXpjM0JGSkhsZWc?oc=5",
@@ -28,6 +39,26 @@
           ]
         },
         {
+          "title": "New Smyrna Beach plane crash pilot didn't radio for help, new info shows - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN21vSTlHX2hETjN6UXFrVjlDS0Y2SmxRc3FnMVZaTjRyZ1ZpMlMxS004TUhUWGdGUzRxY3ZYSnJrazdtM19zYmlIWVJrZEtEdXJYdXdMbVdkZHJxeGZSc29LZnZXbklVcjJ5RUUtcUowLXBISmZPVEozRGtmZXEwc0MwRVBxeDZlMWlTV3FfN0FnZjVkUEdmLW93?oc=5",
+          "published": "2026-11-07T19:11:09+00:00",
+          "source": "Yahoo",
+          "related_articles": 1,
+          "sources": [
+            "Yahoo"
+          ]
+        },
+        {
+          "title": "Dad of Copilot in Deadly Plane Crash ‘Wanted to Be By Her Side’ - Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzllNUFvcERxWEROaF9SS2hKY2xhT1J3aVhlcVJFQ09YOTA0aHU1VjRNaWJiSFFlMHlsNVBlcGpDN0M1U011TUdkc0szQ1Jib3NBQWV0UjBQVExJamVMczlYM1lLVDhBWmFxUGFPUWI1Q01vYjRfeWNZeFFzckRpVEJWTTFrQ2FPUWpBcWh2eC1qakUxdzl5bGpsYw?oc=5",
+          "published": "2026-11-07T16:18:00+00:00",
+          "source": "Newsweek",
+          "related_articles": 1,
+          "sources": [
+            "Newsweek"
+          ]
+        },
+        {
           "title": "Audio: 911 calls reveal confusion, chaos after Florida jet crash - Austin American-Statesman",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVU2U1M0cnpPN09sVjZQdzFNTVl5M1lQODVDdUh1bFFKdzQwZU9aUzRZeXQ1T2tfTnh6X0pHM3l1RDN2Y2JNRWpkOXE3UUcwSGZWRkhjYmhubjlReHhHTE5oVjhuTXJOZmNGYnN5LUMxb0hqdEt0OFU3Mkp4cXdIRTVydWJiZHJudVo1b1RpcFlIOWpf?oc=5",
           "published": "2026-11-07T16:30:43+00:00",
@@ -45,26 +76,6 @@
           "related_articles": 1,
           "sources": [
             "Al Jazeera"
-          ]
-        },
-        {
-          "title": "Lenny Kravitz’s Team Shuts Down Viral Palm Beach Plane Crash Death Hoax - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3NUQU1LN1hjSjdpV1BaOVFtNUhJaVdBNVlDMm85T3prdFZ5MTJSbDdHN3ZKNEhlNC1ucTVSX3lrOGtrTG0wQ3o0OEJ4cTdhSnQtSDJGbWxqUlNsNGdYT0xTbUJtTlJFMHRraDZwV1E2QzI3TlhhaVZyOUwtc3lBWkhDWkNOaXc1UGNMdFNFcklRZEVhNk5xdVZmakZORXVIN2xvMTJuaTc3aDM0Z1RhYmZoU3FHT2xE?oc=5",
-          "published": "2026-11-07T17:43:30+00:00",
-          "source": "Yahoo",
-          "related_articles": 1,
-          "sources": [
-            "Yahoo"
-          ]
-        },
-        {
-          "title": "Dad of Copilot in Deadly Plane Crash ‘Wanted to Be By Her Side’ - Newsweek",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzllNUFvcERxWEROaF9SS2hKY2xhT1J3aVhlcVJFQ09YOTA0aHU1VjRNaWJiSFFlMHlsNVBlcGpDN0M1U011TUdkc0szQ1Jib3NBQWV0UjBQVExJamVMczlYM1lLVDhBWmFxUGFPUWI1Q01vYjRfeWNZeFFzckRpVEJWTTFrQ2FPUWpBcWh2eC1qakUxdzl5bGpsYw?oc=5",
-          "published": "2026-11-07T16:18:00+00:00",
-          "source": "Newsweek",
-          "related_articles": 1,
-          "sources": [
-            "Newsweek"
           ]
         },
         {
@@ -89,16 +100,6 @@
           ]
         },
         {
-          "title": "'It was, like, sputtering': Witnesses describe moments before DeSoto County plane crash - Gulf Coast News and Weather",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQME9qWTJiakNONTNRXzQ2VWhZUG04enpBOUM3dmVZU3VzRWhyajZyckN1Sm9tSm9lb295QktybnU5eWd3bk1uRG5KZEpjR05oLVlmZHRveTVCak0xazNwUFpMSDcwNVVVcnczNklCc3dGTWFQUGZBYUhJcjJqNEJKX1hyTnFMemJ1Um00enFFRk1yOFRUOE1fQk96eWxxUFE?oc=5",
-          "published": "2026-11-07T01:03:00+00:00",
-          "source": "Gulf Coast News and Weather",
-          "related_articles": 1,
-          "sources": [
-            "Gulf Coast News and Weather"
-          ]
-        },
-        {
           "title": "Woman killed in plane crash won her election in Kentucky just hours later - WBAL News Radio",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGV2RThPNllUTnJvMEZpVklmcGZIYnY0QWFrWDN3RU1IbEYxZU5mR2V6cmJrZzlHcVZzRHNwWW9mTzB3RVFmb0h2V1VYUzhNdFloS0F0S25pZnhBM0s5LTkzSXh4OEE1cUVjRm5kRWNXMUtIajJMTkNnVFcwcnpDZC1mTWJpelVpOGp2cTROMXktZXNpdW9ES0p3?oc=5",
           "published": "2026-11-07T08:24:23+00:00",
@@ -116,6 +117,16 @@
           "related_articles": 1,
           "sources": [
             "herald-dispatch.com"
+          ]
+        },
+        {
+          "title": "'It was, like, sputtering': Witnesses describe moments before DeSoto County plane crash - Gulf Coast News and Weather",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQME9qWTJiakNONTNRXzQ2VWhZUG04enpBOUM3dmVZU3VzRWhyajZyckN1Sm9tSm9lb295QktybnU5eWd3bk1uRG5KZEpjR05oLVlmZHRveTVCak0xazNwUFpMSDcwNVVVcnczNklCc3dGTWFQUGZBYUhJcjJqNEJKX1hyTnFMemJ1Um00enFFRk1yOFRUOE1fQk96eWxxUFE?oc=5",
+          "published": "2026-11-07T01:03:00+00:00",
+          "source": "Gulf Coast News and Weather",
+          "related_articles": 1,
+          "sources": [
+            "Gulf Coast News and Weather"
           ]
         },
         {
@@ -155,15 +166,44 @@
           ]
         },
         {
-          "title": "NTSB investigates small plane crash in woods near Waycross-Ware County airport - WJCL",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUtlZDRJTTA4VEJneklVU0JIX01hNkpWR0tkdFRaNTQ2Sk5KbmNOVVh5S2h2dExKQ3J1SkJkQWVqclNCdEo1bXR4blhyZVd6TFV0dGt2dDJXV2dXeHlmajZkM3JSUVhfMl96RFE3ODZxRVN1Q3ZSRnJtSWhnUHZPU0F0X2E?oc=5",
-          "published": "2026-11-06T22:52:00+00:00",
-          "source": "WJCL",
-          "related_articles": 4,
+          "title": "Father of co-pilot talks daughter's legacy after fatal Florida plane crash - WKYC",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1lUQW85bWpsRXEwVHFNSU1taDVidnV6QnhoYnhJYlNDdnNGYzlrcV90b1JEb3pHUWRLNHlSdlVnY1JNcE9vQnRKQm1NaDEwRnZpYWQ5X0g4cFdmWDhVS3FjZUxmTDlQLWMzVGNhbjM0WUg4RHd1aDVuNGxnaVZ1VXU5cHFyWVM0dHMtbTlfdi1URzhWY0dPUk84LWc2RFJETml0SW5FSVNiUmNaNjR0cnI1NnNPNlF2N21CQ29KMjl6bXR1ejVJMEdBQjNkeE5HX3g2SXBSWG9nTXlOd1lLSTdmczhsYVNCUFE?oc=5",
+          "published": "2026-11-07T02:43:00+00:00",
+          "source": "WKYC",
+          "related_articles": 2,
           "sources": [
-            "WJCL",
-            "firstcoastnews.com",
-            "cedarnews.net"
+            "WKYC",
+            "rocketcitynow.com"
+          ]
+        },
+        {
+          "title": "Audio reveals dire cockpit moments before fatal plane crash near Palm Beach - Hanford Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTVNpZjhiQkpUYjRLbFE2YU11dmZsblY0elFlekVISndySmVCVnlsUkpaSThsVHpSQjhXQmtrbTRnYzhxR3p3Y0FSa0NqYVpOd1RGWGRCZ0tOT3pBWGoxTFdZZ3dXcGEwOHFFeHRRWm5hRWF1S0VVWGFyX2c5bEE4dG00MVpaWDB0ekd2VHJDR2RVcGphS1d4YTA5aVhwZGZhdjBnczcxWVZBeXVIamdUdWppazdyYlFONW1fSTRMcFNocVZSQ1BHVnNoTVc4Nk5fUWNQUXM2b3lkYUwxa0lBUm1IUmR0cENGZnRVUFNqWDBlbTdtT1dZeHhlRdIBgAJBVV95cUxOSVg2NUdubGpZYm9qQk5UR09pMEk4cXY4c1ZvMUNNRGpvQ0YyVDZsa0N6NEdCRXBhbjZOcFlyYkFIQlpxbDYyMzN5NHRidG5menZwVW9MQ05DcEQwYU5ZNzNaaFFrR2RaeV82MGZBMHZwQ2Q2akpzLXh0TWlBSm9rSDBxb1lYNFJYZ2lsRFgxb284eV9aMkQyVHkyTDhiMXpDazdVNFJEQXhGQWlVdDVGYkNEMVhVTEpmNnhyRzdDVG04Sm5pbjlMb283RE1xN2Q0V1FHQzlVc0ktUWJiZE4wTV9pZWJOMUJyNFJDVC1GcEhuSHVZQkNiZHk5ZkhPcFVW?oc=5",
+          "published": "2026-11-07T00:50:00+00:00",
+          "source": "Hanford Sentinel",
+          "related_articles": 1,
+          "sources": [
+            "Hanford Sentinel"
+          ]
+        },
+        {
+          "title": "Lenny Kravitz’s Team Shuts Down Viral Palm Beach Plane Crash Death Hoax - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3NUQU1LN1hjSjdpV1BaOVFtNUhJaVdBNVlDMm85T3prdFZ5MTJSbDdHN3ZKNEhlNC1ucTVSX3lrOGtrTG0wQ3o0OEJ4cTdhSnQtSDJGbWxqUlNsNGdYT0xTbUJtTlJFMHRraDZwV1E2QzI3TlhhaVZyOUwtc3lBWkhDWkNOaXc1UGNMdFNFcklRZEVhNk5xdVZmakZORXVIN2xvMTJuaTc3aDM0Z1RhYmZoU3FHT2xE?oc=5",
+          "published": "2026-11-07T17:43:30+00:00",
+          "source": "Yahoo",
+          "related_articles": 1,
+          "sources": [
+            "Yahoo"
+          ]
+        },
+        {
+          "title": "All nine on board Learjet killed in Florida plane crash near Trump's resort home - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVFUbmhQc1NqNmNydjNnTlBLc01PZm1vaC0xSmF1V2pNeUltTV9Jbkp4WFJKZW1xREpuXzh6bk9mWU5tQUxTN1dhYnppR19rZjBLTFlkUWhIY0hRRXhZWk9Sd2tLaGlDcElUc0twSl8zLUVQYi0tMUlyZ1RtRHFsY1lzVlR4MXA3Z1RRS0luWmo1MnJhYWs5UTRBd19QZw?oc=5",
+          "published": "2026-11-07T11:17:08+00:00",
+          "source": "Yahoo",
+          "related_articles": 1,
+          "sources": [
+            "Yahoo"
           ]
         },
         {
@@ -177,24 +217,14 @@
           ]
         },
         {
-          "title": "Father of co-pilot talks daughter's legacy after fatal Florida plane crash - WKYC",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1lUQW85bWpsRXEwVHFNSU1taDVidnV6QnhoYnhJYlNDdnNGYzlrcV90b1JEb3pHUWRLNHlSdlVnY1JNcE9vQnRKQm1NaDEwRnZpYWQ5X0g4cFdmWDhVS3FjZUxmTDlQLWMzVGNhbjM0WUg4RHd1aDVuNGxnaVZ1VXU5cHFyWVM0dHMtbTlfdi1URzhWY0dPUk84LWc2RFJETml0SW5FSVNiUmNaNjR0cnI1NnNPNlF2N21CQ29KMjl6bXR1ejVJMEdBQjNkeE5HX3g2SXBSWG9nTXlOd1lLSTdmczhsYVNCUFE?oc=5",
-          "published": "2026-11-07T02:43:00+00:00",
-          "source": "WKYC",
+          "title": "NTSB investigates small plane crash in woods near Waycross-Ware County airport - WJCL",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUtlZDRJTTA4VEJneklVU0JIX01hNkpWR0tkdFRaNTQ2Sk5KbmNOVVh5S2h2dExKQ3J1SkJkQWVqclNCdEo1bXR4blhyZVd6TFV0dGt2dDJXV2dXeHlmajZkM3JSUVhfMl96RFE3ODZxRVN1Q3ZSRnJtSWhnUHZPU0F0X2E?oc=5",
+          "published": "2026-11-06T22:52:00+00:00",
+          "source": "WJCL",
           "related_articles": 2,
           "sources": [
-            "WKYC",
-            "WFAA"
-          ]
-        },
-        {
-          "title": "All nine on board Learjet killed in Florida plane crash near Trump's resort home - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVFUbmhQc1NqNmNydjNnTlBLc01PZm1vaC0xSmF1V2pNeUltTV9Jbkp4WFJKZW1xREpuXzh6bk9mWU5tQUxTN1dhYnppR19rZjBLTFlkUWhIY0hRRXhZWk9Sd2tLaGlDcElUc0twSl8zLUVQYi0tMUlyZ1RtRHFsY1lzVlR4MXA3Z1RRS0luWmo1MnJhYWs5UTRBd19QZw?oc=5",
-          "published": "2026-11-07T11:17:08+00:00",
-          "source": "Yahoo",
-          "related_articles": 1,
-          "sources": [
-            "Yahoo"
+            "WJCL",
+            "firstcoastnews.com"
           ]
         },
         {
@@ -228,13 +258,13 @@
           ]
         },
         {
-          "title": "simpsonville couple die in plane crash Archives - WNKY",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lZk1GcS1GT1BFOFpVYWpoZEprWEpiUUY5a3NpckJ3WDkyQjJ2c0xsZ0d4YmNsWURjaTkyMFd1WGFxOG1ueTlLMlpHR0wzVUp1Mm05cGN5aUJUcmpveUxoNlFQMjlNZGM1RDkyVHBJeW5Bdw?oc=5",
-          "published": "2026-11-07T03:57:19+00:00",
-          "source": "WNKY",
+          "title": "Two killed in small plane crash in northeastern Germany - سانا",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXalh1VG9oVWRNUFpUNUdWN2JyWU5QTW9yQTgxVDBGam0xY19pekszWWNzMHBrR2tORm1EVmplTG5sOHVZSkVPTjJzdjUza0ZJQ1pr?oc=5",
+          "published": "2026-11-07T08:50:01+00:00",
+          "source": "سانا",
           "related_articles": 1,
           "sources": [
-            "WNKY"
+            "سانا"
           ]
         },
         {
@@ -248,53 +278,13 @@
           ]
         },
         {
-          "title": "Audio reveals dire cockpit moments before fatal plane crash near Palm Beach - Miami Herald",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QejBsYjhkT0hRYUw5cmxDdWxlZ1VPclhiZ2FnOVo1Y2xWNDR1bk4tQUlmR2oyZUpzaEtwbWJhSWpSTmJMbnlZRldCbjBad2pVbV9HTVI2NjI4TVVDeVhteXdqbW11TGROdTRsWlhn0gFuQVVfeXFMTVBqbUNLcVV5Z3M2ZkdUVEN6d0pwRXFYNGYzNWdvR0pwSWU2WURnWWxXMUx3TXo3X0NmTWR5MzcwWVJnLWotZVJIM2I5eUJLekFLelpGOXkxN0FlUUlLV3RLV09GNW1ZZnM0LWdrOHc?oc=5",
-          "published": "2026-11-06T21:31:00+00:00",
-          "source": "Miami Herald",
-          "related_articles": 1,
-          "sources": [
-            "Miami Herald"
-          ]
-        },
-        {
-          "title": "Two killed in small plane crash in northeastern Germany - سانا",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXalh1VG9oVWRNUFpUNUdWN2JyWU5QTW9yQTgxVDBGam0xY19pekszWWNzMHBrR2tORm1EVmplTG5sOHVZSkVPTjJzdjUza0ZJQ1pr?oc=5",
-          "published": "2026-11-07T08:50:01+00:00",
-          "source": "سانا",
-          "related_articles": 1,
-          "sources": [
-            "سانا"
-          ]
-        },
-        {
           "title": "Shelby County school board winner dies in Missouri plane crash, leaving seat’s future uncertain - WDRB",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFp1NVdiRVRQbWg2UWY1RXFMVTlGTGJnU2MtUFRRNnhBSWpncVg2SmpqRkdqRTRFMXNkemRtT0ZCX1ZGM1NUWmpGelUwbzRPY0tOV1FFOW9aWFlhbENreVRkWUptelBIYWNxN3pObjhoN2JibXl2Wk16al85NHkxZUZtQ29BaTZSRE1ERXVZNWlvcnlJSXFVbUNqMTBjeWxjRDhBMmVYcVhoUEtoRzJsbGQ2QkNiRU1Qd1MxOXNFTVhvZS1pSzNvUGlVY21Cdw?oc=5",
           "published": "2026-11-07T00:49:52+00:00",
           "source": "WDRB",
-          "related_articles": 2,
+          "related_articles": 1,
           "sources": [
             "WDRB"
-          ]
-        },
-        {
-          "title": "NTSB investigating a small plane crash near airport in Waycross, Ga. - Action News Jax",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXJMVXhyaHhSSVBPeUNQXzkwb3E0em5RMFJ1T1oxRlhfWnRxODQxMzdvTFk3c2ZpR0ZJU3ozRVoyTVEwMW1RRkhKZVJGZVNrM3RqVVphaXo1X3dsZnpUUHQzYlpxRnZCM2t5cWdNMk5UcHd5d2FQamR1N09tSzJ1cTNQUWV6bldKWGx0d2Uyd0xYdld2LWpPa2dLcFZBcXktTktXanctVVJweVpNcllRa2ZMLV9TQWNsTC16NkVnRnQ0bG8wZzJzUUdB0gHeAUFVX3lxTFBBRTEwQ19mYkNyQlQzNFBMZnJUNFRtMjR3cVlDQW05RHlNOXFOVDctUUR1NVhVa3VBSUJJaTV2WkxmcGhmNWN2S1JFQTlCVXpLREc4a3B0Ty0wT1AyWVJJQmtfYld5dk95d2hwZ1V3VzRPV2syNlNtV2hrcGdvZlhRcWkzWVJTTlpSQVFZRTEtMThERGxFYWY5MmZSenJ0MUxQb0lrRDdjcnZJeG1xc1dKVnN5ZjYzV2ZQa2VGbmxWMGhjcko5T2NjU21YMVBQeWFMS1NCSjNFN0NYVlNHdw?oc=5",
-          "published": "2026-11-06T21:30:51+00:00",
-          "source": "Action News Jax",
-          "related_articles": 1,
-          "sources": [
-            "Action News Jax"
-          ]
-        },
-        {
-          "title": "Small plane crashes at south Georgia airport - WALB.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zU1A1R2xnejU4MzRxU1dOdUJ4U2ZkVGtmMFc2dVFURlkzSkJFUDhGbmNrNk9DWVZjQ3otQW9FV1BtQUpKMEx2enZnYUM1c0NXTm9nRUV2SDl3UVZNNFg1XzhGNUZ1R1B1MlQ4c0txOE5GaVpUOXpWUVVXNEFRZEk?oc=5",
-          "published": "2026-11-06T21:36:00+00:00",
-          "source": "WALB.com",
-          "related_articles": 1,
-          "sources": [
-            "WALB.com"
           ]
         },
         {
@@ -302,20 +292,9 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xczdVYnhybHNPUEhCMDlEM3dVYXFxVzJHaDQyak5qYllVNmJKQVljQm9CeTNkMXJQeC1KN1hYX1Y0OHhZWE9jM1J0MHZvSzBuUUtRNWNB?oc=5",
           "published": "2026-11-07T00:07:19+00:00",
           "source": "Fox News",
-          "related_articles": 2,
-          "sources": [
-            "Fox News",
-            "LADbible"
-          ]
-        },
-        {
-          "title": "Florida Small Plane Crash - TelegraphHerald.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdU9EVl9kX1FwYUhPLWxFRDlaSWRXblJ0MHlEbHNOVFZ5Rm50NmFYczBKX1kwNTljTS1Pb041M2xJOGhaczNQbXlKdEZ6NWQ5eUN5TUs2NFZvdE9uMThDM0NTbzY4NDFROFZ4OHQzZ3hYam9pOS12TDNkOU1LcUdjdkhvU3pzUU00ckY1M2J0MUhHYUx0TnQxMA?oc=5",
-          "published": "2026-11-06T22:45:38+00:00",
-          "source": "TelegraphHerald.com",
           "related_articles": 1,
           "sources": [
-            "TelegraphHerald.com"
+            "Fox News"
           ]
         },
         {
@@ -329,16 +308,6 @@
           ]
         },
         {
-          "title": "Grieving father of Florida Learjet co-pilot defends his daughter's reputation after crash - hngnews.com",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSk5qVkdIOUs4S2tfYXZnS3JtZGZPcTJHVklzQkRXNVlUa0d6RTRCWkVTVGlfcFBHcVg3U3hfY194cnFmR0FaRWNfRkNrVUQ4LVpvaU1Jc0JRd1ZhSFhCa19laHRkd1BsV2dWOTd5elVMMERKYjEtQXFMXzROYzl6X2FuNmdmMU5LVk5VbVpwalo1MExlNHliUWlZNDFta2FSVlhHYm00RFdDUHZHaTA5cjBFTGd0ZTloRVB4MDJpSTdWei1uZkowTW9lX2dvTElpM2k1ZjRHZVJ4SFRIa2I4cHdVTXMxNXg3a2VCaUZ1WmE4WTg4RjdvWTVvUVpkOEFlZmY1Q1Rn?oc=5",
-          "published": "2026-11-06T22:27:56+00:00",
-          "source": "hngnews.com",
-          "related_articles": 1,
-          "sources": [
-            "hngnews.com"
-          ]
-        },
-        {
           "title": "Father of 20-year-old co-pilot killed in Florida crash says she fought until the last minute - CBS News",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcjJYQy1MZ2dzb0QtcS1MWGNjQnk0dng2c3VCLUN5bGZwZ1pfVFF2QVk2S05WbEswTk5GcVRUdDNXY0lmNmNuZnkwczhBdnp3RnBYVGZNbHJSUGZlZVlDbFd3dUlOQnZ1N3VjTm44Y2o5a1M1MzR0YW9OQklVTTMzamwtN3hCYmJBemFJMkRSOTd4NTRfNnFBNzE1VW5hNmxMYl9uZUQzZ1hST2VrdmNaZFM3OW02M1lWQkdlZzVQLXM?oc=5",
           "published": "2026-11-07T01:42:00+00:00",
@@ -349,23 +318,13 @@
           ]
         },
         {
-          "title": "Spain coach pays tribute to victims of train crash and player who died after on-field collision - CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZm9RSUhlcWRzT09DTDZzaUxnNHJmSGljX0lYeTUyUGMxTTh6ZkI4V2Z5WEkwSGYyYnVEaWdlS2lZejdWWjlNeFpRS2VMT3lHRUF0WHZuaWZzdXROcHRGVzFFUC12YUVwNE53SmY2MngtYnlwTElleGI3RzE5bHNKOUZ5MUtXMG5aYlJNdzlQeU9kR2VEYVE3SzFQRTBmVHc?oc=5",
-          "published": "2026-11-06T21:18:18+00:00",
-          "source": "CT Insider",
+          "title": "Florida Small Plane Crash - TelegraphHerald.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdU9EVl9kX1FwYUhPLWxFRDlaSWRXblJ0MHlEbHNOVFZ5Rm50NmFYczBKX1kwNTljTS1Pb041M2xJOGhaczNQbXlKdEZ6NWQ5eUN5TUs2NFZvdE9uMThDM0NTbzY4NDFROFZ4OHQzZ3hYam9pOS12TDNkOU1LcUdjdkhvU3pzUU00ckY1M2J0MUhHYUx0TnQxMA?oc=5",
+          "published": "2026-11-06T22:45:38+00:00",
+          "source": "TelegraphHerald.com",
           "related_articles": 1,
           "sources": [
-            "CT Insider"
-          ]
-        },
-        {
-          "title": "Japan Paralympian who survived deadly train crash embraces motherhood - Japan Today",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbEtJSXZiN1lFRFR3Z1FnNjl3bUs1NDM4Ny0zM1lyNnYzcExPU3RydGVBcGI1aDFPaDZRYzJQZF80SDZkNGFndW5Uek81bmlQWW0zYUtnSS16NzhseDBBNzFXSlhuOXN0MmMtelpIS0FGMkRVVUVkb1NRemtnS2ViWGNGSy1XRlBlOUxtWEx1SFZKZzdfQWlGR3NTcHRXVTZ4bGRiUTVPWkFWekRERFJnamFhdndzVXZIcnhlaEN5d1ZabzktWjBR?oc=5",
-          "published": "2026-11-06T21:23:17+00:00",
-          "source": "Japan Today",
-          "related_articles": 1,
-          "sources": [
-            "Japan Today"
+            "TelegraphHerald.com"
           ]
         },
         {
@@ -379,13 +338,13 @@
           ]
         },
         {
-          "title": "Hamilton pilot killed in Bitterroot Valley plane crash - Ravalli Republic",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdTN1JpaGxWX3F1OUNzNzh3WGtGY1RsZ0Nad1BKbFFWOEVTMFg1dFRsX2pxWHJ1X05Md3ZZenZhUzVRWlllTXBlTUw5eG1rcnM2RTRvbFRCemJQXzNZamktc3p0WWcta1E3WTVLZTd2ZGYyY2EwZ1R4QVhnQUZYTVM5RFo0bnR5QUxyRDlZbkFKRnJCNlZnM0hFSVZOa1RwcU1F?oc=5",
-          "published": "2026-11-06T23:02:53+00:00",
-          "source": "Ravalli Republic",
+          "title": "Second probe into suspected fraud in Spain's high-speed train crash case opened - 巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFQydWtkR2owUEpzbVo4LVpEMDZXY3Vlb0pTR21MVnBmdjZEQkJ6ZFc5aTdCd3pQOW9lRDhLTnlqNFJUWE13eFB4ZXpjbG1KUnZuS3FlZEs4NV8xclZTcUNIVGxKQ001Q09xN2NlbmVQSThFaVkyR29PNFBUd2U4STA3UXpQY2JndEhvWE9QOGd2eUkyd2dFdGRVcXYwYWNLT3RfVEtfOVlEMWozNFZJamhfVTdKdnZFYXYydG1DU3NmV1J6YTNCTTRB?oc=5",
+          "published": "2026-11-07T05:59:00+00:00",
+          "source": "巴士的報",
           "related_articles": 1,
           "sources": [
-            "Ravalli Republic"
+            "巴士的報"
           ]
         },
         {
@@ -409,33 +368,13 @@
           ]
         },
         {
-          "title": "Second probe into suspected fraud in Spain's high-speed train crash case opened - 巴士的報",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFQydWtkR2owUEpzbVo4LVpEMDZXY3Vlb0pTR21MVnBmdjZEQkJ6ZFc5aTdCd3pQOW9lRDhLTnlqNFJUWE13eFB4ZXpjbG1KUnZuS3FlZEs4NV8xclZTcUNIVGxKQ001Q09xN2NlbmVQSThFaVkyR29PNFBUd2U4STA3UXpQY2JndEhvWE9QOGd2eUkyd2dFdGRVcXYwYWNLT3RfVEtfOVlEMWozNFZJamhfVTdKdnZFYXYydG1DU3NmV1J6YTNCTTRB?oc=5",
-          "published": "2026-11-07T05:59:00+00:00",
-          "source": "巴士的報",
+          "title": "Hamilton pilot killed in Bitterroot Valley plane crash - Ravalli Republic",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzdTN1JpaGxWX3F1OUNzNzh3WGtGY1RsZ0Nad1BKbFFWOEVTMFg1dFRsX2pxWHJ1X05Md3ZZenZhUzVRWlllTXBlTUw5eG1rcnM2RTRvbFRCemJQXzNZamktc3p0WWcta1E3WTVLZTd2ZGYyY2EwZ1R4QVhnQUZYTVM5RFo0bnR5QUxyRDlZbkFKRnJCNlZnM0hFSVZOa1RwcU1F?oc=5",
+          "published": "2026-11-06T23:02:53+00:00",
+          "source": "Ravalli Republic",
           "related_articles": 1,
           "sources": [
-            "巴士的報"
-          ]
-        },
-        {
-          "title": "'Absolutely Devastated': NFL Star Reveals Surprise Link To Florida Plane Crash - AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXZNX19FYUlSaEppRXduS0NKR2VkMHlRbUlJNTdFWGZiTVlQeFNGQ0ZIMHJMZVhvSkdYdFM5ZG1UYUxKLUFjbmotcXF4Y2Fyam1TRDhEWldvMlZyZjc3WTZsSUdDSjFCeUdSQ0NyYW5qaEtuMkN4WThQeER3aDQ2dnFpZGNzTFV1N1E?oc=5",
-          "published": "2026-11-06T21:16:46+00:00",
-          "source": "AOL.com",
-          "related_articles": 1,
-          "sources": [
-            "AOL.com"
-          ]
-        },
-        {
-          "title": "‘NCIS: Origins’ Star Mariel Molino Says Lala’s Unsure She Can Lean on Gibbs When Her Past Comes Up - TV Insider",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMl9Dalc4c1ZXcV9tYTR0YmtKR3JEdUt4SEtQampTNXh6UE9USXFTNDRMSHlxS1ZVcHB1UUFwSWRpRkNTazU2N0poYjNua2d0UHdpck9MZldEdFBJYXdza1JRVzVRRWJYcnpSVG9rZlBBMHU2OG15UnIxWWxncEQtX2ZwOWtZZV83RElFQWcxOXhFV1ozOFhGTkpCMlliSl9zVEVZ?oc=5",
-          "published": "2026-11-06T19:54:40+00:00",
-          "source": "TV Insider",
-          "related_articles": 1,
-          "sources": [
-            "TV Insider"
+            "Ravalli Republic"
           ]
         },
         {
@@ -479,13 +418,13 @@
           ]
         },
         {
-          "title": "At least 2 killed as plane crashes in fireball on busy motorway - The Sun",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vVTNiQnQ0SHk0UW5TdU9JYTdsVS14a1VwM3NGcUJYMDVEaF9GMkNjNDBvVXFhNFJnOTRIVXc4NUs1ZjZ2eXhDcXdBbnBFSnIxb0xwb3JMSWROdHd2TVp4T3NzZzg1RHZxa0NTVjZwZ0ZXVUhua1E?oc=5",
-          "published": "2026-11-06T19:40:06+00:00",
-          "source": "The Sun",
+          "title": "20 YO Learjet Co-Pilot's Dad Was 'The Reason She Flew', He's Shattered On Being Unable To Save Her - BollywoodShaadis",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2FjcTl0R3NfRVRrbE1nMV9zQnBtMS1LTnZmUnRJNEQ1SVp6Xy0ySUlNYmkyaG5BdlFvdEVjSmpyZ3NKU1diOHlLeTNNeURQWDV2WEpEZ1FOTTctQzA1YzlENXJtZXUteFlWRkJYbEM3Ykp4aFhCTVJlenpBNmpDZ25fX3NXbUpJeHNPUERQTWZQZUFfZlhXZEJtV29CRWxnaVh3VS1hY1N1OTFDc21helNlZmRWeWJtOWhj0gHAAUFVX3lxTE5VZUlHNGt0VHFsWEZTN1E5WlJkdmJCUHQ1VVZQNEFZYU8yRnFPY1pXSFZ5Q0E2c1FYRnhLQzlwejR2ajRNMXlKSzk3N2ZYc1g0czNTQkpNdkdLZWg4X2ZBZEJRZHR2dkxKS1BkMUdUbjU4SEI1TkM4OERWdXgtQUlzT0hJTjQwdTU2MnBRV1JZcW9xd19kZWU0N2U1ZFZ2M1hodkJWQzBZQ21mOG1XZDFhdk40cXFiZGIxWmEyLXNPeg?oc=5",
+          "published": "2026-11-07T02:29:56+00:00",
+          "source": "BollywoodShaadis",
           "related_articles": 1,
           "sources": [
-            "The Sun"
+            "BollywoodShaadis"
           ]
         },
         {
@@ -497,20 +436,10 @@
           "sources": [
             "The Sunday Guardian"
           ]
-        },
-        {
-          "title": "NAF recovers black box as investigation into Ondo Plane crash intensifies - National Accord Newspaper",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkRjV1JFLWF0RFQ4VmVHOWZua2dTMjRQbnRyOERETS1sR2RoS0hrU0RuN3ExQndGSEhxeEx4LTl6SWl6NnJqaFBCQ3BMaHZObnA4dDhTYko4SWNMbGQzb0JGanVyZ0VMUzBMaHdkeFhtOGJ6WHZUdVdyVjJGZFpmMVVBakJTOGtsRTV5b2VobVFYZFR3OTNROXFjclZwc0lWRkhUV3JqcDltNjVhN0Ew?oc=5",
-          "published": "2026-11-06T19:48:18+00:00",
-          "source": "National Accord Newspaper",
-          "related_articles": 1,
-          "sources": [
-            "National Accord Newspaper"
-          ]
         }
       ],
-      "count": 49,
-      "raw_article_count": 63,
+      "count": 42,
+      "raw_article_count": 53,
       "count_is_sample": false
     },
     "civil": {
@@ -522,19 +451,39 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmM2OVE2NVpzdmtFQ1J3Qko3RWVsc3o3elNzY1VRbjN4dHFJTWN6VVN0MDd0VHR4N2VGeVdOWnUtblpIMmFrVmxOMk9STTdWMHNqSkFRUUZwOXhVZk5fYVhMQ0VYUm1Ub0dyeXhPS2JmTXJ1Y3NxRVZ6TVFxT3VrdEljcnNVM3poNW95c0M4b2hOeFdjeklHQw?oc=5",
           "published": "2026-11-06T23:56:04+00:00",
           "source": "CBC",
-          "related_articles": 2,
+          "related_articles": 1,
           "sources": [
             "CBC"
           ]
         },
         {
-          "title": "Copperhill evacuation order lifted, residents can return home - WDEF",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ002blJQYmdzSVotWHhIN2w2bC1nUmVTa3lsNXN6TWJ0R3V6aUNQaXh0dEhkekhvQXhZY1MxRWRWdjF1ZDM4MjhOV2hsRmpSaVZyZWVsRHQ4UkgtZnd3QjJWY3daT3lMOGdNTkRCM2NKckQyaHVCRk96dDRrY2NZS3lnemkwZlB4SWc?oc=5",
-          "published": "2026-11-06T20:09:34+00:00",
-          "source": "WDEF",
+          "title": "Five people displaced after flooding in a house in Santa Cruz. - Madeira Island News Blog",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2NuTmhFbzJUcVpTby1Idkt3eXItTGpyREp0VFo2Ym5WRk1nMW5WSld3VzhaQjJwX0FvSEtpRHBFLTBaMERJaGtoSkp6Qmw5LTBoTHhqaHNsTVRmUTR4YkFEZy1sVVpLTDljdXdLa1JwWGw4U3pPN0dBSWZkZUY2NVZfSFh0WG9kei1yTkVQLUc5S01NUWFMQUZ6Q2E0VUVOWnU5SzZoNDJaNG1T?oc=5",
+          "published": "2026-11-07T22:16:21+00:00",
+          "source": "Madeira Island News Blog",
           "related_articles": 1,
           "sources": [
-            "WDEF"
+            "Madeira Island News Blog"
+          ]
+        },
+        {
+          "title": "Vinkovci Fire Brigade and Orašje Civil Protection Authority complete cross-border cooperation project - www.mojkraj.hr",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0gtU193U2pNcnE2M19GOXd2RWt4Ql91Q29tODFiRUhuZXV3bmJjUnVjUzlfWERRLXJXSHhndTlmVk1kblVfaEs5Q3RuMmM1Q1ZCX2xYR3dtaWFPNmloUmltT21TQkp1eU9oWWJZN0FOUnA4VGR4ZV9CSlZqZG9LQ1lRWWZhcENlTTRqenlMQWpMLVFlcmFpLWtVTktSMjZDX2dLMm5TWHdXVG13bnJCYzB5bWQ4V2d2RUxMLTJXVW9rbjBfWDlrdF9BUC1KUWxk?oc=5",
+          "published": "2026-11-07T21:16:36+00:00",
+          "source": "www.mojkraj.hr",
+          "related_articles": 1,
+          "sources": [
+            "www.mojkraj.hr"
+          ]
+        },
+        {
+          "title": "Evacuation order issued for Zeballos - CTV News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVZfNFdNRzVfaU8yYTFZblNjdDlLXzFmNG0xYmYtdUZfWUhlNHpqMmg0NWlCOUZ6RU1pWXozQXFmUzhEREJBSlVMODNYMDZPYjREMW5aY2ZrMmo2T0M1RldZYzNZUnZucmpGdEJNZTZ6MG5RdmdGSzdhaVU2ZXVlelFNUmhib2h4Z3dYSWhsTEI?oc=5",
+          "published": "2026-11-07T01:11:00+00:00",
+          "source": "CTV News",
+          "related_articles": 1,
+          "sources": [
+            "CTV News"
           ]
         },
         {
@@ -558,55 +507,13 @@
           ]
         },
         {
-          "title": "Zeballos under local State of Emergency due to flooding and potential landslide risk - Campbell River Mirror",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZVAxdVJRZGFzRS1tdkQ1MHFHdGxsMVRBdkFjSFpScTdYaGU5S0RrTmtzYkd5V1hHSTNUamhRT3BzNUNYWVpoZTZQblBkTEhvMUJ6eFQ3cFNKbEpSZFpXdHYyaFNNcDRaM2hUcFY3WS1PMjNpUUQ3Nk1qOTFlVGhYdGl1bDF3clg4TENqSWpxekpTZ3J0Vnl0UXFLbnZMTUxWRWZMMzk2VE82NGs3QjNqbGRQXzhJUQ?oc=5",
-          "published": "2026-11-06T22:01:45+00:00",
-          "source": "Campbell River Mirror",
-          "related_articles": 2,
-          "sources": [
-            "Campbell River Mirror",
-            "My Campbell River Now"
-          ]
-        },
-        {
-          "title": "Poland Is Strengthening Its Civil Defense in Response to the Threat from russia - Visit Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRTAzZzFURWF0NEMwaTBJS0gxVUhzSzc0SkNpcUtabE15RzNLR1B2ZGdJcEhIYWhqbWhvc2FyaXp1aUNMS2dNRi1DRkZkcXM0YXpCT0JNTklQRVQ3T3ROWUdlOVctV2dKaW1Tc09Ma29jRnlJcnFHUWZjaXpMVWRVLUlfZGdXVGhhempBcXlManVzSmxYZ0w2V1BwVGxoSnFscXQxM2NFYzkyOURaSGViWEFDbjlqTF9mdEJZ?oc=5",
-          "published": "2026-11-07T12:33:03+00:00",
-          "source": "Visit Ukraine",
+          "title": "Open prisons, work camps considered to ease overcrowding - Island.lk",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QM1hsV3dJY0VxRXpFaUxCcGZ1ZUYtbjhjYzJBNzR1NllZeGNLZ1JUX3VKMkhFbTJjOVVhNVVWQWlndmN4WDJVMHh3LThocnotQVJBeWFrR0FVWHFaTEJpLXMtV1dLMm95Z0wzQlREM2tDRHhkNzZvLThqcDk1TGc?oc=5",
+          "published": "2026-11-07T00:13:35+00:00",
+          "source": "Island.lk",
           "related_articles": 1,
           "sources": [
-            "Visit Ukraine"
-          ]
-        },
-        {
-          "title": "Evacuation order issued for Zeballos - CTV News",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVZfNFdNRzVfaU8yYTFZblNjdDlLXzFmNG0xYmYtdUZfWUhlNHpqMmg0NWlCOUZ6RU1pWXozQXFmUzhEREJBSlVMODNYMDZPYjREMW5aY2ZrMmo2T0M1RldZYzNZUnZucmpGdEJNZTZ6MG5RdmdGSzdhaVU2ZXVlelFNUmhib2h4Z3dYSWhsTEI?oc=5",
-          "published": "2026-11-07T01:11:00+00:00",
-          "source": "CTV News",
-          "related_articles": 2,
-          "sources": [
-            "CTV News",
-            "SSBCrack"
-          ]
-        },
-        {
-          "title": "First major storm of the autumn closes Zeballos' old town - Ha-Shilth-Sa Newspaper",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTzVSTmFsMk9oN19vRVE0cTRGc1FteEVHLXViVEI0OHE0Um9RcHlYdlpRRFFQRlVKVndtb2JaTjVYRC1nRGpVekFrM2xTUFd4bnNYYVBDOEZza3JYeWJsVmZkV1J0amFMMXJEWDNYbWxUOGNtUU9zVTYxV3h4YkVmYVVnTHlBSWpZMGtaSHhTa1ZKQQ?oc=5",
-          "published": "2026-11-06T22:11:26+00:00",
-          "source": "Ha-Shilth-Sa Newspaper",
-          "related_articles": 1,
-          "sources": [
-            "Ha-Shilth-Sa Newspaper"
-          ]
-        },
-        {
-          "title": "Time between wildfire, storm season getting shorter: BC Hydro report - Chilliwack Progress",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0dJb3ZYazhmUUZWbEEzcnpTdzFMR082TzBNejU1VWxyS1RjZG96cURBTUNBSHc1c3Nydmg4M3VsTHl0bGF0UmZ2MUJxUFljbWh3NmVMQjZGdURZZ29wcDNzLWY3OTVkbE1kOHpJZi1qa0V5UTlIeXZzTks1a3VxaURNWlI1akhqcnVzbXZvQ0FPQjJEaHJTUk9KUGlVZmpYalcwRA?oc=5",
-          "published": "2026-11-06T21:26:13+00:00",
-          "source": "Chilliwack Progress",
-          "related_articles": 1,
-          "sources": [
-            "Chilliwack Progress"
+            "Island.lk"
           ]
         },
         {
@@ -630,23 +537,13 @@
           ]
         },
         {
-          "title": "Open prisons, work camps considered to ease overcrowding - Island.lk",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QM1hsV3dJY0VxRXpFaUxCcGZ1ZUYtbjhjYzJBNzR1NllZeGNLZ1JUX3VKMkhFbTJjOVVhNVVWQWlndmN4WDJVMHh3LThocnotQVJBeWFrR0FVWHFaTEJpLXMtV1dLMm95Z0wzQlREM2tDRHhkNzZvLThqcDk1TGc?oc=5",
-          "published": "2026-11-07T00:13:35+00:00",
-          "source": "Island.lk",
+          "title": "MSD Issues Urgent Weather Warning For Zimbabwe As Heavy Rain And Powerful Winds Approach - iHarare News",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0N4VjdJVlhFX3AyVVowLWpjTDhOblNvSVlEQVFURjh5Sy0wYkpsZ2xDSHd2NmVnM1ZlcnN6elJXbWU2ZWlRMzk3dGs5MndyUlp6LU0wdXBSdm5idTcwblg1ekN3XzNzWE5qTDhEN0pudU9DLU5NeEotblRCbFF6c1pkZnlKZGp3N1cya0lZZThGNkJtblFNeU9QVTZVUWl0Y3E5WmxRQXBzUEFnRkE?oc=5",
+          "published": "2026-11-07T09:52:57+00:00",
+          "source": "iHarare News",
           "related_articles": 1,
           "sources": [
-            "Island.lk"
-          ]
-        },
-        {
-          "title": "Keanu Carver Removed From The WWE Roster Page - eWrestlingNews.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3dHTWV6RE8wZzdPNXVUdDBYdmF5MHZvWXVkSTBTYjZFNGRXczNXcHZwa2RCb1FHa2c2NTM2TTJ4d2hWd2ExbHZORFdOc05IWjN0WnZXSmM2c1hGcHFJZWRKUV8zNTRQMVBWWWJmNExaR29yR3NsSXp6QmlUZ2lxaWlLT3MyWFJ1c21ua01B?oc=5",
-          "published": "2026-11-07T08:32:17+00:00",
-          "source": "eWrestlingNews.com",
-          "related_articles": 1,
-          "sources": [
-            "eWrestlingNews.com"
+            "iHarare News"
           ]
         },
         {
@@ -668,30 +565,10 @@
           "sources": [
             "Hiru News"
           ]
-        },
-        {
-          "title": "MSD Issues Urgent Weather Warning For Zimbabwe As Heavy Rain And Powerful Winds Approach - iHarare News",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0N4VjdJVlhFX3AyVVowLWpjTDhOblNvSVlEQVFURjh5Sy0wYkpsZ2xDSHd2NmVnM1ZlcnN6elJXbWU2ZWlRMzk3dGs5MndyUlp6LU0wdXBSdm5idTcwblg1ekN3XzNzWE5qTDhEN0pudU9DLU5NeEotblRCbFF6c1pkZnlKZGp3N1cya0lZZThGNkJtblFNeU9QVTZVUWl0Y3E5WmxRQXBzUEFnRkE?oc=5",
-          "published": "2026-11-07T09:52:57+00:00",
-          "source": "iHarare News",
-          "related_articles": 1,
-          "sources": [
-            "iHarare News"
-          ]
-        },
-        {
-          "title": "Hall’s Return Could Complicate Jets’ Backfield Ahead of Chiefs Matchup - SSBCrack",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUdaQVdpOEdfSFdvekJ2Z1RHbG5PQy1kcEpoQ2hJQzIyc241TXZIcjFKT1BMQ3UzNW1nQ2VvdmFXVFVxaWV1Yy1LUklSblNPNFhFT0JPRHR1V2VxNW81a1ZWbXVJZzdxWFRzOUlRTUhfdWtXbVh3anZtdlRZU3k4SGwzX3BBRkRMeW9Da280aGh1Zk1kVmw3WDE5SQ?oc=5",
-          "published": "2026-11-06T19:53:45+00:00",
-          "source": "SSBCrack",
-          "related_articles": 1,
-          "sources": [
-            "SSBCrack"
-          ]
         }
       ],
-      "count": 17,
-      "raw_article_count": 20,
+      "count": 12,
+      "raw_article_count": 12,
       "count_is_sample": false
     },
     "terror": {
@@ -709,6 +586,36 @@
           ]
         },
         {
+          "title": "Krakow shooting: Briton among six dead in Polish ‘far-Right terror attack’ - The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWVOY0U4ZjlSRmF3WmJrU0MxVDg4YTRGSm1JemozX0dWemh5NjNpeXlpY1pzaDVuSEwzWWRjRkhPWWdKTUI5b0FMZWdGRlFIZkpacC1rYTdyUmhwREl5Sy0zVVJxMVY3ZDRkcXNBMk04b2RCRFpJT25aX1AyUkxMdUtEaTV3UQ?oc=5",
+          "published": "2026-11-07T17:26:00+00:00",
+          "source": "The Telegraph",
+          "related_articles": 1,
+          "sources": [
+            "The Telegraph"
+          ]
+        },
+        {
+          "title": "As it happened: Six dead in Krakow 'terror attack' - RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSEhqOE9kdGtvOG51ODQxakp1N3FoZnhrTDFXTUY3THpGN0VyekFSLXBkY2JabzBsSjVvNmNwaUZkTTMyeHhVejA1QzFHQmVtZVZXX0lEMkpjNG41c01iRzFoaXJFQlp1YUZibXBfMjBRU3c?oc=5",
+          "published": "2026-11-07T21:42:21+00:00",
+          "source": "RTE.ie",
+          "related_articles": 1,
+          "sources": [
+            "RTE.ie"
+          ]
+        },
+        {
+          "title": "Six dead, 15 injured in Krakow terror attack - The Australian",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcXZoYWdaWDRYQ2xlSlA2b0dLREJra00yQWRwenZYaGVIdUFuVzRTTkRyNEtuMHlxeUhZNW9HTF9nbEsxWEJQcEdoWm13TEc5OFVyV0lDVkJGNWxnZ0RFeUtyOTJZQUlBRUlFTkhZZk9fb2ZaLWhWTkxUeGNrOHdfRDhlYjV6VmdFaE10OGl4Sk42d2dkM3dibnVRRkxDQ1BXUjVaOEVUQ1FZNHcxdmxUakZ1MThoTUU1SE5tQWU4a3p5TkFo?oc=5",
+          "published": "2026-11-07T19:32:31+00:00",
+          "source": "The Australian",
+          "related_articles": 1,
+          "sources": [
+            "The Australian"
+          ]
+        },
+        {
           "title": "90-year-old Holocaust survivor shot during Bondi terror attack dies - 1News",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTFab3p2TUNjVjRVcHVlM29sckpacHRQclhwUkNKU2J0dDc1WUdsM1ltZFhoZFF2eGJrbTRVakxWN3BOeUt1RHlPZC00cWgxenIxS0U4bTJSYS1NeVF1Rjg3OFhaMDlSUWFuMEFHVTRMaEZyNjFVb0hNZzJESTRxaThXS3h2RzI3Rm15dlRoNnVfekNZUnZJeXNpRXJzVlUzN3JPMVdn?oc=5",
           "published": "2026-11-07T07:59:06+00:00",
@@ -716,7 +623,7 @@
           "related_articles": 2,
           "sources": [
             "1News",
-            "World Israel News"
+            "NT News"
           ]
         },
         {
@@ -730,23 +637,43 @@
           ]
         },
         {
-          "title": "Teen arrested after terror tip off - The Australian",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUdNT3cwN1ZONVN0dDlmbkNoU3QwcGRONTVrNkhQM2NMOU5BS2lVcjJsemNvMHN4bXpJb0MwVWduVi1FNngtZUFJWWlHT2JrRGVkVnVwMTJXaTg0aUZwWlg3WjVCX05YUE53UVpHMUxSOUVmSjFrdkl5Vmo1TGlFTVlrcXZCZWNHTGd1aUNGaFk5X1poTko5WUo0c1hjOEhXRGFseHI4MUw4ZDlITnhXVzF1d1F3MGxRWENMbnZ6MjZrZkMwYWpjUm5JVVRpYzlYOUpURHdtLWZJU080RGV1UG1NSQ?oc=5",
-          "published": "2026-11-07T01:09:19+00:00",
-          "source": "The Australian",
+          "title": "What to know as at least six, including British citizen, killed in Kraków ‘terror attack’ - The i Paper",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWZFX0ZKZEVGcVVRZ3lYbGpIc2tpdE5VWW1MZXBUc0s2X2hDVWlvcUsyUjdzb0lObXlGa3hiV2x6dUZ6YW5ITUF0aVgyOS1PSklpVjNEeFNPZUU5V0dja3lyQ2Y5TURWeUtVZThMUGJFODl2RVV5Q2M4eEhMZnE1Rw?oc=5",
+          "published": "2026-11-07T15:38:25+00:00",
+          "source": "The i Paper",
           "related_articles": 1,
           "sources": [
-            "The Australian"
+            "The i Paper"
           ]
         },
         {
-          "title": "Elderly woman Eva Geller shot during Bondi terror attack dies - RNZ",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGo2MEdkVlJ4dlBreWhyWTA1UzdCNE5HVmM0OVZ1cWRYS1BQcG5SSUNubkY2aHBKVUZtSU4tOUk1WGZfZEtEcmk1N2hLSUNJTklyWGpkbXNyekd6X2FGd1pTc09nNHNUdHhZMHU5UkY2SW15RE1YSXFjb05PWVVpYk5Hdk9seTNyWHpZQXdNaFF0bV9Rc3NnNXZieGF0cURXRWJoZA?oc=5",
-          "published": "2026-11-06T19:00:38+00:00",
-          "source": "RNZ",
+          "title": "Teen arrested after terror tip off - NT News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN01nRVdSdGkxbHZhNy1vd20taEtSSmt3UERRWURFLWx0bnVYRkZGbXdYdUFKQkI3blBOaHJjNmdtd0RjMUFKamxGY3ZoREZIMG9rVUV6Umdxb19Zbm9wYlRYWGxUZ254eVNHbHBQeU1OcU5QQXMydWxGRWpLbWg5R2d4Nm9feDBybFg0RDlZZEYxOVhqLTFoa1J6d2ZSMXlPQnZiZzNmMUc5Z1U5R3gxenViTlNUWjZwWTNZd0pPUEhyT1dLekN1RHRpdG9hMlpVOFJoc2lmdlFrN2FONkE2Zg?oc=5",
+          "published": "2026-11-07T06:31:33+00:00",
+          "source": "NT News",
           "related_articles": 1,
           "sources": [
-            "RNZ"
+            "NT News"
+          ]
+        },
+        {
+          "title": "Krakow terror attack: Police reveal details about perpetrator - RBC-Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLU81RGdOQXVMaVZOdVRzTE1fUGxPLVVUWjhqQWtVUlNjMWxwNXZHRVNEUlVzVjRyc05wNm5NeVJZT1BRQlVWMGNkTXdqMC1OMzRJckpZUUtWZ2JxZlNiMndBUGo4cWFiYWhxLTl0NHpXUElZOVBZbnpPMWg2a01vR2J4WVNpb3hudGpiTnVMc0c1elZ0?oc=5",
+          "published": "2026-11-07T18:51:01+00:00",
+          "source": "RBC-Ukraine",
+          "related_articles": 1,
+          "sources": [
+            "RBC-Ukraine"
+          ]
+        },
+        {
+          "title": "US withdraws all bombers from UK base at centre of suspected terror attack - Inbox.lv",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnJOTVRpMnJuV0thOWY2NnNSWmNIVHhvRGpPb01vNnFESTRQa0tuWHotMTEtZ1NXZ3c4VThPcmNPRTRQdV9yalVRUllFR01vZ2MwZkx5RVRNazRaYTNibVNfVlo0cE92eEVDSjFMeFZzQzd5TVBhYVZpWUJYY0Vua1FGeFVkS1hsbTJibVBNclloZHZvbWstTmpIRkR2WDJic2Y4SXZnZC1MZlFKSXhReW80MXNfcXc?oc=5",
+          "published": "2026-11-07T07:15:37+00:00",
+          "source": "Inbox.lv",
+          "related_articles": 1,
+          "sources": [
+            "Inbox.lv"
           ]
         },
         {
@@ -760,37 +687,57 @@
           ]
         },
         {
-          "title": "Rajnath Singh pays tribute to Pahalgam victims, vows strong response to threats - DD News",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkZfeTBSdzB0S3l4dnl2ZU9vUDdoRFg2SzFZaDV5RHQyMnpRSDJxNGkxbFAwYmRLYmtVcDBPdXZNY3dEN01OOHYwdTN5UkY5OVUtTEpXV0phaWc4N1BwekNuNDNiRzBpRk9CSXZsSWtIajBNYjRFZk9ERTRVR00wWVUxX3poN0JmaDNtcE5ab1BZZFdsZU5ZWUIzMkZibjFkRFRwS0ZGTQ?oc=5",
-          "published": "2026-11-06T19:49:55+00:00",
-          "source": "DD News",
+          "title": "Police confirms Krakow shooter is a Polish citizen - Breakingthenews.net",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVBDTTF4UXV3cGZMQW1xMFZab2l5QURtNG93MnNlYUpyQld3eTVwbHNpbERQRVMtNklUaWNkWmFqTW8wQ3lFSjBaUDkzSWhrR2h2WGdTclgzY1d0SkFNb082NXFnSlN5enp1S1p4YTRQM3RETklsUzNjTjNSR2Nmd2dEeWJpVzZyVThPZjZZTGR6Y1dIYngxQlBTVQ?oc=5",
+          "published": "2026-11-07T19:10:00+00:00",
+          "source": "Breakingthenews.net",
           "related_articles": 1,
           "sources": [
-            "DD News"
+            "Breakingthenews.net"
           ]
         },
         {
-          "title": "Pakistan undecided on attending SCO forum in India; consultations on - Rediff",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXVnQ0xjeGNzMTVDakhVejY3M3praEUzaUNhLUVNbXZSNklHTUNlanM1dWV1MWd2RW0wSmlwb214d0ZLVW1hOGxnOHFxZGNjYW5lNURCTWFyMmxzOS1pMjBvWndfY1FXUXpDUzRDWjkySno4YXVTT05FU2FpeEE1X3BSVVhFLUhpU19yUFpGbkVHMFN1UDFYLUYyOXRqc1pSdC1zTkZ0T1ViWUcyRkMxaVIzakRQUdIBuAFBVV95cUxQMVMxb0poLW0xQTZkWnVrMzVMQXNzTmxiMk01MGo3ZGJLVmgxTEI3RXdYM1hHdVF4eDdWNEpuNE1scFVHdW9GR1R5YWdoS1J1eVFvRlFha0lKTGpGbktrUy1YdTEzNnVFMmlzZlVkTDg0X1lHczNRWXFwTmtCeWo2WjVnUHM3THVtbVdtS1pMNXF5NHh6RU05NVhualM3OE1RWlZSTy1MRVk1LXVLcEEzNjhYUnBfLUI3?oc=5",
-          "published": "2026-11-06T20:22:52+00:00",
-          "source": "Rediff",
+          "title": "Moscow teenager arrested following US warning of neo-nazi museum attack - Searchlight Magazine",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLVVuNEcyZWIzanRTNW9RVE04N2lsMDFsZWtQcEtPRnJEMDJqd0p4VGZhTTJlYjdibFZoUGxrTDZ4TWV2amVyNXhNT2xGYWo4UTVtR29VM1M3V01QVG1PdWxrTzh1YkplS002bHRJVGplYWFzOTZLaHU3QkdjMk5aUG11MjdRUVBsekg3SjBaS25GOWd0TVFlVHBUbU5HTjgxbFFwZDBMLXFDeHZ5bVNJeTd3?oc=5",
+          "published": "2026-11-07T09:45:39+00:00",
+          "source": "Searchlight Magazine",
           "related_articles": 1,
           "sources": [
-            "Rediff"
+            "Searchlight Magazine"
           ]
         },
         {
-          "title": "Bondi shooting and Holocaust survivor dies one year after attack - The Courier Mail",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHUzOWhrZ2VGekViTmpUNHFVOFhiMldCVVljaE5SbkZNWnFMYVIwazZQN3FjTlFDM3pzUFVIQ2ZCVmd6U3dqNEVveWZHV2FhcE0xSU1KUHpQZG5aY2pUdTdrRXp2R3hIbjJlQWtLUnotYk9WZkJXUEotNTdhWEExclBUNU5WSDhMTTZOTDNJamFGWlA0T1AwTDRlcFpyS3NDTFlBeFRNMVBfT2NWX1V6cXZpT2xpVEdGUnBBNTFPTXo2dDdkLTlTcjFmeHBrZ3FyUGYtdm5fcWludGhkTzV6QXpNS3dMZEZIdVZXWFZ3TE5NaWRkMmFzNXl5SDI2Zw?oc=5",
-          "published": "2026-11-06T21:30:42+00:00",
-          "source": "The Courier Mail",
+          "title": "In this week: the start of a revolution in Russia, the Enniskillen bombing and the fall of the Berlin Wall - Belfast Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcTg4bmtZUHZqNGd3Vk1SZjBxYXV4MDhaLUNhVXZHVjB6NzM4c0VHa2ViSTR1UkRwOXpXX3ZFbDR0b2JUZ1JFR3VNZTVORnBkamVRaVVzbHRkc0FDVXNTWVp2REtDQzdWaVRUOHRRczdESnBERE9CaXZuMjVPTFlHVGxzaVJ4UWMxbXVvRkJzcTg5c0V3UXZMRDgtbmEyNjhjUW9oZEtXaUJpbnVINkVJcnNmVG9xTVphOGtGaUM2Rlo5RkxPVVppTVB3SzhXQXQxLXBaSEk0S2RuYWpsVG5MMjFXVXlwRy1vdkdUYXFHUi01MW5KYkxFaWMzT01FQQ?oc=5",
+          "published": "2026-11-07T00:00:00+00:00",
+          "source": "Belfast Telegraph",
           "related_articles": 1,
           "sources": [
-            "The Courier Mail"
+            "Belfast Telegraph"
           ]
         },
         {
-          "title": "Krakow Shooting: Five Dead as Gunman Opens Fire in Poland - UKNIP",
+          "title": "Brit among 9 killed after gunman opens fire in Poland ‘terror attack’ as three bodies found by cops at suspect's home - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFNqUUxGYXBfVENqTEFVcFhXcy1YZ0NfR1h3ejVvRlpJZlk5NEtjSFZ1dUpsTnlTTHZfYXB2ZUIzU20wM3VsVXJwckh2UVpZYkplNjVGUmpiTHp6Vkk0aElWekZLWW03dHdseEkzTUZxMUVocWVKbk8yRUdndHNhNw?oc=5",
+          "published": "2026-11-07T15:14:00+00:00",
+          "source": "The Sun",
+          "related_articles": 1,
+          "sources": [
+            "The Sun"
+          ]
+        },
+        {
+          "title": "British citizen is among six dead in Poland 'terror attack' that left at least 15 others injured - as 25-year-old attacker in hospital and hero cop who took him down fighting for his life - Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXpDSGpZLUZoLUp5b0tsNjY5QndIVVBJd2U3VURvVC1BTmZQSExpTGEtWUh6ZUNCU0lsSDU0bkdZUUF1LWp5aXFFSTZJOEtuWFYxMzZudFhLSzVkcWtTdXlHUHZpRzJwdXJadENkLUZnbkJNOEU0ZGZhWWJWbHNLTlU1VDlJYkFmS2VV0gGQAUFVX3lxTE9YRWdiejJXSlVsUzY3UEJNeTNhODdBWDlTM25UMEpfczFKZ2xtSFYwd0lfallqZVFzUlBrX3dtWUVITExiVUJFTDZhUW1xc2hjVEYzLS0xMHJIdi1mWEZ1aDlyamtzRk81VjZaLU5qNnY3bDVhM1ZhY19kOVB3VGIzU1BhRkhONWtiWWJ4a1I2RA?oc=5",
+          "published": "2026-11-07T15:03:27+00:00",
+          "source": "Daily Mail",
+          "related_articles": 1,
+          "sources": [
+            "Daily Mail"
+          ]
+        },
+        {
+          "title": "TERROR ATTACK Five Dead and Dozens Feared Injured After Gunman Opens Fire in Kraków’s Main Square in Poland - UKNIP",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbG5QdkdMZ093REZ0U2tncWNKbzNiWWJyM3BDWEdSS04tSVg3cDFGVVVjZ0hEOF9mbWJkZ2pXYVNGaHJJaWpGMnFZTV9WZEFNdUVHN1pneGZDbXRReWNaMjFUUDBpMnYxWXl6U2lDWWFOaFp6aDNyNU9STVJDUG1jRl9kUDFUcmhzb193cUxQTjJNSENJbkxoNXhwbXhNajV2WkVCdGg4YXZnWHNXNDVmY25kdWtlNTVyZWJNM2VyOFpVOU1nQ1A4Wg?oc=5",
           "published": "2026-11-07T16:18:35+00:00",
           "source": "UKNIP",
@@ -800,8 +747,8 @@
           ]
         }
       ],
-      "count": 10,
-      "raw_article_count": 11,
+      "count": 17,
+      "raw_article_count": 18,
       "count_is_sample": false
     },
     "nuclear": {
@@ -819,16 +766,6 @@
           ]
         },
         {
-          "title": "Iran escalation: State media warns citizens of nuclear threat | The Listening Post #shorts - Modern Ghana",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1RFcxUVdyTkNuZzZrdGVVZmpTMU5QMGF4MTVSQmJkeFlXMlBCYm1UNUllZm1nWi0tY3pSRkxIU1lYRC1aeTdsRkxMUTVKcUxLdXg2LVhKc2hFVUd10gFcQVVfeXFMUDVEVzFRV3JOQ25nNmt0ZVVmalMxTlAwYXgxNVJCYmR4WVcyUEJibVQ1SWVmbWdaLS1jelJGTEhTWVhELVp5N2xGTExRNUpxTEt1eDYtWEpzaEVVR3U?oc=5",
-          "published": "2026-11-07T01:10:00+00:00",
-          "source": "Modern Ghana",
-          "related_articles": 2,
-          "sources": [
-            "Modern Ghana"
-          ]
-        },
-        {
           "title": "Japan Holds Nuclear Disaster Drill Simulating Tomari Plant Accident - JIJI PRESS",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vQ3hHTE1ieWxNV18wX3pLXzVBMWw1Q1JESVY1TzNqeUFBTEIxNWJqNHMtWWNOLUJIU3RoNl9HVkdwbzRGMGJSbGF3Mzl2bVNmbzBoNG0ybE94bDQ?oc=5",
           "published": "2026-11-07T10:49:58+00:00",
@@ -839,33 +776,13 @@
           ]
         },
         {
-          "title": "Ukraine’s Nuclear Arsenal: Tu-160s, ICBMs and the Budapest Memorandum - MiGFlug",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObC1wZFZ0T0JJVWJWbm5vc3VQcFJNU0pkWTZLVUhpRDc2NjZOeU5sZjFuVldmSUExLWN3NUhGZlRhNWxYM2cyTDNiZ0FJclFrT3p1T01Mb01HaDRnTnJKakxYTUt2TDVUU19BWk8yZXllSkJlZmVjMDZkQlRVdkZvR2Q2Q01xaVlxNW90YmRZOEgtMlBYRFZ3Zndn?oc=5",
-          "published": "2026-11-07T12:15:30+00:00",
-          "source": "MiGFlug",
-          "related_articles": 1,
+          "title": "Iran escalation: State media warns citizens of nuclear threat | The Listening Post #shorts - Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1RFcxUVdyTkNuZzZrdGVVZmpTMU5QMGF4MTVSQmJkeFlXMlBCYm1UNUllZm1nWi0tY3pSRkxIU1lYRC1aeTdsRkxMUTVKcUxLdXg2LVhKc2hFVUd10gFcQVVfeXFMUDVEVzFRV3JOQ25nNmt0ZVVmalMxTlAwYXgxNVJCYmR4WVcyUEJibVQ1SWVmbWdaLS1jelJGTEhTWVhELVp5N2xGTExRNUpxTEt1eDYtWEpzaEVVR3U?oc=5",
+          "published": "2026-11-07T01:10:00+00:00",
+          "source": "Modern Ghana",
+          "related_articles": 2,
           "sources": [
-            "MiGFlug"
-          ]
-        },
-        {
-          "title": "Iran Braces For Potential Nuclear Emergency Amid US Threats? Big Move Reported - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdi1ZYXJrdlQycnptdE5HQmc0WmdoOHpFRTN3c1pya25lSk9wbXFOek5PTURKTGZPUzdYNVM1VDIyZHhCWDhUZ0F5aGItV2U3aXUxMkpPdnNfQmRJdGZQZXQ2VExrRTV2SnZYaTNhMmxRZ3FyLS1lcjNseVZXdW1EV0tTRTFYS2t5V1pnRzlzTHlmemF4X0tPY2ZJTnROeXc2cXIwdXdhSVRpYXZXUUNlV0pFOEpTd1FOYTFuQkZ2Z3d6eUJXZnRWaDZhYnI5Nm90NXJGTWJ0cWxadVJLS2Ita1NWTHpocXdrLWhJNTNkUdIB9AFBVV95cUxOTVVwQTJfQUwyS3VISzB2ekRzY0o5RTczTi1WMjBzYkxfSzJ1ZjAzQmtyNFc4am1vdjNudXlfbTA0U2E4SVZfR0xfU0VCS3hSZmdHN240aEhiSmY4ejk4dHlmTUtkZnNHU0JLXzZKWjdnX1VmNU45Rk50LVIydmxwbkc4aHdEcTEtR1BQU2lSVnMtNEo5ZFV6cmNzLXQxa2FBSnZrOUdOLWc3UEtGWkpRakxKaEs2QmJwOUdRWmRMbU4yb01BYkJfVVdEblNYQ1VTc1ZtVmZPcHJJQ2lyU2otMUctNUFqdlZYSGVNN294N3NRdF9E?oc=5",
-          "published": "2026-11-06T19:19:46+00:00",
-          "source": "The Times of India",
-          "related_articles": 1,
-          "sources": [
-            "The Times of India"
-          ]
-        },
-        {
-          "title": "'Israel, Middle East wouldn't exist today': Trump boasts of stopping Iran's nuclear ambitions - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaFN1djVlOUlNV242TEFkWlZ5VTZXbE1JeGVjWUZ4bnhuRFFwSW9jUndEcFhPSWdpS09ldVVWaDB4dXRIbV9kOE9WV1EydHZaQU83NUFWUE9aMXg2b0pCaXJCMm1PVG9VNHRVaHppdHVMcHI3Y2RkMkdvYWhTQjJVY0ZZVWdTQmN4M2JEbkwwNzdDMDJ1Y1NZdnZvbUZxcEg2U1l5YXBkdXpsc3Bua0xodS0zZjcxMFpTUWI5NjMtUkZTMDNLcUVnM21iOXRXbnE0Y0hxZlNpNmp4UHYwcG1sZGpMQXA2LVdoZkE0NmxSZ2hVRTBzc1M5ZXNGa9IBgAJBVV95cUxPZXc2X09Hbnh6WUlGOVBMdzdSNGo3WXFiVGM5SWRtZkZBN1QySW9wQXhSdG1kVGMzWnN1NkhVNThjTHlFejdvRWF3QUhnVXotLVZ5a2xQX2g0Ui1NaG1WOVBxSVZPNEE4VUI3TWhiS3N1eml3QkVFSnkzaW9zS2JuS3lPcDVLQ05sWnp6YzVEWDV1LWhPRUwyQTIwZUV4ZWlPRktwZWRUazV4bkhaZVJVVG9femZMVjdtMmctQlhZSkxOUlROeVZGYWVVT3ZEVVk0aXhScmVUNTdQYW9tWkIzTUFBN0lzaDVOYl9BOVZRUlZJR0JBSUZReHB2YkZfVTU3?oc=5",
-          "published": "2026-11-06T20:22:00+00:00",
-          "source": "The Times of India",
-          "related_articles": 1,
-          "sources": [
-            "The Times of India"
+            "Modern Ghana"
           ]
         },
         {
@@ -879,13 +796,13 @@
           ]
         },
         {
-          "title": "Iraq says nuclear emergency plans ready, sees limited fallout risk from Iran strikes - The Insight International",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDFuSWU4Q3F4NDFqNTR6U0cyV0loSy1PREREZjZPbXpOOGZRT1JPUjM0Mm9nY2dqNW1iMVFUMDNILTlhSkVqU0F5X2Q0ZGxfOXhKUzEzUGpkaHUtY29obmdoTDFUU09nUlYtUnhwc19sR20wbXpJcFhNdG1uY3VXbUZUbS1NTDRoTkRsSDNNQWpuLVZIakFfVjgxdHVkZnFhWVA0U3NpTTh3UVNDMkE?oc=5",
-          "published": "2026-11-06T21:14:19+00:00",
-          "source": "The Insight International",
+          "title": "Iran’s Nuclear Threat Must Be Eliminated Forever, Netanyahu Urges National Unity Government In Israel - UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTUpvdGZNOUpPeFNUMm5LdW4zMGtJT0VIeVdiYTBLRVl0V2twZll4bkIxd1E4YmR0cmNWM1MxSG5MNThpaVVmNXphb0RzWnZsRElIOFpsM185RDNab0tfYjZHSUpfWFhxOUdBUUlBMVd4RmZoLVhILTVScDFWemtzTXgxcXNQU0FmZkFyUmk5ZXc4NE9ZaHNaZUEyZms2ZVhZcFE5aUN3?oc=5",
+          "published": "2026-11-07T19:27:31+00:00",
+          "source": "UrduPoint",
           "related_articles": 1,
           "sources": [
-            "The Insight International"
+            "UrduPoint"
           ]
         },
         {
@@ -899,13 +816,13 @@
           ]
         },
         {
-          "title": "Rally to rout: AI fears rock Wall Street - NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLXpXRXk5RG1aa1Zfc2d6R3U3NnNFR1QwVUt0TXBFZnBLUk95TXZxU1ZqajhNTlRyRDJQOGZDU3VZZUhGWFZob0hWNm56M1RCNXQxTER5VTFCOHFfNVdpeXhXNF9fanM5dFVTZEdEa2JWemJUZjRIYVREZGtjTHRXUG9pV1k5TTFQSEVpYy04ZmxmOTl2ZlpqVWtlVmFFbUloOHc?oc=5",
-          "published": "2026-11-06T21:18:48+00:00",
-          "source": "NewsBreak: Local News & Alerts",
+          "title": "Netanyahu Calls for National Unity Government Amid Iran Tensions, Golan Demands 'Government of Change' - Lokmat Times",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkRUOS1EczdFZnpYRDVfcWl6Qk13QUFfQUZqNHNPRkZFSHhBaWZTQ2FaWXlXTUpJQmNxWjlrU1JySy14Ui1iZkpjVDN5RldMM1ZZSWxxcERuUGdBMFhEUG56YzRCc09XT29wX0VKWDcwcHJCNjVGWkJ6bkxOMnlJTmp5Qkd0Skw1RThpc3JRX3JKZVlibUpUTmxNeUNiMndXNXlBeUJ3SHhnejhQaGgwS01IcGQ2RHdqYWQzX1BWOTF1cDMzLVhXMnU5bWRLMTl2WnRFWmNFRHhqakMzNVV2a1o4RTF4QdIB6wFBVV95cUxQc1VvenloZFM1RDZSQUtFMWR1OVZkUkVyNXYxQ210QTFBUGhrOWE1cU5VUzgxRndKTndUQUllRlNuNEdDamxLbTFMcGtWbmVHb1p5S3laczdrS0ZUUnF4bzFkcG5JMzdHcE9KRXNkMUdIbkk5NlBGRjRidFU2STd5OVRnbGdXbTdpeTB5aFJXLXc4c1E1bl8tdm44UTNqMGUyWkZsZWc1MkVCZXJJd1VPUU5WNi03c0xRSnpCSVNLVVlQa2dLaWRiWFo4NVFOT0ZvUnFJTHBObjRadUp2a1JnQVlRSzFlVFEwMG8w?oc=5",
+          "published": "2026-11-07T20:43:15+00:00",
+          "source": "Lokmat Times",
           "related_articles": 1,
           "sources": [
-            "NewsBreak: Local News & Alerts"
+            "Lokmat Times"
           ]
         },
         {
@@ -916,26 +833,6 @@
           "related_articles": 1,
           "sources": [
             "The Sunday Guardian"
-          ]
-        },
-        {
-          "title": "Iran Activates Nuclear Emergency Plan - ProPakistani",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJwbHAxbVpGMXlaZVdvdHVvMEVEQ3gyTGZ2MXJnd2ppMWlFRDVLU1RDQ1hWTlFudDBDMnp1eHc1bHNfSVVDUTcySnNEUEVhMWtRbUN2ZmdBX0xyTldJa0JBWmw0dTJGZ0dPUjk5NXNSelVyajJ1U2Q5VExRVzlkcEsyNEw2Q3BvTVR6MFFqZUwyQTZNelJuRTNVUEl2NkZlWlRV0gGsAkFVX3lxTFBCTEExZmljbmRqeDBZUThLU3VobnI5MENMV3VCaHotNWFKMzAyd0ZYYTJjNjB1YS1vOExZbDdzUVJYVDZnUlNoYkhiX2dhZUx6U01yWGZ1ZFR5bTdIVjRiOFczUG5yVXhSOFphMTJwZjNvSFUzN05kX3hQdDdOUWM5T0tlQzBKZTdUVEtzaUJFRnpaNWxzV1hHelVITFMzS3pQUkF0alBtSm4wRXBZOW8xZGlzRmJmYnBMYjd5cGdVZXM4Mm96RWlKdm1EWFdvcDFqTXdiQWFzZlY1WFZ2R0dmQ3hUbzBrY29fQTFNLVFJNkFxSGdFYVBrQ1BQeW1XT1BzTS1Oa09jS0o3dVJSTTJ0dmxqSDVKTXpEMXJqaDhaWFBWSnpzZzlLTGIyTQ?oc=5",
-          "published": "2026-11-06T18:57:44+00:00",
-          "source": "ProPakistani",
-          "related_articles": 1,
-          "sources": [
-            "ProPakistani"
-          ]
-        },
-        {
-          "title": "Iran steps up nuclear emergency preparations amid possible US attack - samaa tv",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORUxTdzhiTGVLdHk5OFF3SEcwQ2J0VFdOc0JaYVVEbTl6ZGg5bWQ0N2EweDBaQ205dHlHU1RsamlHSkowVjdmUVFaNFdqUmxqd0hTTDliNkYtbE5TTzdGWEJHbjZyU0JwY1VDdUJxWThIODhadmF5QTd2YWFpUVZTTWxFTk9mbEhEM1ZpalI3M29oT1hfdzU5dXJKZzN6aUpHM3c?oc=5",
-          "published": "2026-11-06T18:58:49+00:00",
-          "source": "samaa tv",
-          "related_articles": 1,
-          "sources": [
-            "samaa tv"
           ]
         },
         {
@@ -957,26 +854,36 @@
           "sources": [
             "ProPakistani"
           ]
-        },
-        {
-          "title": "Karachi’s Major Hospital Gets New OPD Block - ProPakistani",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlpjQTBYTG16VkVZYVk2NEFsdG9CWFpKQmxIMmY4YjVKaUs2blh5ODBuUWlydGE3VS1SaklKQ2ZlalFnNng2MThWMVJuY05TQlhfUUhJWE5SbFh4R0RyYlNtN2x5eHZFMk8yQ2w5OU9pY1ZrTkpKR19SSkVzZDRVbDhMQnDSAYoBQVVfeXFMTU5YRVFfbENBV21OREtoWVk1bW5iX08wanVRM0ZMNDVzdnkzbFRHSWtyVlZqQWVBNTQ0QWRVdm5PT0l0eHI5TUxiSlBSUS1ZUnhtYXZnbkthSXRfMnNvbUdXUVNuQWktSlM0UG54UUVGVG5OZzVyQWM5elhNVkQ3WW1DdHhhM0VtRE9B?oc=5",
-          "published": "2026-11-07T13:41:15+00:00",
-          "source": "ProPakistani",
-          "related_articles": 1,
-          "sources": [
-            "ProPakistani"
-          ]
         }
       ],
-      "count": 16,
-      "raw_article_count": 17,
+      "count": 10,
+      "raw_article_count": 11,
       "count_is_sample": false
     },
     "nato": {
       "status": "ok",
       "error": null,
       "articles": [
+        {
+          "title": "Iran Drops Ballistic Missile Range Cap, Putting NATO Basing in Focus - Defence Security Asia",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNanZZSndablBTM1hTX1RYZTlBcjFqSUtBaWlYZVE2Q1hDUzhXU3UwN3ZLNmg4ZDBuRFQ2cEJqTE9JbldOc3U1b25wSEw1c3hRSUJTdEo2UXcxelNTaXo1bndaQ1hiWTRVNWoyZXpLbV8yVzBPaFJTdHZjTF9PbzdnSnVXdlo0Zw?oc=5",
+          "published": "2026-11-07T18:46:40+00:00",
+          "source": "Defence Security Asia",
+          "related_articles": 1,
+          "sources": [
+            "Defence Security Asia"
+          ]
+        },
+        {
+          "title": "Krakow Shooting: Poland's Russia Sabotage Fears Intensify - finchannel",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdTQxZFdZOWtzbU9Ld3g2MEV6MHFzQWZ2UUN6SG1EQ0VjaG5qblNxRGk0VGI1STJTdVY5UnhJbTJUemVZTFVwcW51WElaLURud0xhWF9WdW5RUEVZUm5YdlNRVXNqZGp1R3oxY0JkQmhCVzBmY0k0M1YtMEFXTWlPbXItLVdORDFIUmhJdTBheHp5eV9JTTA2d3dCR3l5NUNaZms0b3QzaTNoODJPVGtnNGJvZkF4c1c3Y09OeXhoa3BvZXUxM0RXSGgteXJSaDM5cFd4V3FnM2dwX3BQX3Zfc2JB?oc=5",
+          "published": "2026-11-07T19:41:03+00:00",
+          "source": "finchannel",
+          "related_articles": 1,
+          "sources": [
+            "finchannel"
+          ]
+        },
         {
           "title": "MAPPED: How dozens of bomb threats caused flight chaos in Europe this week - Business Insider",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVpfS0hxdE1kcDE5MEhlbVhQRXN4akppYnFSRThCTUNXNXBjQlVkODVlZFB3QUFSOWRkSEpZVjFXV3BhYno4YUlCS1dRbmxxZ2xYRnVSZ1lzMXRxajN3N0NpcHZPOWJZbkdTcUdqdXJHUUkxTGxzZnZPZHB2MDBwNXZtZUY4SWpwOUZKRFFoY3lDR0FfRU5aZ2xpakV6b0dOX2swd3oxRGhPZVVYdExZ?oc=5",
@@ -985,16 +892,6 @@
           "related_articles": 1,
           "sources": [
             "Business Insider"
-          ]
-        },
-        {
-          "title": "Russian Offensive Campaign Assessment, November 6, 2026 - Critical Threats",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWk2dWptWndhVFJYN3czNkdLZ0NEWDgxRThVNEtQN0dackFfbmVvQnc1dUhMMzllNS1od3E0S011d0V6M2p2T1JlQlhnamJyYzllZDQ0eWREeHk2ZFNZRzVUbjhvLWRWeXh5ZE9wUlh3a3dhT2Q3cHZ4bGJaY3hBMS0tdWtib0tGMURaUnE1VDdFM2FSTkE1WUJR?oc=5",
-          "published": "2026-11-07T02:04:06+00:00",
-          "source": "Critical Threats",
-          "related_articles": 1,
-          "sources": [
-            "Critical Threats"
           ]
         },
         {
@@ -1008,13 +905,13 @@
           ]
         },
         {
-          "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWlhekh4ajA0clBoSW9JcGhFUE1tdGliSVFxSkZUOHN5RzMwZjlhODJscmtlSm5jWGR3eGRWMXR4T1llWjN5X0lVRXY1WWVuNWJMRXBXR1NjLVF1cjZrZllUMVZQdFdBLTZlaUlTYmQ3dHJ1RXYyTTFSTjJiMDcxQV9kQ24ya21oQ2EwMk5LTW0yZ0wwbS1INGJ2d1Iwc19aY3VtSUNCd2xJaldVMnhhVFVxSmRhWG1RemgzREdZZlBaTXFXOFpkaHR3?oc=5",
-          "published": "2026-11-07T11:26:49+00:00",
-          "source": "LSM",
+          "title": "Russian Offensive Campaign Assessment, November 6, 2026 - Critical Threats",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWk2dWptWndhVFJYN3czNkdLZ0NEWDgxRThVNEtQN0dackFfbmVvQnc1dUhMMzllNS1od3E0S011d0V6M2p2T1JlQlhnamJyYzllZDQ0eWREeHk2ZFNZRzVUbjhvLWRWeXh5ZE9wUlh3a3dhT2Q3cHZ4bGJaY3hBMS0tdWtib0tGMURaUnE1VDdFM2FSTkE1WUJR?oc=5",
+          "published": "2026-11-07T02:11:05+00:00",
+          "source": "Critical Threats",
           "related_articles": 1,
           "sources": [
-            "LSM"
+            "Critical Threats"
           ]
         },
         {
@@ -1028,6 +925,16 @@
           ]
         },
         {
+          "title": "Another airspace alert issued in eastern Latvia over drone activity / Article - LSM",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNWlhekh4ajA0clBoSW9JcGhFUE1tdGliSVFxSkZUOHN5RzMwZjlhODJscmtlSm5jWGR3eGRWMXR4T1llWjN5X0lVRXY1WWVuNWJMRXBXR1NjLVF1cjZrZllUMVZQdFdBLTZlaUlTYmQ3dHJ1RXYyTTFSTjJiMDcxQV9kQ24ya21oQ2EwMk5LTW0yZ0wwbS1INGJ2d1Iwc19aY3VtSUNCd2xJaldVMnhhVFVxSmRhWG1RemgzREdZZlBaTXFXOFpkaHR3?oc=5",
+          "published": "2026-11-07T11:26:49+00:00",
+          "source": "LSM",
+          "related_articles": 1,
+          "sources": [
+            "LSM"
+          ]
+        },
+        {
           "title": "Europe rebuffs new ‘security architecture’ - Daily Tribune",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05OExiRnFIdkZaSkg3amF1ckR3ZEFmWGdFSkxOQlNydDV2ODdzWTdHY1J6TVlQMnZqV0duRDBBMjBxUFBTbkdlaWZqUHViR0pIdU93VDJfYzFLbmZqalM2cXhGbU9CWjh1MmZuWGpxYnRKRlExbXRRZ3hvcWxjNkU?oc=5",
           "published": "2026-11-07T18:11:01+00:00",
@@ -1035,26 +942,6 @@
           "related_articles": 1,
           "sources": [
             "Daily Tribune"
-          ]
-        },
-        {
-          "title": "EU Must Be Involved in Any Ukraine Peace Deal, Kallas Says - UNITED24 Media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZ2X2NMb3UwZGZCazRwNkNiX09FQ3VuUDUxYnpSZEVkcGRDZU42NU9NQl9udDhaX0kxVkx6WEdsTVN6cHZvaFZxdEFLYzhqM0N6N1NyMmt5R0g3WXg2UWNfamJQRThhUmpQVWh3SmxNTUF6djNoQU85N3BLWTlPT1hrbkJ3Q0xEVlo4SlQwckVWdkJFSU9kWnNFaWhPcUZhNlptM3Rqcw?oc=5",
-          "published": "2026-11-06T20:57:28+00:00",
-          "source": "UNITED24 Media",
-          "related_articles": 1,
-          "sources": [
-            "UNITED24 Media"
-          ]
-        },
-        {
-          "title": "US ally’s startup wins place in NATO counter-drone framework, boosts key weapon availability - Interesting Engineering",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3I2aV9qTG85OF8tR1drSGt2NXFDOGN6Y0VKdlJpaHVCZFIyMDRoLXVwT3hYb21fY3htb0pvbFRjRmNla1ZwSHYyYWREcndVSXBza1JTYXhVaFdKX0NoTGRnc3cxZnVuWG1ENm9nd0t3Tm4yeE1yWGRZRERCZklNS1VBS2g?oc=5",
-          "published": "2026-11-06T19:22:00+00:00",
-          "source": "Interesting Engineering",
-          "related_articles": 1,
-          "sources": [
-            "Interesting Engineering"
           ]
         },
         {
@@ -1088,23 +975,13 @@
           ]
         },
         {
-          "title": "The threat coming from Moscow: NATO admitted - Medianews.az",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZlhDQkZJTEN0Um1ocjdTelZVNUphczRDb19URVRJaW1mWmRqejRWWHFfRmZSaGNMVTR6eC1pVjN3WGpWNzQyT1ZYd2ZLS0Z6Qkp5UkU2aEIzMUVJUzUza1Rzb2ZyU1pZSlRKS2hFbU4xUQ?oc=5",
-          "published": "2026-11-06T19:21:13+00:00",
-          "source": "Medianews.az",
+          "title": "War spreads across the Black Sea, NATO is put to the test - vijesti.me",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEVJT1lEV1pzaC1KdWZYVVBKTElMb2tEM3BUd2t3YTFFWFVoZ0FhNlVfemtlUjd1VDR2NHBDbXVZcUtSZXR0RlBIcWFjUkdUQ3hPTXZFZmtCWmhUU1Foc2pZUUFzck1FT250dlVnMnRSZ3A3OUdEOXBLYzIwblVXRWJLTmt3M0FRM0NLU0pzdGhKdnpCZkxKYVJJQVDSAZwBQVVfeXFMTXBFSU9ZRFdac2gtSnVmWFVQSkxJTG9rRDNwVHdrd2ExRVhVaGdBYTZVX3prZVI3dVQ0djRwQ211WXFLUmV0dEZQSHFhY1JHVEN4T012RWZrQlpoVFNRaHNqWVFBc3JNRU9udHZVZzJ0UmdwNzlHRDlwS2MyMG5VV0ViS05rdzNBUTNDS1NKc3RoSnZ6QmZMSmFSSUFQ?oc=5",
+          "published": "2026-11-07T06:40:23+00:00",
+          "source": "vijesti.me",
           "related_articles": 1,
           "sources": [
-            "Medianews.az"
-          ]
-        },
-        {
-          "title": "Newsroom bomb threats add to Euro flight hoaxes - The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTJVZjA4Y0ZQMVo0UTVNQ2dqRDdGSGhmZWtYTUhGcDltMTNIY0ZmbEZsYXVfMVpYMUJtOG5wckQ5Y3A4dUpobHcyeVQ1ZzZJdlNrRldNelJvNEhSMDd4dlFSeHZsZEgxMTFXRTByR1pHSnVKRXlGV2ZjTEk2V1BWUWtpazdTSHFiWU5YZNIBlAFBVV95cUxPQTJRR1RCTHhpZHpWYUlBZENTRkJiQTVuMnoybGwwcWtYdE81TTRFd0RVSGNCbW1xNUt2VFNnS3VPa1NESUZPMk1hUzZlcTdFdDhZVDFGVzF1MXVsU3Yta2d2c1FDeXhDUnkyTWNULXFfNTZiTnNmMkRwZUZuaFE3bEpSYzNqSldzczljSVRqMUs1c0pQ?oc=5",
-          "published": "2026-11-06T22:28:15+00:00",
-          "source": "The Express Tribune",
-          "related_articles": 1,
-          "sources": [
-            "The Express Tribune"
+            "vijesti.me"
           ]
         },
         {
@@ -1118,16 +995,6 @@
           ]
         },
         {
-          "title": "New Bomb Threats Target European Newsrooms, Disrupt Flights - Morocco World News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTml3LTVIQVdRLWtOZWxfOEdOTFFPaHlSUVVXQnVkRDlvMDVkY3VLV1NLRndQVk9vTDZNeXBGcThOWms2M2RiS2YzODc1WlBmc2VlSmZucjBUWmY5TlBxXzRWMzlqRGk4SmQ4amtsYmNrbHJjc203UzVLcm9ILVhtcUc1V09XTDZFanZZd1ZWWWh1VzhqNHZzYjRZTFJaTUdWcW5RakJiLVk1RlE?oc=5",
-          "published": "2026-11-06T20:36:04+00:00",
-          "source": "Morocco World News",
-          "related_articles": 1,
-          "sources": [
-            "Morocco World News"
-          ]
-        },
-        {
           "title": "Suspected drone destroyed in Lithuania as it approached Latvia / Article - LSM",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2ppUUVGWExVT29PdDdlU1RSQXlFQjdfWTU5Mlcwb2NlZ0xXUkZtQWtXVUdEa2stQVE1SnB1aGI3SmQzT3lUT0FSMEVsQUpwTUpNclVfalZQZXd5UUZwbUs3SHVSVUxKM0dRUWJqN3JvZEE3aHNZUVhIQnFnUzM1TkF3TElBY2xZaDhVcVpabTY2ZVBGYVgtZUlqVlNmUy1wZVhnV0pUTHNUZjViWXJ4OHVfSXM5NmNGUVkwcGNBcU5YX2s?oc=5",
           "published": "2026-11-07T08:28:38+00:00",
@@ -1135,36 +1002,6 @@
           "related_articles": 1,
           "sources": [
             "LSM"
-          ]
-        },
-        {
-          "title": "My Say: Why Trump expects the Nobel Peace Prize - KLSE Screener",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXNOUHVkTTAyQUFZSjcyRkg0RkZXbXktNzU1Rm5pYTJuQklqa01IRFZfU2VjbEZBckQ3SXphdllNMVVtQlRQTmFKZDV0ZzhNWllPdXVFcHlNY29xTjZnSjFlTFlkUXI3Skk3NnVFWXBvRkg2NkV4U3U3eDY5T3dGR3VZeFc4cVlpRmZROHdKaXpKZGJ6bHVYT2JmOWs?oc=5",
-          "published": "2026-11-07T03:30:00+00:00",
-          "source": "KLSE Screener",
-          "related_articles": 1,
-          "sources": [
-            "KLSE Screener"
-          ]
-        },
-        {
-          "title": "War spreads across the Black Sea, NATO is put to the test - vijesti.me",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEVJT1lEV1pzaC1KdWZYVVBKTElMb2tEM3BUd2t3YTFFWFVoZ0FhNlVfemtlUjd1VDR2NHBDbXVZcUtSZXR0RlBIcWFjUkdUQ3hPTXZFZmtCWmhUU1Foc2pZUUFzck1FT250dlVnMnRSZ3A3OUdEOXBLYzIwblVXRWJLTmt3M0FRM0NLU0pzdGhKdnpCZkxKYVJJQVDSAZwBQVVfeXFMTXBFSU9ZRFdac2gtSnVmWFVQSkxJTG9rRDNwVHdrd2ExRVhVaGdBYTZVX3prZVI3dVQ0djRwQ211WXFLUmV0dEZQSHFhY1JHVEN4T012RWZrQlpoVFNRaHNqWVFBc3JNRU9udHZVZzJ0UmdwNzlHRDlwS2MyMG5VV0ViS05rdzNBUTNDS1NKc3RoSnZ6QmZMSmFSSUFQ?oc=5",
-          "published": "2026-11-07T06:40:23+00:00",
-          "source": "vijesti.me",
-          "related_articles": 1,
-          "sources": [
-            "vijesti.me"
-          ]
-        },
-        {
-          "title": "If Russia attacks, NATO plans to strike its bases and industry - Verkkouutiset",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDRjUVBSWEF1bWVDcjZzQ0RSNEcyWjM4aXJSTXNRdjRiaEwyRW5tQ1BsZTY3TDAzN2VQWWV4TmNHcHdVSWR2bFl1U1VCNTF6T2tZSVF3Z2tKbkZ6STg2RWt0VV9NVGhmR01JVl9Jek9LQXRWcE80LXo0QWlIYTdpelJ5ZDJ5b0EtNHRMT3ozVHd1MU5QQUM1TmN0ZWQ?oc=5",
-          "published": "2026-11-06T23:08:40+00:00",
-          "source": "Verkkouutiset",
-          "related_articles": 1,
-          "sources": [
-            "Verkkouutiset"
           ]
         },
         {
@@ -1178,23 +1015,63 @@
           ]
         },
         {
-          "title": "NATO unleashes global chaos: Kursk 2.0 with GROM into Kaliningrad and NASAMS - Bankingnews",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjdfYS1GLTJNLVhZRXN2V2VzTXJHa1RHMlFHRzdqYmpZMFFHVHJjd1V0cm9rN3pNTGo3S1NZQlhsT3ZHTTlRdlQ1eml4MHpXT0dPU0tkajMwaWJITGQyWmVhX3l0WkI0ZFQxQXR0ejViYTVkbElrMURWQzNLNkdWMGMtUzhLZUVQSzVLMFlRNHpNdk1ONFNYdkJMdUUtY0I4OERjQ3Y0cy1pTlVmMzlrZFFUR2tmby1qYlQtRV9GU0xYTE1JUW05N21CQjBXYmdsRnl3TUo0d0k3ei04TmQ3UjVDNA?oc=5",
-          "published": "2026-11-06T20:46:44+00:00",
-          "source": "Bankingnews",
+          "title": "Newsroom bomb threats add to Euro flight hoaxes - The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTJVZjA4Y0ZQMVo0UTVNQ2dqRDdGSGhmZWtYTUhGcDltMTNIY0ZmbEZsYXVfMVpYMUJtOG5wckQ5Y3A4dUpobHcyeVQ1ZzZJdlNrRldNelJvNEhSMDd4dlFSeHZsZEgxMTFXRTByR1pHSnVKRXlGV2ZjTEk2V1BWUWtpazdTSHFiWU5YZNIBlAFBVV95cUxPQTJRR1RCTHhpZHpWYUlBZENTRkJiQTVuMnoybGwwcWtYdE81TTRFd0RVSGNCbW1xNUt2VFNnS3VPa1NESUZPMk1hUzZlcTdFdDhZVDFGVzF1MXVsU3Yta2d2c1FDeXhDUnkyTWNULXFfNTZiTnNmMkRwZUZuaFE3bEpSYzNqSldzczljSVRqMUs1c0pQ?oc=5",
+          "published": "2026-11-06T22:28:15+00:00",
+          "source": "The Express Tribune",
           "related_articles": 1,
           "sources": [
-            "Bankingnews"
+            "The Express Tribune"
           ]
         },
         {
-          "title": "The Head of NATO Just Admitted a Painful Truth: No One Is Going to Win the Ukraine War - National Security Journal",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFUxUTNWWk5Wb0xfNDBEN3FsVHQ0ajdIUGhubmJGYjVRSWJ2ZU1JcUlCaW8wT19JT1ByWTQ1b2g3c0QzcDZQSHRWMG9pcFdaU3U5ZmFrdkpIWUlFS2dnblA0T1M1dmNpd00xVl9vbnE1TmRhdkxBM29hTXY2MDdldDM2aXRKM0IzTktOUnRkRDFoalhQaUszZGk0UzRiZi1QbmZlaURlT21LTjA2VkdTbkowYWYyT05wLVpmSC1raw?oc=5",
-          "published": "2026-11-06T20:52:49+00:00",
-          "source": "National Security Journal",
+          "title": "Tourists are afraid to visit Latvia's eastern Latgale region / Article - LSM",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcjhTUVM5VDBObDdLYmZCaTZUbGtMU2ZTRlY2RTRXeXI1dlhHeHU1bVh5SG90aE1PRHhEdFJhVkp1RTBSNmtmUVhhRmZVV2RQRzdOaHB5R3pJMmZkV0lxSWNRdEZZejhtTXMwdHpLV194eEx5NVo4cGl6ZE1TOGUwQXJSUHdzb2pRdXR3VnE2VXpjMWhMOER1ckhSQWtnNTJaSnh5TC12RnhuZEsxLTd5bmxTMFA5dHVWSVNjRnpUQQ?oc=5",
+          "published": "2026-11-07T11:53:20+00:00",
+          "source": "LSM",
           "related_articles": 1,
           "sources": [
-            "National Security Journal"
+            "LSM"
+          ]
+        },
+        {
+          "title": "My Say: Why Trump expects the Nobel Peace Prize - KLSE Screener",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcy1DeVg2c2RaNVUxSEwwUEV2NlZnc1pNOEdKUjdIcWU4ZGx2Y3BPc1NOUzFUcUZzLUhZS0FNb2IwX19hbWhOWS1JQTZWVFFYOW11dE8wRVRWYU5lUnNseGp2SlNOOGpHdkVuSjdJRXd3S3NNLXBHM196TFdyaFhUUXk2eUZKSFhIdEJTdG1TSUE3bFNmVk82Z04wM04?oc=5",
+          "published": "2026-11-07T03:30:00+00:00",
+          "source": "KLSE Screener",
+          "related_articles": 1,
+          "sources": [
+            "KLSE Screener"
+          ]
+        },
+        {
+          "title": "If Russia attacks, NATO plans to strike its bases and industry - Verkkouutiset",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNDRjUVBSWEF1bWVDcjZzQ0RSNEcyWjM4aXJSTXNRdjRiaEwyRW5tQ1BsZTY3TDAzN2VQWWV4TmNHcHdVSWR2bFl1U1VCNTF6T2tZSVF3Z2tKbkZ6STg2RWt0VV9NVGhmR01JVl9Jek9LQXRWcE80LXo0QWlIYTdpelJ5ZDJ5b0EtNHRMT3ozVHd1MU5QQUM1TmN0ZWQ?oc=5",
+          "published": "2026-11-06T23:08:40+00:00",
+          "source": "Verkkouutiset",
+          "related_articles": 1,
+          "sources": [
+            "Verkkouutiset"
+          ]
+        },
+        {
+          "title": "Germany can't spare more Patriots for Ukraine - defense minister - https://www.irishsun.com/",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm10RWVzall3RDU1SnpheDZ2TDFfV2xWdUdtMHhYOWdlTERTOUxoRUd1SG0tOFRGMTZtWnRUNGNtWjF0RlFJbU5YNFBEUEY0V0hIR3pJSUY1QW9jbmp3ckNzQnJYQUZBbXBMV0FaUVhub2ltY2hpZGFIUEZQb2xyU005YVZLclZCR3JEMHN0YXlQMUVwWm9LZTZfT05oZ2VNUllr?oc=5",
+          "published": "2026-11-07T16:29:00+00:00",
+          "source": "https://www.irishsun.com/",
+          "related_articles": 1,
+          "sources": [
+            "https://www.irishsun.com/"
+          ]
+        },
+        {
+          "title": "Ex-US Ambassadors Slam Jared Kushner’s 5 Russia Goals, “A Naive Belief in the Power of Personal Relationships” - 2paragraphs.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYkpob2Y2THpKUFBjUTNncUNSbnVudDRkSXlzV0Q3MHo3dklCWHhCb0dwOEhHRVNPeWVZNDZtWEljdjdqUWhiX0JSeXhGUUJRYTl4RDl5cVlyNERLY1lrVTZ6V29zYnF0RUpNMFBVclA5LWJ6c1FIY0xzN0p2TFJMdHZQMjhtNmVmUXRjeEdmdmhvUEtNbXVseFhBdEFGXzRYRXROM2o0Y1lyVy0wUWdEOEZzQ2RoTkI1eUNiUlNHWW1ocE5WV2NaUWowYzNpRXZ2TndqQkhB?oc=5",
+          "published": "2026-11-07T20:14:39+00:00",
+          "source": "2paragraphs.com",
+          "related_articles": 1,
+          "sources": [
+            "2paragraphs.com"
           ]
         },
         {
@@ -1218,8 +1095,8 @@
           ]
         }
       ],
-      "count": 24,
-      "raw_article_count": 24,
+      "count": 23,
+      "raw_article_count": 23,
       "count_is_sample": false
     },
     "cyber": {
@@ -1227,7 +1104,17 @@
       "error": null,
       "articles": [
         {
-          "title": "Meloni Blames Pro-Russian Hackers for Cyberattack on Minister - Bloomberg.com",
+          "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank - Oregon Public Broadcasting - OPB",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHhnT0ZGU0ZmMnh0UkFOcnB4ZkE0S3dLNmdId3A3VksybnJKTGt3NFVsaGx3Uk5ndjJZVk9OWkdxV0ZBczBDcVU0YU50ekI3UFE2c0hTd2ZqTll1YjhuNjBuWEJ2M1Brd2NSQ2NQa25WaGZMVl9WXzM5Q0cxMUVIMG1GbEZ1TjE0dWpfX24tV3A4SmxjR3VucDdzX1Bad0VnV3VvOFN0Z0dGMlhvWHc?oc=5",
+          "published": "2026-11-07T15:59:51+00:00",
+          "source": "Oregon Public Broadcasting - OPB",
+          "related_articles": 1,
+          "sources": [
+            "Oregon Public Broadcasting - OPB"
+          ]
+        },
+        {
+          "title": "Meloni Blames Pro-Russia Hackers for Cyberattack on Minister - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0RYcVpfY3pMei1wcl8zSXdmZnVZOUl1TktIMlAtQWlSVmxZZERLRUJxX1JrU0ppaklNYjFCMDc1TWNESnViSEFWTWNBeDRZLWpzWGNrcTlTUEsxS1U1dzFGbmltbjRiSU8zSTk2RWhjN1BienNRaktTb1d1Q2lYb3lzNkN2dzFOTE9LTjdSaWY0YUU0ZWkzMzVFNWVZVUMxbFBUT21XZ0ZkNmhoNFFkSlk4SmRVZw?oc=5",
           "published": "2026-11-07T15:30:30+00:00",
           "source": "Bloomberg.com",
@@ -1243,20 +1130,9 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3VGQWF4MlhFdWpDTDN6Z3UxREJ2VW1UYTRLbkRoYkszcHVqYjFrRWEwaGctOUNzeU9uLXZNS1BHNTBIcWlITVpKT3A5bUVDTklNNGxhaF9sUnh4R1VWT25HamFrRFRNNmRWVnVTZnNsNk5TcF9La2dfT0tVYzRwM3hWUXpCUkdYWlM5c3B3TnM5YzlsdjBjTzdScjlQY2xmZ0Q4UU5aMVlySE9TYThBTmZsT2V6Um9yS0MtSWtsWnRXbU1tNWc?oc=5",
           "published": "2026-11-07T13:21:35+00:00",
           "source": "KTNV Las Vegas",
-          "related_articles": 2,
-          "sources": [
-            "KTNV Las Vegas",
-            "ktnv.com"
-          ]
-        },
-        {
-          "title": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling. - Facebook",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaWlWa2VGODBZVy1nX1Vfc2lVSWNGMTJmMlZfZzNxN0YxSnJXWUVPUm9DT0s2QkdoZF9FdmZNNHNoZ21BdGViSkk2bk95MXJxM3hLVzZtZGRyZGNKdHhjenhiUEFBTGdna1gwWXpralRlTkRKUmdSMm5jNlJSUUdZSGFsMUJRSXVpSzY2S3BwcjBDdGJTVkJEZWZnY0FNYXJSamdTc2hNRHItZWhWeE1xRy13Wi1WLVkzTV9tbHlLOVpJRzVhZ0kwM19melljamZLajk0?oc=5",
-          "published": "2026-11-07T14:18:13+00:00",
-          "source": "Facebook",
           "related_articles": 1,
           "sources": [
-            "Facebook"
+            "KTNV Las Vegas"
           ]
         },
         {
@@ -1270,16 +1146,6 @@
           ]
         },
         {
-          "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank - NPR",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanNKY19wVi1keHpMejFwcURKY0kyNFJrOTNwakVOTEhvZU5HLWNHcllQa0ppWU9XQlV4ZU5QSUlXTmQ3RVpmTEdtMTZYa2V1LWM4VlVvMktLRUVWNmhSR1pqNy1zdXV5RjZvLVJUeml3U2JMQVlRc2cyc2JDbmc4RTBvMXY?oc=5",
-          "published": "2026-11-06T19:00:21+00:00",
-          "source": "NPR",
-          "related_articles": 1,
-          "sources": [
-            "NPR"
-          ]
-        },
-        {
           "title": "Russia’s Rosstat struggles to restore systems after major cyberattack - The Seattle Times",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlU5TXVaS082OTdoZ0VON3IyLVNOOXdPNDJBeXJEU1EtaF9SUGRXOFNfa3gzb2hoLWNBOVZ3WGZqM3JrWG1vclBmWXl5c3dQVWEwMU04bGVxMURIcnRTR0ppZnlHMDU5Q3RmSFBkTDdZaGs0Rkp4dFpZRDRHaXZKUDc1OWxfdGxyRGQ0b2o2bzZDek5xa0dLeWljYnVBWVV5ZFgzVFBoeEZDNkU?oc=5",
           "published": "2026-11-07T18:31:40+00:00",
@@ -1290,13 +1156,13 @@
           ]
         },
         {
-          "title": "Cyberattack on French blood banks exposes insurance and healthcare refrigeration risks - Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmU3ZHdRR0lPYlpRZmxhZHRsUi1nM2YxU2pzZGNtcThhQ0lSR3NYa0k1TkJtSEdFNWVfd2VJVHM5N3lMZGpaUE1Ya1k3djl2cTZQd3Nmd1RuOXk0UGkxMnJKZ3dRMWV2Mi1WdEdyZEQ0ak9HUE9VUlhRWXZySDMtZWtIX3NocWJHSXphcVVDdWFCRi1wVDczeVlVY1g1WHJi?oc=5",
-          "published": "2026-11-07T12:37:52+00:00",
-          "source": "Beinsure",
+          "title": "Mercado Bitcoin Is Reopening After a Cyberattack Froze Withdrawals for a Week. What Happens to Your Crypto When an Exchange Goes Dark? - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONnNLMG1yMmRkaWtmZ1JEM0R0bkRJdFRNQk1zcHlSc2k2bzVYcUtHU1JXS09iT2N5WnhTWVE3UFdVNnhFa0M0NjJVQU5xNC03RTdGYi03Z25TSTMzOE1BazlJelRzT2Z4OW5xSy10RGNVTUNOb2F6emx6eTRod2t2S2R6cXI2UTZOY2lkMzdsdkFBcXZEZWN3Y08wQ1RJSU1Pd0w1aHdaa3hJazV0MzNCWUFER0o0MWdScXpUTzQ1WERzdlBJWWZicTY5TEpEb1FDMk5taUJoVUhtQVIxc0RqODFIWEJwQUwzY1B3eUxoWVliUkMtUy1PdE5ZRkdrNF8tclF5YXY5Ny1wWXF0YlJkSmlqSUJnMngwQnNN?oc=5",
+          "published": "2026-11-07T22:13:00+00:00",
+          "source": "24/7 Wall St.",
           "related_articles": 1,
           "sources": [
-            "Beinsure"
+            "24/7 Wall St."
           ]
         },
         {
@@ -1307,6 +1173,16 @@
           "related_articles": 1,
           "sources": [
             "shattered.io"
+          ]
+        },
+        {
+          "title": "Cyberattack on French blood banks exposes insurance and healthcare refrigeration risks - Beinsure",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmU3ZHdRR0lPYlpRZmxhZHRsUi1nM2YxU2pzZGNtcThhQ0lSR3NYa0k1TkJtSEdFNWVfd2VJVHM5N3lMZGpaUE1Ya1k3djl2cTZQd3Nmd1RuOXk0UGkxMnJKZ3dRMWV2Mi1WdEdyZEQ0ak9HUE9VUlhRWXZySDMtZWtIX3NocWJHSXphcVVDdWFCRi1wVDczeVlVY1g1WHJi?oc=5",
+          "published": "2026-11-07T12:37:52+00:00",
+          "source": "Beinsure",
+          "related_articles": 1,
+          "sources": [
+            "Beinsure"
           ]
         },
         {
@@ -1321,23 +1197,34 @@
           ]
         },
         {
-          "title": "New companies can't start following cyberattack on ministry of Finance - Belga Share",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV095RFYwczdFZGFzZ3FnYjlCWUNvM3V2MGNldzZWSm9MUENUbW0tZkJoLS1vQUxsbEVXU3dTdXhRUjF3WjU0NHBBVmZockFTUmYwY2hCbG43OEoyQTBtcU9aXzJmYVlvTWZpTkpveXZBNlUzOFFhd0VyOUVkeUllbTFDMlViaDlQMWFZaFFxUk5kbnNxUGFMMnZoQnJremxBN1ZteDNMSnZMU2l5TS1zN1F5MGV3enZudUFHLVhQRVlnZFNFNUNWZm1lYjFrWmFF?oc=5",
-          "published": "2026-11-07T10:31:42+00:00",
-          "source": "Belga Share",
+          "title": "Cyberattack shuts down internet fan fiction library - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdjBUOENLbUppWGw1Y2xvUVF1TUt3VVVKZHZqQ2x5TTFFM1NzWkItQ0FyOEdvRjN4ZFdRb3EtazBsOGtUdlVqaFJ3UjBDX0k0TnlLaE9haDBMQnRydWtrTTliT3pCSFNLN3lVaVlZeHRFd3JEdk5KcHhvNy1qbWxYYmtIdjNEYTNDT2pHSVdaZzlmX3Z2MGtUSFRQSGwyYlpJRWVZaENRUFFZbHNQS1JHT0kyWEVMTVlTeVhnUTdySjdmOVlpYjh6YmF1TDlFdUJrZHJDamlUb3M5eGY2MWMtS1R4cTFPZ2ZlWHRyTnI1LXdXWUExakFnTnRMQWFvZml2MUZ5dzZsWXJNbEM3aXp30gHEAUFVX3lxTE5VTEVYLWNCd29UekdTWG80YVdhMy1ybV9NSUpiY1RJRnh5dzhveE5MM2dEbkE2SFQ0ajI5ZXBfanpocU10UHQwTUNSdTkyMkI5OEc3UW9MTm00aFo1RmRfaklEQXlpVS1qM0JEQ2NSaG5rQzVYcGFlcUk2NnEtRGZmV2FaZ1lCN3lhZS1Ud1pwaUJONmlFR2dXWDZBNWdmZGtOaU5Ob2tCelJOMG9XdFBNeWpNVE9BMGczVFN6TlgyTXQ1bVU?oc=5",
+          "published": "2026-11-07T21:08:00+00:00",
+          "source": "The Times of India",
           "related_articles": 1,
           "sources": [
-            "Belga Share"
+            "The Times of India"
           ]
         },
         {
-          "title": "Cyberattack shuts down internet fan fiction library - IraqiNews",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS2RnWDcyc29OUjNpTUVOV3R4OXlxZzhCZ1V5NGc4M0k0WEhnRWdvTTFlS2JoZ0w1UDN2dTdxd3UxTzE3WmVRTEk1bnUwRGVUSDE5Uzd5R2VmV3VxRDE1UF9PRjdFdHVNVHZsdDNaX3VfTGFpV1NlTmNPUW5EamhpRDhxcWpSQ2VVNEww?oc=5",
-          "published": "2026-11-07T10:36:16+00:00",
-          "source": "IraqiNews",
+          "title": "Fridges stand empty in Belgian supermarkets after cyberattack - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSU9tVzFMQVRvNGhVcEttQXVPcnpMQXZDcEZGT1loRmh1Q1J1a1BycklydENYU1doNmwzYTJpZGtOYU1wYzdoMTVHNE9sa0lqRnVUOVVPd2Nqc2xRU1NrOEpXMElvRy1BbTFlc2hCaXJGallpcC1NcURSOS12Uzg5TUdEc0xJdV85bUNtckJrMFFlQWVQbE12dkZ6Zk02QQ?oc=5",
+          "published": "2026-11-07T14:31:13+00:00",
+          "source": "Yahoo",
+          "related_articles": 2,
+          "sources": [
+            "Yahoo",
+            "Yahoo News Canada"
+          ]
+        },
+        {
+          "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHowRm54MU5LWlVBYnlLY1hDamdLRXR3T2xsaTVLMll4bk9PZ1lRX3BCeXJtYWFmMGFQazZzRmpBeEdaS2kzTU9sN211SFlFRjM0QU9kSERJUk5yZS15RDhHTUlfWjk3b2Q5TFk1ZFFlcUZJYmJaUHFqRDBwQURTbWY5X0pxRmxmLVY0eWpLdEFCUnBGRGdROGkyQnBsUQ?oc=5",
+          "published": "2026-11-07T10:32:52+00:00",
+          "source": "The New York Times",
           "related_articles": 1,
           "sources": [
-            "IraqiNews"
+            "The New York Times"
           ]
         },
         {
@@ -1351,13 +1238,13 @@
           ]
         },
         {
-          "title": "Cyberattack on Blood-Storage Systems Tests Cold-Chain Defenses - Lab Manager",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGM3c2Y1QmF4M1oyc0o2YkJDYTN4NDBEbG1vMWo3cFhMNzEtZmVrUjlNN1F3TXd6S1FEMC1SbDRYRVJpMVhVdzhNaUVDcXBCcmJMd215Wm9FQ2VJc2VpQkN0NVZ1clVKVkxnZVpObnI0QXJHRmNnLXRWWFNITW4wa0xEbWt3NExPUUYtMC15cUxHbDctUTRhTnBqQQ?oc=5",
-          "published": "2026-11-07T00:11:13+00:00",
-          "source": "Lab Manager",
+          "title": "Fan Fiction Platform AO3, With 11 Million Users, Down for Ninth Day After Cyberattack - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yeDVpZkN5aWdoeU9Dc0J3LV96TmpfbkxJWjhNeXJFS2ZpT29yRWIzblZUUldvanhtUGtlTU5JbTdvYlBBU2NlQXptUG5GNGNpRkp4X0RhRkYyMVVBVGdiazI2dEVvZHZIZjZWQUVxdTBSYjNLSVE?oc=5",
+          "published": "2026-11-07T20:35:00+00:00",
+          "source": "BigGo Finance",
           "related_articles": 1,
           "sources": [
-            "Lab Manager"
+            "BigGo Finance"
           ]
         },
         {
@@ -1371,33 +1258,13 @@
           ]
         },
         {
-          "title": "Nearly a week after cyberattack, Turning Stone still dealing with tech and phone outages across resort - Syracuse.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkNRM3dmM0lEc2V0SVdnSklmMHNibUNneXZuSnVjM0FtMFRYV0FRR3hBdXRGY0NFRW1xY0JsN3h4M2FIZlNVZk9XalJzTjNlU1BRTVpDVFZSd0xOVGExQkszaE1jNC1ZZWhXMGVNUUhyaHRnNmpQZ2U1OVRvdDhQMHhnOUJvMHVUV3BTMnh3V2tyanJycVpzT3BWUEJUR3dVcGR0ZFo4SWs3YXF0MHNhcGJxeVdkOEhtenVPSHVmbWFCTVFSb09td0hSbkFUQ2hZU05sTlBDaHNvSElMLWo2bEx3?oc=5",
-          "published": "2026-11-06T23:14:00+00:00",
-          "source": "Syracuse.com",
+          "title": "Crédit Mutuel Arkéa says cyberattack enabled fraudulent transactions - Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQXZLSEhyenRGSjJzbUhXSHFObmZnRERVZlFNY3oxc0hIaHFxN1lDeGdfNE5OY1RMWTBYNHZmamlRbEo5eXB5Q01YbTZTamxZMUFQQjhmd25QbFlCZzIxRW1hZHVOcnJlemRKaC1QRDNUMlZRWlk5aGJ0VTN5VkU2OThHY20?oc=5",
+          "published": "2026-11-07T15:40:04+00:00",
+          "source": "Mezha.net",
           "related_articles": 1,
           "sources": [
-            "Syracuse.com"
-          ]
-        },
-        {
-          "title": "Fridges stand empty in Belgian supermarkets after cyberattack - Yahoo News Canada",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3hRS25WdDdQRldxZEJta2t0RnBRVVpfY0pTLWFmT3g4VjNHUEVTV2g5VDFaT240cHFxdEw4cldDMkJVdzNKMmFPWWRKczJEODltYzlRTGNIOEc4STNEaVo3TXJkblFvR00yMmU1cDByUmZMd0NuRFJfMjRSYzI1cW8zRE0wVHRn?oc=5",
-          "published": "2026-11-07T14:31:13+00:00",
-          "source": "Yahoo News Canada",
-          "related_articles": 1,
-          "sources": [
-            "Yahoo News Canada"
-          ]
-        },
-        {
-          "title": "Italy Blames Pro-Russia Hackers for Cyberattack - Briefs Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1BEdWtvVzhIZzlwMTNncjg3WnVSZ3dxNVNfakNsUlNhTlF4QW43RmppT2l0RXhZLVdfS2JXeG5SNXF6MzVES2h0UldlZzlocWNoTlpxcFJubWtGYm1RN3dOSG15bjRGNWpTT1VYMmIzaV9GR0FRaENqLUJodXl4b3M4Q0dOR2RGRHhuMGxEeVlQUQ?oc=5",
-          "published": "2026-11-07T12:35:00+00:00",
-          "source": "Briefs Finance",
-          "related_articles": 1,
-          "sources": [
-            "Briefs Finance"
+            "Mezha.net"
           ]
         },
         {
@@ -1411,6 +1278,16 @@
           ]
         },
         {
+          "title": "Cyberattack on Blood-Storage Systems Tests Cold-Chain Defenses - Lab Manager",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORGM3c2Y1QmF4M1oyc0o2YkJDYTN4NDBEbG1vMWo3cFhMNzEtZmVrUjlNN1F3TXd6S1FEMC1SbDRYRVJpMVhVdzhNaUVDcXBCcmJMd215Wm9FQ2VJc2VpQkN0NVZ1clVKVkxnZVpObnI0QXJHRmNnLXRWWFNITW4wa0xEbWt3NExPUUYtMC15cUxHbDctUTRhTnBqQQ?oc=5",
+          "published": "2026-11-07T00:11:13+00:00",
+          "source": "Lab Manager",
+          "related_articles": 1,
+          "sources": [
+            "Lab Manager"
+          ]
+        },
+        {
           "title": "French bank hit by €100 million cyber attack recovers some funds - Le Monde.fr",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNHpiT2dKWWZ6SGJrSF8yeDVSUXE0UXZpTm1hTmxURGl2MU5TN2RCZE1IdFYyRDU4S05aOF95UjUtaHMxNWFqSUZMUGtIcTJnOEtYQ3ZLWUxpTm5EMEgweHp3dzVLUnJBajRUR3RfSlRUNXptNE92UURHWngxLXJVMVhkU1ZHeTJjSUIyYXlLZ19hZ3Y2LWxhNTFzSTE2bXN0aU1QZldnSnZqcDZLckJMaHEzeFdqSW1rTFFWX3hDZnRkWGFLbzBiUUVERXVzT3hz?oc=5",
           "published": "2026-11-07T09:18:07+00:00",
@@ -1418,6 +1295,46 @@
           "related_articles": 1,
           "sources": [
             "Le Monde.fr"
+          ]
+        },
+        {
+          "title": "Italy Blames Pro-Russia Hackers for Cyberattack - Briefs Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN1BEdWtvVzhIZzlwMTNncjg3WnVSZ3dxNVNfakNsUlNhTlF4QW43RmppT2l0RXhZLVdfS2JXeG5SNXF6MzVES2h0UldlZzlocWNoTlpxcFJubWtGYm1RN3dOSG15bjRGNWpTT1VYMmIzaV9GR0FRaENqLUJodXl4b3M4Q0dOR2RGRHhuMGxEeVlQUQ?oc=5",
+          "published": "2026-11-07T12:35:00+00:00",
+          "source": "Briefs Finance",
+          "related_articles": 1,
+          "sources": [
+            "Briefs Finance"
+          ]
+        },
+        {
+          "title": "‘People are in withdrawal’: Fanfiction fans left hanging as cyberattack shutters AO3 - Malay Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFN4eC1lZldnbTIxdjkwUFdFcC1fVlVQanNlT05VYXpTZ2hEN2hpLTBNXy00azlyZm9wcFQ2THJmRDBjZnZGVFVIU1VGS0E5UFhaMEp2ZnNLaFZDMjBaSXZ3cGRzWlhwenBrcmp5YmU0M2dacVBGSlNhM2lHVDhRV2xtQjlqR3hBbWgzYWRlVFBiRWJqVFdJaXg3eEVfWDIxdzZ1RTA5WkpPWmtFZVJmeWNSMTd2Z21adF9rWFVIS09CUWMwMlgyTDhXcWw5Vk0y0gHWAUFVX3lxTE1WaE9aR3NxX05mVHd4VmszOU04VUN0OE9acGpNRklHLXRwWmI2XzlYYjFHV3Yyelhua3JGZkhYYm5EZ0t1cWxEZmlCUGVGZFFuaE9PdV9TMVdJb0pnS3J6T01TMnlJVjM2M0pjaVV6TVhjVmtYVm5mNWZWS25ERlRqa1BsRlUxazZONnVzRmJtenFhQ3gzaXNzS1BtSUZWZW03eXRUNGl4MHdsaGF5aDJCVHpVblZjV254Y3dkTG1ERF9LdE54Vkt0b19XSm5IcWpUZHF3c3c?oc=5",
+          "published": "2026-11-07T13:01:31+00:00",
+          "source": "Malay Mail",
+          "related_articles": 1,
+          "sources": [
+            "Malay Mail"
+          ]
+        },
+        {
+          "title": "Nearly a week after cyberattack, Turning Stone still dealing with tech and phone outages across resort - Syracuse.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVkNRM3dmM0lEc2V0SVdnSklmMHNibUNneXZuSnVjM0FtMFRYV0FRR3hBdXRGY0NFRW1xY0JsN3h4M2FIZlNVZk9XalJzTjNlU1BRTVpDVFZSd0xOVGExQkszaE1jNC1ZZWhXMGVNUUhyaHRnNmpQZ2U1OVRvdDhQMHhnOUJvMHVUV3BTMnh3V2tyanJycVpzT3BWUEJUR3dVcGR0ZFo4SWs3YXF0MHNhcGJxeVdkOEhtenVPSHVmbWFCTVFSb09td0hSbkFUQ2hZU05sTlBDaHNvSElMLWo2bEx3?oc=5",
+          "published": "2026-11-06T23:14:00+00:00",
+          "source": "Syracuse.com",
+          "related_articles": 1,
+          "sources": [
+            "Syracuse.com"
+          ]
+        },
+        {
+          "title": "York University cyberattack: Government IDs, financial information stolen - TorontoToday.ca",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmk0NVRBal8tS3hKRjVUUGxLd2h0VjZvTDhxVUlPWFZaN2Q3RW14NGFIX0ZSZFAtTnNrSjEzcFpDbXhVWER1YktfbDVNTVA3cF8wR20xSElCemFxTmFKS2FwUmUwR2d1UnB0Yms5NUxrNEZYQm0wNGVhdWRUdTZZRExCeEo0UExOQTVYUXZjUXRnSlh5V1ZSSmt0VmZSbEwwbkJHbi15U0MxWGtTVDdSRlkzWEtTa1FvaVlrTnlLOGhfQQ?oc=5",
+          "published": "2026-11-07T19:27:33+00:00",
+          "source": "TorontoToday.ca",
+          "related_articles": 1,
+          "sources": [
+            "TorontoToday.ca"
           ]
         },
         {
@@ -1461,13 +1378,13 @@
           ]
         },
         {
-          "title": "Jacksonville Memorial tests cyberattack response in statewide hospital drill - Jacksonville Journal-Courier",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmVXeFBrWXVDdnZXTlZNcTFISkpreHVEM2JoNWJac1VIVFBmWDlBMVRyZktnZkdDSjBxMFg4aEpQbC1xU0xMTmNhWlpfU0FtdEpjSGd5ZHFEWmVfX0hYWlR1emliSHJPZlFLekluOURiQnMzM0xsT0UtSlNoUlUxS193UXQzMjRtSll3WnZUT2tBejlyNEYzZmJQZWxVczlwVjM0RUc5QQ?oc=5",
-          "published": "2026-11-07T00:04:25+00:00",
-          "source": "Jacksonville Journal-Courier",
+          "title": "Fan Fiction Site AO3 Offline for Ninth Day After Cyberattack - Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekFIUkNfLUtWNUprRDZuNGJBYzU0TzFqTmtCMGxVTzRUdkFLODdWQ2FrZVdpdlZxb1lTSG45VzhVSUhPZjhOYWdMeHp5OFJhZVVXdTlKM3JrelZHVEticE01N2ZXdUZEM1hLLWhmeURIZ2ozbmZRMUtaX3Z0ZjlLZ29PdkgtTEpteTBheUpwZ1NwV2hpMTN1VVkyTm5MUGpTU3N6YWVPNmc4ci1D?oc=5",
+          "published": "2026-11-07T13:03:15+00:00",
+          "source": "Seoul Economic Daily",
           "related_articles": 1,
           "sources": [
-            "Jacksonville Journal-Courier"
+            "Seoul Economic Daily"
           ]
         },
         {
@@ -1481,33 +1398,23 @@
           ]
         },
         {
-          "title": "Fan Fiction Site AO3 Offline for Ninth Day After Cyberattack - Seoul Economic Daily",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekFIUkNfLUtWNUprRDZuNGJBYzU0TzFqTmtCMGxVTzRUdkFLODdWQ2FrZVdpdlZxb1lTSG45VzhVSUhPZjhOYWdMeHp5OFJhZVVXdTlKM3JrelZHVEticE01N2ZXdUZEM1hLLWhmeURIZ2ozbmZRMUtaX3Z0ZjlLZ29PdkgtTEpteTBheUpwZ1NwV2hpMTN1VVkyTm5MUGpTU3N6YWVPNmc4ci1D?oc=5",
-          "published": "2026-11-07T13:03:15+00:00",
-          "source": "Seoul Economic Daily",
+          "title": "New companies can't start following cyberattack on ministry of Finance - Belga Share",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd3M4ZzNVUjJYU1FiZU5GZThrYzNWOEtQc3ZMaXZJWnhWR003eHZfSHlra3ROVHNvQmxIVUNMem81WnUyQUZRN2JmRUtINFc1WXhVeW9yWWxKWE4xV1BCRXNpNVhvb1ZwY2VvNXJibmRLZ1NKem9JUmlGUU54V3ljVU5qMFNZc1RZYXBBOTB4eXpWTXpZX1N4c1RmX2J5ZWtEZkh0clVEWlJjbzhRZVdVREY2RUliOW9TZVBjcy1hSEJQNjBq?oc=5",
+          "published": "2026-11-07T10:31:40+00:00",
+          "source": "Belga Share",
           "related_articles": 1,
           "sources": [
-            "Seoul Economic Daily"
+            "Belga Share"
           ]
         },
         {
-          "title": "Giant Food parent Ahold had strong third quarter; says fourth will be different story due to cyberattack - ABC27",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZU56RHE1cElDSmpZSmtFeVdiSWNFVUc0VEZnY2ZDQWJfRUtJMWFVb1AtM2lnZHJCSW5nTTRNbTJDR3dfcVZtY01Eb0dCR3pZMWpPVEViM0NWWnFaeWJQVDRwZzR0bXBZaWZvRjB6SU00SGlwSExkcnN4c1I3OHJ3SG5oWExzTGltdkVoU0NFcjVTU3E2MndEX1NKcUt6ZUhjdFY0V0NpMkI3MndkeUdZODgwLWhpMk5ZWHZwSzI3dVhRc3pleTdxR2xWSdIB0AFBVV95cUxQQzllU2Y5QWZUUjVOcHdxX1kxRXFuRWl1TkVoYVlTQXEzREhMRzFFZmhwUzEwdXJXaWlqcmllZ1RuLUwzTjFHbmxUMnpRekp0aTNIMURMcHJmUlhlTEZIbVRLdUc2LVVEVHBXNW10dVJSOXVFNDdxeHBEMUJPY0tQRUZvQy00b3RMRS1FeGxyVVNMQnVoM05GbllZd2JKZTZROFJCaXJaRGlhb0FxNktXQ0xHSk5zbzFqRWhkSzh0ZFVVbnZFdVFOam9GeFpUNFQ3?oc=5",
-          "published": "2026-11-06T20:27:27+00:00",
-          "source": "ABC27",
+          "title": "AO3 fan fiction site down for over a week after cyberattack - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54aGZqcFV0em9ueFhZNDhxZHpvR3RtczFHelVJQWZXQWtLS3lLVE9zSGZFb2d4VWwzSHpFYmI3Qk9Mbl9nSTV2RW8tQ3NLU1hfN3J3U01Ebw?oc=5",
+          "published": "2026-11-07T12:46:10+00:00",
+          "source": "헤럴드경제",
           "related_articles": 1,
           "sources": [
-            "ABC27"
-          ]
-        },
-        {
-          "title": "Russian Federal State Statistics Service says it was hit by massive cyberattack — hackers steal 23TB of data, including Ukraine war casualty figures - TechRadar",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVm9MQjZPM0NxODkwd2ctamVqbXlwTGViN29KU2ZjejJrczRKWGVkN3d4WWsyZTdNOFlCUm5pclJTcXpucG01XzlEejR1TWRWd3JwY2MyRjYwcFJOdGUydXpIbGFPNTU0aHJHMm16aUZFMzFWd3lWeWxnRFdtUTBvU3QyUFlFa00wam4zNkN4bjlJamRzajYzMGZlVVgtX1F3M0hjRHU4c1d2cTFDY3pUak1GUVNnU0tCZDFPZ1hicTc0OTFDUHFsNGVFaE4ydFJuUHhseVBLT3BjTzE0b0NPTTRybWFQTWhLN1hNQ3VOdGd1SUpnZnVWVmJvNmphQlV1Sjd6SXl4d3VxSm1MWjMwb0FR?oc=5",
-          "published": "2026-11-06T21:10:00+00:00",
-          "source": "TechRadar",
-          "related_articles": 1,
-          "sources": [
-            "TechRadar"
+            "헤럴드경제"
           ]
         },
         {
@@ -1521,23 +1428,33 @@
           ]
         },
         {
-          "title": "¿CIBERATAQUE A CONGELADORES EN EUROPA Y EL PENTÁGONO? - Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YdVl5bFlONDVLcGhDNUZiY2ZSWTd5LUx0eUZsTUtnRWNTT21HeWRGdFNPNmlvTV9XVFYySERfaGM0NmxLczY5TEdTcmJwWWcyOEp1cTNn?oc=5",
-          "published": "2026-11-06T20:34:15+00:00",
-          "source": "Fox News",
+          "title": "Jacksonville Memorial tests cyberattack response in statewide hospital drill - Jacksonville Journal-Courier",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmVXeFBrWXVDdnZXTlZNcTFISkpreHVEM2JoNWJac1VIVFBmWDlBMVRyZktnZkdDSjBxMFg4aEpQbC1xU0xMTmNhWlpfU0FtdEpjSGd5ZHFEWmVfX0hYWlR1emliSHJPZlFLekluOURiQnMzM0xsT0UtSlNoUlUxS193UXQzMjRtSll3WnZUT2tBejlyNEYzZmJQZWxVczlwVjM0RUc5QQ?oc=5",
+          "published": "2026-11-07T00:04:25+00:00",
+          "source": "Jacksonville Journal-Courier",
           "related_articles": 1,
           "sources": [
-            "Fox News"
+            "Jacksonville Journal-Courier"
           ]
         },
         {
-          "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHowRm54MU5LWlVBYnlLY1hDamdLRXR3T2xsaTVLMll4bk9PZ1lRX3BCeXJtYWFmMGFQazZzRmpBeEdaS2kzTU9sN211SFlFRjM0QU9kSERJUk5yZS15RDhHTUlfWjk3b2Q5TFk1ZFFlcUZJYmJaUHFqRDBwQURTbWY5X0pxRmxmLVY0eWpLdEFCUnBGRGdROGkyQnBsUQ?oc=5",
-          "published": "2026-11-07T10:02:18+00:00",
-          "source": "The New York Times",
+          "title": "ARTEX AI Hacking Framework Found on 1,465 Public Servers, Some Hosting Cyberattack Tools - CyberSecurityNews",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTkpnMWRRVmYydWp5UlUtVVIyQl9TRWxELXBITHBmdERhWFVSU0VKcmFTblgxY3lmWnFyTmdTdVBIU0J6azNvS2JUelJoaXNrTFAxX2x2U3NyU0hCYUN4azBOTi14WHlJ0gFuQVVfeXFMTXVSUmtscFVkOWF2eENtXzVENnktUDRrTXRKQ3pQbm5MMkdoSHpIUnFVUE5oYUpQT3lVRUhPbTVCYTl4blhmdzFVYmN2OVJzaTVMbVZneTJGaGxPcFRMUmEtbTE5eVlGMXNPOWU0Q1E?oc=5",
+          "published": "2026-11-07T02:03:45+00:00",
+          "source": "CyberSecurityNews",
           "related_articles": 1,
           "sources": [
-            "The New York Times"
+            "CyberSecurityNews"
+          ]
+        },
+        {
+          "title": "Hackers pull off $133 million French bank heist via service provider - BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2o1TzNmUFZlOW5PbndxaVBSTlJ2VHBHcm5ZTkRUN1NoWGg4THNGOVhNRW5yWDJRTVBzQkdRY2pNZlBkQkN1WE9ncnFUN0d3TEJwd195aGN3RjJlMnc1S1U0S3RoVUtfT3RqTEtGbDd2Vzdibk8zekFCS2dqc0pyNmF3VXhMYS1zUF8zQ01JYlZHYm9VU3ZjTzR6MDNDSWZNek5PalBMQzh3YlpzLVU5SmUzeUppdw?oc=5",
+          "published": "2026-11-07T15:25:35+00:00",
+          "source": "BleepingComputer",
+          "related_articles": 1,
+          "sources": [
+            "BleepingComputer"
           ]
         },
         {
@@ -1581,16 +1498,6 @@
           ]
         },
         {
-          "title": "Cyberattacks target Italian foreign minister and Brenner Base Tunnel - Euronews.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU84Nnk1RnJCSVRMWHB6Yk02dlVTMnN4dW51X2hzOThmM3BMNE5wSDh3NjBNa1ZEbHEwVm1rT0VOQWh5Yk1YM0hHRy1IM1lOMGUwOVcwYWZRZlBGamwzalJwQ3pCX1ZWOHNITG5zXzVaMV9HZVh4aU9xOWtCdXJIcl83LVBOcl9lZ243NzQ0OWJhV3FoMkFfZGpzMjZwd3Fqa3h6b2FBOS1SeElHMlpFQjZLR01oSnRxUGdFdFRjMGlLV2tv?oc=5",
-          "published": "2026-11-07T12:28:24+00:00",
-          "source": "Euronews.com",
-          "related_articles": 1,
-          "sources": [
-            "Euronews.com"
-          ]
-        },
-        {
           "title": "From supermarkets to blood banks: what a cyberattack can paralyze - Demócrata",
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORUFCUmtfMDFCeHU2emJOOVIwQmRmcXRtc19KcEdBYXRneDZhYUNBSGo5Zlc4dVM4SlNobU80QURXdWZjR2t6RXFfN0l2WU5qcFZmVl9fNWZzVmc5NVk3SkdtbmJLWHdLV0h5QTRYRVo2LVhxNVVOcGhhcERVWHJKLUZ5QlFqTzg1UTZPT2tGWkFZRTFWUWt5Y3NwbjFMNlppLXJSVVdBTGZFWFVLdFZqOHlsRHc4QkUxUlV5aXlSLUtka0U1cWRoQjlPUUdHc19ib3dQcXNOdUVZYmt5czl2MU9NZktRY1ZvbzlpVWp2WGZodVhMcUR3QmdueHdjS1XSAYQCQVVfeXFMTzh3Q2ZkUllFbjBNU3pYODJOWlRPcmJuNHpNNmN4WnBIRTl1NmJ5S0F2bldUczVlN3ozRHZrUThMS2Y2a1gtZ3ZZZDcyX2FTZm1CM2xyWnl2R0w3V3FWR0pLS3V0ZVJoYXZfM0lfeUpVT1IxZkVOX2FhaVI1WEVTNl9XSVdpamhfWDh2QzZoV2xrb3NibWtzckxXNE9MbG1zRTBINnJpR1kyc05BUWxRUV9oQzR0WjlsQzBSVkpkRDFJSEpNQkNLcDRkOEYzczhsTFFjRjZGRDlyaHdfbmoyUUstSmhqYlp2NlhYaV9jY2xueTMzazBGNjNwQ19ZYUhsRXRITko?oc=5",
           "published": "2026-11-07T17:06:38+00:00",
@@ -1598,6 +1505,16 @@
           "related_articles": 1,
           "sources": [
             "Demócrata"
+          ]
+        },
+        {
+          "title": "Cyberattacks target Italian foreign minister and Brenner Base Tunnel - Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU84Nnk1RnJCSVRMWHB6Yk02dlVTMnN4dW51X2hzOThmM3BMNE5wSDh3NjBNa1ZEbHEwVm1rT0VOQWh5Yk1YM0hHRy1IM1lOMGUwOVcwYWZRZlBGamwzalJwQ3pCX1ZWOHNITG5zXzVaMV9HZVh4aU9xOWtCdXJIcl83LVBOcl9lZ243NzQ0OWJhV3FoMkFfZGpzMjZwd3Fqa3h6b2FBOS1SeElHMlpFQjZLR01oSnRxUGdFdFRjMGlLV2tv?oc=5",
+          "published": "2026-11-07T12:28:24+00:00",
+          "source": "Euronews.com",
+          "related_articles": 1,
+          "sources": [
+            "Euronews.com"
           ]
         },
         {
@@ -1611,43 +1528,13 @@
           ]
         },
         {
-          "title": "Hackers steal about 100 million euros from French lender Credit Mutuel Arkea in rare bank cyberattack - teiss",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXNPTE43bk9aRVRJOENPZ2czcjJxRmFONE4yaTBZMjQ2Zmhyd2ttQjY5UDJ6Q0tWM2ZBS3gzM041YnhkTEw0NGRtNE1EYTQ3X2xDTGFYdndrc0hqYkpVdFlLSG11LWxUSUpHcF9UenR4MEZDVUpKWGlFWW9fdnpoMHIzbnotTlJaM1k3TmVpSDBhb2RLWG80Z284REVjdFZfdVhlWWdtSXRUVllySlJERVVDZlR0dDk5c3pPVmVrTEc1Ym53NEF2R3dwWlZkbVhOOXc?oc=5",
-          "published": "2026-11-06T23:59:28+00:00",
-          "source": "teiss",
+          "title": "Keystone discloses Nexus app cyberattack, its third security disclosure in two weeks - Cryptonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xWmdVb1pfV3k1Zy1ZZHdPa3hIdTFCUzlaOFlKVzhYLXVNWHgzaVZabElSa3V4a0NOWndCNFpTQXpSalc1SkhWR3dQekJIeWh1VzhlSDJfODc5UQ?oc=5",
+          "published": "2026-11-06T23:19:59+00:00",
+          "source": "Cryptonews.net",
           "related_articles": 1,
           "sources": [
-            "teiss"
-          ]
-        },
-        {
-          "title": "Hackers pull off $133 million French bank heist via service provider - BleepingComputer",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2o1TzNmUFZlOW5PbndxaVBSTlJ2VHBHcm5ZTkRUN1NoWGg4THNGOVhNRW5yWDJRTVBzQkdRY2pNZlBkQkN1WE9ncnFUN0d3TEJwd195aGN3RjJlMnc1S1U0S3RoVUtfT3RqTEtGbDd2Vzdibk8zekFCS2dqc0pyNmF3VXhMYS1zUF8zQ01JYlZHYm9VU3ZjTzR6MDNDSWZNek5PalBMQzh3YlpzLVU5SmUzeUppdw?oc=5",
-          "published": "2026-11-07T15:25:35+00:00",
-          "source": "BleepingComputer",
-          "related_articles": 1,
-          "sources": [
-            "BleepingComputer"
-          ]
-        },
-        {
-          "title": "AI tools increase cyberattack risks - The Express Tribune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54R3VPZ0gwLUJKaTJXQi12d3cxNVNFekxKNXEtTGNHeDN1WmlGZ0ZKTFNwRUd1eTY4amxUTUw1bDdiU2xVLVpKcHNVbWlaMUg3UEd3UDZpbDFQQzNNd0I0X1h3YlhhZ2FodkFjRDFwcjNUdTA5aG5DeVU5YzXSAYQBQVVfeXFMTjdzSkxKQ3I4Zk8xak9Ka0R4WE9FaFlUTmY1dnkwb250di05dHQzZU9IX043VUpqZTlWNlJwUWhDMmtJR0RDc21YTDQzUkdXV0ZvQWdybXI3Q3VNSEU5UktSdmk5Q1FPd19MTGZEZlhXMHdHZ1dzZlVOZnpUcTIyOWdWSEpL?oc=5",
-          "published": "2026-11-06T22:20:25+00:00",
-          "source": "The Express Tribune",
-          "related_articles": 1,
-          "sources": [
-            "The Express Tribune"
-          ]
-        },
-        {
-          "title": "GMO Cyberattack: Secondary Damage Persists After Servers Shut Down as Stolen Credentials Become the \"Loophole\" - BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pejNEc0wxaGxJLXZmUXYzZ01zMVZDbWZBUlQ4Z3ZNVGdkZWw5UE16bTItMDVGV1dJN1BUSXlxZ19vZmlqUE5FR3JoQ0JRdHY3Q3ptaGxhRUQxWFNjeFNQdUhyREJuUGdQbDhFd0E2YlRKZVQ0SkE?oc=5",
-          "published": "2026-11-06T21:35:00+00:00",
-          "source": "BigGo Finance",
-          "related_articles": 1,
-          "sources": [
-            "BigGo Finance"
+            "Cryptonews.net"
           ]
         },
         {
@@ -1661,13 +1548,13 @@
           ]
         },
         {
-          "title": "Regional airline suffers cyberattack - CTV News",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3dWeG1wNXVYSWRnTmxqVGlGWHVLZ0hqSUphWGtkRXEtUUFVcG5oamk5WE9LUFdBcDFkN3NwNkNYSEhrUUZuWU1XSEhpWV9CbTc2dUo3TEpCYTIyTTQ0c2NNbVdSMkM4d005dG45eWRmRmZ1aDEzcTRyNEsyRGZsTklneVZFZGo5MUQ3MjVB?oc=5",
-          "published": "2026-11-06T23:23:52+00:00",
-          "source": "CTV News",
+          "title": "Hackers steal about 100 million euros from French lender Credit Mutuel Arkea in rare bank cyberattack - teiss",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXNPTE43bk9aRVRJOENPZ2czcjJxRmFONE4yaTBZMjQ2Zmhyd2ttQjY5UDJ6Q0tWM2ZBS3gzM041YnhkTEw0NGRtNE1EYTQ3X2xDTGFYdndrc0hqYkpVdFlLSG11LWxUSUpHcF9UenR4MEZDVUpKWGlFWW9fdnpoMHIzbnotTlJaM1k3TmVpSDBhb2RLWG80Z284REVjdFZfdVhlWWdtSXRUVllySlJERVVDZlR0dDk5c3pPVmVrTEc1Ym53NEF2R3dwWlZkbVhOOXc?oc=5",
+          "published": "2026-11-06T23:59:28+00:00",
+          "source": "teiss",
           "related_articles": 1,
           "sources": [
-            "CTV News"
+            "teiss"
           ]
         },
         {
@@ -1681,16 +1568,6 @@
           ]
         },
         {
-          "title": "Japan announces emergency cybersecurity package following a wave of attacks - The Washington Post",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU0cyMU8tQ05XTjVFSWRmMFAzbnZVaU5fVDVDYUh3LVFpaFUtcTlwdlFPSWVKVmdkeGRoSDZDQXVmSGhTMWU1VVhUcl9PMFFhdHVkRWlPX2QtMWIzNkotNE5YMTBxUE80MHQ0cXJJVUtQRmdWdjF6aGJEeVl5NW9JT2o1YTdiWnFFcU1rZnZ3Y2w5aDAxR2RUek1ZMWM1dXdSRy1CME5NR19xRUJwQXVaM0F5ejBrcDl1MnBuYnNoZ1oyUFRBYXAxWFBPclRGOVk2c1k4NjR3NXlLVFp5b1hINkQwY2pEZkZEWmtuUldsbw?oc=5",
-          "published": "2026-11-06T22:32:51+00:00",
-          "source": "The Washington Post",
-          "related_articles": 1,
-          "sources": [
-            "The Washington Post"
-          ]
-        },
-        {
           "title": "NTT Docomo chief says personal info breached in cyberattack - Tuoi Tre News | The News Gateway to Vietnam",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdnFiSEoxMEdMdDBhNnY1UTVqNUZ0Q3Y0SXQ4ZDNmV3JaRGY2RmZQZjkxNGw5MVBGUFdKcjdjMlJ6WGk2Z2hLYWFyWWpIZTNpdGp1U2NxSmJXRUxLelpxS3Bzdm9QZHFlTzFaVHJrTVFfb1ZXaTFkMi1jQ3pKZnpwRGdlQjVmRllFbms4d0kyMzBpX053T0dRdzJtRVpPeVMyV1NmcnltQ1k3QQ?oc=5",
           "published": "2026-11-07T05:56:00+00:00",
@@ -1698,6 +1575,16 @@
           "related_articles": 1,
           "sources": [
             "Tuoi Tre News | The News Gateway to Vietnam"
+          ]
+        },
+        {
+          "title": "Regional airline suffers cyberattack - CTV News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3dWeG1wNXVYSWRnTmxqVGlGWHVLZ0hqSUphWGtkRXEtUUFVcG5oamk5WE9LUFdBcDFkN3NwNkNYSEhrUUZuWU1XSEhpWV9CbTc2dUo3TEpCYTIyTTQ0c2NNbVdSMkM4d005dG45eWRmRmZ1aDEzcTRyNEsyRGZsTklneVZFZGo5MUQ3MjVB?oc=5",
+          "published": "2026-11-06T23:23:52+00:00",
+          "source": "CTV News",
+          "related_articles": 1,
+          "sources": [
+            "CTV News"
           ]
         },
         {
@@ -1711,13 +1598,23 @@
           ]
         },
         {
-          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers - Ars Technica",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOXzFtYjJFb0NYeHFvWlFENUlIUDBjVlFMZGVOZmR5dFgtck1fNmc1Z1JWMVBVaERwMTM2SjZOMy1ldzdqcDRHQTdjZUJRSDRKSkZ3Uy13NTFISV9UUklPRnFJQVlvRnotZkVHQXJpRXBzYWx2ZGRPN3BFb0E0RTJSUlBPLXNKQWtvZUtmbWF1V3dRTlJWdjBERlBERTVBYnNlTVpDb0FiQUxoMV9zbkFySjZFRUZZY2d4WVIxdw?oc=5",
-          "published": "2026-11-06T20:56:41+00:00",
-          "source": "Ars Technica",
+          "title": "Mirae Asset Securities hit by cyberattack, data of 39,000 exposed - 헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rTFRHVWd0aXp5YmVBd0d1ekY5Y0ZEN1M4ck9lYWhUczh3NWtFa1F4VThxWkVhTUZuUmRaN01YUUpnRHJLdmxhSklYZXBwZ0FJQVhZa2xxVQ?oc=5",
+          "published": "2026-11-06T23:19:46+00:00",
+          "source": "헤럴드경제",
           "related_articles": 1,
           "sources": [
-            "Ars Technica"
+            "헤럴드경제"
+          ]
+        },
+        {
+          "title": "Japan announces emergency cybersecurity package following a wave of attacks - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPU0cyMU8tQ05XTjVFSWRmMFAzbnZVaU5fVDVDYUh3LVFpaFUtcTlwdlFPSWVKVmdkeGRoSDZDQXVmSGhTMWU1VVhUcl9PMFFhdHVkRWlPX2QtMWIzNkotNE5YMTBxUE80MHQ0cXJJVUtQRmdWdjF6aGJEeVl5NW9JT2o1YTdiWnFFcU1rZnZ3Y2w5aDAxR2RUek1ZMWM1dXdSRy1CME5NR19xRUJwQXVaM0F5ejBrcDl1MnBuYnNoZ1oyUFRBYXAxWFBPclRGOVk2c1k4NjR3NXlLVFp5b1hINkQwY2pEZkZEWmtuUldsbw?oc=5",
+          "published": "2026-11-06T22:32:51+00:00",
+          "source": "The Washington Post",
+          "related_articles": 1,
+          "sources": [
+            "The Washington Post"
           ]
         },
         {
@@ -1741,26 +1638,6 @@
           ]
         },
         {
-          "title": "Banks, utilities among services put on alert against AI-enabled cyberthreats - Dawn",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pTmxnTFluSmRIczB5azhzN09IZ2ZzZm85ZEpmcWl6c29FQmFRanM5RUtuVHZGOExmUG9kdmVrQ3BKUWN4LWxXZQ?oc=5",
-          "published": "2026-11-06T18:56:21+00:00",
-          "source": "Dawn",
-          "related_articles": 1,
-          "sources": [
-            "Dawn"
-          ]
-        },
-        {
-          "title": "From smart fridges to toothbrushes: Could your everyday devices be helping cybercriminals? - Irish Examiner",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVUVOdWllWGNMb1NxbjZWbEpIeUpPb1liZFVsQVNVajJ2X0hWSjJkbFZaQU05R2ZOYlJrRkVKYUZIaXNJTW9tczJkTExEWW9CZ0kxRm42UnRRbUZMNjJibHpFSy1Na0I0NWlTNXgtaVk?oc=5",
-          "published": "2026-11-07T05:50:00+00:00",
-          "source": "Irish Examiner",
-          "related_articles": 1,
-          "sources": [
-            "Irish Examiner"
-          ]
-        },
-        {
           "title": "Italian Foreign Minister Antonio Tajani, the target of cyberattacks and intimidation attempts after the publication of personal data on the dark web - Informat.ro",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVVEYnR5eDJlaE9JTnVTa3hKTVgyWXR6YTNWUDhRRy1vVHgtcUFuYkNCdWVrVWNwRXNKRUVWZmw1T1lXenBobC1UT3E1STFYd1F3TFdZWEdnR0VXcEpEb29wWGhKM3lWeURIMkswZDc4NlJYYm5obm1pNDNCUUg4NVAwZ1Y3WnZ3bHZzR1N1cndrdkd2bkdzZUxzYUduSFQ2Q281OVVZZmRPQQ?oc=5",
           "published": "2026-11-07T11:31:46+00:00",
@@ -1771,13 +1648,13 @@
           ]
         },
         {
-          "title": "AI-powered cyberattacks threaten Pakistan’s banks, critical infrastructure - The News Pakistan",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFg5YlVkOTRza1pwbXUzQ0lTb0YtUldzMnhLOFZWUmNwR3lMYkpSUnZiU0FjUkl3RnFqZUZYZFFKU3U1aFRqcnd6ZXlDdkhXVW11OTNhN2d5akFOVUt2Ylo4Mjlrb05NN1FRMDFyTmJRU0UzYVZLRTA0dUpYY0xreGg0VGpkN252b1NEekJqQXI4ZlJxSElva2VhUXdzZHZJOE1JR3pNZkNVenA3WExr?oc=5",
-          "published": "2026-11-06T19:00:00+00:00",
-          "source": "The News Pakistan",
+          "title": "From smart fridges to toothbrushes: Could your everyday devices be helping cybercriminals? - Irish Examiner",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVUVOdWllWGNMb1NxbjZWbEpIeUpPb1liZFVsQVNVajJ2X0hWSjJkbFZaQU05R2ZOYlJrRkVKYUZIaXNJTW9tczJkTExEWW9CZ0kxRm42UnRRbUZMNjJibHpFSy1Na0I0NWlTNXgtaVk?oc=5",
+          "published": "2026-11-07T05:50:00+00:00",
+          "source": "Irish Examiner",
           "related_articles": 1,
           "sources": [
-            "The News Pakistan"
+            "Irish Examiner"
           ]
         },
         {
@@ -1801,16 +1678,6 @@
           ]
         },
         {
-          "title": "How a third-party cyberattack exposed the vulnerabilities of French banking - BLiTZ - Fears None But God",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZzdDM0d0RHFFaXozdnRrcklBV3JXVGdnNTAtZXdYcXg0RzVhX3pzb2dZRnllZmZsRWw4dWdKSkJoQ1ZEXy01dDk3QnpxZ1pkNjdpMUViM1YxYzB4ZjdmOGhUTDNYZXpKQllOYWdzZ2VpZU5KYUhBYlJ1aUgydXpiZll0d2p3VXBjZGpNdHBLTEFqYVBGWEswQnlqX21BZDFWRGZCWjdfUjV6N0FFMHRuVGtoZ0g2T1hmM2thODVWemhyZmZyb1FlcmtwMXcxUGhQQkZDLW1SVEFHc0dwWmdZelFjZ29PcGpGbThpMU1wZzZqLW9aYTFJSldsQ18yRFRqQlVia25HanBZbjhqRGZydzRXYzZ4UQ?oc=5",
-          "published": "2026-11-07T02:29:27+00:00",
-          "source": "BLiTZ - Fears None But God",
-          "related_articles": 1,
-          "sources": [
-            "BLiTZ - Fears None But God"
-          ]
-        },
-        {
           "title": "Cyberattack Targets Data of Brenner Base Tunnel Project Between Austria and Italy - Daily Beirut",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVFsLWw3cWF3MWdVWXRuNUJpTk5WN3dFU3pIWXdEcEhPUkVJX1ZEb3FoVGhKdVlyckd3aExfOTZndmx3ZXdER1dtZHhiRFRzUUhLdXBJaG1ySzJWckxoYldFZ3dFWm1KSUVUWFBWd2V1TWlaaWRidUlOTEliVkFDQUtyUGduRDhEX0JrY2dBYTNSRzdvRy1ndEIyeUFUYThncmZ2MkVxalJsOGVkaWF2TEV6MGs?oc=5",
           "published": "2026-11-07T17:44:35+00:00",
@@ -1821,13 +1688,23 @@
           ]
         },
         {
-          "title": "Keystone discloses Nexus App cyberattack in third disclosure in two weeks - Cryptopolitan",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FYVpLdVNCdkVYVzlSeWVpemxoQjdmUkxMMHhFSUw5Rk9GTFphdkR2VENLZFJDenp4S3lXeHY1azRqdVV1cXRIcjhPVWttRnkxRU10MVduY0xacXIzdk9ZMnBQZVZJWUNnSEhiRXZR?oc=5",
-          "published": "2026-11-06T19:10:45+00:00",
-          "source": "Cryptopolitan",
+          "title": "Hackers probed Europe’s fridge systems weeks before cyberattacks. Who did it and what could they target next? - Newswav",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVJfbFp4bkk1bHlfM0Yxd2lIcDdIel9ZYjFXYVd1dEFLa0JpVTk5YnA2VlEwVDE5NjNkeE5mbmNuS0xxXzcyZDNGR2Z0bW9ta1hyLUlMMFZWQ3lnOXV5d05Ub2R3R1pha0JlWkdOMjNpc0JrR1JIdVI4NldvNTZ3dFJNa3JSVV9CaElGTE1RYnRfUC04WENIT09uc0NRY2pBRVhDSHYxdVdhZ1B3Zm1zYUFRbHRxbXc?oc=5",
+          "published": "2026-11-07T08:30:39+00:00",
+          "source": "Newswav",
           "related_articles": 1,
           "sources": [
-            "Cryptopolitan"
+            "Newswav"
+          ]
+        },
+        {
+          "title": "UK blackout fears: Brits warned of power cut risks as cyberattack concerns grow - Euro Weekly News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzZLbDhKb1lIWUQ3T3BiSG1lTDRaVzVwT1dWbldhamxtcTdXb1Vka1JEc1h0bnU0dk1fTGNJUTl0ZTR6aWozNVkzSVFCeVhnZUlTaEVDcUdyZ1FmTXdpU2cyVWpkS2V5UTdYRDR4Wmd4cy1wNWRRQ0RhUnNiZ0xoZjBGRUp4QjZWZGZ1QTMzcEhKRHo2elNKV2c0X1prNkNBOE9MRlFzcFBHMTZYVmxydk1ZZkhPUDJr?oc=5",
+          "published": "2026-11-07T17:48:56+00:00",
+          "source": "Euro Weekly News",
+          "related_articles": 1,
+          "sources": [
+            "Euro Weekly News"
           ]
         },
         {
@@ -1841,16 +1718,6 @@
           ]
         },
         {
-          "title": "Brits warned of power cut risks as hacks increase - Euro Weekly News",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzZLbDhKb1lIWUQ3T3BiSG1lTDRaVzVwT1dWbldhamxtcTdXb1Vka1JEc1h0bnU0dk1fTGNJUTl0ZTR6aWozNVkzSVFCeVhnZUlTaEVDcUdyZ1FmTXdpU2cyVWpkS2V5UTdYRDR4Wmd4cy1wNWRRQ0RhUnNiZ0xoZjBGRUp4QjZWZGZ1QTMzcEhKRHo2elNKV2c0X1prNkNBOE9MRlFzcFBHMTZYVmxydk1ZZkhPUDJr?oc=5",
-          "published": "2026-11-07T17:48:56+00:00",
-          "source": "Euro Weekly News",
-          "related_articles": 1,
-          "sources": [
-            "Euro Weekly News"
-          ]
-        },
-        {
           "title": "Is Your Money in Banks at Risk? Pakistan Issues Cyberattack Alert Over AI Threats - MM News",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3czZk5xWVRvWnBZWVJwY3hnVkFuTENhdllQV3ZqbE9OOWYwaVpxbjExNmhvZGVhQmRuaUFrUFlON1djUTVCV0Z2Vk9WYmZ6S0xfUzdsTkI2NkVjRXRIcWI1OVFIWlpEMVpoenhMSm5Xd2lBVnFveDVJUk9FdzNabFV0NjVTSTZOSUQ5Ty1OZk9rYzN0TDFub04wTkJzN3pf?oc=5",
           "published": "2026-11-07T09:00:22+00:00",
@@ -1861,8 +1728,8 @@
           ]
         }
       ],
-      "count": 63,
-      "raw_article_count": 67,
+      "count": 62,
+      "raw_article_count": 66,
       "count_is_sample": false
     },
     "weather": {
@@ -1877,16 +1744,6 @@
           "related_articles": 1,
           "sources": [
             "GPblog"
-          ]
-        },
-        {
-          "title": "Heavy rain brings flooding to parts of Mass. Friday - NBC Boston",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTDhwOHgxcXZGMFMzTmtLWHdURUtmTkVTNHVFbzlNdVk3dGtzcUthWWJwbTh0SjBOdjNMMVRlS3o1UmVXNHRLX21tOG5xV1hPd05GdkVZNDFFV3BsYlk3bzgzUVhjeW1TLVhDdjV2UEwySFhneFBaODR3eHFRM3hIU2d5enEyOFFmNDNzQnBYVjNUSFHSAZsBQVVfeXFMTmdlTjlzMmlBU0VfblRBV3N4VXFodTJpU3VSSXM4SU9XN3lQcThIR0lKZUdwWDRBbzlyYWs3eVEyM256N3lYQmtYaEFXa3VLWDJDNWRkRGpwdVByb0V0eDhNRHBNc3NyNWNnYXdQLWgxTlZBNnVsR0F0WHZfQ29SNXRSZE5IT3E3c183VUhaTG1YQ0Z3VGhqcWZLU3M?oc=5",
-          "published": "2026-11-06T21:08:14+00:00",
-          "source": "NBC Boston",
-          "related_articles": 1,
-          "sources": [
-            "NBC Boston"
           ]
         },
         {
@@ -1910,8 +1767,8 @@
           ]
         }
       ],
-      "count": 4,
-      "raw_article_count": 4,
+      "count": 3,
+      "raw_article_count": 3,
       "count_is_sample": false
     }
   }
