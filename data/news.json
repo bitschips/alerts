@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:53:23.037311+00:00",
+  "updated_at": "2026-11-09T02:10:51.000231+00:00",
   "source": "Google News RSS search",
   "window_hours": 24,
   "categories": {
@@ -8,6 +8,46 @@
       "error": null,
       "articles": [
         {
+          "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDQyempZTmxsVW9MZ1FJX1VfWFQ5TkNXZTJOVXFZRkd4Q0JXR1VZWWZwa1VtWGh4SkRReURQQ1B6NGZjNUVUTWh2eEV6S0pJc3lCZ2x0R2xUZVpJb1BFWmcxcG05eFJTeGppUXk4VjhVZzNzQ0RNWkN4NVhJbWxmSXU0VXE3UmtWR2RrTklUcVR4OHhZckxXWjJVb29pM25udFNZ0gGoAUFVX3lxTFBCOGI1QVAzX0hnWDR5MzdBbEJVRUZYQ29qQXRncjlWZXByWXhiaGtYclQxaFEzSTJHbEVBQklsQ1lnempNYTBodkh1M05JOF9CVEhFNVdsWjhqdTFtY2d4WEpMRGczaElNQkZIZElIdXJ2YlNDQ0s4RTJzTXZFRXcxTGFYYkVlZ3I5dU9JdVJUemVOSkR6UmhjUkFHajhYeUlVdDItRkU4aQ?oc=5",
+          "published": "2026-11-08T22:32:03+00:00",
+          "source": "Al Jazeera",
+          "related_articles": 4,
+          "sources": [
+            "Al Jazeera",
+            "The National",
+            "GazetteXtra",
+            "WV News"
+          ]
+        },
+        {
+          "title": "BREAKING: Pilot killed in plane crash near Mayfield-Graves County Airport - WPSD Local 6",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONU1TMGZGRzFFSU5QMGVKTU1sa29XdDlSNnI5Z213SmxJOHJPR3hQSVZQUm9HOUdUMmFvVzdzcG5VR0ZrNzlkUzZoUElQMjZqbS1Sb3lYQTBHOHlVS09wRHc1MFp0bWZmZGt3SGI1THNPNFFBN1Y0d2VHcmt3R05vWFlNajFCcFp4eGJUTGZfV3NsUm42MTJrVmgxOUI0dFJrLVVyT3NNbUpRZWlZT3cwOFQxdmNRdG14aGZoRGRtbC1qd1pzZFd0QlkzMktWSDRSdU54MWt4bzN5VTRDQW1oR0pqQQ?oc=5",
+          "published": "2026-11-08T20:46:00+00:00",
+          "source": "WPSD Local 6",
+          "related_articles": 3,
+          "sources": [
+            "WPSD Local 6",
+            "WZTV",
+            "cedarnews.net"
+          ]
+        },
+        {
+          "title": "Egypt train crash leaves several dead, over 100 injured - DW.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVl9idGJXVlhpS1ZLVkxyUGkzbXFnNWltcjFheXpMWFc5cTVieXlOcF9iRTBZZmpyazBadXZET1pLYm1rOG5QQkFRdWY4OTV5UzAtT1hza1lOZDBCajVxSnZSVTA5T0JrU19nd0MtMi10d0dzbmV1czdhMWcyVGR6UnB3dU1HTW9LZnhKc3RyRzfSAZABQVVfeXFMT0ZXay1IQXV6dGd2d3ZscW1iUHJ4Q0FvY2w2S25lOThhNk0tUmdhdnlDX3o3U2N6b0dJMklNZkdWSE8zNHNFSnpYRnFId0ZwSjN3aFFZTnBkNFM1bVhyM185VXRLYzhlMGk1ak1lRy0yWUFrZTVrTkg4UjRISHE1alZvV3RYMVpjOV9zSnNrZ3E5?oc=5",
+          "published": "2026-11-08T18:23:22+00:00",
+          "source": "DW.com",
+          "related_articles": 6,
+          "sources": [
+            "DW.com",
+            "TelegraphHerald.com",
+            "TMZ",
+            "thenationalnews.com",
+            "Manchester Evening News",
+            "The Eastleigh Voice"
+          ]
+        },
+        {
           "title": "Wild Video Shows Plane Crash on Busy Highway - The Daily Beast",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05R3doQU8yMGxrYWM0R28xMFp6N1I2b0FxRTE2ZGxCeWRZcjV4cXhkeXB0RldyaDFwNTFNbnBoQ1VSenhkTU05ZndkZEU2UklncEtCZEZvT0JRTnE1T2huMWg5RXZiY215X0F4d1kxNWF2dkxfX1c5M3gwYjVHRlE?oc=5",
           "published": "2026-11-08T21:08:25+00:00",
@@ -15,44 +55,6 @@
           "related_articles": 1,
           "sources": [
             "The Daily Beast"
-          ]
-        },
-        {
-          "title": "Egypt train crash leaves several dead, over 100 injured - DW.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVl9idGJXVlhpS1ZLVkxyUGkzbXFnNWltcjFheXpMWFc5cTVieXlOcF9iRTBZZmpyazBadXZET1pLYm1rOG5QQkFRdWY4OTV5UzAtT1hza1lOZDBCajVxSnZSVTA5T0JrU19nd0MtMi10d0dzbmV1czdhMWcyVGR6UnB3dU1HTW9LZnhKc3RyRzfSAZABQVVfeXFMT0ZXay1IQXV6dGd2d3ZscW1iUHJ4Q0FvY2w2S25lOThhNk0tUmdhdnlDX3o3U2N6b0dJMklNZkdWSE8zNHNFSnpYRnFId0ZwSjN3aFFZTnBkNFM1bVhyM185VXRLYzhlMGk1ak1lRy0yWUFrZTVrTkg4UjRISHE1alZvV3RYMVpjOV9zSnNrZ3E5?oc=5",
-          "published": "2026-11-08T17:23:04+00:00",
-          "source": "DW.com",
-          "related_articles": 8,
-          "sources": [
-            "DW.com",
-            "TMZ",
-            "GazetteXtra",
-            "dailyrecordnews.com",
-            "thenationalnews.com",
-            "WV News",
-            "Manchester Evening News",
-            "The Eastleigh Voice"
-          ]
-        },
-        {
-          "title": "BREAKING: Pilot killed in plane crash near Mayfield-Graves County Airport - WPSD Local 6",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONU1TMGZGRzFFSU5QMGVKTU1sa29XdDlSNnI5Z213SmxJOHJPR3hQSVZQUm9HOUdUMmFvVzdzcG5VR0ZrNzlkUzZoUElQMjZqbS1Sb3lYQTBHOHlVS09wRHc1MFp0bWZmZGt3SGI1THNPNFFBN1Y0d2VHcmt3R05vWFlNajFCcFp4eGJUTGZfV3NsUm42MTJrVmgxOUI0dFJrLVVyT3NNbUpRZWlZT3cwOFQxdmNRdG14aGZoRGRtbC1qd1pzZFd0QlkzMktWSDRSdU54MWt4bzN5VTRDQW1oR0pqQQ?oc=5",
-          "published": "2026-11-08T21:51:58+00:00",
-          "source": "WPSD Local 6",
-          "related_articles": 1,
-          "sources": [
-            "WPSD Local 6"
-          ]
-        },
-        {
-          "title": "Train crash kills seven, injures dozens near Egypt’s Cairo city - Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVDQyempZTmxsVW9MZ1FJX1VfWFQ5TkNXZTJOVXFZRkd4Q0JXR1VZWWZwa1VtWGh4SkRReURQQ1B6NGZjNUVUTWh2eEV6S0pJc3lCZ2x0R2xUZVpJb1BFWmcxcG05eFJTeGppUXk4VjhVZzNzQ0RNWkN4NVhJbWxmSXU0VXE3UmtWR2RrTklUcVR4OHhZckxXWjJVb29pM25udFNZ0gGoAUFVX3lxTFBCOGI1QVAzX0hnWDR5MzdBbEJVRUZYQ29qQXRncjlWZXByWXhiaGtYclQxaFEzSTJHbEVBQklsQ1lnempNYTBodkh1M05JOF9CVEhFNVdsWjhqdTFtY2d4WEpMRGczaElNQkZIZElIdXJ2YlNDQ0s4RTJzTXZFRXcxTGFYYkVlZ3I5dU9JdVJUemVOSkR6UmhjUkFHajhYeUlVdDItRkU4aQ?oc=5",
-          "published": "2026-11-08T16:41:39+00:00",
-          "source": "Al Jazeera",
-          "related_articles": 2,
-          "sources": [
-            "Al Jazeera",
-            "The National"
           ]
         },
         {
@@ -66,34 +68,24 @@
           ]
         },
         {
-          "title": "Egyptian passenger train crash kills seven, injures 88 - The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mS1B1MHlSa0ttR3Z4WkhRRkFOdGdXSkZHdkE4WVR1Q1pKclV3bDZSdnJJV2x3X0hEQ19VdnVZdi12cG5IYXBUV0JUaS15cHpjSUtyNTBVWHRaLTVZ?oc=5",
-          "published": "2026-11-08T17:27:02+00:00",
-          "source": "The Jerusalem Post",
-          "related_articles": 1,
+          "title": "Pilot killed in Waycross plane crash identified by wife - WWNY",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRExIV1czam9nWDFJakNQMUVlWlRKV2hvdnVNNjhZczdPS1NiUUxsZWwwWG1zZkhTNnFQckVNcFVZMG1SZTlJVVFMZnlFRTdiQWhlOXFKMjBmTzhGMEJlUHBIMVVXS0NPeG1YdnJ2ellxakVPOHIzVXhyNzh3Mm5NbTVIdllYazR2MkdwZ3FMcWRVbW50QnZHcw?oc=5",
+          "published": "2026-11-08T23:29:43+00:00",
+          "source": "WWNY",
+          "related_articles": 2,
           "sources": [
-            "The Jerusalem Post"
-          ]
-        },
-        {
-          "title": "Pilot killed in Waycross plane crash identified by wife - WALB.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOalV5TUx2SXc4Q1VPdDlSakNwU21pNlhYQ2dLbXVyUEJ5OTQwSDlnYU03M1lyN3pwNWhzSmo2NE1LUlhYdUlNblZQS19rVWlIbjlKekJ2MEZoVlBiTnhWQkhUOWxSLTFBSU8xTjZDVFVCdV84WW1kcm5CVHJHVTNiMWg5Z1JOb2luSDEtM2h3?oc=5",
-          "published": "2026-11-08T15:39:00+00:00",
-          "source": "WALB.com",
-          "related_articles": 1,
-          "sources": [
+            "WWNY",
             "WALB.com"
           ]
         },
         {
-          "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 | World News | 2news.com - KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTjhWRGt0VE01R1dCMW9PeUdia0N0OU16VFR0S0xSclhHT3R6Wm5VeHhWOFU2LTRfVE1pZTdDLUZOSFRLLXo1UWw0Z0dBRThxbnliYm1LRFdTeHNMY2FJcDZDeVlsVDM3R3pkYWJHQm1GZ2p1ZnNraWQ2ZndRTmZZTGdrOTFod003by1UTEJ4aXNLdDBpeUluaVN3Q1Z2dGdWSHY2QmpRRm03T3UyR3RhRXlINl93NWlTaElfZ2J4UTh1Z2hsSkdFTU1PcGpmOVFMZElvWTJBZ0lvNjRsN0xsUGxnWQ?oc=5",
-          "published": "2026-11-08T20:14:32+00:00",
-          "source": "KTVN",
-          "related_articles": 2,
+          "title": "Pilot killed in crash involving 'military-style jet' in western Kentucky - WLKY",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQV9OZWZQSTdZRnRrTlUxb2QzU19pRXNzc3VycXdZWjdNNG4tQ2pkZEd2OXJGRVoyMWFTWFIzbmxjRkRzcmJvMWxUb3IxdmJmWWhNeENMVlRUUWM3R3M1bkNCNFFoMGlUOVVWeXhwOGpaUWR5em1nOFlmZmVvNmFtWWx1aDAzRnZjc2tYMjhnMXdKdw?oc=5",
+          "published": "2026-11-08T23:40:00+00:00",
+          "source": "WLKY",
+          "related_articles": 1,
           "sources": [
-            "KTVN",
-            "Castanet"
+            "WLKY"
           ]
         },
         {
@@ -108,6 +100,37 @@
           ]
         },
         {
+          "title": "Egyptian passenger train crash kills seven, injures 88 - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mS1B1MHlSa0ttR3Z4WkhRRkFOdGdXSkZHdkE4WVR1Q1pKclV3bDZSdnJJV2x3X0hEQ19VdnVZdi12cG5IYXBUV0JUaS15cHpjSUtyNTBVWHRaLTVZ?oc=5",
+          "published": "2026-11-08T17:27:02+00:00",
+          "source": "The Jerusalem Post",
+          "related_articles": 1,
+          "sources": [
+            "The Jerusalem Post"
+          ]
+        },
+        {
+          "title": "Collision between 2 trains in Egypt kills 7 and injures at least 125 | World News | 2news.com - KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTjhWRGt0VE01R1dCMW9PeUdia0N0OU16VFR0S0xSclhHT3R6Wm5VeHhWOFU2LTRfVE1pZTdDLUZOSFRLLXo1UWw0Z0dBRThxbnliYm1LRFdTeHNMY2FJcDZDeVlsVDM3R3pkYWJHQm1GZ2p1ZnNraWQ2ZndRTmZZTGdrOTFod003by1UTEJ4aXNLdDBpeUluaVN3Q1Z2dGdWSHY2QmpRRm03T3UyR3RhRXlINl93NWlTaElfZ2J4UTh1Z2hsSkdFTU1PcGpmOVFMZElvWTJBZ0lvNjRsN0xsUGxnWQ?oc=5",
+          "published": "2026-11-08T20:14:32+00:00",
+          "source": "KTVN",
+          "related_articles": 2,
+          "sources": [
+            "KTVN",
+            "Castanet"
+          ]
+        },
+        {
+          "title": "Egypt train crash: How a collision with a stationary train left 7 dead, 125 injured - The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTGw5VE9iRHpVT0ZNXzROLVlsVTFkV2JmNmJlRHVkdEt2ZkIxbFZ6WW5PeTZ6cG9CZkl1bktzbFBaSDdMNDg2ODEzZ3ZkbzNoUkRvVS1zbExtaWN5NGZYZ3ZnS0E0VjJvUnZoN2ZVaGtHZThQS2tyOEY4Si1iZm9QSU1MLXJ2X3JIa0kyQ3VOUGMtNl8tQXprU2xSaUNfSXYyY1I5VGhjaWRIU1poSEVkZjBMMVBEblBGcEFRR2FyNTZFUTFSU3hOWmFTYk5qUXE5VUZzY1djeGFybVowclVkU3ZxTEFqc0Y3Q1RmYzlKZTFxdVJ2QWfSAfsBQVVfeXFMUDdXRDRRODdIQ2hUUGNXMThtTE9xc2ZYQ3F1akVrckczLTdLcWdCVVVJTGUxTlBjbUw1ZnFOSzFOU3VObEgtYTJILThId0pSQVJHeENjaXpqRUs1cDJ2d2hBQWt3NC12R3Zjb3JJRlJ3RVdkSjZzYjd2djJVemhyV200QnNJUi1SdEZpcFVwbmRhN0NiU29nRTdZQzZnUGVHenNONHlJQi1pYzQ2QW12VGVLZlN5d0ZXeXkyWkh5dU93dHIyaHZaSHg5ZDJZcjNXSm1ZbUV2b29HSlByalRsUHVGWnlwdjBhbldJM1p5VzFLM1pSQVJkNmVFRGc?oc=5",
+          "published": "2026-11-08T21:23:00+00:00",
+          "source": "The Times of India",
+          "related_articles": 1,
+          "sources": [
+            "The Times of India"
+          ]
+        },
+        {
           "title": "Train Slams Into Another Stopped Near Cairo, Killing 7 - Newser",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnVzQk1YYXE5SnVCRnl5QzVwTHpnRXlqM2pwYXoyclliYThMUTVXSGhCN09SNlppbzFBNi1hX0Fva1VGSWljbzUzR3hHR0tMVnJuRHhnVnF4U29kZnhKUlhZX0pUclJaUlI2ODQ4eE41X3NPRXNPVVRWVW04XzZId2x3ZlRsS011cTBmOGdNVEVQNk8xeGtuQg?oc=5",
           "published": "2026-11-08T17:44:00+00:00",
@@ -115,27 +138,6 @@
           "related_articles": 1,
           "sources": [
             "Newser"
-          ]
-        },
-        {
-          "title": "56th annual Memorial Fountain Ceremony to feature son of plane crash victims - herald-dispatch.com",
-          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYUtjZ2RPVlMteHNVMWE3T09FbDkzZ0dFZzJFWnFSV24yNTg5VndFZlJMR3BVRVdVMGZaajlNdU9ZdktrRXdCSFhfcHNjUjZlcnRTT1gycTVlb0JMczFmRzk5WnBoN1plTmt6bEduX1ZBS3k2a19DZ3VxYm16Wk5oNkZwaFdONDJXWlc0cEY2TktrcjdrblVKR1RQR1RwaGZmTlZBN3RybUpPV2VCMmJEU2NjQWZvaVl5VWVLak16M1dDZXN5UDNWR1luX0JnTDRqaXJEWXBSbFF6YmhtYTdpUmJVOFdlR0pkWjRiYTQ5R2FjRHFZREIxZlVJZDg3aXNRQXVpRDZn?oc=5",
-          "published": "2026-11-08T16:40:19+00:00",
-          "source": "herald-dispatch.com",
-          "related_articles": 1,
-          "sources": [
-            "herald-dispatch.com"
-          ]
-        },
-        {
-          "title": "Seven dead and 114 injured in train crash near Cairo - Sky News",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDdtY1czVzhqM1B6QktQcDBNX0hZcjFtV0ZPUjhyaExGOFM0XzFVbV9FOTR5bG5UdXJxeFpGVjRoa09CdE9LR0szMEVqM1lnbGxyUTZHMEtFZUNTZ1h4OE1WYmFERER2dkRjSkxoUTIwV3lPQTR3dDd3RGx2anY0ZHhXd2x0bzlVdVNOeUxOVQ?oc=5",
-          "published": "2026-11-08T17:45:41+00:00",
-          "source": "Sky News",
-          "related_articles": 2,
-          "sources": [
-            "Sky News",
-            "Manx Radio"
           ]
         },
         {
@@ -150,14 +152,23 @@
           ]
         },
         {
-          "title": "Egypt train crash kills four and injures 88 after two trains collide near Cairo - The News International",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDNSUlVnZHAzX2lPQTk3ZC1ZaEE4UWNmRTlwUk9UMTg2Q1RCb1NNelQwQWpoM1hkZmZSN1NvZnQ3WTNyT3pHQVpRYWJvb0pJOWdtQTE4cFIzczJDNS1RWlZoUFJUbGVPQjlQaVJ4VGpMcmpZQVF2cnRoSVltWGpMaENlVzNnTElqeGQ3NzA2T2pFY3dweGlkLTN5dS1zWU8xR1J0RE0wQTdONEdVaVFHYnZTMU81enRUZlByWmFR0gG6AUFVX3lxTFBvVW1vSUlpS0l1aTRmaDNHemhJMDdLdm8tZTZ6YUtNNkVBWWpPcE5reGptNEpxOTFVQ2tQTlNSNmZZcjRoZUs3bi0tVkk0alhCYTIxQi1fLW1MWms1LTdpMlJDRG56OVpVaF8zLUpObS1taGNrbFlSZEdGNnhaNUw1MFlsanZYTjhtU1ByaDJoa1d2eTFHWDM3dFVjZmhXNEt3X0kwNGJGRi1OdHlyY1NKbng0WHpDYVBFZw?oc=5",
-          "published": "2026-11-08T17:35:06+00:00",
-          "source": "The News International",
-          "related_articles": 2,
+          "title": "56th annual Memorial Fountain Ceremony to feature son of plane crash victims - herald-dispatch.com",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYUtjZ2RPVlMteHNVMWE3T09FbDkzZ0dFZzJFWnFSV24yNTg5VndFZlJMR3BVRVdVMGZaajlNdU9ZdktrRXdCSFhfcHNjUjZlcnRTT1gycTVlb0JMczFmRzk5WnBoN1plTmt6bEduX1ZBS3k2a19DZ3VxYm16Wk5oNkZwaFdONDJXWlc0cEY2TktrcjdrblVKR1RQR1RwaGZmTlZBN3RybUpPV2VCMmJEU2NjQWZvaVl5VWVLak16M1dDZXN5UDNWR1luX0JnTDRqaXJEWXBSbFF6YmhtYTdpUmJVOFdlR0pkWjRiYTQ5R2FjRHFZREIxZlVJZDg3aXNRQXVpRDZn?oc=5",
+          "published": "2026-11-08T16:40:19+00:00",
+          "source": "herald-dispatch.com",
+          "related_articles": 1,
           "sources": [
-            "The News International",
-            "The Telegraph"
+            "herald-dispatch.com"
+          ]
+        },
+        {
+          "title": "Train crash near Cairo kills at least four - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vd24yZEZlNEFXVldUMEV1TE5LT3plZ2VUUGgwRWpsU2MtYkpqS2hjS3psSHZpN2VGQ0FLVTZOWmp0aDZXejRfM2xqUjJDZU51Y1RqUUgxaEJIZTNnSlgzeURhUC1iWmkwd1FfdlNjenI0QkQ5blc3dWxjbjk?oc=5",
+          "published": "2026-11-08T15:10:32+00:00",
+          "source": "AOL.com",
+          "related_articles": 1,
+          "sources": [
+            "AOL.com"
           ]
         },
         {
@@ -172,23 +183,85 @@
           ]
         },
         {
+          "title": "Seven dead and 114 injured in train crash near Cairo - Sky News",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDdtY1czVzhqM1B6QktQcDBNX0hZcjFtV0ZPUjhyaExGOFM0XzFVbV9FOTR5bG5UdXJxeFpGVjRoa09CdE9LR0szMEVqM1lnbGxyUTZHMEtFZUNTZ1h4OE1WYmFERER2dkRjSkxoUTIwV3lPQTR3dDd3RGx2anY0ZHhXd2x0bzlVdVNOeUxOVQ?oc=5",
+          "published": "2026-11-08T17:45:41+00:00",
+          "source": "Sky News",
+          "related_articles": 2,
+          "sources": [
+            "Sky News",
+            "Manx Radio"
+          ]
+        },
+        {
+          "title": "Egypt train crash kills four and injures 88 after two trains collide near Cairo - The News International",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUDNSUlVnZHAzX2lPQTk3ZC1ZaEE4UWNmRTlwUk9UMTg2Q1RCb1NNelQwQWpoM1hkZmZSN1NvZnQ3WTNyT3pHQVpRYWJvb0pJOWdtQTE4cFIzczJDNS1RWlZoUFJUbGVPQjlQaVJ4VGpMcmpZQVF2cnRoSVltWGpMaENlVzNnTElqeGQ3NzA2T2pFY3dweGlkLTN5dS1zWU8xR1J0RE0wQTdONEdVaVFHYnZTMU81enRUZlByWmFR0gG6AUFVX3lxTFBvVW1vSUlpS0l1aTRmaDNHemhJMDdLdm8tZTZ6YUtNNkVBWWpPcE5reGptNEpxOTFVQ2tQTlNSNmZZcjRoZUs3bi0tVkk0alhCYTIxQi1fLW1MWms1LTdpMlJDRG56OVpVaF8zLUpObS1taGNrbFlSZEdGNnhaNUw1MFlsanZYTjhtU1ByaDJoa1d2eTFHWDM3dFVjZmhXNEt3X0kwNGJGRi1OdHlyY1NKbng0WHpDYVBFZw?oc=5",
+          "published": "2026-11-08T17:35:06+00:00",
+          "source": "The News International",
+          "related_articles": 1,
+          "sources": [
+            "The News International"
+          ]
+        },
+        {
+          "title": "Two people who died in plane crash near Nelson named - RNZ",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkR6YnF4VUlVeW1Id1dSeXlkTmU4X2FQbGs0QnRyd3hnakM3QnJPRVpFeGM2RHdmNG8teGkxelpVOXRQRllvYVl4dkxxOFhHd2lUMmJfSlJVczdxM19MTlctMTl1Q0gzVTlsUjdZTnVpZWRLTjFPQ3ZpN3ZhRy00Y0x6Ulk3STJXV3h5YkZkZnJqakxjRUJsRFNCNUhHc1RCdkYyMWtxRl8?oc=5",
+          "published": "2026-11-09T01:16:17+00:00",
+          "source": "RNZ",
+          "related_articles": 1,
+          "sources": [
+            "RNZ"
+          ]
+        },
+        {
           "title": "Four killed in Egyptian train crash - SMH.com.au",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVmF6SUlFVWRRTkNWYU1kdXRCdEg3ZHl0WkJhUWpGZUlCQ3o4aWxuNHpLdVhWMDZGU2U2NzllanFmRk9zYk16Vlh6aXdCUHVhWGxKbE81YzkwT0tvTmJrLVZIN1E5Um8xSEtUcVBlZzRrOVJWdW5Nc05KRUZkMGdOV18tYVhaZ3RkZHF2LVpHX3VzZw?oc=5",
           "published": "2026-11-08T19:51:10+00:00",
           "source": "SMH.com.au",
-          "related_articles": 1,
+          "related_articles": 2,
           "sources": [
-            "SMH.com.au"
+            "SMH.com.au",
+            "The Age"
           ]
         },
         {
-          "title": "Egypt train crash kills four and injures 88 in Giza, health ministry says - The National",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLTgtbmY4TUttVjlUWTNBRTVPUEY0YUtSZGhWbWs3aDBVRVVxLUJHZUJQa0JQRzlfN19DQU16UVFFVGtKNFNfcnNiWVRnbi10dHI2WEc5WnZ6c3g1V2tOSHB1MnpHM2tKRmRFSU1qSy1QMkJmcy1CQmhnOHhhaGg0eGEtbnZxaDRQdDFfNnE0SkxoZ0E4S2JScGpReWtBei1O?oc=5",
-          "published": "2026-11-08T16:35:48+00:00",
-          "source": "The National",
+          "title": "First Lady orders Red Crescent to aid Al-Ayyat train crash victims - Egyptian Gazette",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONFBvSTNkbFFqaEhmMEdDX1haTE1DaGoyMTlFWXNYOF9sdkZjVlR4MzVtV2xzVS1JSmFsNlZseG1qQjcxWWhXakZmTl9MSmUzek5MV3JNWmxjcnZCc0h0eXpEejVhSDVCbHVydm14bnN2OEZEcFdvSFFMeWkxTTJESVhrVXd0enVGNlpqQTc2LXVMME02dmpqSUFOOHp5a2hwcFJQbQ?oc=5",
+          "published": "2026-11-09T01:25:27+00:00",
+          "source": "Egyptian Gazette",
           "related_articles": 1,
           "sources": [
-            "The National"
+            "Egyptian Gazette"
+          ]
+        },
+        {
+          "title": "Train crash near Cairo kills seven, leaves scores injured - The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOE1QUDlWdy1qdEUzMmp4b2FCMUZKSFhLR0hFa0M5eXB3OGZwb0tVZk1xbEFnOXREZWhQTTVqa3BETXhqdTR6YnlONVNsaFRkS1JUc0JzYkZ1UnkwY01pUkRvcDZuQVVybVdlSGhjZHZtRWcyQjlSZnhhOHk5VkxwMURxN2NEZWFwWUd5UWdiUTBWMlRPd1ZwZg?oc=5",
+          "published": "2026-11-08T15:10:00+00:00",
+          "source": "The Telegraph",
+          "related_articles": 1,
+          "sources": [
+            "The Telegraph"
+          ]
+        },
+        {
+          "title": "Egypt Train Crash: At Least 4 Dead, 88 Hurt South of Cairo - JournalArta",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcVZHQWVUVEY0ZHNPLTN1MW5ySm56RUU4MHFEOGlwWjNscC1Vb3VBclhBQ0JlcU8weFBSUmxXTk96WVhVaWdPX3g2dENnYW9JZlNOZ0FiSlhlMTRUbTcwTUFKREpVaWlybEcxcWgzV3VTZGpnUGNudVlEMEhVbGloUEY5azdmTHFSQXRiTTd3M2xLMDFacHc2a09FVQ?oc=5",
+          "published": "2026-11-09T00:27:13+00:00",
+          "source": "JournalArta",
+          "related_articles": 1,
+          "sources": [
+            "JournalArta"
+          ]
+        },
+        {
+          "title": "Police release names of pair who died in Nelson plane crash - 1News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTRDTTlwODVWNWtISHhmOGhVY0daQmdGM2FTMjh4Ry1PazFVSWVfZ1d2cUEzZDBPT3J3T1M4aGxfX0tzZG5lcnNFcU1SMGloSnlvengxQ084QmFma2JQZ2VibktNTjA2R0l3YjJIQ1ZVUm1WQWRKaWIwVGlMd01ZdVZOWl9zcDR3MkhiaWFwLWt6aFRiZnNpaXhLUQ?oc=5",
+          "published": "2026-11-09T00:56:42+00:00",
+          "source": "1News",
+          "related_articles": 1,
+          "sources": [
+            "1News"
           ]
         },
         {
@@ -202,6 +275,16 @@
           ]
         },
         {
+          "title": "At least seven killed, 100 hurt in Egypt train collision - Nine.com.au",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDdZbEYtNFN3NjFCc1luTDY1azlBRjAzenJldUdYNXF3Vk55RUVId0ZpSTIzN2dCMER0YnJVV0VhbEFJcGVYNE9HRzlNMk9xeUlsSkJERDd0ZjAyTzJBbmZLbk9sal8yNmZmOGJ2UnVoNGhTMU1aZ1FZNGhRSGI3aDF4RzMwdXZqTXAzSWFSS3RXOVl5Z1pxX3FSUTl4ekZXV2luaFlqSXpEaU9ERGZDUw?oc=5",
+          "published": "2026-11-08T23:45:06+00:00",
+          "source": "Nine.com.au",
+          "related_articles": 1,
+          "sources": [
+            "Nine.com.au"
+          ]
+        },
+        {
           "title": "Emergency teams work at site of deadly train crash in Egypt - The Independent",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMl9DeHVhOTdmT0wtdmNQVmJKenkzeTItbURIMTNYUHo4Vy00WE44QlQ3VW9Ud3JUZXJZRUVtWnd2bVlvLTVSUi1kNWtyVVBwdUhuWEpYRnREUFZVZDZtckxoRDVNSDhyTUVwdW9IVnBvVWo1MGt3UFpGR2F5TnZkTmU5WU5TUUVzZ1Q2MEx5a0o4RVVfSmEzZGR0YmtwRW01QnJ5bWFkc3dKeUt4TEFrdmtMWkxrTkUyRjl6TkFtQWtraWt0MEN2dThNZ2VTcUhzZEE?oc=5",
           "published": "2026-11-08T17:23:00+00:00",
@@ -209,6 +292,16 @@
           "related_articles": 1,
           "sources": [
             "The Independent"
+          ]
+        },
+        {
+          "title": "Footage shows derailed carriages after fatal train crash in Egypt - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U3c2bmk1NkJSam1sR2VabDNQSkhpWnE3aExaYWtXdU1lc1R1SWxtQk5VM3JoLW5YdkJLN25DMDBNR0FrRlBXbk9GaWx1Q09CVmVVOEhwN0RmcmM?oc=5",
+          "published": "2026-11-08T16:05:57+00:00",
+          "source": "BBC",
+          "related_articles": 1,
+          "sources": [
+            "BBC"
           ]
         },
         {
@@ -232,13 +325,23 @@
           ]
         },
         {
-          "title": "Footage shows derailed carriages after fatal train crash in Egypt - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2U3c2bmk1NkJSam1sR2VabDNQSkhpWnE3aExaYWtXdU1lc1R1SWxtQk5VM3JoLW5YdkJLN25DMDBNR0FrRlBXbk9GaWx1Q09CVmVVOEhwN0RmcmM?oc=5",
-          "published": "2026-11-08T16:07:00+00:00",
-          "source": "BBC",
+          "title": "Police name men killed in Nelson plane crash - NZ Herald",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQckJJMTZKbXdPbDVuSWNUT24xUEVabnUwUEFZX0VtOXlPb0lTX0lXZWFoOVEweVhKNUpRNGtEY2dEVERSV2lHamVuZFYzUFlKU3liaWhMNldsY0tYSTBXT3hpSUdfMmJ1VXM5Qjc0bWtVbXNraFZFNHZPTEFBeGVXUExla3hhM0dZNHZyM05SeG0zcElXNmpCR2otVUlKTGxpVlBUVHdMM2YzYnJncG1BTTAyWG4ya0N2ZlQyV3BtMDhVNTVn?oc=5",
+          "published": "2026-11-09T00:56:15+00:00",
+          "source": "NZ Herald",
           "related_articles": 1,
           "sources": [
-            "BBC"
+            "NZ Herald"
+          ]
+        },
+        {
+          "title": "Names of Nelson plane crash victims released - The Press",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1JnMmQtMjl2OURnaTBkZ0ttMUk2UGhvNlRhU0VoZkV5eW5DZ0RhTTd2blpWbVBuRktMOURxZVdHU3Jnc1QzYnVwcmFDd1d0cmNNV1gzcEgza0hRRUJvMWdhVlh0UzVwamN6N25UTFVWRDg2UDR4ZHB1a2RhcmdDdVZuYjRFQ3NRRmNkMHRNSQ?oc=5",
+          "published": "2026-11-09T00:14:14+00:00",
+          "source": "The Press",
+          "related_articles": 1,
+          "sources": [
+            "The Press"
           ]
         },
         {
@@ -252,17 +355,6 @@
           ]
         },
         {
-          "title": "Father of co-pilot killed in Florida plane crash speaks out - KIRO 7 News Seattle",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWczck1rRV81MXBSY3RpeDFKWVU5c1Z5d2REZVZRc24yN0xHOC1uRVR6aTdmaWJLRVlPQTVxeEJDWHAxWndfanVDMjh4SzcwVWhUTF9nTFU2eHdWbVVlTUtHX2ZESmlyWDEtMU5DcUNldzVRaHh6bmw1YW5PODk0bFI3bC0wTVN4QlVvX3NzWTZhREtpMUUyOTgwdWlpUHhrRWdTTUxHV0RuNF8zdGJvTlc1d2hzaTlCakpVaFE0NlZ4UQ?oc=5",
-          "published": "2026-11-08T00:32:34+00:00",
-          "source": "KIRO 7 News Seattle",
-          "related_articles": 2,
-          "sources": [
-            "KIRO 7 News Seattle",
-            "Yahoo"
-          ]
-        },
-        {
           "title": "Flying Got Safer in 2025, So Why Did Plane Crash Deaths Jump from 244 to 394? - Thought Catalog",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3d6eU9HaURHejREdnlNdkV0MGVyOG5HUngtVUZuZThlWnZ4LVNuamJmT1hXMU83dVRpcG1XU1dwOU4tUXJQeVdiN1dDcV9tWnUtb3lzaEtEQ3JWa014S0MtTDc5alF0dTg1ajU0S3RSNVRKTHlCa294OFNMbGxqUjVKTFdEZmRlZnpBQ0FnajVpYmhTZGM4eE1mYk1XQURqYUJsVUxqRlg5aENLUnNWOFV6VndicW0tQ0VHSEt3?oc=5",
           "published": "2026-11-08T11:25:50+00:00",
@@ -273,13 +365,35 @@
           ]
         },
         {
-          "title": "What happened in the Giza train crash? What we know about the collision south of Cairo - Nacionale",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUxhZHNUNDQ3WlkzQmFWU0tZdmN3cklIWlJZVHlSa09pcGI3cnZWX2dBVGJSRmtXQ1E0N21WOGhaTDBEYnNNQmNMOWdDZ2FOWTYyekIxWnBPR1VwS2RhVHluMHlKck0ybG05X3hrOWtQVEcxclR4WG9rMF9nRW5uNkdMWktCdEZVbXRzRGpEX3F3cld4dEkyaVBYdEcxcnJ0QUx0azJyMXRZQQ?oc=5",
-          "published": "2026-11-08T16:22:39+00:00",
-          "source": "Nacionale",
+          "title": "Alexandra man killed in plane crash near Nelson - ODT",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOFAxWlZFVWhCNjRndGdrTnBpTHFKdG5jRmRBeXl4dUd0cDhUdkdMU25nOF9UMHZldFZTWk5UUmxHTVJVNzM0b21mdGtxcGk4VDFwX05CRFYzNXRyYnNHYmp5anBtVE8yRmhfX3pxR2R1Mjkxb2JscUJoNUpoWU5ib0V6Mk5FLUJkdDlpS2VnWFFQZ1hjUDkxT2l1TQ?oc=5",
+          "published": "2026-11-09T01:04:40+00:00",
+          "source": "ODT",
           "related_articles": 1,
           "sources": [
-            "Nacionale"
+            "ODT"
+          ]
+        },
+        {
+          "title": "Seven dead, 112 injured in horror Egypt train crash - The Australian",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcldjVHZvOGh3cTZyZEFNd19QZDVCV2cxeGhaSVJKM0UyeF92NWxIWUdUU2YyUi1jbWgxdXcxcURYTUVzdElZSUY1TlNyNTdhRUxTMDB3RFh1dEVraUN4SEFqVGMzTFpHaTJtQS1YOE9lcFlsLVBZZlduWWpPUGEtaEl1UGNKbExLc0x0VkZsaGw2NnVhZjVTS3VJd3FlQXFrMEQ1eU9qS05DdnJoS3Y4dXdmV1V6OGF1a084bnp2Ym5SMkt4TldTX0hWQTV2dw?oc=5",
+          "published": "2026-11-09T00:22:30+00:00",
+          "source": "The Australian",
+          "related_articles": 3,
+          "sources": [
+            "The Australian",
+            "NZ Herald",
+            "LBC"
+          ]
+        },
+        {
+          "title": "Train crash in Egypt’s Giza province kills seven, injures at least 125 - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHS2FyNVZMQV9uZXlYelRfaUpEeGU0anFLUWJrd2JMZVpJLVl6a1Y3YUVGRFg5OExrYzlDTktqWm1kUGZWckhaWHNyMVc1bF9HemZ5OWlzWG1idVpDTkJjMFVSR3JGV0gzanlOak9MQm9xajRHcmxicQ?oc=5",
+          "published": "2026-11-08T15:23:55+00:00",
+          "source": "The Globe and Mail",
+          "related_articles": 1,
+          "sources": [
+            "The Globe and Mail"
           ]
         },
         {
@@ -293,13 +407,13 @@
           ]
         },
         {
-          "title": "At least seven killed, 100 hurt in Egypt train collision - Nine.com.au",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDdZbEYtNFN3NjFCc1luTDY1azlBRjAzenJldUdYNXF3Vk55RUVId0ZpSTIzN2dCMER0YnJVV0VhbEFJcGVYNE9HRzlNMk9xeUlsSkJERDd0ZjAyTzJBbmZLbk9sal8yNmZmOGJ2UnVoNGhTMU1aZ1FZNGhRSGI3aDF4RzMwdXZqTXAzSWFSS3RXOVl5Z1pxX3FSUTl4ekZXV2luaFlqSXpEaU9ERGZDUw?oc=5",
-          "published": "2026-11-08T18:46:56+00:00",
-          "source": "Nine.com.au",
+          "title": "What happened in the Giza train crash? What we know about the collision south of Cairo - Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOUxhZHNUNDQ3WlkzQmFWU0tZdmN3cklIWlJZVHlSa09pcGI3cnZWX2dBVGJSRmtXQ1E0N21WOGhaTDBEYnNNQmNMOWdDZ2FOWTYyekIxWnBPR1VwS2RhVHluMHlKck0ybG05X3hrOWtQVEcxclR4WG9rMF9nRW5uNkdMWktCdEZVbXRzRGpEX3F3cld4dEkyaVBYdEcxcnJ0QUx0azJyMXRZQQ?oc=5",
+          "published": "2026-11-08T16:22:39+00:00",
+          "source": "Nacionale",
           "related_articles": 1,
           "sources": [
-            "Nine.com.au"
+            "Nacionale"
           ]
         },
         {
@@ -313,40 +427,9 @@
           ]
         },
         {
-          "title": "Seven dead and 112 injured after two trains collide in Egypt’s Giza - NZ Herald",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZWtTQ2pXajlCSEk4TnZGSGxyMzZnc3I3ZWpBNFlmaHgyblZ6c0tDcGRUQ0c2aFM2OVVwRENzdDViempid3phTnFCczl4eDhNRGRFOW9OR0dkVUVpUHVuVGI2YTVKV3BBaC1PcmZHNmdEMVhzUm51TW5fdlN2NTRsUGhEN3hkVkkxSVFTSWFxcEZ1bS1oNUtyWEUya19PNXltc2tZNXNaNXp0S3ZBcVRlaFlRZ3cwdFZUaUVkbkV6SUdEYWwtX05yN0pOR0k0VHM?oc=5",
-          "published": "2026-11-08T20:11:06+00:00",
-          "source": "NZ Herald",
-          "related_articles": 1,
-          "sources": [
-            "NZ Herald"
-          ]
-        },
-        {
-          "title": "At least seven killed and more than 100 injured in Egypt train crash - LBC",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5URU8wRzl5eFFqVnkwRHVkWk5qY21VMUhvMWZGOHp4aUJROWllTHJPc0pwT0tyR3VlV0VEYmZkX05TOWUtaUwyR0JfYUZZN2F5RFVPOWdQa3Z6X0JxQ3ZvR2U5V0RIVDhjMUJWUktSb2xyY0RBM2dUcGp3?oc=5",
-          "published": "2026-11-08T16:10:57+00:00",
-          "source": "LBC",
-          "related_articles": 2,
-          "sources": [
-            "LBC",
-            "The Australian"
-          ]
-        },
-        {
-          "title": "Costa Rica Prosecutors Investigate Pico Blanco Plane Crash That Killed Five - The Tico Times",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWtndEkwZkhlbkowbXYweVBKaE1hRjdGSDZiMTRDeTZrOFZfWG5WOXdPdVYydlRSWndBa0RhYnNZUUplT21LbERSMG83Wjh2dVRndVVodzhHWHFtLXg0S3JON0FUUzBSRUtLRllRWURVU0NmSU9wbW9Ya2xkUmI4Tno3VXdScUxuenhGbUxxMDE1NGc?oc=5",
-          "published": "2026-11-07T23:33:00+00:00",
-          "source": "The Tico Times",
-          "related_articles": 1,
-          "sources": [
-            "The Tico Times"
-          ]
-        },
-        {
           "title": "Horror train crash leaves seven dead in tourist hub - Herald Sun",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUG0zUXhmbHBFSElYZGVaLWlLQ3BxRG9DZVZMZ1pqOUFTakJIbzRRVHozNWRaQkkwT3pvVmxaNGhKNjlMT2laQjNLVnlwR0QtVXBIUnZrVkdBZUtSbnVQVWkwZ2doMkozSnIzelE3LVdYbF9QS3BaUjg5MTVPTW43cXRfYk1pYXRmdmZCR2lRV2J1V21YVUk3NlRtOXVINGZYRGQzWG1ORzJNQ2ZFRzcwS1NoeGRYa0daMzlSSjFZX05qUG5EZnNLN3NiQ1ZXQ0VUc2pBSkQwVWZteXN4eTlDMTFva2Nsc3lqa1laSlh1OW5leElsb0lJN0dsWVlHMktxa1FSd3hmM2pMLTVQRDhKTw?oc=5",
-          "published": "2026-11-08T22:34:43+00:00",
+          "published": "2026-11-09T01:31:15+00:00",
           "source": "Herald Sun",
           "related_articles": 1,
           "sources": [
@@ -389,26 +472,6 @@
           ]
         },
         {
-          "title": "Egypt train collision kills four and injures 88 - The Courier Mail",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMUZHenNZNkpEcXExejRPWjJMV3d3T2hDa3VkQ2xzRTFFLXlpVUtIY1Q3R01HaHAycnJCZ1VYLUJBRVhsZXNxby1pSktHYlpuSnQyNnhnanVyOVVjaWdzYnk2RkJpVjQxbUhsMkltbUpnN1NHTjhiT1cyX3l0bGJpcDRqUDlVMjhKR2pLZk8tb2hkUGFDRzZyZkxDVFZvd2w0eGhzYVZPX0xHRHJwdS1aUUY5NF80V0pUU243a213VzN5cEhlMnl1SXhvUWVITlVZZDZCZlR2RDU5R2gtVTlYcG9lUVl4NHhtRG9TTEQ2M1Y1c3RDTlMyQTJjM3FXUU5RMVFGNWY5QUJPR0EyOXhjd1oyaw?oc=5",
-          "published": "2026-11-08T18:13:04+00:00",
-          "source": "The Courier Mail",
-          "related_articles": 1,
-          "sources": [
-            "The Courier Mail"
-          ]
-        },
-        {
-          "title": "Japan Paralympian who survived deadly train crash embraces motherhood - 毎日新聞",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LMVpsMnE5ZlA1cVhjU2M2TmtCeVlMTFNxQkc1dGdYWFpmc2FsRmhsZGpNUGUwNHpPRndnWlNWYXQxZk1jZTV2NTNwcmtWVldCbVpUZDQ4TkFQdFVJbHZPY1lYMXBrZERPdUdKS1BBeXhBNHM?oc=5",
-          "published": "2026-11-08T00:03:50+00:00",
-          "source": "毎日新聞",
-          "related_articles": 1,
-          "sources": [
-            "毎日新聞"
-          ]
-        },
-        {
           "title": "Seven killed and more than 100 injured in train collision in Egypt - BreakingNews.ie",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTFtWTFKc2lpb0dZZ3RBSWMwbDZJVW1mLVAxUGVUbDdFWmFkRE9mMlFEWDFFUWdETEt3MWRuRFp3bXE4ajZuT1d3bW9fSF9WZXlVa25sem5jZzBSRko4OW9Dd3NuMmpXYXFlZmstT2ZydTg1ZGpmazlHRWVpanVJRHM1cUxNWjlranlJWklVcklmdzN1dXRmNk5Sd1lmTkc0UUdsRWlNbWNfaS1fcmVxT2NUYw?oc=5",
           "published": "2026-11-08T18:04:14+00:00",
@@ -416,6 +479,26 @@
           "related_articles": 1,
           "sources": [
             "BreakingNews.ie"
+          ]
+        },
+        {
+          "title": "Pilot walks away uninjured after his single-engine plane crash lands at Rock County airport - Janesville News Report",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdlo4TkhSVXdVWF9IemYwT1NFNEtqVWJFeGFfUFVmTERJemFwWEVCdTZWUHl2czE5bkczdjBCTVV2dG9MYWNpMjlBSE1lR2xVU0RReDF6d2Rja045bGE0dFV5QzFwRGNQa1hHWmhJeGxHUHZSeDBucWVOTlV1TGhpMG55VmFVRVR4RGg3ZG56WkNpLVlxaGt0QWwxN1VxQW5LTVBuRHlyTmpzZmp2dDM3dU9DemJtVzhKc3YxNFBXaDUzb2lMNFNrcWxKLU02OWtX?oc=5",
+          "published": "2026-11-09T01:26:35+00:00",
+          "source": "Janesville News Report",
+          "related_articles": 1,
+          "sources": [
+            "Janesville News Report"
+          ]
+        },
+        {
+          "title": "Palm Beach County Extends Local Emergency Amid Plane Crash, Flooding Recovery - BocaNewsNow.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcThqNDUxNDhsM1NsVmJSYVJwQmxUTXRwZjJQQVZ1dzJ3UFVFTklBbG9BRXlSUXR5VG1ORTktVVh5Wk4xenVkb2Q5REhmd3lfSkZUOXE0QTNzYlp6VVJKLUVNQXlyWW9hN3VSdzFPV1NEdTRYZW9PUWtKbGtuNVItTDFnUWZnczNvcFQzbzFrRFlMSHZlVHIxcGdieWtVVklwMFU0eEZnM2xSdDVEcDYyM2hB?oc=5",
+          "published": "2026-11-08T22:55:18+00:00",
+          "source": "BocaNewsNow.com",
+          "related_articles": 1,
+          "sources": [
+            "BocaNewsNow.com"
           ]
         },
         {
@@ -429,16 +512,6 @@
           ]
         },
         {
-          "title": "Driver among seven dead as 114 injured after two trains collide and derail - The Sun",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pel95eEpDazVUQWI5cEQtN25NVS1Bc2JSZUtVeFhDUER4R1N6NHFnSDdPaXAzLU5nNlByM3QycF9ScGVubUhpMGZpMU1hWGgybk1IRFhack8tODd5Uk8wcEwtdTF6QU9iWE11UFppd0pXdkNSRV9FdEFpcmc1Zw?oc=5",
-          "published": "2026-11-08T15:15:08+00:00",
-          "source": "The Sun",
-          "related_articles": 1,
-          "sources": [
-            "The Sun"
-          ]
-        },
-        {
           "title": "Egypt Train Crash: Shocking Footage Shows Mangled Carriages; 7 Dead, Over 100 Injured - Times Now",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFMwcW9PTS0wN0R1MnJMdkIyd2FmdmZDUWNuNXJPQ3U1UzBBcEFqVjBRblpaNHZ3R0U4T1FpY2RGT3ZCcEtOVjRYQWQ4U2NRTWlORGI4bEMtUWJPR3ozcm1MSjVIQjhTMVZPMTd2YlFSaVRBZVh0R3BSNE9Wd3pfMEx1clU0Z1VxRkZIbE1BQjN2UlJLZWxUY1RNZ0FiTzc0SWd3dUNsTWlHU1Zib2syQ0VTMkJfNjNDaVHSAb8BQVVfeXFMTXJUT19kTjNDLUo3WEpEeXpfc0pERzZEZ1NJVjY2WkFQaFZFTUVhSXhleUR6TFFCZ1NzVTZnclV0QXY4RGRXMlowNHNhVXN5YUViNm1ka2xxc1VJb3l4N20wblo5UUhXakFyTWJSNWxjTkVRVTVCaElWUkRXMEY5U3hiT244UUpnUUNWU0tWQmotQnlFWkhwUXJDRFJLbnlwTlpuY0lfak9lVkdKZ1N6ZGYwYm5ZeUpHUjNRQUFSYU0?oc=5",
           "published": "2026-11-08T17:55:38+00:00",
@@ -449,6 +522,16 @@
           ]
         },
         {
+          "title": "At least four dead and nearly 100 injured as two trains plough into each other in Egypt - GB News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjB0cHpaWU1uOU9SOWVuNzNyc3N0NTBVMEl2Z201Y21WM0lCYW1xamxSa012bTlPbFhsZzVfZk5kRkZnVXFvaWh5LXNKeGI0QjRCU3V0anVpaVlINi1PRlc1QTNCdGZJaTBfMjdaX0tNUEJwd2VYMzZfRkxGWGlpU2tZRzhvbVdobXlGbHlOcFp1T0pTN3JITEgxMjBILU5IZ3V3SV8tUExVZw?oc=5",
+          "published": "2026-11-08T16:22:15+00:00",
+          "source": "GB News",
+          "related_articles": 1,
+          "sources": [
+            "GB News"
+          ]
+        },
+        {
           "title": "First Lady Expresses Condolences Over Giza Train Crash, Directs Red Crescent to Support Victims - Sada Elbalad English",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHRTQVZrUlp4a2ZBYTMzUDFRMkpvbWFXWEU0eVY1cWtJXzRWYU5faWJsV0o4VzR1Vm9PNTlSRnBVdTExb2Z2VUQ2YTJFZTZrWWxHSE5MR2M5UjdyWXZqSTZXWUxJMV95U0piNXlXT09hb3RZeG1iOEltbEo3UVdxUTQxNGxKbDBYaGQxaFdvdXhvLURqUFRsdkstSmxNcVk5RlBpS05zTVRrb0FyS1F2OA?oc=5",
           "published": "2026-11-08T17:44:13+00:00",
@@ -456,16 +539,6 @@
           "related_articles": 1,
           "sources": [
             "Sada Elbalad English"
-          ]
-        },
-        {
-          "title": "New Book Reveals The Chilling Details Of JFK Jr.’s Fatal Plane Crash - Opposing Views",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU0MweWNFVldDemNKS2Y3WDdPZ0VPUEw3MmVyOXd4UElpRXFSUklrekQwT2NaSTFWRUVnQTUyYmYxZjlUWnNKYXhGYWxfRWxtYktfOTY0MnlwajJ3UzMxMGZMYU9wTm9KVVJ3VkZrNTl3cWhmV1gwaDg3RUU5UnFoSTh5ZUMzUWVCYnZYTUhOdWpmSGxNeGpSeEZUNXlnYnZWSExOOUROWkpHdw?oc=5",
-          "published": "2026-11-08T16:40:13+00:00",
-          "source": "Opposing Views",
-          "related_articles": 1,
-          "sources": [
-            "Opposing Views"
           ]
         },
         {
@@ -489,13 +562,13 @@
           ]
         },
         {
-          "title": "Egypt Train Crash Leaves 92 Casualties as Houthi Missiles Target Riyadh KAFD and Aramco Amid Israel-Iran Escalation - Fes News Media",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LT19fWFhpOEV4WXZaWmY5dGJKUjhaX3BUTFBKWlBwZW9EeVR0VzdvNngyMTlBckVYSVNyQmowajRVdlVHXzY5SGdMQ1dKRG5MUlE?oc=5",
-          "published": "2026-11-08T15:37:05+00:00",
-          "source": "Fes News Media",
+          "title": "Driver among seven dead as 114 injured after two trains collide and derail - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96bW5nYVdYSnJCRzFZRC1oRVNYMkRZOWY0SHN2cFotaGp1dTZ1THd4YU1UR1ZIamhDWFdDbUo0R1FmdW42dzlFUkNxOFE0MTRsYXZuaUxHc0tVcllMT29aMkNUaF9lWnpZUFY5cjlrNkN3aEJ1VzJfUTEzMkF3dUk?oc=5",
+          "published": "2026-11-08T14:39:00+00:00",
+          "source": "The Sun",
           "related_articles": 1,
           "sources": [
-            "Fes News Media"
+            "The Sun"
           ]
         },
         {
@@ -506,6 +579,16 @@
           "related_articles": 1,
           "sources": [
             "NewsBreak: Local News & Alerts"
+          ]
+        },
+        {
+          "title": "Egypt Train Crash Leaves 92 Casualties as Houthi Missiles Target Riyadh KAFD and Aramco Amid Israel-Iran Escalation - Fes News Media",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LT19fWFhpOEV4WXZaWmY5dGJKUjhaX3BUTFBKWlBwZW9EeVR0VzdvNngyMTlBckVYSVNyQmowajRVdlVHXzY5SGdMQ1dKRG5MUlE?oc=5",
+          "published": "2026-11-08T15:37:05+00:00",
+          "source": "Fes News Media",
+          "related_articles": 1,
+          "sources": [
+            "Fes News Media"
           ]
         },
         {
@@ -549,8 +632,8 @@
           ]
         }
       ],
-      "count": 52,
-      "raw_article_count": 73,
+      "count": 60,
+      "raw_article_count": 84,
       "count_is_sample": false
     },
     "civil": {
@@ -565,6 +648,16 @@
           "related_articles": 1,
           "sources": [
             "World-Architects"
+          ]
+        },
+        {
+          "title": "Clark County Common Pleas Court cases - Springfield News-Sun",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdjNwLWxDYmRMTlRIX3hLYVZ4aHNZWm1xZ1RTWVlfZ2xVSTZtMzNMT3pfNmszTTRWY3ZucjZXaW81WUotZzdRTTJ5c2pTZ0pwcXNVeWZxMTVPUkJ2MzFKZmk0bXlXRjhPdlRVR3FHdzVCeFJHVzl2NnVZODF2UnVXTnFsVXFnNWIwbk83Nm1WMjhvWWlRdnRTWDM2YjRaY3ZCdmFPMVY3clk2Ung0dU9xTU9UR3RoUlFUN0pNal9fWQ?oc=5",
+          "published": "2026-11-08T15:04:44+00:00",
+          "source": "Springfield News-Sun",
+          "related_articles": 1,
+          "sources": [
+            "Springfield News-Sun"
           ]
         },
         {
@@ -598,7 +691,7 @@
           ]
         },
         {
-          "title": "Several injured after boat collides with reef off Baħar ic-Ċagħaq - Times of Malta",
+          "title": "One dead, two critical after boat collides with reef off Baħar ic-Ċagħaq - Times of Malta",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEFYRHRlWWktYVFpNU8wY29xLWpLTHFHRTdrdG41RFU2N1kwQ3FROGZoT0liZ1ZWNGIyRmVCUF9XejlmUk9tSzYzeEdoRHg1a2MxSnVrUlI0UjNLSy1WbVNwRWo4cVBsejRpMUtJOVRyNjhobTlHMzhVNjIxSTR4RHBCbFJLU2xVQnV5aVdZclEtWm9PaFcwWXp3?oc=5",
           "published": "2026-11-08T19:51:00+00:00",
           "source": "Times of Malta",
@@ -628,33 +721,13 @@
           ]
         },
         {
-          "title": "Multiple injuries after boat crashes into reef near Baħar ic-Ċagħaq - The Malta Independent Online",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHRsWjcwblZocUpWdlV1WHFndkFwMjYycEk5eTMweU9IZHFzdklvbFpSelFBTlFKYThKWGsyVTRxSk1Yem9kcVltUzBKNS04V3JKbkd0SGMzemVIZ3VZTmNyVVFzLXhfSHJRWGM5ZVViVDM3eVNmWG9xVS1XY29jQjdRTl9TZmlGRnRTU0NER2UtUGwwVXU0bTFMQ3d4T3pIRDk0d1NCWVI4azhhU2dqUE4yR0VvWXJhYzM5eXVQYTg5RGY4QXVsN1B0M09lOWR6YzY4R2JJWQ?oc=5",
-          "published": "2026-11-08T20:14:00+00:00",
-          "source": "The Malta Independent Online",
+          "title": "Second major storm hits B.C., leaving one dead, thousands without power - The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjhab1c4cF9sMFBXbUpKd2o2VHNQeG01MVMzTDdkdG5yZFVlS0tiS05Rc3NFV3lXVC1NLUJEYmtmU1oxM21lVEFibzhqV1pHTTZQc1h4YVd5TXBELXoxODJzZlF6VTVCUDhSWWVhbXRUeEtwQ2VqLWxDOXhKdkhxQ0c2T1pURDFDWS1Cd2tfd0RUMnkybEE?oc=5",
+          "published": "2026-11-09T02:02:17+00:00",
+          "source": "The Globe and Mail",
           "related_articles": 1,
           "sources": [
-            "The Malta Independent Online"
-          ]
-        },
-        {
-          "title": "Second in series of storms brings wind, rain and power outages to parts of B.C. - CHAT News Today",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHgtUkpXRGhUNlpocGxtYjEwRzdOSW9qMVpBZ0FBSXNudjkxbUstc1U4cVlEYS1Cam5NRV9yQWJ6NlliMjdRMDBmUXNqZ2pFcU9tWS1lMnBVT1Z0X053RWRZa3Jfa1RsZXZpWWVQcTlieGIybFV2R1ZRQlAtSFZGVmZTZ2JWaEZUejE1cmhEbVRCQ3dya1JyQ0tzU3VnemJnemFJY281V3NBQkctczhGT1VXWmw?oc=5",
-          "published": "2026-11-08T17:32:43+00:00",
-          "source": "CHAT News Today",
-          "related_articles": 1,
-          "sources": [
-            "CHAT News Today"
-          ]
-        },
-        {
-          "title": "Three People Involved In Boat Incident Near Magħtab As Rescue Operation Continues - Lovin Malta",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnNYVVpCY1pLQW12MC0tR1hwc2dPS1Z1YTBZVmpSUTFYOG1DdzhQd0NzdmRTLW5FaEJ3dTFrdExmaHVvWHRGYTZSZjA0QlRzeVotMnpuZWRnc3pHckZXemxZV2lDZjdMRTZwMlp6RHBHVWZtMDMzbWx2cEY2ejB2TmQwVXYyTnlVX0I2MUd1MDdJMlBnQ0ZSYkkwb2ZRQThLczJqT2UxN2xoSEI2MDRIRlVtakthT2c?oc=5",
-          "published": "2026-11-08T20:41:17+00:00",
-          "source": "Lovin Malta",
-          "related_articles": 1,
-          "sources": [
-            "Lovin Malta"
+            "The Globe and Mail"
           ]
         },
         {
@@ -668,6 +741,16 @@
           ]
         },
         {
+          "title": "Three People Involved In Boat Incident Near Magħtab As Rescue Operation Continues - Lovin Malta",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnNYVVpCY1pLQW12MC0tR1hwc2dPS1Z1YTBZVmpSUTFYOG1DdzhQd0NzdmRTLW5FaEJ3dTFrdExmaHVvWHRGYTZSZjA0QlRzeVotMnpuZWRnc3pHckZXemxZV2lDZjdMRTZwMlp6RHBHVWZtMDMzbWx2cEY2ejB2TmQwVXYyTnlVX0I2MUd1MDdJMlBnQ0ZSYkkwb2ZRQThLczJqT2UxN2xoSEI2MDRIRlVtakthT2c?oc=5",
+          "published": "2026-11-08T20:41:17+00:00",
+          "source": "Lovin Malta",
+          "related_articles": 1,
+          "sources": [
+            "Lovin Malta"
+          ]
+        },
+        {
           "title": "BREAKING: Train derails in Giza’s Ayat district, 60 injuries reported - Urban & Transport - Egypt - Ahram Online",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzNNblVEbE1rWDVSeVJCdjN6VGg3Z0RXZnFLUHlKbHB3UW1wRVlWYi1NRkhyNWJ4dDRDaHRHdWQ2SnJnamd5RDYyQWh4azNNS0tma0hTN2dtR0hnUTcyZ2NXMUtlR0NFLWJPX1BGOXpxbUNkZG1zaDlkdzVNTERRSTZQeDdoMW90c3lhd2lOUVRIcS1vcXFfUW9laTV3aXhXZWtORWs1UldhQ2V2bGJPcGNuWUx6bTM4VDRyWlFES1hvMWN3TVJ3S0szWFNUblA2dmNGWE5CdHY?oc=5",
           "published": "2026-11-08T12:50:17+00:00",
@@ -678,17 +761,7 @@
           ]
         },
         {
-          "title": "Polish crew member rescued after sailboat drifts off the coast of Machico. - Madeira Island News Blog",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaldDcEdYWDFFNGhNVjhaV3llZ3NRRkplVHVkTmV6MXJDSk5LeFVXSG9Yckp6bWE4dXdoZGc2dFdrZUY0cFlvUHVNdzRDN0puS2VoM0NtSU55SElWYUcwZVFISlQ3bDd6a0k2X0k3RU50R3NRVXlTdUVfTWtoZk1vd1B6OEpIbjZSR3Bpb0xtYXlXTTVpTWZxOWwyV1FlVGJUajQyTWp5WVBTMWZia3VfNzdhaHdGMjJYOFhtVw?oc=5",
-          "published": "2026-11-08T12:05:18+00:00",
-          "source": "Madeira Island News Blog",
-          "related_articles": 1,
-          "sources": [
-            "Madeira Island News Blog"
-          ]
-        },
-        {
-          "title": "Fez on High Alert After Three Teenage Girls Hospitalized in Critical Condition Over Suspected Rat Poison Suicide Pact - Fes News Media",
+          "title": "Fez on High Alert After Three Teenage Girls Hospitalized in Critical Condition Over Acute Rat Poison Ingestion Incident - Fes News Media",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ld1pXWm9hRVFQR05NMG51QlJXdmVUZ3h0LUttbXlBdzM0VTRJeGNBbW5YcHlaRW5yd2NkMmh2cmdjRXB2Q1l4LXpvOXFHdFZydGc?oc=5",
           "published": "2026-11-08T19:41:47+00:00",
           "source": "Fes News Media",
@@ -708,8 +781,8 @@
           ]
         }
       ],
-      "count": 15,
-      "raw_article_count": 15,
+      "count": 14,
+      "raw_article_count": 14,
       "count_is_sample": false
     },
     "terror": {
@@ -751,9 +824,20 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNC1wVXozR3ktUDF5RXNrSFI3dVdhNDhxNkxldlBLUWN6Z2NneWI0UFZEcS03R1otcjk3eEh5cVpIMmhaYndObUtnRlAtYldERGczZ21XcGxSd1NWWm1WVzZraGNNblBLcEpZQ2JzaUZmZVNJTEJ3QV9faHNvVzUwS092OEdQdTQzdWZNME1rSTNZVVlaVDFZeVMxWkZTeGdZQ2xCVnpENHhuN1M5TW5KLUd5OWU?oc=5",
           "published": "2026-11-08T14:32:00+00:00",
           "source": "New York Post",
+          "related_articles": 2,
+          "sources": [
+            "New York Post",
+            "News24"
+          ]
+        },
+        {
+          "title": "Brit among the dead in Poland terror attack as police hailed as heroes - ITVX",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVU01NXMzMS1lSEhCM0dRcHVHNE1USV9oVENpcFFNeGhUdDUxOFotZGJkOWNTd0pDajFTc0xPYVNsYW5XeS1XbVZmdWhFOWFnNFFIRmx4NnpyWlFmYk5VOGhGeVlmRFExMEFnRVhHRG5FRDBQYTBiM0FpajkzUUszZW5GVDNVcVJhX0JuSXRidjRGaU5rb0FKSHBvcmxRN0pSeWVFNlVYVUYtWUVvU2hn?oc=5",
+          "published": "2026-11-08T22:53:17+00:00",
+          "source": "ITVX",
           "related_articles": 1,
           "sources": [
-            "New York Post"
+            "ITVX"
           ]
         },
         {
@@ -768,7 +852,7 @@
         },
         {
           "title": "Sweden charges man with planning IS terror attack on school - The Local Sweden",
-          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxObzFLWk5aMGxTR0F0NXNRT2Robk1fSHVSaWs2SGxHQVNGcEhtay15OUFRODQybFhkRkhoUzkydkpBdzdtN0pOM1NXRlQ4dFpmSjY5REluYjVxMVhzSi1fNEtrQnRUQ3A2YUV2R0VxaWhsdkRHZkhlR200VEZESjZOSjdGOS0wLTY3RUdVaE5XX19rbmt5VFFJMjR6S2Qwekk0Y2N1UU9XWlJaRDFGckhUeVktU25IUVZIV21lV0xiaDg0SWFLRENZWWhGUVpjM1BJMFhwUWJ1X19wRk1JWGpGN21WR2UwNUtrOTVZSG1TbjlBTDAyeVpNcE5XRXp5azBfQVVVWUlBR1I5TEVRVEFTWHk2eTR2TXNqRVo5YUZ4VmFIc01CRkp4MHZfWWdtSjVqdEZGc2NOV1ltZU1BWGNEVFRIaUhmNUdSWnhETEdGOG5ELXN1V01tU2NfcmVMSzczTkxaanN1UVFIdUlqLWJENk5JSWtCTlJtaTBTdmNBaGRkZjRyNWRvdXZQcjlaNWN4a25Wdnl2Z2tEVFB3?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPM1F1NzBXMDh6R1lWVWxkcGRzU0hVVjVyNnE3SDB6a3k4N0lUU2tzcmNQVDBtbjZYaXFreUZiblZuczd4cjZSVmV2bTZvQWJHaVdLbS0wT0c2YXdMcXBZM1JNR0xwRk1UeDU1d3NZT1hraDY2TnlNUU8zY3RNVkVNcmo4X3JZQ3pBem0yZFJKaXo4ek5hMU12alJ0dEFMS0w4SFctWDRKNXE0ektkeDF3Z25ibTJCaF9QUGRkVGxVU1pZUTdBY0ZqdzQ5anhhR1FhQlVpTEZoZEVWdGhwTVBCZnBJR2RYMjA4Q182UzhhNjhCcTFXandJY0psXzNtaTA4dUFIWFJiWFRROE9ERms4QUU0SjR6dmplM0QxSHhaVWlWdlp0NEotSWJBME95R3VQX1lneUpHUi01eW80LVlrQnZjd09VcVFJMENmN2VZS3ducFlhOERkVnZkWTdiZEdZZHVweTV4TVE4TTFhSkxZc2w0MGdsSGlUMEJjUUkyZmVIXzFqaThpRGhnTVVNV1pVOUk2eE94b1ZOV00z?oc=5",
           "published": "2026-11-08T08:55:15+00:00",
           "source": "The Local Sweden",
           "related_articles": 1,
@@ -824,7 +908,7 @@
           "related_articles": 2,
           "sources": [
             "Trending Now Sustainable Construction",
-            "The Sun"
+            "The Irish Sun"
           ]
         },
         {
@@ -858,34 +942,45 @@
           ]
         },
         {
-          "title": "How hero took down Poland 'terror attack' suspect who killed nine people - as Aussie student describes terrifying moment gunfire erupted in tourist hotspot: 'Bolted down the street' - Daily Mail",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2Zpc0pISjBKUHpYSDNWUUhvbWtTVm10RmhhWmpFYlItUDZIeUU5NmlCVi14Y0haejNJQ0w4UUhoNlFRREExdUdQTEJGZzdxVEtYMy1HOTdNbEYzbUVRRmdDVW1ZcEI3RS1BMnZZUUZ2V1YxTW9Nei1nb1M3cTZ3c0k0TkI5Z0FIb2VCX2paSG9OSVlGUWtqbE9kOFjSAaIBQVVfeXFMTmUxTGNMRUlUX1VaZUVVUHp0MmpXblhoc0I5U01kRmVsQXo4Tzd3UWFaR2c2U0xjWm9MQ0Fsdi1YckhlVTJ3enBaZXhMV0FQZVlLdEJfREFzRjFUOWw3Uk55b1V2X1hGWXBmVnlOc0hOZDlobElOVkZrc1Uwbm1qNkNYUC03SjFER1M4NHFYbGhOdl9MU1NVajk4NDlTQk1hR2h3?oc=5",
-          "published": "2026-11-07T23:06:00+00:00",
-          "source": "Daily Mail",
+          "title": "Brit tourists 'dived through shop door to escape gunman' as 6 killed under hail of bullets in Poland 'terror attack' - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaFhUZHN1RGRtMlVSVXJPNDNqNkZhRGhndFpkajgyRWF4VGVFRjBFLUVSVFhYekNyb2lxcjZCVGdTZmpTZXpyNUFQM0duUlNid1JoOS1KeWlsSmJLbWQxMDI3WDQtRXNUcEhCYXFWRHRZYk5ZWkxqY2ROMFpHLWstb0w3bEoydG8?oc=5",
+          "published": "2026-11-08T22:01:00+00:00",
+          "source": "The Sun",
           "related_articles": 1,
           "sources": [
-            "Daily Mail"
+            "The Sun"
           ]
         },
         {
-          "title": "Poland Declares National Mourning After Far-Right Terror Attack in Kraków Leaves Six Dead - SSBCrack",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcEdCYVBwTTg1V3FQYnZKZGpzVEFPR0ZmcjlFMkI1Y3RWMF9Lb3owcWxFZTZWbGZuMmJjSVF4Q3lfaGF0WHZrZWFPaXZ6ZHl2d0M2djVYVkxNdEVfWXppaWhHMVpVNUtuVlZnRzBsUkRzbkRSVHRnLWdncy1RYy1mWGxCb3FhbzdGUGN1Z0JmREhmRUU0UGtFQkhPeVUtUzI2Um9EWHVmNy1QdEY1bHpQT1Y0RW1TNjg?oc=5",
-          "published": "2026-11-08T14:51:13+00:00",
+          "title": "Poland Enters National Mourning After Deadly Terror Attack in Krakow - SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYmlWbmJsUjBYOG9GWEFvVG5qdERnZWpMcnllanpHZkVncmJtS1VxdmhCaEtteWRPUkJoUTQwRTVpcWFqTGZuMWg2OTAySXhTdS1XcURKam9Cb0RZMVpYQUZ6NmZHRGxsd09QSktXX2VsaldXd1pwY0ZGd2pYbGlad2VoMTRYM3lHR0ZfMHVac0VJVTEzZUlyNEtpZw?oc=5",
+          "published": "2026-11-08T18:15:16+00:00",
           "source": "SSBCrack",
-          "related_articles": 1,
+          "related_articles": 2,
           "sources": [
             "SSBCrack"
           ]
         }
       ],
-      "count": 16,
-      "raw_article_count": 17,
+      "count": 17,
+      "raw_article_count": 20,
       "count_is_sample": false
     },
     "nuclear": {
       "status": "ok",
       "error": null,
       "articles": [
+        {
+          "title": "Rubio says Trump’s war against Iran not ‘necessarily popular’ but needed to stop a nuclear threat - WTOP News",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkRnVVctZXUwN1dOcWg2ZjJpblVBakF6ZzBDaUZHbVJSUEVUek1mWjdLWFJxWmVtWnhTMUVhSUZYTkxQNmVsWVJDR1Ayc1c5SEpWUFIyMFVUNDdIelVsM29UTWVIaUxhZURBTDNmNlJ6bGt4QXVwd2dwSm8ydnh1SjdMNi1xbkc2SG1sN05HNnFycWxnSlJta1EyY2JXa0ZzME5RR0lGRDgxQ3BCNC02d2xKNTdnVEFtN0FudF9rMW9Ic2VjYWtUeA?oc=5",
+          "published": "2026-11-09T00:06:33+00:00",
+          "source": "WTOP News",
+          "related_articles": 2,
+          "sources": [
+            "WTOP News",
+            "The Hindu"
+          ]
+        },
         {
           "title": "At Suez War Memorial, Herzog Says Military Victory Is Not Enough, Katz Sounds Alarm Over Iran’s Nuclear Threat - The Media Line",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRjItWm5zUmhkc1FwYjhtakI0YzlpTVZGbGhRS3pJMVEwc29fb01HdlNKUEo5ZnZOSUJqYXBUSkhMQnZYck5RSm1ia0s1UnZDYVpUNmdUdlNZNlNLaFdqTTk5M0ZhMmNpeFNjbFJkdmdrU1hmVTBSRjgtT3JqZVNjbERWbEVJa2JVa2J3enVwQTJtX0xqYTkzd2loSWU5c19wRkx4WHNyQTNadkdHZVJmdFNZXzZpVW9lOU9yUWFNNlhwOUdLbzJBWHdVbFB3aW92MHRGd18xYl9VSzg?oc=5",
@@ -897,16 +992,6 @@
           ]
         },
         {
-          "title": "Katz urges unity in light of Iran nuclear threat at memorial for 1956 Suez War - The Times of Israel",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGUwWEZCTnVDb2YwMUdoSGF3M2ZrcmhVX0RMMzI5N3ZNWERybTQtZGpBaWRFbl9zZHEtaDFqdDcxM0VUWjlhbnhQbjIzc2ZtdjhrVXBjQTdXY1lLZGZLWWtEU29OT3ViZ0pCeVJrTDVnblo2ZUQ5TzJSQzVrNW1zcU80Y1hPdzJrX3M5SzBscWs3dGtLQW9OTDZZMkUySzZwSW9aV3B4enZyMFhpNDF6QTRKazN3MVMtRnZCNGNmMDZvZw?oc=5",
-          "published": "2026-11-08T10:07:33+00:00",
-          "source": "The Times of Israel",
-          "related_articles": 1,
-          "sources": [
-            "The Times of Israel"
-          ]
-        },
-        {
           "title": "iran-prepares-us-attack-distributes-iodine-pills-nuclear-threat-times-report-2026 Archives - TV ONE USA",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTdLT3dwVXdtcEVlOHpsejNDdmFEdFlRRllCVllWalJUaU1aRXR4cGQ2NUxPbDV5WXpSNDJ6cXVWaEc4NXJ1dnhrVi0yWUVIZFJLNWh2eFpNeTVYLUN3WHZ0TUctQVJ6STZIa3hmWjZzUm5TZDZGeS1Kd1llY0VBWGMzb3RwdENrQ0g3TGV6ajUzNEpDeTRFUjJyV0F6M0Q3OHE3UlltOEk2SkU?oc=5",
           "published": "2026-11-08T19:00:33+00:00",
@@ -914,6 +999,16 @@
           "related_articles": 1,
           "sources": [
             "TV ONE USA"
+          ]
+        },
+        {
+          "title": "Katz urges unity in light of Iran nuclear threat at memorial for 1956 Suez War - The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGUwWEZCTnVDb2YwMUdoSGF3M2ZrcmhVX0RMMzI5N3ZNWERybTQtZGpBaWRFbl9zZHEtaDFqdDcxM0VUWjlhbnhQbjIzc2ZtdjhrVXBjQTdXY1lLZGZLWWtEU29OT3ViZ0pCeVJrTDVnblo2ZUQ5TzJSQzVrNW1zcU80Y1hPdzJrX3M5SzBscWs3dGtLQW9OTDZZMkUySzZwSW9aV3B4enZyMFhpNDF6QTRKazN3MVMtRnZCNGNmMDZvZw?oc=5",
+          "published": "2026-11-08T10:07:33+00:00",
+          "source": "The Times of Israel",
+          "related_articles": 1,
+          "sources": [
+            "The Times of Israel"
           ]
         },
         {
@@ -937,26 +1032,6 @@
           ]
         },
         {
-          "title": "Japan holds nuclear disaster drill simulating Tomari plant accident - The Japan Times",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNemJsa0ZCdHVqdTRfcS1MT0NRNy05TG9obkhDZVEySHZaYVc2eElNSHVQQzJuMGFjUEhUNkNjN2g4NVZxLWxoMmNQc18yN1hrWFZlQ24xWkQwX25RNERud0wyMjlWYVZJVU94eXRJbWRwOHlLRXZEa3UtRllvU3Zna2Fzak5DajdTV19FdERoNzE?oc=5",
-          "published": "2026-11-08T03:13:00+00:00",
-          "source": "The Japan Times",
-          "related_articles": 1,
-          "sources": [
-            "The Japan Times"
-          ]
-        },
-        {
-          "title": "Ukraine Offers Italy Assistance Following the Cyberattack on Minister Tajani – Foreign Ministry - LIGA.net",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFg2azhPWHl3WXVIVWcxWndFMDlDNy1xalJ4aTFkWkFGRWRqRm9jYmdxcmxJSFQ3MHBwRHZfRWhVTGtpa0VfdGFJZU0yNzFaY1FpUWxfdVhDZVZLdGdyeVNuajJBcmJ1bGdFdWpLX0ppNGNIcGt1dmpQOW5pTEZMRFprdVlhNHQ2Q3BDVmxuT0p0TDE1NjM3d0FmVTNaU1pacFduMkFMLXcxTmM5MzBraW1B0gHSAUFVX3lxTFBZN3dBc2ttdy1sWW9Pbm95N25fTklfZ2x3ZU5FM19WOXlrcWx5d2RmWFFkSC1MTzIydGx3Y2JYNW9MZGQ3UHZLRFFaSVdqX0thVFFnTUVRdy1oTkNtYlRjenYtZzNvVktNM0pvWlZUeWxLX1ZmaW5SWnhzM2Y4RE1qSFl2QnhBcXRSblFlM0EyMHgyYklReTMtTEtHa3M1UFBJY2JPOE5SNEpxdjdSLWt0LThiY1otN25tS0UyVnZYUGZwRWJRT01lUFpwaGR1NVB2dw?oc=5",
-          "published": "2026-11-08T18:18:00+00:00",
-          "source": "LIGA.net",
-          "related_articles": 1,
-          "sources": [
-            "LIGA.net"
-          ]
-        },
-        {
           "title": "US-Israel tensions with Iran: Israel's Katz calls for unity amid Iran war, warns of nuclear threat - Mid-Day",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRWdIWFBIY3p0eW9Ed0twYnBxbVN3aE1IcFhacEIzNmw5WlB0TXlZanV4UWY1ME5mcFJLaWNxV0ZwOXkwVzRtT3hPRi1mN09JeXE1bUdaMm1OdmJRT2c4NlZBRGFQbTZILTF5ZUxpR2N5NzQtd2RBNWZGa2YwalNnd3ZCb09zeWRHTDZBd0JDaThza29SUGpiRDRXdmZfTnAzZG9nVnFFODFIeDhyUEROSURpMkVhZmtFWlR0NmRXcG1ZRDFpekRWeUhLZ2F5MUptamdsa2IzZTViTUpKMWFOVWZwV0M1UmJkOTV2Yndwbw?oc=5",
           "published": "2026-11-08T14:10:00+00:00",
@@ -975,46 +1050,16 @@
           "sources": [
             "The Sunday Guardian"
           ]
-        },
-        {
-          "title": "Netanyahu Calls for National Unity Government Amid Iran Tensions, Golan Demands 'Government of Change' - Lokmat Times",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONkRUOS1EczdFZnpYRDVfcWl6Qk13QUFfQUZqNHNPRkZFSHhBaWZTQ2FaWXlXTUpJQmNxWjlrU1JySy14Ui1iZkpjVDN5RldMM1ZZSWxxcERuUGdBMFhEUG56YzRCc09XT29wX0VKWDcwcHJCNjVGWkJ6bkxOMnlJTmp5Qkd0Skw1RThpc3JRX3JKZVlibUpUTmxNeUNiMndXNXlBeUJ3SHhnejhQaGgwS01IcGQ2RHdqYWQzX1BWOTF1cDMzLVhXMnU5bWRLMTl2WnRFWmNFRHhqakMzNVV2a1o4RTF4QdIB6wFBVV95cUxQc1VvenloZFM1RDZSQUtFMWR1OVZkUkVyNXYxQ210QTFBUGhrOWE1cU5VUzgxRndKTndUQUllRlNuNEdDamxLbTFMcGtWbmVHb1p5S3laczdrS0ZUUnF4bzFkcG5JMzdHcE9KRXNkMUdIbkk5NlBGRjRidFU2STd5OVRnbGdXbTdpeTB5aFJXLXc4c1E1bl8tdm44UTNqMGUyWkZsZWc1MkVCZXJJd1VPUU5WNi03c0xRSnpCSVNLVVlQa2dLaWRiWFo4NVFOT0ZvUnFJTHBObjRadUp2a1JnQVlRSzFlVFEwMG8w?oc=5",
-          "published": "2026-11-08T01:28:59+00:00",
-          "source": "Lokmat Times",
-          "related_articles": 1,
-          "sources": [
-            "Lokmat Times"
-          ]
-        },
-        {
-          "title": "Israeli President Herzog Tasks Eisenkot with Forming Government in Setback for Netanyahu - Breitbart News",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMm9DR1BkYWFmRlJ5a0k0ZUg0UV9TUFA4RmYzZ2VpVTlpSVItdWV4ak92N241eVRzWG5sX3dTa0dmcmJ3ZmxvaUxtN1hKc2hqQlozMlVtd1NMVGRzbW9RTjkza1lCT3NWSlltUlNlTWZBUVFLb2k1b0NsU0tBaDN1cTNwcExFMk9xYjVpXzhOdVJPOEl5bnkwV0xRQkVUaWtDOFlSVnVmNDNURUZXVU44Q2o4cEd6X1VZb09UdE5id0lZQm8xSDRVNGRsaXg1cFZDTXBZVW9B0gHWAUFVX3lxTE0yb0NHUGRhYWZGUnlrSTRlSDRRX1NQUDhGZjNnZWlVOWlJUi11ZXhqT3Y3bjV5VHNYbmxfd1NrR2ZyYndmbG9pTG03WEpzaGpCWjMyVW13U0xUZHNtb1FOOTNrWUJPc1ZKWW1SU2VNZkFRUUtvaTVvQ2xTS0FoM3VxM3BwTEUyT3FiNWlfOE51Uk84SXlueTBXTFFCRVRpa0M4WVJWdWY0M1RFRldVTjhDajhwR3pfVVlvT1R0TmJ3SVlCbzFINFU0ZGxpeDVwVkNNcFlVb0E?oc=5",
-          "published": "2026-11-07T23:40:24+00:00",
-          "source": "Breitbart News",
-          "related_articles": 1,
-          "sources": [
-            "Breitbart News"
-          ]
         }
       ],
-      "count": 11,
-      "raw_article_count": 11,
+      "count": 8,
+      "raw_article_count": 9,
       "count_is_sample": false
     },
     "nato": {
       "status": "ok",
       "error": null,
       "articles": [
-        {
-          "title": "ANRA advances NATO-tested counter-drone technology with airspace data for enhanced threat detection - Defense and Munitions",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGFLTjlGNHpHbGZKTHJiYUR1aUNoTUdteVJERDdaa01CUmFIWFZUWWM5REZfSE9VRkxxOWpTcFV4amNIYlBjV21rMG5Ub1FVVjdqeGJ1ZDlNS2FucS1VS3pUUXJVQVBHSVloLTNZSWdPanlvWWM2MDJwQjRrbVpWUU45NlhHb2E4Y0FtNEVHTlRqaU8teUVNNTR1QkxUa3JkR3MzNjF2Qkx3ZE1ZZFVtSGtvYVFNMVJhRGR3emxTaXNEd1ZnZGxvZVlrTmdUREhpM2ZrN05QX1o?oc=5",
-          "published": "2026-11-08T07:00:00+00:00",
-          "source": "Defense and Munitions",
-          "related_articles": 1,
-          "sources": [
-            "Defense and Munitions"
-          ]
-        },
         {
           "title": "Iran’s European Threat: Cognitive Warfare - Covert Operations and the Risk of NATO Escalation - https://debuglies.com",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWs4MHpib1Itakh6dTU3dWZ5MWwwT1JkM2hEQXBoQkQzYkpiOXlPcXk3cXFpSTBWUU9PLTRLOWM4c2pTS2kzd1ZvRjFJa1J1eFBIVXdtRHh6YVVCLUh4V1VRMUg4WU5JeFF1dTZpOXZDMXV1eVJZSlNCUTFTbjNBMWEybGNHUnFwWkhxX3ZjRXFqa0x3blg3dW01TXRENTg4MnpKX3NaY2FGRnRfckFMTnJoUGtOMDZDZTJKb2FDS18?oc=5",
@@ -1023,6 +1068,16 @@
           "related_articles": 1,
           "sources": [
             "https://debuglies.com"
+          ]
+        },
+        {
+          "title": "ANRA advances NATO-tested counter-drone technology with airspace data for enhanced threat detection - Defense and Munitions",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMGFLTjlGNHpHbGZKTHJiYUR1aUNoTUdteVJERDdaa01CUmFIWFZUWWM5REZfSE9VRkxxOWpTcFV4amNIYlBjV21rMG5Ub1FVVjdqeGJ1ZDlNS2FucS1VS3pUUXJVQVBHSVloLTNZSWdPanlvWWM2MDJwQjRrbVpWUU45NlhHb2E4Y0FtNEVHTlRqaU8teUVNNTR1QkxUa3JkR3MzNjF2Qkx3ZE1ZZFVtSGtvYVFNMVJhRGR3emxTaXNEd1ZnZGxvZVlrTmdUREhpM2ZrN05QX1o?oc=5",
+          "published": "2026-11-08T07:00:00+00:00",
+          "source": "Defense and Munitions",
+          "related_articles": 1,
+          "sources": [
+            "Defense and Munitions"
           ]
         },
         {
@@ -1056,13 +1111,14 @@
           ]
         },
         {
-          "title": "\"After the war, Zelenskyy and I will drink ourselves into a stupor at the top of the Alps\" — Rutte - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUdpV3dCMW8yTTZCRmRxN0ZRTThNMzVLcUhaVDR1QkpWU2ZrYVRRRnlhYjVmMDE4NGJRY3lUTGpHOW45YUd5NXFPeGEzV2o3VVp3NEQ0dFE0eldUVWtMbWRFejdUVXZaTm0wdVB2dmZTbjd4M2phcHVIclQ4UnBLWDNKWEZENFZxbkFHVGJDTUQ4YWRudWdlbTVNMmxmdU0yU1JMM2RhYzlHTmhjOEJN?oc=5",
-          "published": "2026-11-08T13:48:50+00:00",
-          "source": "UA.NEWS",
-          "related_articles": 1,
+          "title": "The bizarre Russian border city flooded with tourists but just 18 miles from NATO - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmQzdW5xazdNZFp1Q2tMNm56b1ExZ2hrOXgwN1J4RC1DQlRLSmtiOUx5LVlUUlM3YktMRnh1YmhxSWlhLUlEZWZ5S0JRcmpzR3pKbF82OEpkVDFQaTZrU3Z2eDlKc2xNQkR2Sm1Fb0NDTE5QcXpXTFJYMVQzM2o1c3o1MHRFUQ?oc=5",
+          "published": "2026-11-08T10:19:00+00:00",
+          "source": "AOL.com",
+          "related_articles": 2,
           "sources": [
-            "UA.NEWS"
+            "AOL.com",
+            "Daily Express"
           ]
         },
         {
@@ -1076,23 +1132,33 @@
           ]
         },
         {
-          "title": "NATO STO: Defense Research Guide - CASRAI",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1SbVRpdElPREV4Z0dPQ185a1NCaWw3UXdNR0g1NFhtNDR6ZEtnaXVKVHAtLXUxdjZZTlRIYTdIZHFyelZ6aW5MTVFn?oc=5",
-          "published": "2026-11-08T02:06:29+00:00",
-          "source": "CASRAI",
+          "title": "Trump took secret flight out of Turkey due to Iran threat, the Washington Post reports - Awani International",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzk3SkFTaXVKeEZHTG5sTUxEMmxZenpLemVreE1wR21jUWZEVHRoMEFhd0wtRkd2S2pnU2VrWkdQbFl3ZGZMNndoM1NhbGFzeFVNUk1KODUwTndVXzM5SGRlOVlaQWZ0QUpQWkFlN3A4ci00ZkF3WWZSMndxV3JhZUplM282X1U2QkltZjdZbFNhNUU1b1R1enhEQlc1OWJndEhxajlyWUlHci1EYmZXVXU3Mm5fZDI2TEZvWkNFWXFhUQ?oc=5",
+          "published": "2026-11-08T12:53:09+00:00",
+          "source": "Awani International",
           "related_articles": 1,
           "sources": [
-            "CASRAI"
+            "Awani International"
           ]
         },
         {
-          "title": "Iranian assassination threat forced Trump to fly secretly from Turkey: report - Roya News",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3hXU0d4cWc0RGk2cTBiYmp0enIycGJNN2NwNU1tMkRvWEliUE5MbnlJM1dCc2RKcEstS3I2UHdCel9Wd1RMSk4zNFVaQ014cXptMjQzRG9ITWFNTVZaYXJUSWFRQWZNX3lDWkpEQVV6QnAtSjgtOWlMeWhkQXNpcXhtcUhwVC1YNzhSdi1hOHVxUEN6Z0t5SWpBU3JnMHVNdVUzZmNZcVRMR2tEVDB3a1NCdw?oc=5",
-          "published": "2026-11-08T09:57:24+00:00",
-          "source": "Roya News",
+          "title": "‘There cannot be a weak link’: Latvian PM warns of Russian hybrid attacks - TVP World",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUGZVc1JRQ2M2RUVKbVN6TjVlb0ZuNXh0VHIyU3R5Z0xPN1dFSlVWLVBMUmhmQ01SZkh2dVh6RXdkR0dacGZ6eUJBS19VbjJXQ0RqTW41SWZkdE95ME03aFlWeWRWRGZuMG9DYlUxbVZjTWlQc3ZNSGlJYUEzMk1hbHZlbVB2cXc?oc=5",
+          "published": "2026-11-08T22:05:54+00:00",
+          "source": "TVP World",
           "related_articles": 1,
           "sources": [
-            "Roya News"
+            "TVP World"
+          ]
+        },
+        {
+          "title": "Donald Trump ‘hid in catering truck to board secret flight out of Turkey’ - BreakingNews.ie",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWFWTmJlSEpwYnl5dWZLT1o2SWpPV29qamIzZkJPS1pXVzlHMnlTQ0FhVU4tZ0VBdEpBcWNkNWxCQjBTOFdVS2RDWWVEdDZUZ29jTnI4Mmw5b2JDRmlXZDUyQW53YjJLbGpmanZ3MF9qSlZYbkMzQlYxSTdDWEhDam1sRFdiWDhvazNtaDl5TlgxWEt2MnlScURIME5JTnpQc1VCXzJMQkZjRUk1dnBWbWh3QmNVejNHdWc?oc=5",
+          "published": "2026-11-08T08:57:00+00:00",
+          "source": "BreakingNews.ie",
+          "related_articles": 1,
+          "sources": [
+            "BreakingNews.ie"
           ]
         },
         {
@@ -1106,6 +1172,26 @@
           ]
         },
         {
+          "title": "German bishops call on EU to play more active role in NATO - СПЖ",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWxORnkwc0UwZVhuYmtQMDl6bWdfTFI5MzRGeU1DVG5HWFpWVlR3eU1JeUxYQWFiN0pOUmY0U3psQ3RuZjd3OXA0OUtabjd6SXBWanBOZHZyT3R3UHQ5bXJydUI5cFB4d3dRZzZ0QnJJX3NwcG1xXzZBVWtReUJpa2N3dHNMYWYwYTBDVTVvLVA5dw?oc=5",
+          "published": "2026-11-08T11:41:56+00:00",
+          "source": "СПЖ",
+          "related_articles": 1,
+          "sources": [
+            "СПЖ"
+          ]
+        },
+        {
+          "title": "What next for Europe and why no ceasefire? - Counterfire",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3B1MFV2R0ptWnhYeG4yRFRhbFlBWElyNkFvWmJEUS1MYS1JMXJ3dkk5RC1jNnVOS21Yc1p5T1Iza1NncGxURWM1TmNzNVd6RldkUHFqb0hzSVV0WXdZWFF4VjNBNFFvMXZiNENUZTVfeVRhNjhONXNWZXl5a1FiaFpPNmU?oc=5",
+          "published": "2026-11-08T22:03:25+00:00",
+          "source": "Counterfire",
+          "related_articles": 1,
+          "sources": [
+            "Counterfire"
+          ]
+        },
+        {
           "title": "Russia vows to strike any foreign troops entering Ukraine - The Avenue Mail",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkNZaDF1NExnV3lsVV9EcUJxd0ZVbmhZZTEtSHdzcnI5eHdwcG00MEtUNy1jbjlNQXU1NmtCeEw1WjBiSDZFenlwNllNSHF3WF9YOGFNQ3BFREd0aTlYZEZrbTBVbWw5TEtBWkI1dW92LUxDTXFSY0RzYWs4U0pVZXRpcw?oc=5",
           "published": "2026-11-08T06:28:26+00:00",
@@ -1116,26 +1202,6 @@
           ]
         },
         {
-          "title": "Donald Trump ‘hid in catering truck to board secret flight out of Turkey’ - BreakingNews.ie",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWFWTmJlSEpwYnl5dWZLT1o2SWpPV29qamIzZkJPS1pXVzlHMnlTQ0FhVU4tZ0VBdEpBcWNkNWxCQjBTOFdVS2RDWWVEdDZUZ29jTnI4Mmw5b2JDRmlXZDUyQW53YjJLbGpmanZ3MF9qSlZYbkMzQlYxSTdDWEhDam1sRFdiWDhvazNtaDl5TlgxWEt2MnlScURIME5JTnpQc1VCXzJMQkZjRUk1dnBWbWh3QmNVejNHdWc?oc=5",
-          "published": "2026-11-08T03:05:48+00:00",
-          "source": "BreakingNews.ie",
-          "related_articles": 1,
-          "sources": [
-            "BreakingNews.ie"
-          ]
-        },
-        {
-          "title": "What next for Europe and why no ceasefire? - Counterfire",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3B1MFV2R0ptWnhYeG4yRFRhbFlBWElyNkFvWmJEUS1MYS1JMXJ3dkk5RC1jNnVOS21Yc1p5T1Iza1NncGxURWM1TmNzNVd6RldkUHFqb0hzSVV0WXdZWFF4VjNBNFFvMXZiNENUZTVfeVRhNjhONXNWZXl5a1FiaFpPNmU?oc=5",
-          "published": "2026-11-08T19:07:16+00:00",
-          "source": "Counterfire",
-          "related_articles": 1,
-          "sources": [
-            "Counterfire"
-          ]
-        },
-        {
           "title": "UK Rallies Northern Europe to Hunt Russian Submarines Across Three Strategic Seas - UNITED24 Media",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2NpMWlKNnFEMk5QdGtCMC12RFU0MktMZHFHRlJINHhWMXV3eS1FZWF5WXZaTDdsZHZjd0tWc3NPN2NXZS1wZVFEYVZYV2M4dVhmRHo4UHZsbVhQYlcyeVlkRUJnenN5azJ4NU1rc3FnZTZLM2VTRzRkdHhmQTRYeUUwUWNYeHpOZ2Z5RTNCa2VTc2gzYS1lLTNoNlFpR0JZc3ZGNTdIbENHRXJlaTZSRF8xUm9VbXRpZDhV?oc=5",
           "published": "2026-11-08T15:56:58+00:00",
@@ -1143,6 +1209,16 @@
           "related_articles": 1,
           "sources": [
             "UNITED24 Media"
+          ]
+        },
+        {
+          "title": "\"After the war, Zelenskyy and I will drink ourselves into a stupor at the top of the Alps\" — Rutte - UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUdpV3dCMW8yTTZCRmRxN0ZRTThNMzVLcUhaVDR1QkpWU2ZrYVRRRnlhYjVmMDE4NGJRY3lUTGpHOW45YUd5NXFPeGEzV2o3VVp3NEQ0dFE0eldUVWtMbWRFejdUVXZaTm0wdVB2dmZTbjd4M2phcHVIclQ4UnBLWDNKWEZENFZxbkFHVGJDTUQ4YWRudWdlbTVNMmxmdU0yU1JMM2RhYzlHTmhjOEJN?oc=5",
+          "published": "2026-11-08T13:48:50+00:00",
+          "source": "UA.NEWS",
+          "related_articles": 1,
+          "sources": [
+            "UA.NEWS"
           ]
         },
         {
@@ -1186,6 +1262,16 @@
           ]
         },
         {
+          "title": "Latvian State Security Service: Russia recruits criminals, China recruits academics / Article - LSM",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRWxtZUZJN2RSNkNBS2JpWEV1VjI5dEdsT253T0ZIMzdWcUZvLXpiZHFEWGFXbFAxQzRRSk13eHRlUnVmMGstZEJFY2VUdE5WN0dmeURfSFJNZ3lSX2UzTDVUWTZTeHBSYkstOUc1WlpWZU02dEpPRUpra2kyOTAwRElZYlJwZU1ZRkNRbVVKWVk4UVNwNWl1T1pVdFVSenhhWVE2aGRYMi0xeXNWbUlzTTJJaU9ZeWdKVVJYTGhOUzA1UVJRQXo0UDhwSUxRVmZGQTkxS25ibDlLZHc2?oc=5",
+          "published": "2026-11-08T10:28:30+00:00",
+          "source": "LSM",
+          "related_articles": 1,
+          "sources": [
+            "LSM"
+          ]
+        },
+        {
           "title": "Three in four Britons now see US as threat to world peace - UK Defence Journal",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjZOZmhJd1F5ZDlYbUhxT1lBOEdUbFhrajFFOGFBM05yQ3VQbG9YMGJDQkM4V001M2FhLWhaR3J3cFpVVklhcTNCQU1tc2xFQzVrUFIwcEdlSXUxNjFfY3Z0ZjFhM2JmRXRPNjIxZnl0SXVLbVRXSXRGdnl1YjhDLVIwRmxiNWhRWXFPdzR2RUlyQTZM?oc=5",
           "published": "2026-11-08T08:00:57+00:00",
@@ -1196,18 +1282,18 @@
           ]
         },
         {
-          "title": "The bizarre Russian border city flooded with tourists but just 18 miles from NATO - Daily Express",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekhiaUd0cDJ1bWtjN3V3Z21kdWxaT2pnejJTekI1ODVVUTVRWUFpX3QyWlp5REQ2bmQ3LUpYQ0c0MjZ2OUlBM2tIYVgyNmZURkRMUmdLcjd5S3pRTUZMb2lKeTI5U3N0b0VGcjRlRzhmblh0YmxXQlFyZDYwWjVGbF9wRzhjOHNHYmdMeFpNeS1aSkVIVlFzTGVn0gGfAUFVX3lxTFBzWko1ZXJnV2NiZVZ4NHVQb05ZY3ZlWFF0WHhPVFlKQWVXZHFDU3dNaE53RGlNNW9xNS1ULW5DNHNRYWQyVE1OQjltNUozdkZxeFJwbFN2WXZ0SlRWWnY2ZjZyb3RTZWYzb0lqNXMzWkxULWlkVTVKVlRVck5tTHlQWjFDb2pnQjVQd0xYX3pGUHpPcmYxMHZ3cXJNSVZzcw?oc=5",
-          "published": "2026-11-08T10:19:00+00:00",
-          "source": "Daily Express",
+          "title": "Anti-Russian naval group to expand in Atlantic and Arctic - FT - Big News Network.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcVNwUUF6WDM2MEVVSmNlLUNJeDVZTjhJcXJ1ZjRVM0l0T0xJZHhPaTB4Q0p2ZU5QczlGS0Z2dkE5eldpVWhxUExMalhuVmxqM0hYUmVBR3J4VHAzNTQ3ZVdrbElRU0dXWUFrbkVIMEp1VFpjRTJ4LVh0Rmpsdm1BSkNrb05nX25aejB5OFB1RGhhX3lrQkhMYWs2Q0tkV0tPSUd6eEZfMzhWQQ?oc=5",
+          "published": "2026-11-08T23:04:00+00:00",
+          "source": "Big News Network.com",
           "related_articles": 1,
           "sources": [
-            "Daily Express"
+            "Big News Network.com"
           ]
         }
       ],
-      "count": 20,
-      "raw_article_count": 20,
+      "count": 23,
+      "raw_article_count": 24,
       "count_is_sample": false
     },
     "cyber": {
@@ -1225,6 +1311,26 @@
           ]
         },
         {
+          "title": "Bernalillo negotiates after cyberattack freezes online billing - Albuquerque Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSk1FdVhONW5ieWhuNW1JX1BOSDdZbXUwNlhNTEt3TWpVTTFWT2VNTE9RTFZkTlFyR2J6ZGpWOThzRjN1ZUZ1bDRISnFyUm5HYXNCVWo5RS1zVFZBSFg4a2x5Y2FHenJQWjdDQ0dBOXlCLWZDR2Z6bjNPV3J3U3RUb0ZWUVZhTmlmSVFv?oc=5",
+          "published": "2026-11-08T23:03:01+00:00",
+          "source": "Albuquerque Journal",
+          "related_articles": 1,
+          "sources": [
+            "Albuquerque Journal"
+          ]
+        },
+        {
+          "title": "Giant Food parent Ahold had strong third quarter; says fourth will be different story due to cyberattack - ABC27",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaW16bFRCR24yTEZWeHF1V3l2bG04dFRqTzhXOW9YSnl0Z1g0SXN4ZEV0a3VuNm10SldsUU1XNm94cU1IOHloR29xNHFpZ3NvRjNjdktydTZHLVBRU0RQYWZhNGpQZXNQRXVkMlpuWG9iQWVKQ01EbE5XTExHcV84YWQ3NkRONmdNUmpOMlRkcmY3ZExNUktVbXdSa0ZsWlZjMEF3ZTVfdzd1TGhOQ0Noc3RxRk5GdWNaQ2J5Nzl6MGMtTUYteGNncTJ6VFFPcGtWV1dwdldLQzI?oc=5",
+          "published": "2026-11-08T22:31:33+00:00",
+          "source": "ABC27",
+          "related_articles": 1,
+          "sources": [
+            "ABC27"
+          ]
+        },
+        {
           "title": "Italy to raise cyberattack concerns at G7 foreign ministers meeting - Yahoo",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmMwMVkyM2FqaUJFT3hRaEMxY3l3bDJKOWZyZEdkbVFzN0hiSVJROVlUT2tqUnh2SEs2RVJPSFEtc3FLMEtmVjdGSVNzc2pvbmJwS0dCSUd4YUpXdWt4X3JKRm9IbHZkNHhkaUtVUXJ6engwWG1nVkFoR3pmNktRaFVLWmlTRWVsOWhhMkUya2hrT1dsVlVF?oc=5",
           "published": "2026-11-08T18:48:21+00:00",
@@ -1232,16 +1338,6 @@
           "related_articles": 1,
           "sources": [
             "Yahoo"
-          ]
-        },
-        {
-          "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department - Chicago Maroon",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWY0S3BLbnBxT3VMMzBFaU0wWTBYYWl0ZlF4N3dNby1iS2pMVE1QTFRGTGJZMlFHZ3RGcklEYXVBeURIYlZZbWZPQmhXLTZ4Z21DaFFSaXJ0OU54eGxnNTRMbU5rYXN6bnppWmVlc1FGMVcyRHJXUFlLSXlfb0U0b1JWMEdoNDlIUmpIZU9sMDA4VnBsOWFUVGh4YUE1c29Dbjd2bGUtbi1IbEVr?oc=5",
-          "published": "2026-11-08T02:20:04+00:00",
-          "source": "Chicago Maroon",
-          "related_articles": 1,
-          "sources": [
-            "Chicago Maroon"
           ]
         },
         {
@@ -1255,13 +1351,13 @@
           ]
         },
         {
-          "title": "Ukraine Offers Italy Assistance Following the Cyberattack on Minister Tajani – Foreign Ministry - LIGA.net",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHQtVEN2czNIZWctQy1OLVlCSks1VDRwRzVxWFU3UXN4WUpGczVyYXh1WFZSUlp0cWpQYndMWjFxdXdWZF9LSkRZYUpwbk1PdUdtbGxuZUZoTXU5NUVzVktmZHNLOVg5V2lVbjR0VE1vYlF1T3p0ZjFJNkpLYnlOTU9MX3FiNHVBUEpGSXFZNEVTdGtKd1pvMjFpaWVvVHIwblh2WjFkNFhqM3pQRjA4SThkTnJtTE15eGt0RTlvQXQ4RF9kUkQwamM4bjLSAdIBQVVfeXFMUFk3d0Fza213LWxZb09ub3k3bl9OSV9nbHdlTkUzX1Y5eWtxbHl3ZGZYUWRILUxPMjJ0bHdjYlg1b0xkZDdQdktEUVpJV2pfS2FUUWdNRVF3LWhOQ21iVGN6di1nM29WS00zSm9aVlR5bEtfVmZpblJaeHMzZjhETWpIWXZCeEFxdFJuUWUzQTIweDJiSVF5My1MS0drczVQUEljYk84TlI0SnF2N1Ita3QtOGJjWi03bm1LRTJWdlhQZnBFYlFPTWVQWnBoZHU1UHZ3?oc=5",
-          "published": "2026-11-08T18:18:00+00:00",
-          "source": "LIGA.net",
+          "title": "CNet IDs Disabled Following Cyberattack on Computer Science Department - Chicago Maroon",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWY0S3BLbnBxT3VMMzBFaU0wWTBYYWl0ZlF4N3dNby1iS2pMVE1QTFRGTGJZMlFHZ3RGcklEYXVBeURIYlZZbWZPQmhXLTZ4Z21DaFFSaXJ0OU54eGxnNTRMbU5rYXN6bnppWmVlc1FGMVcyRHJXUFlLSXlfb0U0b1JWMEdoNDlIUmpIZU9sMDA4VnBsOWFUVGh4YUE1c29Dbjd2bGUtbi1IbEVr?oc=5",
+          "published": "2026-11-08T02:20:04+00:00",
+          "source": "Chicago Maroon",
           "related_articles": 1,
           "sources": [
-            "LIGA.net"
+            "Chicago Maroon"
           ]
         },
         {
@@ -1272,6 +1368,16 @@
           "related_articles": 1,
           "sources": [
             "3DVF"
+          ]
+        },
+        {
+          "title": "Ukraine Offers Italy Assistance Following the Cyberattack on Minister Tajani – Foreign Ministry - LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbHQtVEN2czNIZWctQy1OLVlCSks1VDRwRzVxWFU3UXN4WUpGczVyYXh1WFZSUlp0cWpQYndMWjFxdXdWZF9LSkRZYUpwbk1PdUdtbGxuZUZoTXU5NUVzVktmZHNLOVg5V2lVbjR0VE1vYlF1T3p0ZjFJNkpLYnlOTU9MX3FiNHVBUEpGSXFZNEVTdGtKd1pvMjFpaWVvVHIwblh2WjFkNFhqM3pQRjA4SThkTnJtTE15eGt0RTlvQXQ4RF9kUkQwamM4bjLSAdIBQVVfeXFMUFk3d0Fza213LWxZb09ub3k3bl9OSV9nbHdlTkUzX1Y5eWtxbHl3ZGZYUWRILUxPMjJ0bHdjYlg1b0xkZDdQdktEUVpJV2pfS2FUUWdNRVF3LWhOQ21iVGN6di1nM29WS00zSm9aVlR5bEtfVmZpblJaeHMzZjhETWpIWXZCeEFxdFJuUWUzQTIweDJiSVF5My1MS0drczVQUEljYk84TlI0SnF2N1Ita3QtOGJjWi03bm1LRTJWdlhQZnBFYlFPTWVQWnBoZHU1UHZ3?oc=5",
+          "published": "2026-11-08T18:18:00+00:00",
+          "source": "LIGA.net",
+          "related_articles": 1,
+          "sources": [
+            "LIGA.net"
           ]
         },
         {
@@ -1296,6 +1402,16 @@
           ]
         },
         {
+          "title": "Cyberattacks expose key Thai industries to growing economic risks - Asia News Network",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcl9XMWoxWGRyb21obE1DVjB0alpmcHFlM1hzS0dFUlhMRi0yZWxvSC0xSDJQUkdvQy03OFFfcjhRQlVhLVUtWUNRckZTa3d0QmRWejdBQ1h6dG5CSDZ4emdhQXJKVGFSUUdsejVidkRvd0JTLUhudmctR3RqaXFRQjk2UDhJODRiYXNyblRkZDIzNkhLUVE?oc=5",
+          "published": "2026-11-09T01:59:58+00:00",
+          "source": "Asia News Network",
+          "related_articles": 1,
+          "sources": [
+            "Asia News Network"
+          ]
+        },
+        {
           "title": "Italy convenes security meeting amid cyberattack fears - Yeni Şafak English",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGdMYnhCSlY4MDdEdDdaeHN3N1M0dUhxVXNDWW4xRFNwNlg1eXNXU0tFWFRKYkRobFl1WDRWTDNYNEswenJfMDhpa1BhbVJ0YUVvaFlUQTN0OWk3eS1ieUJ6WGZOa1RobzRfb3VnWUFCYVRqQzZQNzFUSE5XQmRrYmZYbVptbE5vREc3NnRBZzNaWTN4ZXRaVQ?oc=5",
           "published": "2026-11-08T11:34:04+00:00",
@@ -1303,26 +1419,6 @@
           "related_articles": 1,
           "sources": [
             "Yeni Şafak English"
-          ]
-        },
-        {
-          "title": "Brenner Base Tunnel Cyberattack: 5 Key Facts [2026] - shattered.io",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbEpKWkc3LU4zTTBvZ3oybWgtaVd2ZDQzUUpzWW9vSmxiaW5YQ29qN0xSRnA3Y1IxZl9TQi1CN3VjNTR2SWVFVnFfTXlaekxjRzJDZl96RFo3TDdFSU5ha3Y5dEhRdHZnLVpIb2RianpJMndfemxfMUlReW1uM0pBM1ZvemRwSTFDMk8w?oc=5",
-          "published": "2026-11-07T23:45:46+00:00",
-          "source": "shattered.io",
-          "related_articles": 1,
-          "sources": [
-            "shattered.io"
-          ]
-        },
-        {
-          "title": "York University cyberattack: Government IDs, financial information stolen - TorontoToday.ca",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmk0NVRBal8tS3hKRjVUUGxLd2h0VjZvTDhxVUlPWFZaN2Q3RW14NGFIX0ZSZFAtTnNrSjEzcFpDbXhVWER1YktfbDVNTVA3cF8wR20xSElCemFxTmFKS2FwUmUwR2d1UnB0Yms5NUxrNEZYQm0wNGVhdWRUdTZZRExCeEo0UExOQTVYUXZjUXRnSlh5V1ZSSmt0VmZSbEwwbkJHbi15U0MxWGtTVDdSRlkzWEtTa1FvaVlrTnlLOGhfQQ?oc=5",
-          "published": "2026-11-08T00:22:07+00:00",
-          "source": "TorontoToday.ca",
-          "related_articles": 1,
-          "sources": [
-            "TorontoToday.ca"
           ]
         },
         {
@@ -1376,23 +1472,13 @@
           ]
         },
         {
-          "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses - The 420.in",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
-          "published": "2026-11-08T14:15:45+00:00",
-          "source": "The 420.in",
+          "title": "Who Gives A Crap data breach raises questions over third-party security risks - SmartCompany",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWxMSUlMdlNwQjFOT29ORTJoVFMyNkZrNk8wN0dPYl95dnBwUXBtcm83U2F5RkxiNGpoRXJ1Yy1tRlJGZ05vY2xXR2swb3JDWEtNSjg1aktrTUdONWdIWWNLNW1mdGNtUE1md2ZPcGY0QVdNV1RmZVBrYW9DQ3lQdFVESy1RZzhvUk9xWGl3Q1dKY01ENUNXQXBBSEhWU3hYUEhza1hpWlI2SWlsT3BZWTBZUWFpSEZmU09jTVdaSzFYYkppejdlQXlNRm0yUQ?oc=5",
+          "published": "2026-11-09T00:23:25+00:00",
+          "source": "SmartCompany",
           "related_articles": 1,
           "sources": [
-            "The 420.in"
-          ]
-        },
-        {
-          "title": "University Hospitals’ MyChart back online following cybersecurity incident - WKYC",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNYkxkNFdGdjM5NlpIZHlqT0pGc1BqUFRidktwbEs2UjFpRzQxc01OZWI0RUlqUXFCMUtNekZlQUZzNTlmX2ttRXpvblg0ZHl4VVB0aFBTSzdHN0xOMjNiTXk4YTdnWjJsbk1XY3U1WWJ2aG5YMldEWmlUcUJ0T1ZoYzI2UnE0X3EzMExQWWhBb2FPeERsU0tSRDBBX3V3OV91YzBMVjZtS3pRcmg2UmtscVhHRF9KSE45bzhTaTBBc2tqbVhUeDQ2WnRmcWhiTzJNS0ZLNnZNaU45VE85YWU4a0p0elFhVUI1Tk96S0ZMWlE2dl9VUXM4ay1B?oc=5",
-          "published": "2026-11-07T23:46:00+00:00",
-          "source": "WKYC",
-          "related_articles": 1,
-          "sources": [
-            "WKYC"
+            "SmartCompany"
           ]
         },
         {
@@ -1406,23 +1492,13 @@
           ]
         },
         {
-          "title": "Cyberattack halts fanfiction platform AO3 — Taipei Times - UA.NEWS",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdHo0LXZSOXAzY0pVakhxRGxYQmM5SWJtNGY3RjhpMmlhTnlpUTJ2dmlwVDB4VEFtLTJ1YzczbHJ5V0l1b2RvNFFTZlBMX0w2RnJncFQtbGNrY2daRUtxeHBLMUwwX01USHhzNHdGeUM5dmp3Qmo1U0xSbTFRWjVJM1lsR094NFBqV0hkeEc1M3pkX3hydk5hM1VzZw?oc=5",
-          "published": "2026-11-08T00:05:56+00:00",
-          "source": "UA.NEWS",
+          "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses - The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
+          "published": "2026-11-08T14:15:45+00:00",
+          "source": "The 420.in",
           "related_articles": 1,
           "sources": [
-            "UA.NEWS"
-          ]
-        },
-        {
-          "title": "Are hackers targeting America’s food supply? - WKRG",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03OFl0YTJsZnkxMkVnMVV1NGI3OVVQWFlUMTBHc282MEdjbldYX1BoTzhPU1hMY1M0eUdqSWxIc0ZQaDhIV21fbHVVMjAxRU11bHZkUWNtVkhRcFVsTDhwV09sd0x1REgyM09OVHNvYTgxczFTVGJqaERTY2Nod9IBfkFVX3lxTE03OFl0YTJsZnkxMkVnMVV1NGI3OVVQWFlUMTBHc282MEdjbldYX1BoTzhPU1hMY1M0eUdqSWxIc0ZQaDhIV21fbHVVMjAxRU11bHZkUWNtVkhRcFVsTDhwV09sd0x1REgyM09OVHNvYTgxczFTVGJqaERTY2Nodw?oc=5",
-          "published": "2026-11-08T02:02:00+00:00",
-          "source": "WKRG",
-          "related_articles": 1,
-          "sources": [
-            "WKRG"
+            "The 420.in"
           ]
         },
         {
@@ -1463,36 +1539,6 @@
           "related_articles": 1,
           "sources": [
             "The Indian Express"
-          ]
-        },
-        {
-          "title": "Cyberattacks expose key Thai industries to growing economic risks - Nation Thailand",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSHp6YVRqdmdRa05LMFhuSnFnR0Ita0wyTzk5aS1SR3pHU09MSzBfUDh0dk40NzBMc3JBZmpyZ09EYktncjZWUGJzODNkc3A3ejhRSzZVUXp0a3NyOEJGV1JVTGVaTGs?oc=5",
-          "published": "2026-11-08T09:15:00+00:00",
-          "source": "Nation Thailand",
-          "related_articles": 1,
-          "sources": [
-            "Nation Thailand"
-          ]
-        },
-        {
-          "title": "French blood banks hacked in latest cyberattack - Qatar Tribune",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUGxVTkZxWDM4QVVFWUV5VGJfTnlJeXdaV1ZZM2NXcjVjaVczZEJCbzRoY05pVFV1WnRfYlNJQ2hvamZlN2dGTWZORWNsQUtRMDg4LU5aVmxEZnF1V1dycWRucEpIaGV3RGhhVUNDODM3cTJEUnpZdkYya0NHdDlsTUlGUUlzSWQ2R3k0bkRmWVdtTmt0OVlsOVZpOEZkbWFvbzk0?oc=5",
-          "published": "2026-11-08T01:28:21+00:00",
-          "source": "Qatar Tribune",
-          "related_articles": 1,
-          "sources": [
-            "Qatar Tribune"
-          ]
-        },
-        {
-          "title": "Service disruptions at three Malaysian banks spark cyberattack fears - 联合早报",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhJVWdvamJMTDRWZ2k1QjAyMkVFMUFQanJOS2NUY0FVWnRNRlhURGpDS0FkOXVaNUY3TGt2VjJHZDhDZ1owb3ZOVFBycVlZcHRMdnJJRndZVEVFZnluRmp0eWRaT2xZdDNqNHdjNkJ6aGVRNmhfZHkyZXRGQWoweTBpUms4V0xjQU1xN2xsRE5VTG5kUGVOcnhsTXZ3MU10VzBZdFlB?oc=5",
-          "published": "2026-11-08T00:58:06+00:00",
-          "source": "联合早报",
-          "related_articles": 1,
-          "sources": [
-            "联合早报"
           ]
         },
         {
@@ -1586,16 +1632,6 @@
           ]
         },
         {
-          "title": "Binance Replaces CFO Days After Record $6.3 Billion Cyberattack - Sada Elbalad English",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcm9WSjVvRkt5T3hyclg3U2pta1RZUzRsUHM3enFKTFlZOXpYNjJlbEtjSmFHOVZCQmd6eW1KMENWQTJzQ0ZGTEdPbkpzbU96VndYNDFDUV9kWjBrWFhWR2FwWGZIOS02UzdfdmNBbHhrRVFnQzlCTm1aeU5hTUNEa00yVnA?oc=5",
-          "published": "2026-11-07T23:30:36+00:00",
-          "source": "Sada Elbalad English",
-          "related_articles": 1,
-          "sources": [
-            "Sada Elbalad English"
-          ]
-        },
-        {
           "title": "Meloni Blames Pro-Russia Hackers for Cyberattack - Political Wire",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTdnR08wSjNtdzBfMk9Uc3VuWVlicmk1aUVubExGTUs3WWxQclhMSXVWMHJoTjF3NDN2cWh2SFBmMThfdHhNRDl5eGJ5c24wc0lFUFRlekxOUmNhUHZaM1pXNFNqY2hlX2xLMmg5Vkt6T1BfS3JvT0tjOEQ1V2pqQV9xV21wR0R2S2NYMU5ZUQ?oc=5",
           "published": "2026-11-08T12:10:00+00:00",
@@ -1616,8 +1652,8 @@
           ]
         }
       ],
-      "count": 40,
-      "raw_article_count": 41,
+      "count": 35,
+      "raw_article_count": 36,
       "count_is_sample": false
     },
     "weather": {
