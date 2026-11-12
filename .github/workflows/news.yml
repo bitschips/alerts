@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * *'
-    timezone: 'Europe/Madrid'
+      timezone: 'Europe/Madrid'
 permissions:
   contents: write
 concurrency:
